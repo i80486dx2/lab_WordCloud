@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "3777ee4b-f91e-4d3d-bdb6-7becb947f730",
+        "type": "message",
+        "text": "<!channel> 計算社会科学ワークショップの案内です。聴講申し込みはまだ始まってませんが、Zoom開催で無料です。皆さんの研究が進んでいったときの、発表する場の一つになる研究会です。\n<https:\/\/css-japan.com\/2021\/01\/05\/cssj2021\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1609826915.082600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8dGY2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 計算社会科学ワークショップの案内です。聴講申し込みはまだ始まってませんが、Zoom開催で無料です。皆さんの研究が進んでいったときの、発表する場の一つになる研究会です。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/css-japan.com\/2021\/01\/05\/cssj2021\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609826915.082600",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1609840021.083100",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1609840020.082900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1609840021.083100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1609840021.083100",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "UKUKA65GU",
+                    "U01EVRBP38C"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

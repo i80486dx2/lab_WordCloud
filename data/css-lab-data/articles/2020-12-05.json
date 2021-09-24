@@ -1,0 +1,255 @@
+[
+    {
+        "client_msg_id": "ef7fe108-dd85-4df2-8c45-ded098def2d6",
+        "type": "message",
+        "text": "輪講の曜日と時間の調整しましょう。\n\n<@U01F42ZFA73> 君と<@U01EP839LHH> 君が17時以降だとよいとのことですが、それよりも早い時間で都合がよい曜日はありますか？<@UQ47R82RW> 君と<@UQ63J44BZ> 君は早い時間で空きそうな曜日はありますか？\n\n早い時間が難しそうなら17～19時にして曜日を決めましょう。水か金？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1607232062.013700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QWu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "輪講の曜日と時間の調整しましょう。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君と"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP839LHH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君が17時以降だとよいとのことですが、それよりも早い時間で都合がよい曜日はありますか？"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君と"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UQ63J44BZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君は早い時間で空きそうな曜日はありますか？\n\n早い時間が難しそうなら17～19時にして曜日を決めましょう。水か金？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196181.006900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "E01CE554-872F-457D-97EE-076FAFA78C83",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> \n早い時間帯であれば水、金曜日の午前が空いてます。\n遅い時間帯であれば水、金曜日の17時以降が、どちらも空いてます。",
+        "user": "U01F42ZFA73",
+        "ts": "1607233491.016300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eJS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n早い時間帯であれば水、金曜日の午前が空いてます。\n遅い時間帯であれば水、金曜日の17時以降が、どちらも空いてます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196181.006900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "29441d25-cd0a-40ed-b5a5-8a50ce6dbc4f",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>\n以下の日程であれば大丈夫です。\n月曜：いつでも\n火曜：16:10~\n水曜：9日(12月第2週)以外ならいつでも\n木曜：いつでも\n金曜：16:10~",
+        "user": "UQ47R82RW",
+        "ts": "1607235613.016500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ykm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n以下の日程であれば大丈夫です。\n月曜：いつでも\n火曜：16:10~\n水曜：9日(12月第2週)以外ならいつでも\n木曜：いつでも\n金曜：16:10~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196181.006900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "a2f7ac90-bea2-4a22-b7d1-d54c71ccf599",
+        "type": "message",
+        "text": "基本的に水曜以外は大丈夫です。就活の予定が不定期で入るのでそこを調節していただけると助かります。来週（7,10,11,12日）はいつでも大丈夫です。",
+        "user": "UQ63J44BZ",
+        "ts": "1607240767.016700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ga9b63d7dd65",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a9b63d7dd659a49eab0c736a1f46dfa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "蜂谷亜里珠",
+            "real_name": "蜂谷亜里珠",
+            "display_name": "alice",
+            "team": "TKS1Q2JUE",
+            "name": "s1260245",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M85g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "基本的に水曜以外は大丈夫です。就活の予定が不定期で入るのでそこを調節していただけると助かります。来週（7,10,11,12日）はいつでも大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196181.006900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "585C4A19-B8AB-49D6-BAEB-565CD5E34152",
+        "type": "message",
+        "text": "月曜日と木曜日以外ならば、午後は完全に空いています。\n月木は変わらず、17:00以降であれば空いています。",
+        "user": "U01EP839LHH",
+        "ts": "1607241241.018400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "10f8072a6377",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1728126443014_10f8072a637710127d26_72.png",
+            "first_name": "平川　令祐",
+            "real_name": "平川　令祐",
+            "display_name": "ryosuke",
+            "team": "TKS1Q2JUE",
+            "name": "s1270080",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01EP839LHH",
+            "ts": "1607264229.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Imn2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "月曜日と木曜日以外ならば、午後は完全に空いています。\n月木は変わらず、17:00以降であれば空いています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196181.006900",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

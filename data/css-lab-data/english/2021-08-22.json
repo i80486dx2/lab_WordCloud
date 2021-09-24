@@ -1,0 +1,868 @@
+[
+    {
+        "client_msg_id": "29acf1dc-3ac5-4479-90fa-41a39cab8324",
+        "type": "message",
+        "text": "What a kind lady you are !",
+        "user": "UKUKA65GU",
+        "ts": "1629646096.079800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What a kind lady you are !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629559978.075900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "6b572e26-17b3-40dd-9943-023bd62bb17e",
+        "type": "message",
+        "text": "`What a kind lady you are!`\nDeepL なんて優しい女性なんでしょう\nテンション的にも、感嘆文で書いてもいい気がしたので感嘆文で。でもちょっと意訳しすぎた？？",
+        "user": "UKUKA65GU",
+        "ts": "1629646326.080000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "875",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What a kind lady you are!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL なんて優しい女性なんでしょう\nテンション的にも、感嘆文で書いてもいい気がしたので感嘆文で。でもちょっと意訳しすぎた？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629559978.076000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "モロ。わしの一族を見ろ。みんな、小さくバカなりつつある。（乙事主\/もののけ姫）",
+        "user": "U01UMQH4W4B",
+        "ts": "1629646377.080200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629646377.080200",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1629698849.081700",
+        "reply_users": [
+            "UKUKA65GU",
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKUKA65GU",
+                "ts": "1629646628.080600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629650851.081000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1629698849.081700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1629698849.081700"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：モロ。わしの一族を見ろ。みんな、小さくバカなりつつある。",
+        "user": "U01UMQH4W4B",
+        "ts": "1629646377.080300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629646377.080300",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1629699111.081900",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKUKA65GU",
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1629646378.080400"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1629646814.080800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629650968.081200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1629699111.081900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1629699111.081900"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Moro, look at my clan. They are all becoming smaller and more stupid.",
+        "user": "U01UMQH4W4B",
+        "ts": "1629646378.080400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629646377.080300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "88196ddc-cd63-40cf-a0bf-3d08714a2d5d",
+        "type": "message",
+        "text": "Molo, look at my family. Everyone become smaller and fooler.",
+        "user": "UKUKA65GU",
+        "ts": "1629646628.080600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XxdP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Molo, look at my family. Everyone become smaller and fooler."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629646377.080200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "833da1c8-2a80-463b-bfe6-bbc99768a23d",
+        "type": "message",
+        "text": "`Molo, look at my family. Everyone become smaller and fooler.`\nDeepL: モロ、私の家族を見てください。みんな小さくなって、バカになった。\n\n一族→clan\nなるほど。そして「なりつつある」なら現在進行形だったか...",
+        "user": "UKUKA65GU",
+        "ts": "1629646814.080800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qhj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Molo, look at my family. Everyone become smaller and fooler.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: モロ、私の家族を見てください。みんな小さくなって、バカになった。\n\n一族→clan\nなるほど。そして「なりつつある」なら現在進行形だったか..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629646377.080300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "d5c80b42-4e42-4cfa-9f6a-91649b6c8aa6",
+        "type": "message",
+        "text": "Moro. Look at my tribe. They're getting smaller and dumber.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629650851.081000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LLy=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moro. Look at my tribe. They're getting smaller and dumber."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629646377.080200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "fc9b26e4-6c62-4da4-a6f7-2cc577359d6c",
+        "type": "message",
+        "text": "`Moro. Look at my tribe. They're getting smaller and dumber.`\nDeepL：モロです。私の部族を見てください。小さくなっているし、頭も悪くなっている。\n\n• 一族 = clan、部族 = tribe",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629650968.081200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YWBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moro. Look at my tribe. They're getting smaller and dumber.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：モロです。私の部族を見てください。小さくなっているし、頭も悪くなっている。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "一族 = clan、部族 = tribe"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629646377.080300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1629690518.081400",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1629690518.081400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1629738429.086800",
+        "reply_users": [
+            "U01F42ZFA73",
+            "UKH07E67M",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629695089.081500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1629699343.082200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629738429.086800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1629738429.086800",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「なぜネコを会社に連れてきたんですか？」\n「月曜日を乗り切るために、どうしてもコタロウが必要だったんです」\n\n#月曜日 <https:\/\/pbs.twimg.com\/media\/E9ckmnDVcAwfFMY.jpg>",
+                "ts": 1629690512,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1429651746297565185",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1429651746297565185>",
+                "text": "「なぜネコを会社に連れてきたんですか？」\n「月曜日を乗り切るために、どうしてもコタロウが必要だったんです」\n\n#月曜日 <https:\/\/pbs.twimg.com\/media\/E9ckmnDVcAwfFMY.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1429651746297565185",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E9ckmnDVcAwfFMY.jpg",
+                "image_width": 400,
+                "image_height": 550,
+                "image_bytes": 73821,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14133fa5-9f34-4f5b-8a2f-72d6373ff335",
+        "type": "message",
+        "text": "Why Did you bring your cat at our company?\nI necessarily needed Kotarou to spend Monday.",
+        "user": "U01F42ZFA73",
+        "ts": "1629695089.081500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qy6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why Did you bring your cat at our company?\nI necessarily needed Kotarou to spend Monday."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629690518.081400"
+    },
+    {
+        "client_msg_id": "3debba84-cdc1-4dcb-84e5-8d10544995d6",
+        "type": "message",
+        "text": "Moro. Look at our family. Everyone are becoming good fool little by little.",
+        "user": "UKH07E67M",
+        "ts": "1629698849.081700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moro. Look at our family. Everyone are becoming good fool little by little."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629646377.080200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "d1c1e7b0-af97-4a4f-b5b9-b0f17c1eb054",
+        "type": "message",
+        "text": "`Moro. Look at our family. Everyone are becoming good fool little by little.`\nモロです。私たちの家族を見てください。みんな少しずついいバカになっている。\n• clan! tribe! どっちも覚えてない...\n• everyoneは単数\n• Moro. Look at our family. Everyone is becoming a good fool little by little.\n• little by little思い出せてよかった\n• <https:\/\/eigobu.jp\/magazine\/silly-stupid-foolish> foolでも良さそう。というかstupidでいいのか。まあ状況が状況だろうし ",
+        "user": "UKH07E67M",
+        "ts": "1629699111.081900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WURK",
+                "title": "「バカ」を意味する「silly」「stupid」「foolish」の違い",
+                "title_link": "https:\/\/eigobu.jp\/magazine\/silly-stupid-foolish",
+                "text": "「silly」「stupid」「foolish」はどれも「バカ」という訳になってしまいますが、実際には微妙にニュアンスに違いがあります。特に「silly」は親しみを込めて使われることが多く、ネガティブにとらえてしまうと会話に誤解が生まれてしまいます。今回は「silly」「stupid」「foolish」の意味の違いと使い分けを解説します。",
+                "fallback": "WURK: 「バカ」を意味する「silly」「stupid」「foolish」の違い",
+                "image_url": "https:\/\/cdn.eigobu.jp\/images\/article\/ex\/9\/800x600.jpg",
+                "from_url": "https:\/\/eigobu.jp\/magazine\/silly-stupid-foolish",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 109413,
+                "id": 1,
+                "original_url": "https:\/\/eigobu.jp\/magazine\/silly-stupid-foolish"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KGSp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moro. Look at our family. Everyone are becoming good fool little by little.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nモロです。私たちの家族を見てください。みんな少しずついいバカになっている。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "clan! tribe! どっちも覚えてない..."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "everyoneは単数"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Moro. Look at our family. Everyone is becoming a good fool little by little."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "little by little思い出せてよかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eigobu.jp\/magazine\/silly-stupid-foolish"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " foolでも良さそう。というかstupidでいいのか。まあ状況が状況だろうし "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629646377.080300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "004fae7f-d16f-42c3-ab51-a9efb296540f",
+        "type": "message",
+        "text": "\"Why did you take a cat to this company?\" \"I needed Taro to finish Monday's work.\"",
+        "user": "UKH07E67M",
+        "ts": "1629699343.082200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dNw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Why did you take a cat to this company?\" \"I needed Taro to finish Monday's work.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629690518.081400"
+    },
+    {
+        "client_msg_id": "bd872e5a-fefe-4914-86ac-99fdf73b855b",
+        "type": "message",
+        "text": "反省会：「なぜネコを会社に連れてきたんですか？」\n「月曜日を乗り切るために、どうしてもコタロウが必要だったんです」",
+        "user": "UKH07E67M",
+        "ts": "1629699356.082500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：「なぜネコを会社に連れてきたんですか？」\n「月曜日を乗り切るために、どうしてもコタロウが必要だったんです」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629699356.082500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1629788483.088000",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1629699582.082600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629738583.087000"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629788483.088000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1629788483.088000"
+    },
+    {
+        "client_msg_id": "c299e601-13fa-4131-bbf5-5820b0178ff5",
+        "type": "message",
+        "text": "`\"Why did you take a cat to this company?\" \"I needed Taro to finish Monday's work.\"`\n\"なぜこの会社に猫を連れて行ったのか？\" \"月曜日の仕事を終わらせるために太郎が必要だった\"\n• aじゃねえええええせめてthe\n• bringは「持ってくる」takeは「持っていく」持っtakeで覚えたろうがァ\n•  badly ひどく　とても\n• definitely 絶対に　スペルいっつも忘れる...\n• 太郎じゃない小太郎だ\n• makeさせる。使えない、一度も...",
+        "user": "UKH07E67M",
+        "ts": "1629699582.082600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0qylZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Why did you take a cat to this company?\" \"I needed Taro to finish Monday's work.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\"なぜこの会社に猫を連れて行ったのか？\" \"月曜日の仕事を終わらせるために太郎が必要だった\"\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "aじゃねえええええせめてthe"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "bringは「持ってくる」takeは「持っていく」持っtakeで覚えたろうがァ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " badly ひどく　とても"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "definitely 絶対に　スペルいっつも忘れる..."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "太郎じゃない小太郎だ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "makeさせる。使えない、一度も..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629699356.082500",
+        "parent_user_id": "UKH07E67M"
+    }
+]

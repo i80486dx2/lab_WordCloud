@@ -1,0 +1,507 @@
+[
+    {
+        "client_msg_id": "46E2AE10-CB97-4C24-BDA8-06CBCAA65243",
+        "type": "message",
+        "text": "ひとつ自分のことで相談なんですが\n外部の院試のために、会計と経済学の文庫本(内容は入門の専門書チック)を読んでいて、200ページ3冊の内容を頭に叩き込みたいんですが...\n本を読んでその内容を効率的に頭に入れる術を知ってる方いたら教えて頂きたいです...:man-bowing::man-bowing::man-bowing:(あればコメントでお願いします)",
+        "user": "UKUKA65GU",
+        "ts": "1627529892.157400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rSsb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ひとつ自分のことで相談なんですが\n外部の院試のために、会計と経済学の文庫本(内容は入門の専門書チック)を読んでいて、200ページ3冊の内容を頭に叩き込みたいんですが...\n本を読んでその内容を効率的に頭に入れる術を知ってる方いたら教えて頂きたいです..."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(あればコメントでお願いします)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627529892.157400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1627539020.162200",
+        "reply_users": [
+            "UQ47R82RW",
+            "U01FP2RDV44",
+            "U01F42ZFA73",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1627530062.157500"
+            },
+            {
+                "user": "U01FP2RDV44",
+                "ts": "1627530376.157700"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1627531449.158100"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1627539020.162200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0d267ad2-5ec1-4b65-a366-1d1e7f6a36eb",
+        "type": "message",
+        "text": "問題集あるならそれを解いて知識が付いてるか確認するとか？\nないなら用語集みたいなの用意してランダムで覚えてるか確認するとか？\n結局テストしないと覚えないと思う。",
+        "user": "UQ47R82RW",
+        "ts": "1627530062.157500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kG\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "問題集あるならそれを解いて知識が付いてるか確認するとか？\nないなら用語集みたいなの用意してランダムで覚えてるか確認するとか？\n結局テストしないと覚えないと思う。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627529892.157400",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU",
+                    "U01EVRBP38C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e4ae560-2bd6-45d9-8756-59664d4415fc",
+        "type": "message",
+        "text": "個人的にやっていて効果あったやつはこの二つで、参考にしてるブログを貼ります。\n• マインドマップにまとめる\n• 単元ごとに自分でクイズを作る\n<https:\/\/yuchrszk.blogspot.com\/2020\/03\/10.html>\n<https:\/\/yuchrszk.blogspot.com\/2018\/04\/blog-post_3.html>",
+        "user": "U01FP2RDV44",
+        "ts": "1627530376.157700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01FP2RDV44",
+            "ts": "1627530387.000000"
+        },
+        "attachments": [
+            {
+                "title": "今週半ばの小ネタ：最強の勉強法とは？、10秒の休憩でスキルが身に付く、カフェインと問題解決力 | パレオな男",
+                "title_link": "https:\/\/yuchrszk.blogspot.com\/2020\/03\/10.html",
+                "text": "アラフォー男がアンチエイジングについて考えるブログです。",
+                "fallback": "今週半ばの小ネタ：最強の勉強法とは？、10秒の休憩でスキルが身に付く、カフェインと問題解決力 | パレオな男",
+                "thumb_url": "http:\/\/bloggerspice.appspot.com\/postimage\/https:\/\/yuchrszk.blogspot.com\/2020\/03\/10.html",
+                "from_url": "https:\/\/yuchrszk.blogspot.com\/2020\/03\/10.html",
+                "thumb_width": 590,
+                "thumb_height": 336,
+                "service_icon": "https:\/\/yuchrszk.blogspot.com\/favicon.ico",
+                "service_name": "yuchrszk.blogspot.com",
+                "id": 1,
+                "original_url": "https:\/\/yuchrszk.blogspot.com\/2020\/03\/10.html"
+            },
+            {
+                "title": "ごまんとある「勉強法」の中で本当に効いたテクニック６選 | パレオな男",
+                "title_link": "https:\/\/yuchrszk.blogspot.com\/2018\/04\/blog-post_3.html",
+                "text": "アラフォー男がアンチエイジングについて考えるブログです。",
+                "fallback": "ごまんとある「勉強法」の中で本当に効いたテクニック６選 | パレオな男",
+                "thumb_url": "http:\/\/bloggerspice.appspot.com\/postimage\/https:\/\/yuchrszk.blogspot.com\/2018\/04\/blog-post_3.html",
+                "from_url": "https:\/\/yuchrszk.blogspot.com\/2018\/04\/blog-post_3.html",
+                "thumb_width": 590,
+                "thumb_height": 336,
+                "service_icon": "https:\/\/yuchrszk.blogspot.com\/favicon.ico",
+                "service_name": "yuchrszk.blogspot.com",
+                "id": 2,
+                "original_url": "https:\/\/yuchrszk.blogspot.com\/2018\/04\/blog-post_3.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+k4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個人的にやっていて効果あったやつはこの二つで、参考にしてるブログを貼ります。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "マインドマップにまとめる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "単元ごとに自分でクイズを作る"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/yuchrszk.blogspot.com\/2020\/03\/10.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/yuchrszk.blogspot.com\/2018\/04\/blog-post_3.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627529892.157400",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13ed81dc-f23e-444b-a9d4-73546b94cabe",
+        "type": "message",
+        "text": "自分はatcoderの学習方法として、マインドマップを書いてます。特に以下のルールを設けてます。\n• 目的と手段だけを構成するような木を作る。\n• 左余白には前提条件、具体例や自分の仮説を書く。\n• 下余白にはコードの振る舞いを絵に書いて、絵を見ただけでコードを書けるようにする。\n• 完璧主義にならない（できなかったら、とりあえず諦める飛ばす）",
+        "user": "U01F42ZFA73",
+        "ts": "1627531449.158100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1627531494.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SG2e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分はatcoderの学習方法として、マインドマップを書いてます。特に以下のルールを設けてます。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "目的と手段だけを構成するような木を作る。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "左余白には前提条件、具体例や自分の仮説を書く。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "下余白にはコードの振る舞いを絵に書いて、絵を見ただけでコードを書けるようにする。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "完璧主義にならない（できなかったら、とりあえず諦める飛ばす）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627529892.157400",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1b4b56d-b3bd-4e40-af45-5b61f4d12f83",
+        "type": "message",
+        "text": "明日の昼まで\n<https:\/\/engineers.recruit-jinji.jp\/event\/recruit-job-for-student-2021-autumn\/?utm_source=ra190025&amp;utm_medium=agt&amp;utm_campaign=2021SPautumn>",
+        "user": "U01EPKVACEN",
+        "ts": "1627537130.158600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Engineering at Recruit",
+                "title": "RECRUIT Job for Student 2021 Autumn ~Engineer\/Data Specialist\/Product Growth~ | EVENT | Engineering at Recruit",
+                "title_link": "https:\/\/engineers.recruit-jinji.jp\/event\/recruit-job-for-student-2021-autumn\/?utm_source=ra190025&utm_medium=agt&utm_campaign=2021SPautumn",
+                "text": "〜オンライン説明会開催！〜 ・各コースの詳細が知りたい方は、下記リンク先から説明会の日程をご確認の上、ぜひご参加ください！▼各コース説明会日程はこちら＜全コース合同＞・7月28日（水）19:00〜20:00　※ご応募を締め切りました",
+                "fallback": "Engineering at Recruit: RECRUIT Job for Student 2021 Autumn ~Engineer\/Data Specialist\/Product Growth~ | EVENT | Engineering at Recruit",
+                "image_url": "https:\/\/engineers.recruit-jinji.jp\/wp-content\/uploads\/2021\/06\/recruit-job-for-student-2021-autumn.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "from_url": "https:\/\/engineers.recruit-jinji.jp\/event\/recruit-job-for-student-2021-autumn\/?utm_source=ra190025&utm_medium=agt&utm_campaign=2021SPautumn",
+                "image_bytes": 193845,
+                "service_icon": "https:\/\/engineers.recruit-jinji.jp\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/engineers.recruit-jinji.jp\/event\/recruit-job-for-student-2021-autumn\/?utm_source=ra190025&amp;utm_medium=agt&amp;utm_campaign=2021SPautumn"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wPIMV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の昼まで\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/engineers.recruit-jinji.jp\/event\/recruit-job-for-student-2021-autumn\/?utm_source=ra190025&utm_medium=agt&utm_campaign=2021SPautumn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8A2C5AF7-126C-4540-865E-035C46517B00",
+        "type": "message",
+        "text": "<@UQ47R82RW> <@U01FP2RDV44> <@U01F42ZFA73>\n回答ありがとう！用語集か確かに大事かも。過去問がなくて問題形式も一切分からなくてしんどいので、自分で問題作るのもありだなぁ。\nnaoya君の記事もあと見てみます！\nren君のもなるほどね、大きな紙とかに書き出してみてもわかりそう...色々やって見ます:muscle:\n完璧主義にならないってのは、ホント大事..",
+        "user": "UKUKA65GU",
+        "ts": "1627539020.162200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKUKA65GU",
+            "ts": "1627539064.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qSdGh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01FP2RDV44"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n回答ありがとう！用語集か確かに大事かも。過去問がなくて問題形式も一切分からなくてしんどいので、自分で問題作るのもありだなぁ。\nnaoya君の記事もあと見てみます！\nren君のもなるほどね、大きな紙とかに書き出してみてもわかりそう...色々やって見ます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n完璧主義にならないってのは、ホント大事.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627529892.157400",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01FP2RDV44",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

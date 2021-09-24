@@ -1,0 +1,267 @@
+[
+    {
+        "client_msg_id": "37af4ec0-b2f8-4335-a871-48973b7bec3d",
+        "type": "message",
+        "text": "<@U01KC41PR9C> もし何かご存知でしたらそのうち教えてください。データベースの選択肢としてGoogleだとBigQueryもあると思いますが、ElasticSearchと比べて何か使いやすさとか向き不向きとかあるんでしょうか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620996830.084200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1620996843.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5JGb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もし何かご存知でしたらそのうち教えてください。データベースの選択肢としてGoogleだとBigQueryもあると思いますが、ElasticSearchと比べて何か使いやすさとか向き不向きとかあるんでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996830.084200",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1621150450.092900",
+        "reply_users": [
+            "U01KC41PR9C",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1621009234.084400"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1621009525.084600"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1621009831.084800"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1621009947.085000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621150450.092900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621150450.092900"
+    },
+    {
+        "client_msg_id": "d0e79e42-aad0-4bac-964a-616a07db33b9",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> はい。BigQueryは他のビッグデータサービスと比較して安価です。\n1TBのデータを1か月保有した場合、*$*20程度しかかかりません。\nまた、他のデータベースよりもストレージや構成の変更が容易です。",
+        "user": "U01KC41PR9C",
+        "ts": "1621009234.084400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ajAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " はい。BigQueryは他のビッグデータサービスと比較して安価です。\n1TBのデータを1か月保有した場合、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "$",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "20程度しかかかりません。\nまた、他のデータベースよりもストレージや構成の変更が容易です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996830.084200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "7545ee8f-2fee-446c-bec7-b9146647b929",
+        "type": "message",
+        "text": "しかし、安価な反面、スキャンデータ量での課金が発生します。1TBのスキャンで$5程かかりますので、現在行っている「月・日毎の集計」毎に$0.05がかかる計算です。\n計算結果のキャッシュ等の仕組みがある可能性はありますが、そこは調査不足です。",
+        "user": "U01KC41PR9C",
+        "ts": "1621009525.084600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qwFy3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しかし、安価な反面、スキャンデータ量での課金が発生します。1TBのスキャンで$5程かかりますので、現在行っている「月・日毎の集計」毎に$0.05がかかる計算です。\n計算結果のキャッシュ等の仕組みがある可能性はありますが、そこは調査不足です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996830.084200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "c62b64dc-6e7b-4fa4-907c-e5f145bbd990",
+        "type": "message",
+        "text": "クエリ毎の課金に加え、自分がElasticsearchと集計速度を比較した際はElasticsearchの方が早かったです。\nBigQueryも格納形式やクエリのチューニングを行えばElasticsearchを上回る可能性がありますが、Elasticsearchの方が直感的にクエリを書けます。",
+        "user": "U01KC41PR9C",
+        "ts": "1621009831.084800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fuuO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "クエリ毎の課金に加え、自分がElasticsearchと集計速度を比較した際はElasticsearchの方が早かったです。\nBigQueryも格納形式やクエリのチューニングを行えばElasticsearchを上回る可能性がありますが、Elasticsearchの方が直感的にクエリを書けます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996830.084200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "8b9bdf58-d8a7-4a7a-a9b1-198179b725e7",
+        "type": "message",
+        "text": "しかしながら、これは「データが増加しない」事が前提の話でしたので、スケールアップがしやすい*BigQueryへ移行するのもあり*だと思います。\n連投失礼しました。",
+        "user": "U01KC41PR9C",
+        "ts": "1621009947.085000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dpK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しかしながら、これは「データが増加しない」事が前提の話でしたので、スケールアップがしやすい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "BigQueryへ移行するのもあり",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "だと思います。\n連投失礼しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996830.084200",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

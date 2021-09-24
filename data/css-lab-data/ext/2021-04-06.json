@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617763855.030800",
+        "user": "U016X0FK7FB",
+        "text": "<@U016X0FK7FB> has joined the channel",
+        "team": "TKS1Q2JUE"
+    },
+    {
+        "bot_id": "B0163K2E5NK",
+        "type": "message",
+        "text": "This content can't be displayed.",
+        "user": "U016X0FK7FB",
+        "ts": "1617763875.030900",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B0163K2E5NK",
+            "deleted": false,
+            "name": "BirthdayBot",
+            "updated": 1593844121,
+            "app_id": "A0QAZV90X",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "z2\/Z\/",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "Hey team!\n\nMy name is BirthdayBot and I’ve been given the best position in the company: CEO of birthday wishes!\nI keep the team informed about upcoming birthdays and when the special day arrives, I share a fun birthday wish right here in this channel.\nI look forward to celebrating many birthdays to come.\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "6cLl",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "set_birthday",
+                        "text": {
+                            "type": "plain_text",
+                            "text": ":birthday: Add birthday",
+                            "emoji": true
+                        },
+                        "value": "channel"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "open_user_reminders",
+                        "text": {
+                            "type": "plain_text",
+                            "text": ":bell: Manage reminders",
+                            "emoji": true
+                        }
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "3aDO",
+                        "text": {
+                            "type": "plain_text",
+                            "text": ":world_map: Explore",
+                            "emoji": true
+                        },
+                        "url": "slack:\/\/app?id=A0QAZV90X&team=TKS1Q2JUE"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44389d57-bb01-4844-b098-19582503de57",
+        "type": "message",
+        "text": "最近の動画画像共有\n<https:\/\/drive.google.com\/drive\/folders\/1L-48ui4AOzYHDLi4QZn-YpYcV-aIPGar?usp=sharing>",
+        "user": "UKH07E67M",
+        "ts": "1617773749.031200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ds1xc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最近の動画画像共有\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1L-48ui4AOzYHDLi4QZn-YpYcV-aIPGar?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617773749.031200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617873243.031700",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617873243.031700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617873243.031700",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

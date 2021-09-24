@@ -1,0 +1,1085 @@
+[
+    {
+        "type": "message",
+        "text": "目的\n• グラフが下降する、急降下する原因を示す。\n目標\n• 左にmaniの分布がある時、平均より左側のagentにもmating確率があることを示す。\n• mating時、平均より下側のagentのmating差分と、上側のmating差分をグラフに出し、実測値としても有利であることを示す。\n• Productの関係性を交えた時、距離が短くなればなるほど右側のagentが優勢であり、距離が長ければ長いほど左側のagentが優勢であることを示す。\n前提\n• pieT.gifは、親がmatingをするとき、閾値内でのmating可能かどうかを調べたもの\n• codistT.gifは、N世代の親とmatingが実際に可能であったN世代の親から生まれる可能性のあるN+1世代の子供に関するヒストグラムを重ねたもの。\n• codistP.gifは、N世代のProductと実際に買われてN+1世代に繋がるであろうProductのヒストグラムを重ねたもの。\n• dist_diffT.pngは、codistT.gifの余分な部分を足したものを棒グラフに直したもの。\n• dist_diffP.pngは、codistP.gifの余分な部分を足したものを棒グラフに直したもの。\n• 世代680を初期条件とする。\n• 下降には、周期があり、それぞれ激減期-&gt;不安定期-&gt;安定期とする。\n結果\npieT.gifから\n• gif内にある世代では、左側のagentの方がmatingしやすいことがわかる（実際にmatingはしてないので注意）\n• 曲線が安定する時、割合が逆転するようになった（図には載せてないので注意）\ncodistP.gifから\n• codistの平均（青線）の移動を見た時、0.18に近づいた瞬間に急降下が起きている\n• 急降下が終わった後、青線は左にずれていく\n• この流れが周期的に出現する\ndist_diffT.pngから\n• （不安定期）680世代から750世代にかけて、左側のagentの面積と右側のagentの面積の大小が入れ替わる\n• （安定期）760世代から850世代にかけて、右側のagentのmating面積の方が、左側のagentのmating面積より大きい\n• （激減期）860世代から1050世代にかけて、左側のagentのmating面積が、右側のmating面積より大きい\n• この流れが周期的に出現する\ndist_diffP.pngから\n• 850世代から950世代にかけて、右側のproductのbuying面積が、左側のproductのbuying面積より大きい\n• それ以外は、左側のproductのbuying面積が、右側のproductのbuying面積より大きい\n結果の手順\npieT.gif\n• trueの平均をとる\n• 平均を境目に、左側と右側のグループに分ける\n• 各agentが左右に0.2伸ばした時にmatingができるmaniの値を持つagentがいたら0.01*mani_hist[i]\ncodistT.gif\n• N世代の親のヒストグラムを作る\n• N+1世代に生まれるかもしれない子供のヒストグラムを作る\n• それらのヒストグラムを重ねるように棒グラフを作成する\ncodistP.gif\n• codistT.gifと同様\ndist_diffT.gif\n• N世代の親の確率分布を作る(Aとする)\n• N+1世代に生まれるかもしれない子供の確率分布を作る(Bとする)\n• trueの平均をとる\n• 平均を境目に左側と右側のグループに分ける\n• 左側のグループでどれだけmatingができたかを、各外向性に対してB-Aする。そして、その結果の総和を出す。\n• 右側のグループでどれだけmatingができたかを、各外向性に対してB-Aする。そして、その結果の総和を出す。\n• 境目におけるグループ分けは、res=平均*100)int(平均*100)を出す。そして、左側にはres*true_hist[average]、右側には(1-res)*true_hist[average]をしたものを足しておく。\ndist_diffP.gif\n• dist_diffTと同様\n最後にgifを載せます",
+        "files": [
+            {
+                "id": "F02CXP1EDPV",
+                "created": 1630420978,
+                "timestamp": 1630420978,
+                "name": "pieT.gif",
+                "title": "pieT.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 519147,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CXP1EDPV\/piet.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CXP1EDPV\/download\/piet.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP1EDPV-0f168be2c2\/piet_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP1EDPV-0f168be2c2\/piet_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP1EDPV-0f168be2c2\/piet_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP1EDPV-0f168be2c2\/piet_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP1EDPV-0f168be2c2\/piet_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP1EDPV-0f168be2c2\/piet_360.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP1EDPV-0f168be2c2\/piet_480.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 640,
+                "original_h": 480,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP1EDPV-0f168be2c2\/piet_deanimate.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP1EDPV-0f168be2c2\/piet_deanimate_gif.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_tiny": "AwAkADDTooqOeUQwtIewoSvoApbbyzqB7jFCuG5WRWx6c1hyyvK5Z2yf5U1WZGDKSCO4rp9hpuK5vI+4D3p9QWc\/nwhj94cGp652rOzGFVtQUtaPjtg1ZoIyMGiLs7gc+q7j7U\/YvpV+Ww5zEQB6GkSwbOXIx6L1p1Ks5PTQ6IKnGOo\/Tk2xMccE1cpFUIoVRgClqdephJpu6CiiigQUUUUAFFFFAH\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F02CXP1EDPV\/piet.gif",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02CXP1EDPV-6d58162c4f",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02CXP2SZ5H",
+                "created": 1630420995,
+                "timestamp": 1630420995,
+                "name": "codistT.gif",
+                "title": "codistT.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 1441259,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CXP2SZ5H\/codistt.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CXP2SZ5H\/download\/codistt.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP2SZ5H-8d3444a8ae\/codistt_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP2SZ5H-8d3444a8ae\/codistt_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP2SZ5H-8d3444a8ae\/codistt_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP2SZ5H-8d3444a8ae\/codistt_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP2SZ5H-8d3444a8ae\/codistt_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP2SZ5H-8d3444a8ae\/codistt_360.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP2SZ5H-8d3444a8ae\/codistt_480.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 640,
+                "original_h": 480,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP2SZ5H-8d3444a8ae\/codistt_deanimate.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXP2SZ5H-8d3444a8ae\/codistt_deanimate_gif.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_tiny": "AwAkADDSJxz2pu\/\/APXSnB7\/AIUbR6UAHzeo\/Kj5vUflS0UAJu2kAkZJ4pwNV52Cyw5\/vVOKBidO3eloP1ooEFFFFAFS7YCaLPbk1bFULxgZ+OwxV9SCMjpQU9kIwyKZs9zUh6U2gkYRg9TQBk9TSt1pF6igBdg9TT0GBSU4dKAP\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F02CXP2SZ5H\/codistt.gif",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02CXP2SZ5H-3d9e4fada8",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02CXPDJ210",
+                "created": 1630421017,
+                "timestamp": 1630421017,
+                "name": "codistP.gif",
+                "title": "codistP.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 1487650,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CXPDJ210\/codistp.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CXPDJ210\/download\/codistp.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXPDJ210-1fdd55d798\/codistp_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXPDJ210-1fdd55d798\/codistp_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXPDJ210-1fdd55d798\/codistp_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXPDJ210-1fdd55d798\/codistp_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXPDJ210-1fdd55d798\/codistp_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXPDJ210-1fdd55d798\/codistp_360.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXPDJ210-1fdd55d798\/codistp_480.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 640,
+                "original_h": 480,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXPDJ210-1fdd55d798\/codistp_deanimate.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CXPDJ210-1fdd55d798\/codistp_deanimate_gif.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_tiny": "AwAkADDSJ9qQPuLAdV60p+tUrSVjMwPO7kmgaV0XPm9R+VHzeo\/KlooEND8Dv704HNJtHpSgY6UAMmfy4y2M4rOhYpKpU4OcVeu\/+PdufTj8azu9BrBaGvRUVtIHiXnkDBzUtBkFHej8aB1oARhxSYpzdKbQAYoxRRQAYpw6U2nDpQB\/\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F02CXPDJ210\/codistp.gif",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02CXPDJ210-58c43127cb",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02D0D4ACKV",
+                "created": 1630464852,
+                "timestamp": 1630464852,
+                "name": "dist_diffT.png",
+                "title": "dist_diffT.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 47133,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": true,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02D0D4ACKV\/dist_difft.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02D0D4ACKV\/download\/dist_difft.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D0D4ACKV-3c2c1fc1e2\/dist_difft_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D0D4ACKV-3c2c1fc1e2\/dist_difft_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D0D4ACKV-3c2c1fc1e2\/dist_difft_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D0D4ACKV-3c2c1fc1e2\/dist_difft_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D0D4ACKV-3c2c1fc1e2\/dist_difft_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 640,
+                "original_h": 480,
+                "thumb_tiny": "AwAkADDSzzS800\/e\/wDrUuaAEw3qPyow3qPyp2aTNABkgc0KcjNGeKBQAH73ejrSH73b86dQAnSg0tFADcGnd6KQUAKRmkwPSlooATA9KNo446UtFACbR6UoAHSiigD\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F02D0D4ACKV\/dist_difft.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02D0D4ACKV-5097d833c5",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02D0DB5DK4",
+                "created": 1630464855,
+                "timestamp": 1630464855,
+                "name": "dist_diffP.png",
+                "title": "dist_diffP.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 51271,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02D0DB5DK4\/dist_diffp.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02D0DB5DK4\/download\/dist_diffp.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D0DB5DK4-f017136cab\/dist_diffp_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D0DB5DK4-f017136cab\/dist_diffp_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D0DB5DK4-f017136cab\/dist_diffp_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D0DB5DK4-f017136cab\/dist_diffp_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D0DB5DK4-f017136cab\/dist_diffp_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 640,
+                "original_h": 480,
+                "thumb_tiny": "AwAkADDSJ5x3peaQ0hOM0AGG9R+VGG9R+VKDQTQAc+1LSZpe9ACHr1\/CmnoacevT8aKAEA5oNLQDn8KACgUUvegAIyKTA9KWigBMD0o2jjjpS0UAJtHpSgAdKKKAP\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F02D0DB5DK4\/dist_diffp.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02D0DB5DK4-46594a1d0b",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02DQ2WFWAC",
+                "created": 1630465302,
+                "timestamp": 1630465302,
+                "name": "Extraversion.png",
+                "title": "Extraversion.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 59518,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02DQ2WFWAC\/extraversion.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02DQ2WFWAC\/download\/extraversion.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DQ2WFWAC-e022b10a97\/extraversion_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DQ2WFWAC-e022b10a97\/extraversion_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DQ2WFWAC-e022b10a97\/extraversion_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DQ2WFWAC-e022b10a97\/extraversion_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DQ2WFWAC-e022b10a97\/extraversion_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 640,
+                "original_h": 480,
+                "thumb_tiny": "AwAkADDTNN+b1H5UE++KMt7H8aADDeo\/KjDeo\/KlyfT9aTcPpQAhLDuPypynIpMqe4pR1oATv+NLgegoY80m72NAC4Hv+dGD60bvrSbvY0ALz7UDqeAKTd7GlByTQApGaTA596WigBMc5ox0paQ9RQAY4\/GgdTR2\/Gl7mgD\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F02DQ2WFWAC\/extraversion.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02DQ2WFWAC-d0ecfcfea7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8sk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "目的\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "グラフが下降する、急降下する原因を示す。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n目標\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "左にmaniの分布がある時、平均より左側のagentにもmating確率があることを示す。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "mating時、平均より下側のagentのmating差分と、上側のmating差分をグラフに出し、実測値としても有利であることを示す。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Productの関係性を交えた時、距離が短くなればなるほど右側のagentが優勢であり、距離が長ければ長いほど左側のagentが優勢であることを示す。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n前提\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pieT.gifは、親がmatingをするとき、閾値内でのmating可能かどうかを調べたもの"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "codistT.gifは、N世代の親とmatingが実際に可能であったN世代の親から生まれる可能性のあるN+1世代の子供に関するヒストグラムを重ねたもの。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "codistP.gifは、N世代のProductと実際に買われてN+1世代に繋がるであろうProductのヒストグラムを重ねたもの。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dist_diffT.pngは、codistT.gifの余分な部分を足したものを棒グラフに直したもの。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dist_diffP.pngは、codistP.gifの余分な部分を足したものを棒グラフに直したもの。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "世代680を初期条件とする。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "下降には、周期があり、それぞれ激減期->不安定期->安定期とする。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n結果\npieT.gifから\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "gif内にある世代では、左側のagentの方がmatingしやすいことがわかる（実際にmatingはしてないので注意）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "曲線が安定する時、割合が逆転するようになった（図には載せてないので注意）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\ncodistP.gifから\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "codistの平均（青線）の移動を見た時、0.18に近づいた瞬間に急降下が起きている"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "急降下が終わった後、青線は左にずれていく"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "この流れが周期的に出現する"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\ndist_diffT.pngから\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "（不安定期）680世代から750世代にかけて、左側のagentの面積と右側のagentの面積の大小が入れ替わる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "（安定期）760世代から850世代にかけて、右側のagentのmating面積の方が、左側のagentのmating面積より大きい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "（激減期）860世代から1050世代にかけて、左側のagentのmating面積が、右側のmating面積より大きい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "この流れが周期的に出現する"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\ndist_diffP.pngから\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "850世代から950世代にかけて、右側のproductのbuying面積が、左側のproductのbuying面積より大きい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "それ以外は、左側のproductのbuying面積が、右側のproductのbuying面積より大きい"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n結果の手順\npieT.gif\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "trueの平均をとる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "平均を境目に、左側と右側のグループに分ける"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各agentが左右に0.2伸ばした時にmatingができるmaniの値を持つagentがいたら0.01*mani_hist[i]"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\ncodistT.gif\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "N世代の親のヒストグラムを作る"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "N+1世代に生まれるかもしれない子供のヒストグラムを作る"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "それらのヒストグラムを重ねるように棒グラフを作成する"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\ncodistP.gif\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "codistT.gifと同様"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\ndist_diffT.gif\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "N世代の親の確率分布を作る(Aとする)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "N+1世代に生まれるかもしれない子供の確率分布を作る(Bとする)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "trueの平均をとる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "平均を境目に左側と右側のグループに分ける"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "左側のグループでどれだけmatingができたかを、各外向性に対してB-Aする。そして、その結果の総和を出す。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "右側のグループでどれだけmatingができたかを、各外向性に対してB-Aする。そして、その結果の総和を出す。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "境目におけるグループ分けは、res=平均*100)int(平均*100)を出す。そして、左側にはres*true_hist[average]、右側には(1-res)*true_hist[average]をしたものを足しておく。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\ndist_diffP.gif\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dist_diffTと同様"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n最後にgifを載せます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01F42ZFA73",
+        "ts": "1630466959.079200",
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1630468631.000000"
+        },
+        "thread_ts": "1630466959.079200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1630467913.080700",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1630467059.080500"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1630467913.080700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630467913.080700"
+    },
+    {
+        "client_msg_id": "c4e40464-2b5b-417d-a5b9-15dfef6d1e5f",
+        "type": "message",
+        "text": "<@U01F42ZFA73> なんだかすごい分かりやすそうな雰囲気。次研究室に来た時に口頭で聴かせてください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630467059.080500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fXcVm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なんだかすごい分かりやすそうな雰囲気。次研究室に来た時に口頭で聴かせてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630466959.079200",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "089be8e6-7903-4dfb-8fd9-2b213cee6c68",
+        "type": "message",
+        "text": "わかりました。\n\n本題の文章が長いので簡潔にイメージだけ述べると、摩擦付きの位置エネルギー問題みたいな雰囲気ですね。\nある高さを自分の手(product)で稼いで、手を離すと、それが速度と摩擦熱に変わるイメージです。",
+        "user": "U01F42ZFA73",
+        "ts": "1630467913.080700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K5cM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました。\n\n本題の文章が長いので簡潔にイメージだけ述べると、摩擦付きの位置エネルギー問題みたいな雰囲気ですね。\nある高さを自分の手(product)で稼いで、手を離すと、それが速度と摩擦熱に変わるイメージです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630466959.079200",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "e70bbcc7-1be1-41b9-bd2d-b9883d1527ff",
+        "type": "message",
+        "text": "上の続きで、以下は考察と問題点を挙げます。\n\n考察\n減る、激減するメカニズムについて\n• codistP.gifとdist_diffT.pngから、激減期においてはProductの平均は上がっていく。これは激減期に突入した結果、trueが極端に小さくなってしまっていて、productの-補正が弱いものを取ったからである。実際、dist_diffP.pngの激減期部分を見るとproductの分布の右側が選ばれやすくなっていることを確認できる。\n• codistP.gifとdist_diffT.pngから、不安定期、安定期においてはProductの平均は下がっていく。これは不安期、安定期に突入した結果、trueのscoreが上がっていき、productの-補正が強いものを取ったからである。実際、dist_diffP.pngを見るとproductの分布の左側が選ばれやすくなっていることがわかる。\n• 上の2つの事実から、激減期でtrueのscoreが低いものがmatingしやすくなる=&gt;maniに合わせるために-補正の小さいものを買い始める=&gt;trueとmaniとの距離が小さくなる=&gt;trueのscoreが高いものがmatingしやすくなり曲線にブレーキがかかる=&gt;maniに合わせるために-補正の高いものを買い始める=&gt;おおよそ距離が0.18に近づくと激減に突入する=&gt;初期へ戻る, この周期があることを説明できる。\n• 厳密に言うと、減るメカニズムは激減するメカニズムのおこぼれをもらっているイメージ（このイメージを摩擦付きの位置エネルギー問題に似ていると言った）\n減り続けるメカニズムについて\n• dist_diffP.pngを見ると-補正弱いものを取る期間が短く、-補正が強いものを取る期間が長い。これは、maniとtrueとの距離を短くするための期間が短く、長くするための期間が長いことを示している。\n• 上の事実から、trueのscoreが高いやつが優勢になる期間は短く、低いやつは優勢になる期間が長く続くと言える。よって特別な条件を満たさない限り（maniが下限に到達する等）減り続けることを示した。\n問題点\n• pieT.gifで曲線が安定すると、割合が逆転するのはなぜかを調べる\n• dist_diffT.png, dist_diffP.pngのグラフがx軸対称になっている（実装ミス？　調べようがなくて困っている）\n• 円グラフが有効かどうかの確認（正直、有効でないとは思う。大事なのはtrueとmaniの距離）",
+        "user": "U01F42ZFA73",
+        "ts": "1630472811.100000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1630473244.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bmx1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上の続きで、以下は考察と問題点を挙げます。\n\n考察\n減る、激減するメカニズムについて\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "codistP.gifとdist_diffT.pngから、激減期においてはProductの平均は上がっていく。これは激減期に突入した結果、trueが極端に小さくなってしまっていて、productの-補正が弱いものを取ったからである。実際、dist_diffP.pngの激減期部分を見るとproductの分布の右側が選ばれやすくなっていることを確認できる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "codistP.gifとdist_diffT.pngから、不安定期、安定期においてはProductの平均は下がっていく。これは不安期、安定期に突入した結果、trueのscoreが上がっていき、productの-補正が強いものを取ったからである。実際、dist_diffP.pngを見るとproductの分布の左側が選ばれやすくなっていることがわかる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "上の2つの事実から、激減期でtrueのscoreが低いものがmatingしやすくなる=>maniに合わせるために-補正の小さいものを買い始める=>trueとmaniとの距離が小さくなる=>trueのscoreが高いものがmatingしやすくなり曲線にブレーキがかかる=>maniに合わせるために-補正の高いものを買い始める=>おおよそ距離が0.18に近づくと激減に突入する=>初期へ戻る, この周期があることを説明できる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "厳密に言うと、減るメカニズムは激減するメカニズムのおこぼれをもらっているイメージ（このイメージを摩擦付きの位置エネルギー問題に似ていると言った）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n減り続けるメカニズムについて\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dist_diffP.pngを見ると-補正弱いものを取る期間が短く、-補正が強いものを取る期間が長い。これは、maniとtrueとの距離を短くするための期間が短く、長くするための期間が長いことを示している。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "上の事実から、trueのscoreが高いやつが優勢になる期間は短く、低いやつは優勢になる期間が長く続くと言える。よって特別な条件を満たさない限り（maniが下限に到達する等）減り続けることを示した。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n問題点\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pieT.gifで曲線が安定すると、割合が逆転するのはなぜかを調べる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dist_diffT.png, dist_diffP.pngのグラフがx軸対称になっている（実装ミス？　調べようがなくて困っている）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "円グラフが有効かどうかの確認（正直、有効でないとは思う。大事なのはtrueとmaniの距離）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

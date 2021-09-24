@@ -1,0 +1,1605 @@
+[
+    {
+        "client_msg_id": "dbb5e638-1b7f-4625-a807-c570221625cb",
+        "type": "message",
+        "text": "The corn that I took, I will present this for my mother!",
+        "user": "UKH07E67M",
+        "ts": "1619250853.236600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=oAN2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The corn that I took, I will present this for my mother!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619191977.235200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "3430638e-8603-4570-bd3d-b758c53023ee",
+        "type": "message",
+        "text": "`The corn that I took, I will present this for my mother!`\n• 一人称の多様化は日本の特有のものだと聞いたことがあり、ちゃんと確かめたことがないためIを使用\n• 自分で持っているからthis。了解\n• 採るがわからずtake。pick\n<https:\/\/stress-free-english.net\/blog\/qa\/413\/>\npresentを動詞として使うのならforではなくto",
+        "user": "UKH07E67M",
+        "ts": "1619252552.236800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "西澤ロイ（イングリッシュ・ドクター）公式ブログ",
+                "title": "presentの後に来るのはfor？それともto？",
+                "title_link": "https:\/\/stress-free-english.net\/blog\/qa\/413\/",
+                "text": "Ｑ．present の後に来るのは for でしょうか？ それともtoでしょうか？present for you と present to you で使い分けなどがありますか？",
+                "fallback": "西澤ロイ（イングリッシュ・ドクター）公式ブログ: presentの後に来るのはfor？それともto？",
+                "image_url": "https:\/\/stress-free-english.net\/wp2\/wp-content\/uploads\/2016\/07\/P-4.jpg",
+                "from_url": "https:\/\/stress-free-english.net\/blog\/qa\/413\/",
+                "image_width": 456,
+                "image_height": 250,
+                "image_bytes": 73753,
+                "service_icon": "https:\/\/stress-free-english.net\/wp2\/wp-content\/uploads\/2017\/01\/fevicon.png",
+                "id": 1,
+                "original_url": "https:\/\/stress-free-english.net\/blog\/qa\/413\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ddRL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The corn that I took, I will present this for my mother!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "一人称の多様化は日本の特有のものだと聞いたことがあり、ちゃんと確かめたことがないためIを使用"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "自分で持っているからthis。了解"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "採るがわからずtake。pick"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/stress-free-english.net\/blog\/qa\/413\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npresentを動詞として使うのならforではなくto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619191977.235300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1619263037.237100",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1619263037.237100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1630135723.009600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1619273884.237200"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1619330116.241400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1619504053.247400"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1630135723.009600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630135723.009600",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「裁判長！WI-FIのパスワード教えて下さい！」\n「被告人はスマホをしまってください」 <https:\/\/pbs.twimg.com\/media\/EzvDACFUUA02LcK.jpg>",
+                "ts": 1619263031,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1385915721989820418",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1385915721989820418>",
+                "text": "「裁判長！WI-FIのパスワード教えて下さい！」\n「被告人はスマホをしまってください」 <https:\/\/pbs.twimg.com\/media\/EzvDACFUUA02LcK.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1385915721989820418",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EzvDACFUUA02LcK.jpg",
+                "image_width": 400,
+                "image_height": 550,
+                "image_bytes": 47327,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d347724-9a1b-4e40-b6aa-677640c8e36f",
+        "type": "message",
+        "text": "\"Chief arbitrator! (単に Justice?) Please tell me the WI-FI password.\"\n\"Defendant, please put your smartphone away.\"",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619273884.237200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lebO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Chief arbitrator! (単に Justice?) Please tell me the WI-FI password.\"\n\"Defendant, please put your smartphone away.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619263037.237100"
+    },
+    {
+        "client_msg_id": "debc72dc-6998-43bf-81c3-fed882d9eb8c",
+        "type": "message",
+        "text": "反省会：「裁判長！WI-FIのパスワード教えて下さい！」「被告人はスマホをしまってください」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619273955.237600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xpi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：「裁判長！WI-FIのパスワード教えて下さい！」「被告人はスマホをしまってください」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619273955.237600",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1630136094.009800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1619274283.237700"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1619330388.241600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1619504416.247600"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1630136094.009800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630136094.009800"
+    },
+    {
+        "client_msg_id": "eb070144-e39c-4109-8d43-61997deb2cdf",
+        "type": "message",
+        "text": "`\"Chief arbitrator! (単に Justice?) Please tell me the WI-FI password.\"`\n`\"Defendant, please put your smartphone away.\"`\nDeepL「調停委員長！WI-FIのパスワードを教えてください。被告人、スマートフォンを片付けてください」\n\n• 「裁判官 = judge, justice, etc.」「裁判長 = the chief judge (justice), president judge, etc.」了\n• arbitrator は裁判官ではなくて調停者・裁定人だった。\n• 裁判官に呼びかける場合は Your Honour（陛下に呼びかける場合は Your Majesty 的な）これ最近覚えたのに…\n• 裁判官が被告人に指示するのに please はつけないか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619274283.237700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1619274338.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXDad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Chief arbitrator! (単に Justice?) Please tell me the WI-FI password.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Defendant, please put your smartphone away.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「調停委員長！WI-FIのパスワードを教えてください。被告人、スマートフォンを片付けてください」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「裁判官 = judge, justice, etc.」「裁判長 = the chief judge (justice), president judge, etc.」了"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "arbitrator は裁判官ではなくて調停者・裁定人だった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "裁判官に呼びかける場合は Your Honour（陛下に呼びかける場合は Your Majesty 的な）これ最近覚えたのに…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "裁判官が被告人に指示するのに please はつけないか。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619273955.237600",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "ありがとう、助けてくれて。私シータっていうの（シータ\/天空の城ラピュタ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1619278377.238000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1619278377.238000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1619504481.247800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1619321260.238500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1619330434.241900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1619504481.247800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619504481.247800"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：ありがとう、助けてくれて。私シータっていうの",
+        "user": "U01UMQH4W4B",
+        "ts": "1619278377.238100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1619278377.238100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1619504681.248000",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1619278377.238200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1619321290.238700"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1619330547.242100"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1619504681.248000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619504681.248000"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Thanks for helping me. I’m Sheeta.",
+        "user": "U01UMQH4W4B",
+        "ts": "1619278377.238200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1619278377.238100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1619315053.238400",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1619315053.238400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1630037811.007000",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1619322142.239000"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1619330658.242400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1619505175.248200"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1630037811.007000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630037811.007000",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「おぼろげながら有罪という文字が浮かんできたので、被告人を有罪とする」 <https:\/\/pbs.twimg.com\/media\/EzyJaTtVIAcjCXg.jpg>",
+                "ts": 1619315046,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1386133889308000256",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1386133889308000256>",
+                "text": "「おぼろげながら有罪という文字が浮かんできたので、被告人を有罪とする」 <https:\/\/pbs.twimg.com\/media\/EzyJaTtVIAcjCXg.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1386133889308000256",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EzyJaTtVIAcjCXg.jpg",
+                "image_width": 400,
+                "image_height": 500,
+                "image_bytes": 65930,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bce6cbbb-194f-4e44-a2f2-b8842f2d75e4",
+        "type": "message",
+        "text": "Thank you so much for saving me. My name is Theta.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619321260.238500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RJ3i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much for saving me. My name is Theta."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619278377.238000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f69046aa-9a49-419a-99c7-7ca52393c31a",
+        "type": "message",
+        "text": "`Thank you so much for saving me. My name is Theta.`\n\n• help を避けて save にしたが help でよかった。\n• シータは Sheeta だったのか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619321290.238700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1619321341.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "txu=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much for saving me. My name is Theta.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "help を避けて save にしたが help でよかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "シータは Sheeta だったのか。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619278377.238100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "db8524a5-6829-4684-82a7-9a8daeb9c472",
+        "type": "message",
+        "text": "Because the word of GUILTY came to my mind obscurely (vaguely? somehow?), the defendant is guilty.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619322142.239000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ltxa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because the word of GUILTY came to my mind obscurely (vaguely? somehow?), the defendant is guilty."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619315053.238400"
+    },
+    {
+        "client_msg_id": "10e9d5e0-4cb5-4ef8-8fb9-efc5f79cde73",
+        "type": "message",
+        "text": "反省会：おぼろげながら有罪という文字が浮かんできたので、被告人を有罪とする",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619322184.239300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YR6om",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：おぼろげながら有罪という文字が浮かんできたので、被告人を有罪とする"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619322184.239300",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1619505976.249200",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1619322499.239400"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1619331033.242600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1619505576.248400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1619505976.249200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619505976.249200"
+    },
+    {
+        "client_msg_id": "48efd57e-7925-44c3-bbab-74a5af6a851c",
+        "type": "message",
+        "text": "`Because the word of GUILTY came to my mind obscurely (vaguely? somehow?), the defendant is guilty.`\nDeepL「曖昧にGUILTYの文字が頭に浮かんだので、被告は有罪です。」\n\n• 「find someone guilty = ～を有罪とする（宣告文の定型）」了。\n• vaguely は obscurely でもいいんじゃないかな。\n• come to mind は定型で my を付けなくてもよい。了。\n• 「the characters of \"guilt\" = 有罪という文字」この場合の有罪は名詞にした方がよいのか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619322499.239400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MP+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because the word of GUILTY came to my mind obscurely (vaguely? somehow?), the defendant is guilty.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「曖昧にGUILTYの文字が頭に浮かんだので、被告は有罪です。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「find someone guilty = ～を有罪とする（宣告文の定型）」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "vaguely は obscurely でもいいんじゃないかな。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "come to mind は定型で my を付けなくてもよい。了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「the characters of \"guilt\" = 有罪という文字」この場合の有罪は名詞にした方がよいのか。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619322184.239300",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "8171d2b9-3681-48a1-b004-440343ccc9e0",
+        "type": "message",
+        "text": "Mr. yupa, Give me this baby.",
+        "user": "UQ47R82RW",
+        "ts": "1619329133.240100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mr. yupa, Give me this baby."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619105578.230800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "3dc3455a-8ed8-4fcc-9623-61dee929d3fb",
+        "type": "message",
+        "text": "`Mr. yupa, Give me this baby.`\nそっかユパ様は確かにロード的な感じ。\nLoadとかそう言う言い回し覚えるのは多分小説とか読むのがいいんだろうなぁ。\n\nmay I do ~してもいいですかかぁ。\nGive me~だと~をくれって感じで他の人みたいないcould you giveのがましだな。",
+        "user": "UQ47R82RW",
+        "ts": "1619329257.240300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iJib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mr. yupa, Give me this baby.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそっかユパ様は確かにロード的な感じ。\nLoadとかそう言う言い回し覚えるのは多分小説とか読むのがいいんだろうなぁ。\n\nmay I do ~してもいいですかかぁ。\nGive me~だと~をくれって感じで他の人みたいないcould you giveのがましだな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619105578.230900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "810a3d4b-c608-4b76-9e61-796d67956d82",
+        "type": "message",
+        "text": "Meros angered intensely, but he had fever of more than 37 point 5 celcius, so came back home.",
+        "user": "UQ47R82RW",
+        "ts": "1619329355.240500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qtelN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meros angered intensely, but he had fever of more than 37 point 5 celcius, so came back home."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619147551.231900"
+    },
+    {
+        "client_msg_id": "27661d8e-1444-4c8d-9307-9be14ddcf2f4",
+        "type": "message",
+        "text": "`Meros angered intensely, but he had fever of more than 37 point 5 celcius, so came back home.`\n\nenrageが激怒するっていう動詞なのか。\n 一応intense angerで激しい怒りって言う訳あるし、angry inteselyでも同じような意味になりそうなきがする。\n<https:\/\/eow.alc.co.jp\/search?q=intense+anger>\n\nhave feverじゃなくて have a fever。熱があるというのはいくらでもありうるうちの一つの体験だからaがつくのかな。\n下のサイトによるといっぱいある症状のうちの一つとしてaがつくらしい。\n<http:\/\/blog.livedoor.jp\/garjyusaiga\/archives\/52384778.html>\n\nbut soとかの使い方はO\n\ncelciusじゃなくてcelsiusかぁ。度を表すためにdegreeがいるのか。\n\n何度以上はover とか　~or moreで表現できる。",
+        "user": "UQ47R82RW",
+        "ts": "1619329857.240700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "intense angerの意味・使い方",
+                "title_link": "https:\/\/eow.alc.co.jp\/search?q=intense+anger",
+                "text": "intense anger 激しい怒り - アルクがお届けするオンライン英和・和英辞書検索サービス。",
+                "fallback": "intense angerの意味・使い方",
+                "image_url": "https:\/\/eow.alc.co.jp\/content\/579\/img\/PromoImage.png",
+                "from_url": "https:\/\/eow.alc.co.jp\/search?q=intense+anger",
+                "image_width": 512,
+                "image_height": 250,
+                "image_bytes": 126218,
+                "service_icon": "https:\/\/eow.alc.co.jp\/favicon.ico",
+                "service_name": "eow.alc.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/eow.alc.co.jp\/search?q=intense+anger"
+            },
+            {
+                "service_name": "感染症の病理学的考え方",
+                "title": "医学における英語能力：発熱、咳は\"a fever\", \"a cough\" : 感染症の病理学的考え方",
+                "title_link": "http:\/\/blog.livedoor.jp\/garjyusaiga\/archives\/52384778.html",
+                "text": "医学における英語能力。冠詞について。a かthe か、無し（無冠詞）を選択する。 ",
+                "fallback": "感染症の病理学的考え方: 医学における英語能力：発熱、咳は\"a fever\", \"a cough\" : 感染症の病理学的考え方",
+                "image_url": "https:\/\/livedoor.blogimg.jp\/garjyusaiga\/imgs\/f\/1\/f1e19acf-s.jpg",
+                "from_url": "http:\/\/blog.livedoor.jp\/garjyusaiga\/archives\/52384778.html",
+                "image_width": 160,
+                "image_height": 213,
+                "image_bytes": 41026,
+                "service_icon": "http:\/\/blog.livedoor.jp\/favicon.ico",
+                "id": 2,
+                "original_url": "http:\/\/blog.livedoor.jp\/garjyusaiga\/archives\/52384778.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tZO3j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meros angered intensely, but he had fever of more than 37 point 5 celcius, so came back home.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nenrageが激怒するっていう動詞なのか。\n 一応intense angerで激しい怒りって言う訳あるし、angry inteselyでも同じような意味になりそうなきがする。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eow.alc.co.jp\/search?q=intense+anger"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nhave feverじゃなくて have a fever。熱があるというのはいくらでもありうるうちの一つの体験だからaがつくのかな。\n下のサイトによるといっぱいある症状のうちの一つとしてaがつくらしい。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/blog.livedoor.jp\/garjyusaiga\/archives\/52384778.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nbut soとかの使い方はO\n\ncelciusじゃなくてcelsiusかぁ。度を表すためにdegreeがいるのか。\n\n何度以上はover とか　~or moreで表現できる。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619149393.233000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "2520e61c-f018-451e-a3cd-20f696493a47",
+        "type": "message",
+        "text": "I will give a maize to my mother!",
+        "user": "UQ47R82RW",
+        "ts": "1619329909.241000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=I9zB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will give a maize to my mother!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619191977.235200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "61ba2998-4f62-4c8c-9bce-eb82f082f1c8",
+        "type": "message",
+        "text": "`I will give a maize to my mother!`\nあ...とったって意味はいってないや。\nこうやって並列してもいいのか。",
+        "user": "UQ47R82RW",
+        "ts": "1619329982.241200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FuXf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will give a maize to my mother!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあ...とったって意味はいってないや。\nこうやって並列してもいいのか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619191977.235300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "21a79106-4b21-49e8-b781-280181548bfe",
+        "type": "message",
+        "text": "\"Chairman! Could you tell me the password of Wi-Fi\"\n\"Pick away smartphone, Raiser \"",
+        "user": "UQ47R82RW",
+        "ts": "1619330116.241400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NcM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Chairman! Could you tell me the password of Wi-Fi\"\n\"Pick away smartphone, Raiser \""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619263037.237100"
+    },
+    {
+        "client_msg_id": "351f9172-de85-4d2a-8e2b-33510ea431ef",
+        "type": "message",
+        "text": "`\"Chairman! Could you tell me the password of Wi-Fi\"`\n`\"Pick away smartphone, Raiser \"`\nChairmanは会長とかそういう意味はあるけど、裁判長という意味はないっぽい。\nJudgeとかがそういういみらしい。\nただし、今回の場合、裁判官に呼びかけてるからYour honorが当てはまるらしい。\n<https:\/\/eow.alc.co.jp\/search?q=your+honor>\n\nput awayだったかぁ。\n~ awayだとおもったが、pickしてawayするのかと思った。\npick awayだともぎ取るっていう意味らしい。\nつまんでどこかにやるって感覚かなぁ。\n\n*defendant*が被告人の訳なのか。",
+        "user": "UQ47R82RW",
+        "ts": "1619330388.241600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "your honorの意味・使い方",
+                "title_link": "https:\/\/eow.alc.co.jp\/search?q=your+honor",
+                "text": "Your Honor 〈呼び掛け〉裁判官・\"Your Honor, may I be heard on that?\" \"All right.\" : 「裁判官、その件... - アルクがお届けするオンライン英和・和英辞書検索サービス。",
+                "fallback": "your honorの意味・使い方",
+                "image_url": "https:\/\/eow.alc.co.jp\/content\/579\/img\/PromoImage.png",
+                "from_url": "https:\/\/eow.alc.co.jp\/search?q=your+honor",
+                "image_width": 512,
+                "image_height": 250,
+                "image_bytes": 126218,
+                "service_icon": "https:\/\/eow.alc.co.jp\/favicon.ico",
+                "service_name": "eow.alc.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/eow.alc.co.jp\/search?q=your+honor"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+Cv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Chairman! Could you tell me the password of Wi-Fi\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Pick away smartphone, Raiser \"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nChairmanは会長とかそういう意味はあるけど、裁判長という意味はないっぽい。\nJudgeとかがそういういみらしい。\nただし、今回の場合、裁判官に呼びかけてるからYour honorが当てはまるらしい。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eow.alc.co.jp\/search?q=your+honor"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nput awayだったかぁ。\n~ awayだとおもったが、pickしてawayするのかと思った。\npick awayだともぎ取るっていう意味らしい。\nつまんでどこかにやるって感覚かなぁ。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "defendant",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "が被告人の訳なのか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619273955.237600",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "6f561d56-43f5-4129-8df4-364d9e7b3bdb",
+        "type": "message",
+        "text": "Thank you for your help. My name is Shita.",
+        "user": "UQ47R82RW",
+        "ts": "1619330434.241900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3584B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for your help. My name is Shita."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619278377.238000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "6327a63c-2967-4b94-939b-5f808a84f085",
+        "type": "message",
+        "text": "`Thank you for your help. My name is Shita.`\nジブリだとMy nameをつかうみたいなのを見たことがあったけど、ちがったかぁ。\nThank youもそこまで言わないのかなぁ？\n下の記事によるとThanksはフランクな言い方らしい。\n<https:\/\/cardim.org\/blog\/thanks-thank-you\/>",
+        "user": "UQ47R82RW",
+        "ts": "1619330547.242100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "カーディム英語タイムズ",
+                "title": "thanks と thank you の違い",
+                "title_link": "https:\/\/cardim.org\/blog\/thanks-thank-you\/",
+                "text": "まず、簡単に言うと、基本的なお礼の言い方が Thank you. で、よりカジュアルなのが Thanks. です。thank の意味は、感謝する、お礼を言うこの thank って言うのは「感謝する、お礼を言う」という意味の動詞です。だから本",
+                "fallback": "カーディム英語タイムズ: thanks と thank you の違い",
+                "image_url": "https:\/\/cardim.org\/blog\/wp-content\/uploads\/2018\/02\/thank-you-cookies-320.jpg",
+                "ts": 1518017904,
+                "from_url": "https:\/\/cardim.org\/blog\/thanks-thank-you\/",
+                "image_width": 320,
+                "image_height": 213,
+                "image_bytes": 38957,
+                "service_icon": "https:\/\/cardim.org\/blog\/wp-content\/uploads\/2018\/06\/Cardim_SIte_Icon-300x300.png",
+                "id": 1,
+                "original_url": "https:\/\/cardim.org\/blog\/thanks-thank-you\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yh2p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for your help. My name is Shita.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nジブリだとMy nameをつかうみたいなのを見たことがあったけど、ちがったかぁ。\nThank youもそこまで言わないのかなぁ？\n下の記事によるとThanksはフランクな言い方らしい。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cardim.org\/blog\/thanks-thank-you\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619278377.238100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "37361b7f-8acf-4bdf-9ab7-1b5f6c4495af",
+        "type": "message",
+        "text": "I came up with the word \"your crime\", so defendant is crime.",
+        "user": "UQ47R82RW",
+        "ts": "1619330658.242400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5AU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I came up with the word \"your crime\", so defendant is crime."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619315053.238400"
+    },
+    {
+        "client_msg_id": "c79f57be-3012-49f9-b7e0-0cf23f080b4b",
+        "type": "message",
+        "text": "`I came up with the word \"your crime\", so defendant is crime.`\n有罪という名詞はguilt,形容詞になるとguilty.\ncome to mindかぁ。\n能動的な思いつきがcome up withらしい。\n受動的な思いつきがcome to mind.\nなるほど\n<https:\/\/hinative.com\/ja\/questions\/1301638>\n\n朧げながら＝Vaguely\n<https:\/\/gogen-ejd.info\/vagus\/|vagus>(ふらふらしている)が語源らしい。\nvague＝朧げ\n\nwordは言葉、文字はcharacter\n\nfind a defendant guiltyで被告を有罪とするって訳になるらしい。\nなるほどなぁ。",
+        "user": "UQ47R82RW",
+        "ts": "1619331033.242600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "HiNative",
+                "title": "【come up with 】 と 【come to mind 】 はどう違いますか？",
+                "title_link": "https:\/\/hinative.com\/ja\/questions\/1301638",
+                "text": "come up with の類義語 Come up with is usually a plan of action. It's active. Come to mind is passive; the idea comes to you.|@ooll: some examples: \"Come to mind\" When I think about the best food, a few restaurants come to mind. \"Come up with\" How did you come up with that answer?\"",
+                "fallback": "HiNative: 【come up with 】 と 【come to mind 】 はどう違いますか？",
+                "image_url": "https:\/\/hinative.com\/ja\/questions\/1301638\/ogp_image",
+                "from_url": "https:\/\/hinative.com\/ja\/questions\/1301638",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 61476,
+                "service_icon": "https:\/\/cdn.hinative.com\/assets\/apple_touch_icon-fb23f9556e698db984c0d4fc9ba962f000a080e23a77384e44a760d7b527d574.png",
+                "id": 1,
+                "original_url": "https:\/\/hinative.com\/ja\/questions\/1301638"
+            },
+            {
+                "title": "vagus 意味と語源",
+                "title_link": "https:\/\/gogen-ejd.info\/vagus\/",
+                "text": "【ラテン語】さすらう。ぶらぶら歩く。漠然とした。",
+                "fallback": "vagus 意味と語源",
+                "thumb_url": "https:\/\/gogen-ejd.info\/wp-content\/uploads\/2019\/06\/ffffff-3.png",
+                "from_url": "https:\/\/gogen-ejd.info\/vagus\/",
+                "thumb_width": 567,
+                "thumb_height": 568,
+                "service_icon": "https:\/\/gogen-ejd.info\/wp-content\/uploads\/2018\/04\/cropped-68351790-c16e51bd589dbdbecc13fed86d76f76a_p0_master1200-2-180x180.jpg",
+                "service_name": "gogen-ejd.info",
+                "id": 2,
+                "original_url": "https:\/\/gogen-ejd.info\/vagus\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I came up with the word \"your crime\", so defendant is crime.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n有罪という名詞はguilt,形容詞になるとguilty.\ncome to mindかぁ。\n能動的な思いつきがcome up withらしい。\n受動的な思いつきがcome to mind.\nなるほど\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hinative.com\/ja\/questions\/1301638"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n朧げながら＝Vaguely\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gogen-ejd.info\/vagus\/",
+                                "text": "vagus"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(ふらふらしている)が語源らしい。\nvague＝朧げ\n\nwordは言葉、文字はcharacter\n\nfind a defendant guiltyで被告を有罪とするって訳になるらしい。\nなるほどなぁ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619322184.239300",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

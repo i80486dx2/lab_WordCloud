@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "9e47e0f1-6ab9-4692-9c06-a2fe1b19378e",
+        "type": "message",
+        "text": "show members randomly",
+        "user": "UQ47R82RW",
+        "ts": "1624613189.053000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2TtK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "show members randomly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "sota aoshi hiromu sukegawa kota Takahashi ryosuke Kento TAKUMI daiki ren naoya sakurai azuma ",
+        "user": "U01NA9N25GE",
+        "ts": "1624613191.053100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    }
+]

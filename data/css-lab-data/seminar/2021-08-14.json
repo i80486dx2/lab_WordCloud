@@ -1,0 +1,145 @@
+[
+    {
+        "client_msg_id": "3ee0ff90-72f7-4d65-9e60-606c12f66be8",
+        "type": "message",
+        "text": "自分はずれても大丈夫",
+        "user": "U01EPKVACEN",
+        "ts": "1628931909.008600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+kpem",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分はずれても大丈夫"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628141060.003900",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "b6dfeac0-e286-40dc-9319-e49fd3fe7ce6",
+        "type": "message",
+        "text": "<@U01EP8BUKQT> <@U01EPKVACEN> 了解ですー！\nちなみにですが、３年生はインターンシップも多いし、４年生の中間発表とかの準備もあったりするんで、そもそも夏休み明けにしますか。ちょっと改めてアナウンスします。",
+        "user": "UPSPAMY7M",
+        "ts": "1628943399.008800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YsUy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解ですー！\nちなみにですが、３年生はインターンシップも多いし、４年生の中間発表とかの準備もあったりするんで、そもそも夏休み明けにしますか。ちょっと改めてアナウンスします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628141060.003900",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U01EPKVACEN",
+                    "U01EP8BUKQT",
+                    "U01EV766AH2"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3BC68C40-FA49-4AD9-86BA-50FAAACA4B6E",
+        "type": "message",
+        "text": "ありがとうございます‼︎",
+        "user": "U01EP8BUKQT",
+        "ts": "1629006911.009300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ged914d7ba7b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed914d7ba7bbb4f21370d607232d99bf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "上田　健登",
+            "real_name": "上田　健登",
+            "display_name": "kento",
+            "team": "TKS1Q2JUE",
+            "name": "ueken110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lgj8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます‼︎"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628141060.003900",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

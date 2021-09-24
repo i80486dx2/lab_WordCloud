@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "127935a2-f801-44f9-97c7-5bac8f766415",
+        "type": "message",
+        "text": "各チームのイニング別得点　合計\nTeam 10\n[61 71 60 88 77 78 83 59 38  1  1  2]\nMax is 88 Max inning is  4\n\nTeam 11\n[64 27 69 52 58 73 53 59 23  2  1  0]\nMax is 73 Max inning is  6\n\nTeam 12\n[62 61 61 54 73 85 71 60 46  8  2  0]\nMax is 85 Max inning is  6\n\nTeam 13\n[98 64 69 56 70 66 78 62 41  6  2  1]\nMax is 98 Max inning is  1\n\nTeam 14\n[56 58 56 60 56 71 75 61 46  0  3  2]\nMax is 75 Max inning is  7\n\nTeam 15\n[95 57 82 83 61 70 65 73 40  9  0  2]\nMax is 95 Max inning is  1\n\nラッキーセブン理論が通用したのは、6チームのうち1つだけ。\nこれはあまりネタにならなさそうです。",
+        "user": "UKUKA65GU",
+        "ts": "1566128815.016300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,519 @@
+[
+    {
+        "client_msg_id": "bfd47329-7b3f-4da9-b632-2dbe4e946ecf",
+        "type": "message",
+        "text": "<https:\/\/compu-soceco.slack.com\/archives\/CKS1Q31GE\/p1608026411082600>\n\nリマインドです。セキュリティ演習のTAの件、ぜひご参加お願いします。\nTAとしていますが、殆どは初心者向けの演習運営の手伝いなためあまり専門的なスキルは必要とされませんので運営サポーターのような感じです。会津開催の日にチラッと来てバイト代稼ぐ感覚でいいのでよろしくお願いします。\n\n全体像は以下のリンクに掲載されました。(かなり)初心者向けのセキュリティ研修です。\n<https:\/\/www.u-aizu.ac.jp\/information\/post-20171227.html>",
+        "user": "UPSPAMY7M",
+        "ts": "1608543642.136700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/compu-soceco.slack.com\/archives\/CKS1Q31GE\/p1608026411082600",
+                "fallback": "[December 15th, 2020 2:00 AM] hata: <!channel> 先程のTAの時間表を共有します。15:00〜17:30までとなっていますが、13時からやっているので13時から入ってもらっても大丈夫です（その分給料出します）。１人と言わず複数人も可です。応募お待ちしています！",
+                "ts": "1608026411.082600",
+                "author_id": "UPSPAMY7M",
+                "author_subname": "畠　圭佑",
+                "channel_id": "CKS1Q31GE",
+                "channel_name": "random",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<!channel> 先程のTAの時間表を共有します。15:00〜17:30までとなっていますが、13時からやっているので13時から入ってもらっても大丈夫です（その分給料出します）。１人と言わず複数人も可です。応募お待ちしています！",
+                "author_name": "畠　圭佑",
+                "author_link": "https:\/\/compu-soceco.slack.com\/team\/UPSPAMY7M",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "F01GXRY4HB5",
+                        "created": 1608026303,
+                        "timestamp": 1608026303,
+                        "name": "TAアサイン表ver2.pptx",
+                        "title": "TAアサイン表ver2.pptx",
+                        "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                        "filetype": "pptx",
+                        "pretty_type": "PowerPoint Presentation",
+                        "user": "UPSPAMY7M",
+                        "editable": false,
+                        "size": 42748,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01GXRY4HB5\/ta_______________ver2.pptx",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01GXRY4HB5\/download\/ta_______________ver2.pptx",
+                        "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01GXRY4HB5-b8e4dcba2c\/ta_______________ver2_converted.pdf",
+                        "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01GXRY4HB5-b8e4dcba2c\/ta_______________ver2_thumb_pdf.png",
+                        "thumb_pdf_w": 1467,
+                        "thumb_pdf_h": 825,
+                        "permalink": "https:\/\/compu-soceco.slack.com\/files\/UPSPAMY7M\/F01GXRY4HB5\/ta_______________ver2.pptx",
+                        "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01GXRY4HB5-eda0c822e0",
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/compu-soceco.slack.com\/archives\/CKS1Q31GE\/p1608026411082600",
+                "footer": "Thread in #random"
+            },
+            {
+                "title": "お知らせ",
+                "title_link": "https:\/\/www.u-aizu.ac.jp\/information\/post-20171227.html",
+                "text": "会津大学のオフィシャルサイトです。受験生向け情報、オープンキャンパス情報、学部・大学院の紹介、研究活動、公開講座など、会津大学の情報をご覧いただけます。",
+                "fallback": "お知らせ",
+                "image_url": "https:\/\/www.u-aizu.ac.jp\/img\/bg_hero_header.gif",
+                "from_url": "https:\/\/www.u-aizu.ac.jp\/information\/post-20171227.html",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 13059,
+                "service_icon": "https:\/\/www.u-aizu.ac.jp\/img\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "u-aizu.ac.jp",
+                "id": 2,
+                "original_url": "https:\/\/www.u-aizu.ac.jp\/information\/post-20171227.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SDXsM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/compu-soceco.slack.com\/archives\/CKS1Q31GE\/p1608026411082600"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nリマインドです。セキュリティ演習のTAの件、ぜひご参加お願いします。\nTAとしていますが、殆どは初心者向けの演習運営の手伝いなためあまり専門的なスキルは必要とされませんので運営サポーターのような感じです。会津開催の日にチラッと来てバイト代稼ぐ感覚でいいのでよろしくお願いします。\n\n全体像は以下のリンクに掲載されました。(かなり)初心者向けのセキュリティ研修です。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.u-aizu.ac.jp\/information\/post-20171227.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608543642.136700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1608685245.175500",
+        "reply_users": [
+            "U01EPKVACEN",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1608610359.162600"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1608685245.175500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9BA6CF9B-8A3D-418F-A2D9-2BE804A17576",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> うまく伝えられずすみません。また橋本先生の研究室に直接アドバイスを頂きに行っても良いですか？",
+        "user": "U01FP2RDV44",
+        "ts": "1608544500.138400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "18za",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " うまく伝えられずすみません。また橋本先生の研究室に直接アドバイスを頂きに行っても良いですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "8d9943f0-d350-4793-a695-336e99183d3f",
+        "type": "message",
+        "text": "<http:\/\/www.math.is.tohoku.ac.jp\/~obata\/student\/graduate\/file\/2011-GSIS-ProbModel.pdf>\n今日の輪講で扱った、家系の存続と消滅について関係するモデルを見つけた。\nゴルトンワトソン分枝過程がその様子を表している。",
+        "user": "U01F42ZFA73",
+        "ts": "1608549750.140700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NCUN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.math.is.tohoku.ac.jp\/~obata\/student\/graduate\/file\/2011-GSIS-ProbModel.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日の輪講で扱った、家系の存続と消滅について関係するモデルを見つけた。\nゴルトンワトソン分枝過程がその様子を表している。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a97d0d76-a9cf-4fde-8998-51df7b058f62",
+        "type": "message",
+        "text": "<@U01FP2RDV44> はい、どうぞ。今週はいます。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1608553936.140800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5bKqC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01FP2RDV44"
+                            },
+                            {
+                                "type": "text",
+                                "text": " はい、どうぞ。今週はいます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "25B1FBB7-C0B1-4453-AAA4-42529AB87509",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 10限後とかでも橋本先生のご都合は大丈夫ですか？",
+        "user": "U01FP2RDV44",
+        "ts": "1608564466.142500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01FP2RDV44",
+            "ts": "1608564488.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "70AeO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10限後とかでも橋本先生のご都合は大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "743aeed4-55b7-4802-90b7-0e6202fa8f6c",
+        "type": "message",
+        "text": "<@U01FP2RDV44> 木曜は道場行ってますが他はいるはず。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1608567738.142800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qndcZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01FP2RDV44"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 木曜は道場行ってますが他はいるはず。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "B8D02CCD-4E2C-4713-9B75-8A705FAEF24F",
+        "type": "message",
+        "text": "明日（12\/23)の17時半に橋本先生の研究室にお邪魔してもよろしいでしょうか？",
+        "user": "U01FP2RDV44",
+        "ts": "1608595857.144100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mF8av",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日（12\/23)の17時半に橋本先生の研究室にお邪魔してもよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f17324e5-ac30-454e-bc06-2493d7dc3286",
+        "type": "message",
+        "text": "昨日の輪講第７章の補足。（補足と条件分岐だけ理解できれば第７章は読まなくていいと思う）\n\n42ページ下部参照\nx_{n+1}=1\/2+1\/2 x^{2}_{n}の式について考える。\n\n\n全体としては、n+1世代以内に家系が消滅してしまう確率(1,2,3,...,n+1代目に消滅する確率)を表している。\n\n\n細かく表現すると、\n左の1\/2は１代目で繁殖失敗。\n右の1\/2 x^{2}_{n}はとりあえず１代目で繁殖成功、あとは、子供2人に繁殖の決断を委ねる。\n\n\n疑問に思うのが、なぜ x^{2}_{n}が入っているのかだろう。それは、子供が2人いて、2人分の繁殖するか否かの決断を全列挙しているからである。（最終的には繁殖失敗の事象を取ることに気をつけよ。）\n二項係数を考えて欲しい。(a+b)^2はa,bの内、どれか２個を選び取ったものを全列挙している。この二項係数の性質を用いると、子供2人の決断の全パターンを表現できるのである。(n=3を木で表現する、n=3の数式をn=1になるまで崩すことで試してみよ)\n\n\n他にも、第７章には子供の数が0,1,2の時を考えているが、子供の数だけ決断をさせる考えは先と同じである。あとは期待値で振る舞いが変わることから、条件分岐を考えよ。\n\n\nおまけ：確率の再帰的な処理の考えは基本的に2つあると思ってる。1つ、とある事象を採択するか否か。2つ、以前の情報の形（木の形）を与えている。この考え方があれば、びっくりしないで再帰的な数式を見れる気がする。",
+        "user": "U01F42ZFA73",
+        "ts": "1608602013.161700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1608607685.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bBe92",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日の輪講第７章の補足。（補足と条件分岐だけ理解できれば第７章は読まなくていいと思う）\n\n42ページ下部参照\nx_{n+1}=1\/2+1\/2 x^{2}_{n}の式について考える。\n\n\n全体としては、n+1世代以内に家系が消滅してしまう確率(1,2,3,...,n+1代目に消滅する確率)を表している。\n\n\n細かく表現すると、\n左の1\/2は１代目で繁殖失敗。\n右の1\/2 x^{2}_{n}はとりあえず１代目で繁殖成功、あとは、子供2人に繁殖の決断を委ねる。\n\n\n疑問に思うのが、なぜ x^{2}_{n}が入っているのかだろう。それは、子供が2人いて、2人分の繁殖するか否かの決断を全列挙しているからである。（最終的には繁殖失敗の事象を取ることに気をつけよ。）\n二項係数を考えて欲しい。(a+b)^2はa,bの内、どれか２個を選び取ったものを全列挙している。この二項係数の性質を用いると、子供2人の決断の全パターンを表現できるのである。(n=3を木で表現する、n=3の数式をn=1になるまで崩すことで試してみよ)\n\n\n他にも、第７章には子供の数が0,1,2の時を考えているが、子供の数だけ決断をさせる考えは先と同じである。あとは期待値で振る舞いが変わることから、条件分岐を考えよ。\n\n\nおまけ：確率の再帰的な処理の考えは基本的に2つあると思ってる。1つ、とある事象を採択するか否か。2つ、以前の情報の形（木の形）を与えている。この考え方があれば、びっくりしないで再帰的な数式を見れる気がする。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608602013.161700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1608786189.181200",
+        "reply_users": [
+            "U01EP839LHH",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "U01EP839LHH",
+                "ts": "1608708217.179500"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1608786189.181200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "thankyou",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "554b6b27-bc8c-4b54-b040-b226198ae947",
+        "type": "message",
+        "text": "2月はわからないんですが1月中の会津の回は出られそうです",
+        "user": "U01EPKVACEN",
+        "ts": "1608610359.162600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Va6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2月はわからないんですが1月中の会津の回は出られそうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608543642.136700",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

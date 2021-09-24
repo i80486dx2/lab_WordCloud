@@ -1,0 +1,109 @@
+[
+    {
+        "type": "message",
+        "text": "kepler.glを用いて可視化してその結果をまとめました。\n<https:\/\/docs.google.com\/presentation\/d\/1qg5jRV1uvZOXKujtAlFhOAUbQdSjKAlcCJgLP1qAG5g\/edit?usp=sharing>\nまた、以下のhtmlファイルをローカルで動かせばkepler.glを手元で試すことが出来るので、好きに観察してみてください。\nlunchA.html → 2019\/5\/4〜5\/5・2020\/5\/2\/〜5\/3(11:30~13:30)\nlunchB.html →2019\/5\/23〜5\/24・2020\/5\/25\/〜5\/26(11:30~13:30)",
+        "files": [
+            {
+                "id": "F0163K0DLEB",
+                "created": 1593843773,
+                "timestamp": 1593843773,
+                "name": "lunchA.html",
+                "title": "lunchA.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 2976689,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0163K0DLEB\/luncha.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0163K0DLEB\/download\/luncha.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F0163K0DLEB\/luncha.html",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0163K0DLEB-ad349913c1",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F016JHKERV1",
+                "created": 1593843775,
+                "timestamp": 1593843775,
+                "name": "lunchB.html",
+                "title": "lunchB.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 3491728,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016JHKERV1\/lunchb.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016JHKERV1\/download\/lunchb.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F016JHKERV1\/lunchb.html",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016JHKERV1-56f0134728",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SeCC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "kepler.glを用いて可視化してその結果をまとめました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1qg5jRV1uvZOXKujtAlFhOAUbQdSjKAlcCJgLP1qAG5g\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまた、以下のhtmlファイルをローカルで動かせばkepler.glを手元で試すことが出来るので、好きに観察してみてください。\nlunchA.html → 2019\/5\/4〜5\/5・2020\/5\/2\/〜5\/3(11:30~13:30)\nlunchB.html →2019\/5\/23〜5\/24・2020\/5\/25\/〜5\/26(11:30~13:30)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1593843933.024100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UQ47R82RW",
+                    "UKS1Q2KTQ",
+                    "UPSPAMY7M"
+                ],
+                "count": 4
+            },
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

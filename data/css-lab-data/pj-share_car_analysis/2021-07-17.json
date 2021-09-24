@@ -1,0 +1,265 @@
+[
+    {
+        "type": "message",
+        "text": "&gt; 寄与率の値が前回と同じだけど、前回も同じように標準化された対数値を使ったということであってますか？\nそうですね。何回か確認しましたけど、標準化された対数値を使ったということであってますね。\n&gt; ちなみに一番寄与率の高い固有値に対応する固有ベクトルはどんなもんですか？\npca_vector.pngを参照してください。\n&gt; 次元削減できないということは各計測値間にほとんど相関がない（全部をバラバラに考慮しないといけない）ということですが、直感的にはどうですか？\n運転操作が全体的にラフになる区間(田んぼ道とか)と慎重になる区間(街中)が出てくると予想していましたが、案外難しいかもしれないです。実際の急ブレーキの映像などを見るとブレーキをしっかりと踏んでいて冷静に対処していたりするので、あからさまに挙動が全体的に乱れたりするのは少ないのかもしれないと思ってます。一度、各計測値の加工の仕方などを再検討した方がいいと考えてます。\n&gt; 同様に、例えばデータ点をPC1とPC2をxy軸にとって散布図を描いてみる。クラスタらしきものが見えるかどうか。ほんとはUMAPなんかで埋め込みしてみるのがいいですが。\nPC1vsPC2.pngを参照してください。UMAPも試してみようと思ってます。",
+        "files": [
+            {
+                "id": "F028KCB0TU4",
+                "created": 1626511152,
+                "timestamp": 1626511152,
+                "name": "PC1vsPC2.png",
+                "title": "PC1vsPC2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 175280,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F028KCB0TU4\/pc1vspc2.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F028KCB0TU4\/download\/pc1vspc2.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F028KCB0TU4-f26abf7bdd\/pc1vspc2_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F028KCB0TU4-f26abf7bdd\/pc1vspc2_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F028KCB0TU4-f26abf7bdd\/pc1vspc2_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 318,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F028KCB0TU4-f26abf7bdd\/pc1vspc2_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 424,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F028KCB0TU4-f26abf7bdd\/pc1vspc2_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F028KCB0TU4-f26abf7bdd\/pc1vspc2_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 637,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F028KCB0TU4-f26abf7bdd\/pc1vspc2_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 707,
+                "original_w": 830,
+                "original_h": 734,
+                "thumb_tiny": "AwAqADDSPakYgf4UpqKU7eoBGOc0AO3Dp70rsFHTk1AG+U7vWnO5BAVuTxmnYVyVeeSfwp3eoo2UDBOc989al70mMOarzFs8EHirB7VDMoP8IPp2waaEysm4sBgcevTNKVPUEn39acVIJOcE8YNPx8ikgZPfFVckSPqvHB6Va71XjJ3Lzwc9qsDrjOcVLKQGkbngcGnUUhkaoF6fypSqkdKfSJ92gBAAMDml70tFAH\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F028KCB0TU4\/pc1vspc2.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F028KCB0TU4-40f49fe92a",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F027YEGJST1",
+                "created": 1626511154,
+                "timestamp": 1626511154,
+                "name": "pca_vector.png",
+                "title": "pca_vector.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 89973,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027YEGJST1\/pca_vector.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027YEGJST1\/download\/pca_vector.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027YEGJST1-2c16959bcd\/pca_vector_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027YEGJST1-2c16959bcd\/pca_vector_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027YEGJST1-2c16959bcd\/pca_vector_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 236,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027YEGJST1-2c16959bcd\/pca_vector_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 314,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027YEGJST1-2c16959bcd\/pca_vector_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027YEGJST1-2c16959bcd\/pca_vector_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 471,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027YEGJST1-2c16959bcd\/pca_vector_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 524,
+                "original_w": 822,
+                "original_h": 538,
+                "thumb_tiny": "AwAfADDQIO7iQj2pNpz\/AK004r1OTTQoPGGFADsf7RpRwOTmmgZP8QoHJx8w96AH5ozTMfNj5vrRj5sfN9aAD+Jvu0i9\/u9PWnYOT979KQA8\/e\/SgBB1P3fzoXgn7vT1pRnn736UDP8AtfjigBF6\/wAP50Ljd\/D+dKAc9W\/HFKM5\/i\/HFAH\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F027YEGJST1\/pca_vector.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F027YEGJST1-a70c56155d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RcuQ",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "寄与率の値が前回と同じだけど、前回も同じように標準化された対数値を使ったということであってますか？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね。何回か確認しましたけど、標準化された対数値を使ったということであってますね。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちなみに一番寄与率の高い固有値に対応する固有ベクトルはどんなもんですか？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pca_vector.pngを参照してください。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次元削減できないということは各計測値間にほとんど相関がない（全部をバラバラに考慮しないといけない）ということですが、直感的にはどうですか？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "運転操作が全体的にラフになる区間(田んぼ道とか)と慎重になる区間(街中)が出てくると予想していましたが、案外難しいかもしれないです。実際の急ブレーキの映像などを見るとブレーキをしっかりと踏んでいて冷静に対処していたりするので、あからさまに挙動が全体的に乱れたりするのは少ないのかもしれないと思ってます。一度、各計測値の加工の仕方などを再検討した方がいいと考えてます。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "同様に、例えばデータ点をPC1とPC2をxy軸にとって散布図を描いてみる。クラスタらしきものが見えるかどうか。ほんとはUMAPなんかで埋め込みしてみるのがいいですが。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PC1vsPC2.pngを参照してください。UMAPも試してみようと思ってます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1626511166.060700",
+        "thread_ts": "1626240349.057700",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "96b1b68b-3dcf-4b7e-850b-1981f5ab6c32",
+        "type": "message",
+        "text": "<@UPRE1RSJW>\n• PC1とPC5がほぼAccelとBrakeの軸変換、PC2とPC4がほぼHeadとFrontの軸変換、PC3がほぼSteeringの軸変換になってますね。次元圧縮はできないようです。\n• そうすると、PC1とPC2で散布図を描くより、PC5（AccelとBrakeの分離）とPC2（HeadとFrontの分離）で散布図を描く方がまだよさそう。\n• それでも結局クラスタらしきものは見えないかもですが。→ UMAPに期待。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626511699.061300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1626511748.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUQx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PC1とPC5がほぼAccelとBrakeの軸変換、PC2とPC4がほぼHeadとFrontの軸変換、PC3がほぼSteeringの軸変換になってますね。次元圧縮はできないようです。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "そうすると、PC1とPC2で散布図を描くより、PC5（AccelとBrakeの分離）とPC2（HeadとFrontの分離）で散布図を描く方がまだよさそう。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "それでも結局クラスタらしきものは見えないかもですが。→ UMAPに期待。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626240349.057700",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

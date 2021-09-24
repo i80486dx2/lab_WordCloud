@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1593407121.000100",
+        "user": "UKS1Q2KTQ",
+        "text": "<@UKS1Q2KTQ> has renamed the channel from \"id-pos-analysis\" to \"pj-id-pos-analysis\"",
+        "old_name": "id-pos-analysis",
+        "name": "pj-id-pos-analysis"
+    }
+]

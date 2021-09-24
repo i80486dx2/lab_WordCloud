@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "e997f1fc-36e0-4413-858e-3ce907d920da",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> コミュニティ内部の様子を更に調べてみました。\n\n• 一段階Infomap(userネットワークからコミュニティ検出) での調査\n    ◦ 入次数がコミュニティ内部で完結している割合 (コミュニティ内userが別コミュニティからretweetされにくさ)\n    ◦ 出次数がコミュニティ内部で完結している割合 (コミュニティ内userが別コミュニティへretweetしなささ)\n    ◦ 中央値などの割合位置での 入次数\/ 上位 5番目に入次数が高いノードの 入次数\n    ◦ コミュニティ内部の強連結成分の大きさ\n• 二段階Infomap(コミュニティネットワークからコミュニティ検出) での調査\n    ◦ 各二段階 Infomapで捉えたコミュニティの 入・出次数の内部完結割合\n<https:\/\/www.notion.so\/58dd6240ad1d49e1baa06cd41f679df2>",
+        "user": "UPSPAP97D",
+        "ts": "1626696902.128400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Murakami's Notion on Notion",
+                "title": "コミュニティトポロジー調べ(追加)",
+                "title_link": "https:\/\/www.notion.so\/58dd6240ad1d49e1baa06cd41f679df2",
+                "text": "注意?:",
+                "fallback": "Murakami's Notion on Notion: コミュニティトポロジー調べ(追加)",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F00b25944-11ef-4582-b530-57360a521770%2FinDeg_same_community.png?table=block&id=ed21d35c-028f-4538-9daf-239b845a23d4&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/58dd6240ad1d49e1baa06cd41f679df2",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 370679,
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/58dd6240ad1d49e1baa06cd41f679df2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dKT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コミュニティ内部の様子を更に調べてみました。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "一段階Infomap(userネットワークからコミュニティ検出) での調査"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "入次数がコミュニティ内部で完結している割合 (コミュニティ内userが別コミュニティからretweetされにくさ)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "出次数がコミュニティ内部で完結している割合 (コミュニティ内userが別コミュニティへretweetしなささ)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "中央値などの割合位置での 入次数\/ 上位 5番目に入次数が高いノードの 入次数"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "コミュニティ内部の強連結成分の大きさ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "二段階Infomap(コミュニティネットワークからコミュニティ検出) での調査"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各二段階 Infomapで捉えたコミュニティの 入・出次数の内部完結割合"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/58dd6240ad1d49e1baa06cd41f679df2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

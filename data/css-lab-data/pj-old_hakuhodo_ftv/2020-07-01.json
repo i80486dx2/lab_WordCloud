@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "4641743f-faff-422b-80c0-fa7a5e85fe50",
+        "type": "message",
+        "text": "<!channel> 博報堂との打ち合わせの件、7\/7（火）17:00～になりました。1時間＋α程度になると思います。Zoomのアドレスは追ってお送りします。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1593669485.021000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jhy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 博報堂との打ち合わせの件、7\/7（火）17:00～になりました。1時間＋α程度になると思います。Zoomのアドレスは追ってお送りします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPRE1RSJW",
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UPSPAMY7M",
+                    "UPSPAP97D"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

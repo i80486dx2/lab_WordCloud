@@ -1,0 +1,375 @@
+[
+    {
+        "client_msg_id": "ab66955c-a576-47e3-9211-6ff1f64f7815",
+        "type": "message",
+        "text": "<!channel>\nVR関連の輪講を開催します。\n内容は以下の書籍\n<http:\/\/www.amazon.co.jp\/dp\/9811354111|www.amazon.co.jp\/dp\/9811354111>\n\nもしくはJournal（リンク先のものなど）\n<https:\/\/www.dropbox.com\/sh\/47q7p1jre4fbf2z\/AABy9iX41uZYk6wtLQHqqHiWa?dl=0>\n\nなど利用します。参加したい方はこのスレッドに書き込み下さい。詳細なやり方は集まったらお話ししましょう。\n<@U01EP8BUKQT> <@U01EPKVACEN> <@U01EV766AH2> <@U01F31EEVNV> 是非ご参加下さい。",
+        "user": "UPSPAMY7M",
+        "ts": "1615346110.003800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Jei",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nVR関連の輪講を開催します。\n内容は以下の書籍\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.amazon.co.jp\/dp\/9811354111",
+                                "text": "www.amazon.co.jp\/dp\/9811354111"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nもしくはJournal（リンク先のものなど）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/sh\/47q7p1jre4fbf2z\/AABy9iX41uZYk6wtLQHqqHiWa?dl=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nなど利用します。参加したい方はこのスレッドに書き込み下さい。詳細なやり方は集まったらお話ししましょう。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 是非ご参加下さい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "reply_count": 19,
+        "reply_users_count": 7,
+        "latest_reply": "1616395865.003100",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "U01EPKVACEN",
+            "U01EP8BUKQT",
+            "U01F31EEVNV",
+            "U01EV766AH2",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1615348699.003900"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1615351301.004800"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1615351384.005000"
+            },
+            {
+                "user": "U01EP8BUKQT",
+                "ts": "1615351916.005400"
+            },
+            {
+                "user": "U01F31EEVNV",
+                "ts": "1615557477.005700"
+            },
+            {
+                "user": "U01EV766AH2",
+                "ts": "1615557612.006200"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1615868341.000100"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1615868511.000300"
+            },
+            {
+                "user": "U01F31EEVNV",
+                "ts": "1615869320.002300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1615869378.002500"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1615869436.002700"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1615869455.003000"
+            },
+            {
+                "user": "U01EV766AH2",
+                "ts": "1615973587.000800"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1615987794.001000"
+            },
+            {
+                "user": "U01EP8BUKQT",
+                "ts": "1615996615.001500"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1616025349.001700"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1616331886.002000"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1616394183.002400"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1616395865.003100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1616395865.003100"
+    },
+    {
+        "client_msg_id": "0ebf29ca-9c9e-45af-b469-ff6d7ef8605f",
+        "type": "message",
+        "text": "<@UPSPAMY7M> 面白そうですね！私も予定があえば様子を知りたいです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1615348699.003900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qwVNf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 面白そうですね！私も予定があえば様子を知りたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "DDA50CA8-FE95-4AF1-8572-0335F35EBF36",
+        "type": "message",
+        "text": "<@UPSPAMY7M> 気になるので参加してみたいです！",
+        "user": "UPSPAP97D",
+        "ts": "1615351301.004800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BXIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 気になるので参加してみたいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "23f9c489-a2a0-4357-97e0-149d951f3a1a",
+        "type": "message",
+        "text": "参加したいです:raised_hands::raised_hands::raised_hands::raised_hands::raised_hands:",
+        "user": "U01EPKVACEN",
+        "ts": "1615351384.005000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "utNiV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "参加したいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "705C970E-33AE-4265-BD1B-D915E84C6CE4",
+        "type": "message",
+        "text": "参加したいです!!",
+        "user": "U01EP8BUKQT",
+        "ts": "1615351916.005400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ged914d7ba7b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed914d7ba7bbb4f21370d607232d99bf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "上田　健登",
+            "real_name": "上田　健登",
+            "display_name": "kento",
+            "team": "TKS1Q2JUE",
+            "name": "ueken110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "++aZd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "参加したいです!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

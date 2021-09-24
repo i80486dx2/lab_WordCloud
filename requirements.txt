@@ -1,0 +1,4 @@
+mecab-python3==1.0.4
+numpy==1.19.5
+Pillow==8.3.2
+wordcloud==1.8.1

@@ -1,0 +1,189 @@
+[
+    {
+        "type": "message",
+        "text": "<@UPRE1RSJW> シェアカーのドライバーデータ解析とマクロなマップでの解析の結合をさせるストーリーを描いてみました。こんな感じの落とし所でいかがでしょうか？",
+        "files": [
+            {
+                "id": "F021M8DM7V5",
+                "created": 1621211195,
+                "timestamp": 1621211195,
+                "name": "シェアカーデータ解析ストーリー.pptx",
+                "title": "シェアカーデータ解析ストーリー.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 7925315,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F021M8DM7V5\/________________________________________________.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F021M8DM7V5\/download\/________________________________________________.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F021M8DM7V5-5117ff512d\/_________________________________________________converted.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F021M8DM7V5-5117ff512d\/_________________________________________________thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F021M8DM7V5\/________________________________________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F021M8DM7V5-5e3efacc2f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zD53",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " シェアカーのドライバーデータ解析とマクロなマップでの解析の結合をさせるストーリーを描いてみました。こんな感じの落とし所でいかがでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAMY7M",
+        "display_as_bot": false,
+        "ts": "1621211203.051900",
+        "thread_ts": "1621211203.051900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1621213148.053600",
+        "reply_users": [
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1621213148.053600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "35f00a7e-5f03-4784-a08b-51ae6f226496",
+        "type": "message",
+        "text": "実はこの週末に３指標でクラスタリングしてみました。Lictia前の交差点になりますが、3つのクラスターに分けられそうです。\n<https:\/\/docs.google.com\/presentation\/d\/1PQtwBYexQcTCHo_DN4J-lIwOCSVnLlQDAgG9Np_dmqk\/edit?usp=sharing>",
+        "user": "UPRE1RSJW",
+        "ts": "1621213093.053400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7BA3U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "実はこの週末に３指標でクラスタリングしてみました。Lictia前の交差点になりますが、3つのクラスターに分けられそうです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1PQtwBYexQcTCHo_DN4J-lIwOCSVnLlQDAgG9Np_dmqk\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621213093.053400",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1621909786.000700",
+        "reply_users": [
+            "UPSPAMY7M",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1621909421.000100"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1621909501.000300"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1621909554.000500"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1621909786.000700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4e29592e-a426-4b32-a534-120a46c381d1",
+        "type": "message",
+        "text": "ありがとうございます。参考にします。",
+        "user": "UPRE1RSJW",
+        "ts": "1621213148.053600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IxHR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。参考にします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621211203.051900",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

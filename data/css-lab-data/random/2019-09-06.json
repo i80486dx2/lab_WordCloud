@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "3504daad-adbd-4722-9e82-35722cb76e89",
+        "type": "message",
+        "text": "<!channel> ちなみに宿泊先はシャンプーやボディソープはあるけどタオルはないです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1567807920.000800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4427a75-4ec8-4511-ab10-769430d6dd49",
+        "type": "message",
+        "text": "餃子の福包 代々木八幡店\n日本、〒151-0063 東京都渋谷区富ケ谷１丁目３−１２\n+81 3-5790-9126\n<https:\/\/maps.app.goo.gl\/iFMinAQNqoQiJUzN9>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1567828897.000100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "餃子の福包 代々木八幡店",
+                "title_link": "https:\/\/maps.app.goo.gl\/iFMinAQNqoQiJUzN9",
+                "text": "★★★★☆ · Chinese restaurant · 1-chōme-3-12 Tomigaya",
+                "fallback": "餃子の福包 代々木八幡店",
+                "thumb_url": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipOM2b94U6nBYzPzhU1B8UOawCl-PYOhxMn9oP83",
+                "from_url": "https:\/\/maps.app.goo.gl\/iFMinAQNqoQiJUzN9",
+                "thumb_width": 384,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "service_name": "google.com",
+                "id": 1,
+                "original_url": "https:\/\/maps.app.goo.gl\/iFMinAQNqoQiJUzN9"
+            }
+        ]
+    }
+]

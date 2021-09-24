@@ -1,0 +1,158 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010S0FV5B7",
+                "created": 1585159898,
+                "timestamp": 1585159898,
+                "name": "inv3000-100.csv",
+                "title": "inv3000-100.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 1175453,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010S0FV5B7\/inv3000-100.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010S0FV5B7\/download\/inv3000-100.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F010S0FV5B7\/inv3000-100.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F010S0FV5B7-63ee3d6252",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F010G8GM4CR",
+                "created": 1585159898,
+                "timestamp": 1585159898,
+                "name": "rand3000-100.csv",
+                "title": "rand3000-100.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UKUKA65GU",
+                "editable": true,
+                "size": 875453,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010G8GM4CR\/rand3000-100.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010G8GM4CR\/download\/rand3000-100.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F010G8GM4CR\/rand3000-100.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F010G8GM4CR-2cb4ba17a5",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F010G8GM4CR\/rand3000-100.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F010S9PQA48",
+                "created": 1585159898,
+                "timestamp": 1585159898,
+                "name": "UnzipMask.ipynb",
+                "title": "UnzipMask.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 27319,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010S9PQA48\/unzipmask.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010S9PQA48\/download\/unzipmask.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F010S9PQA48\/unzipmask.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F010S9PQA48-ea612752f5",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F010DGAFN2E",
+                "created": 1585159898,
+                "timestamp": 1585159898,
+                "name": "MakeMask.ipynb",
+                "title": "MakeMask.ipynb",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UKUKA65GU",
+                "editable": true,
+                "size": 2367,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010DGAFN2E\/makemask.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010DGAFN2E\/download\/makemask.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F010DGAFN2E\/makemask.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F010DGAFN2E-304745c7f3",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F010DGAFN2E\/makemask.ipynb\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UKUKA65GU",
+        "ts": "1585159900.001800",
+        "client_msg_id": "4fc9a079-f533-4b32-8399-1a1caf9a7174"
+    },
+    {
+        "client_msg_id": "bf6864a8-7c36-41b5-8417-279aaa722a0d",
+        "type": "message",
+        "text": "夜遅くに失礼します、進歩の報告です。\nなかなかまだデータの分析に関してはあまり進んでいないのですが、マスク処理がPythonで一気に行えるようなコードができたので、あげておきます。\nMakeMaskの方で、マスク処理をしたい元データと、上二つの乱数表を用いることで、マスク処理がされたcsvファイルが作成され、UnzipMaskの方で、マスク処理されたcsvファイルから元のデータが復元できます。\n明日、全てデータをマスク処理できると思うので遅くなってしまい申し訳ありませんが実践的な分析は明日以降行っていこうと思います。",
+        "user": "UKUKA65GU",
+        "ts": "1585160014.004600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ybO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "夜遅くに失礼します、進歩の報告です。\nなかなかまだデータの分析に関してはあまり進んでいないのですが、マスク処理がPythonで一気に行えるようなコードができたので、あげておきます。\nMakeMaskの方で、マスク処理をしたい元データと、上二つの乱数表を用いることで、マスク処理がされたcsvファイルが作成され、UnzipMaskの方で、マスク処理されたcsvファイルから元のデータが復元できます。\n明日、全てデータをマスク処理できると思うので遅くなってしまい申し訳ありませんが実践的な分析は明日以降行っていこうと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

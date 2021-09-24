@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "6432ed45-d29d-4da8-9caf-4524aad8fc04",
+        "type": "message",
+        "text": "<@U01KC41PR9C> <@U01EL0SAUTF> 明日17:00のmtgも前回と同じくこちらで：\n<https:\/\/us06web.zoom.us\/j\/99266177893?pwd=OWJOeHAzaW1mQmhVWEpmNitaamVwdz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619965134.044600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qmDxF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日17:00のmtgも前回と同じくこちらで：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/99266177893?pwd=OWJOeHAzaW1mQmhVWEpmNitaamVwdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C",
+                    "U01EL0SAUTF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5058ba8d-a193-4f02-ab09-3b427dbfcfaf",
+        "type": "message",
+        "text": "5\/6（木）13時にグループミーティングで報告しないといけないので、その点についても相談したく。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619965198.045500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZL=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5\/6（木）13時にグループミーティングで報告しないといけないので、その点についても相談したく。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C",
+                    "U01EL0SAUTF"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

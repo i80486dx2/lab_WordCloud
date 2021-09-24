@@ -1,0 +1,306 @@
+[
+    {
+        "type": "message",
+        "text": "タグセットの成長分析　ここまでの進捗について\n1: Novelty Rate（新たなタグを含むタグセットが選ばれる確率の推移）について\n→グラフで、べき乗則で減衰することまではわかっているが、時間t（タグセット生成の何回目か）の関数では表せていない\n\n2: モデルについて\n→1つ目のタグが生まれる瞬間や、タグセットのルールなどは大まかには定まった\n\n3: タグセットのタグの個数に上限を設けない場合について\n→上限を決めずに100万個のタグセットを生成するまでの、NoveltyRateをグラフで表したが、今までと変わらない、減衰でべき乗則になっている。（図のグラフ）\n\n・考えたいこと\n①タグセットに\"1\"を含むタグが、どのように増えていくか\n→タグセットを構成するタグの数が1つのときはユールサイモンモデルに従うが、タグセットとして1が中に構成されてるものの増え方は、少し変わるのではないかと予想中\n②時間tの関数について\n→仮に100個目のタグが生成された時点で、101個目のNoveltyRateがいくらかについては、1-100個目までの増え方に依存するため、一つの値に決まらないような気がする。\nただ、正規分布か何かみたいに「101個目のNoveltyRateがα以下になる確率」などは求められるかもしれないと思ったり...",
+        "files": [
+            {
+                "id": "F024GVA7941",
+                "created": 1622895637,
+                "timestamp": 1622895637,
+                "name": "スクリーンショット 2021-06-05 21.20.35.png",
+                "title": "スクリーンショット 2021-06-05 21.20.35.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 148259,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F024GVA7941\/____________________________2021-06-05_21.20.35.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F024GVA7941\/download\/____________________________2021-06-05_21.20.35.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024GVA7941-e1f22a71a8\/____________________________2021-06-05_21.20.35_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024GVA7941-e1f22a71a8\/____________________________2021-06-05_21.20.35_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024GVA7941-e1f22a71a8\/____________________________2021-06-05_21.20.35_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 232,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024GVA7941-e1f22a71a8\/____________________________2021-06-05_21.20.35_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 310,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024GVA7941-e1f22a71a8\/____________________________2021-06-05_21.20.35_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024GVA7941-e1f22a71a8\/____________________________2021-06-05_21.20.35_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 464,
+                "original_w": 772,
+                "original_h": 498,
+                "thumb_tiny": "AwAeADDSxz1o47ijv1paADAowKTGOn5UoOaADApMUtBoATv1paQ545o5z1oAWgjNJzzzSc7c0ALyKD2o54oxzQB\/\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F024GVA7941\/____________________________2021-06-05_21.20.35.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F024GVA7941-054735bc5d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pEVij",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "タグセットの成長分析　ここまでの進捗について\n1: Novelty Rate（新たなタグを含むタグセットが選ばれる確率の推移）について\n→グラフで、べき乗則で減衰することまではわかっているが、時間t（タグセット生成の何回目か）の関数では表せていない\n\n2: モデルについて\n→1つ目のタグが生まれる瞬間や、タグセットのルールなどは大まかには定まった\n\n3: タグセットのタグの個数に上限を設けない場合について\n→上限を決めずに100万個のタグセットを生成するまでの、NoveltyRateをグラフで表したが、今までと変わらない、減衰でべき乗則になっている。（図のグラフ）\n\n・考えたいこと\n①タグセットに\"1\"を含むタグが、どのように増えていくか\n→タグセットを構成するタグの数が1つのときはユールサイモンモデルに従うが、タグセットとして1が中に構成されてるものの増え方は、少し変わるのではないかと予想中\n②時間tの関数について\n→仮に100個目のタグが生成された時点で、101個目のNoveltyRateがいくらかについては、1-100個目までの増え方に依存するため、一つの値に決まらないような気がする。\nただ、正規分布か何かみたいに「101個目のNoveltyRateがα以下になる確率」などは求められるかもしれないと思ったり..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKUKA65GU",
+        "display_as_bot": false,
+        "ts": "1622896076.012100"
+    },
+    {
+        "client_msg_id": "67e4f183-8fd1-4f2e-8033-538fdc47a694",
+        "type": "message",
+        "text": "まさしくんに、少しデータでみてもらいたいこと\n→例えば、データに[45,80,255,1305]みたいなタグセットのデータがあったとして、[45,80]が含まれるタグセット（例えば、[45,80],[45,80,225]とか、タグセットの中に45,80が双方入っているもの)を少し探して欲しくて\nある程度存在する数字の組み合わせ（番号がどのタグかなどをみてるとキリがないかもしれないけど、[ニトリ、ソファ]とかならいっぱい存在しそうなイメージである決まった数字2つの組み合わせがデータに多く存在するもの）を探せたらそのタグの組み合わせの選ばれ方とかを少し見て欲しい",
+        "user": "UKUKA65GU",
+        "ts": "1622896201.014400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/AZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まさしくんに、少しデータでみてもらいたいこと\n→例えば、データに[45,80,255,1305]みたいなタグセットのデータがあったとして、[45,80]が含まれるタグセット（例えば、[45,80],[45,80,225]とか、タグセットの中に45,80が双方入っているもの)を少し探して欲しくて\nある程度存在する数字の組み合わせ（番号がどのタグかなどをみてるとキリがないかもしれないけど、[ニトリ、ソファ]とかならいっぱい存在しそうなイメージである決まった数字2つの組み合わせがデータに多く存在するもの）を探せたらそのタグの組み合わせの選ばれ方とかを少し見て欲しい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622896201.014400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1622899684.016000",
+        "reply_users": [
+            "U01EVRBP38C",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622899313.015800"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1622899684.016000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d1a0fcde-97c2-410b-b974-b81fef5066be",
+        "type": "message",
+        "text": "何か少し、アイデアだったり意見だったり、質問があったら教えてください:man-bowing:",
+        "user": "UKUKA65GU",
+        "ts": "1622896754.014800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9a7Iz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何か少し、アイデアだったり意見だったり、質問があったら教えてください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ea0fd14-dcb5-4cde-a908-550f42637ad4",
+        "type": "message",
+        "text": "ある時刻tでのNoveltyRateを、期待値で出してグラフ化してみます",
+        "user": "UKUKA65GU",
+        "ts": "1622898854.015400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p3F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ある時刻tでのNoveltyRateを、期待値で出してグラフ化してみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D50AA3EF-AA03-4072-A865-09A95A32DFFB",
+        "type": "message",
+        "text": "了解です:man-raising-hand:",
+        "user": "U01EVRBP38C",
+        "ts": "1622899313.015800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-raising-hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622896201.014400",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "9def8d5a-45e1-413e-9d2b-6a0aedd4bfe1",
+        "type": "message",
+        "text": "よろしくお願いします:pray:",
+        "user": "UKUKA65GU",
+        "ts": "1622899684.016000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GM3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622896201.014400",
+        "parent_user_id": "UKUKA65GU"
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "client_msg_id": "be031f09-bc42-4256-8ad0-a326c2a1a5b6",
+        "type": "message",
+        "text": "pythonの学習サイトを見つけた。GUI、データ解析の手段,webについての派生知識が簡潔にかかれている。だからpythonを使う、使ってる人はこれで知識を蓄積してもいいと思った。（詳しく見ていないので、保障はできないのだが。）\n<https:\/\/www.python-izm.com\/>",
+        "user": "U01F42ZFA73",
+        "ts": "1607944700.077900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1607944976.000000"
+        },
+        "attachments": [
+            {
+                "title": "Python-izm",
+                "title_link": "https:\/\/www.python-izm.com\/",
+                "text": "わかりやすさを重視したPythonの学習サイトです。サンプルコードと実行結果を掲載し、基本構文からWebアプリ、GUIアプリなどもサポートしています。",
+                "fallback": "Python-izm",
+                "image_url": "https:\/\/www.python-izm.com\/wp-content\/uploads\/2017\/01\/site_icon.png",
+                "from_url": "https:\/\/www.python-izm.com\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 126364,
+                "service_icon": "https:\/\/www.python-izm.com\/wp-content\/uploads\/2017\/01\/cropped-site_icon-2-180x180.png",
+                "service_name": "python-izm.com",
+                "id": 1,
+                "original_url": "https:\/\/www.python-izm.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6EUiZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pythonの学習サイトを見つけた。GUI、データ解析の手段,webについての派生知識が簡潔にかかれている。だからpythonを使う、使ってる人はこれで知識を蓄積してもいいと思った。（詳しく見ていないので、保障はできないのだが。）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.python-izm.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "UKH07E67M",
+                    "U01EL0SAUTF"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cb5fc7b-836c-4153-b3a7-10ac4774e2cf",
+        "type": "message",
+        "text": "今日は（昨日は）<@U01EPKVACEN> 君の誕生日だったそうではないですか。おめでとうございます！\nちなみに <@U016X0FK7FB> というボットが動いてるので、是非皆さん登録を…。<!channel>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1607958235.079600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "31pT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日は（昨日は）"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君の誕生日だったそうではないですか。おめでとうございます！\nちなみに "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016X0FK7FB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " というボットが動いてるので、是非皆さん登録を…。"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "UKH07E67M",
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "U01EP8BUKQT",
+                    "U01EVRBP38C",
+                    "UQ63J44BZ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EVRBP38C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U01EPKVACEN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "bot_id": "B0163K2E5NK",
+        "type": "message",
+        "text": "This content can't be displayed.",
+        "user": "U016X0FK7FB",
+        "ts": "1607958236.079700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B0163K2E5NK",
+            "deleted": false,
+            "name": "BirthdayBot",
+            "updated": 1593844121,
+            "app_id": "A0QAZV90X",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "RvCYo",
+                "text": {
+                    "type": "plain_text",
+                    "text": "Hey, let's rather talk in direct messages.",
+                    "emoji": true
+                },
+                "accessory": {
+                    "type": "button",
+                    "text": {
+                        "type": "plain_text",
+                        "text": "Chat with BirthdayBot",
+                        "emoji": true
+                    },
+                    "url": "slack:\/\/app?id=A0QAZV90X&team=TKS1Q2JUE&tab=messages",
+                    "action_id": "wie"
+                }
+            }
+        ]
+    }
+]

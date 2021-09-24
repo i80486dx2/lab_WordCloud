@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "896c3654-c957-44e4-8ab1-56f7ba7b6ed8",
+        "type": "message",
+        "text": "同時に以下の本をベースにしたスクールもあるそうです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1609840020.082900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mqug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "同時に以下の本をベースにしたスクールもあるそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609826915.082600",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "18946196-5177-4d85-b425-e19fe5229a88",
+        "type": "message",
+        "text": "<https:\/\/www.maruzen-publishing.co.jp\/item\/?book_no=304030>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1609840021.083100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "計算社会科学入門 - 丸善出版 理工・医学・人文社会科学の専門書出版社",
+                "title_link": "https:\/\/www.maruzen-publishing.co.jp\/item\/?book_no=304030",
+                "text": "会社説明",
+                "fallback": "計算社会科学入門 - 丸善出版 理工・医学・人文社会科学の専門書出版社",
+                "image_url": "http:\/\/www.maruzen-publishing.co.jp\/images\/book\/304030\/304030.jpg",
+                "from_url": "https:\/\/www.maruzen-publishing.co.jp\/item\/?book_no=304030",
+                "image_width": 177,
+                "image_height": 250,
+                "image_bytes": 22638,
+                "service_icon": "https:\/\/www.maruzen-publishing.co.jp\/favicon.ico",
+                "service_name": "maruzen-publishing.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.maruzen-publishing.co.jp\/item\/?book_no=304030"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WDf2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.maruzen-publishing.co.jp\/item\/?book_no=304030"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1609826915.082600",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

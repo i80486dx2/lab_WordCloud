@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "79b96d75-51d9-4925-9a1f-4c637b9fc0af",
+        "type": "message",
+        "text": "2年生で総合格闘技をやっていた男子が月曜の稽古にくるやもしれぬ。パパさんはボクシングをやっていたそうな。逸材？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618136295.035000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oFwuF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2年生で総合格闘技をやっていた男子が月曜の稽古にくるやもしれぬ。パパさんはボクシングをやっていたそうな。逸材？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01EVRBP38C",
+                    "U01RVMS0XBL",
+                    "U01FP2RDV44",
+                    "U01EPKVACEN",
+                    "U01TMSLEBUH",
+                    "UKH07E67M",
+                    "UKUKA65GU"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

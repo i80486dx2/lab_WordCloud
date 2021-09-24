@@ -1,0 +1,280 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616143899.001500",
+        "user": "UPRE1RSJW",
+        "text": "<@UPRE1RSJW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616169413.002900",
+        "user": "U01SJC3RVMW",
+        "text": "<@U01SJC3RVMW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616203382.003300",
+        "user": "U01RVMS0XBL",
+        "text": "<@U01RVMS0XBL> has joined the channel"
+    },
+    {
+        "client_msg_id": "71f40958-f4bd-4ff7-a4c0-1d871d80f0aa",
+        "type": "message",
+        "text": "<!channel> ようこそ！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1616207139.003700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CN26",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ようこそ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54606983-9955-41c5-97e0-32e3ed4e2dfa",
+        "type": "message",
+        "text": "<@U01RVMS0XBL> <@U01SJC3RVMW> 卒業おめでとうございます。研究室に顔を出してくれたみたいでどうもありがとう。不在で申し訳なかったです。\n\n＞大川原くん\nもう引っ越し完了？東京に行ったときは時間が合えばご飯食べに行こう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1616207319.005700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=+k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RVMS0XBL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01SJC3RVMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 卒業おめでとうございます。研究室に顔を出してくれたみたいでどうもありがとう。不在で申し訳なかったです。\n\n＞大川原くん\nもう引っ越し完了？東京に行ったときは時間が合えばご飯食べに行こう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb1fb767-df3f-4cc3-b145-37452273275f",
+        "type": "message",
+        "text": "部外者（会津大生）から部外者（一般人）にジョブチェンジした大川原です。\nおじゃましま～す。\n東京に来た際は声かけてくださいね〜\n飯をおごります（丸亀）",
+        "user": "U01SJC3RVMW",
+        "ts": "1616207400.005900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "aacfb17421e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1892337540497_aacfb17421e2de70918b_72.jpg",
+            "first_name": "yutoriboy200x",
+            "real_name": "Shun Okawara",
+            "display_name": "shun",
+            "team": "TKS1Q2JUE",
+            "name": "yutoriboy200x",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zLuMv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "部外者（会津大生）から部外者（一般人）にジョブチェンジした大川原です。\nおじゃましま～す。\n東京に来た際は声かけてくださいね〜\n飯をおごります（丸亀）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "064c3c6e-7c2c-47b2-8141-42efbf5c2670",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> \n引っ越し完了して、千葉なうです\n東京来たときは声かけてくださいね:monkey_face:",
+        "user": "U01SJC3RVMW",
+        "ts": "1616207461.007300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "aacfb17421e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1892337540497_aacfb17421e2de70918b_72.jpg",
+            "first_name": "yutoriboy200x",
+            "real_name": "Shun Okawara",
+            "display_name": "shun",
+            "team": "TKS1Q2JUE",
+            "name": "yutoriboy200x",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FlR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n引っ越し完了して、千葉なうです\n東京来たときは声かけてくださいね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "monkey_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UPSPAP97D",
+                    "UKH07E67M",
+                    "U01EVRBP38C"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A3756785-72DD-4E4F-AD11-D97F2E47D398",
+        "type": "message",
+        "text": "4月から橋本研近くの研究室に引っ越すみっさーです。古武術や課プロで先生にお世話になってます〜大川原くんと同期です。\nよろしくお願いします:woman-bowing:\nあ、名前は小堺と言います。",
+        "user": "U01RVMS0XBL",
+        "ts": "1616207928.009700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5be9452389a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1881726444851_5be9452389a3277ddc65_72.png",
+            "first_name": "Misaki",
+            "real_name": "Misaki Kozakai",
+            "display_name": "missaa",
+            "team": "TKS1Q2JUE",
+            "name": "s1250194",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "edited": {
+            "user": "U01RVMS0XBL",
+            "ts": "1616219086.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4月から橋本研近くの研究室に引っ越すみっさーです。古武術や課プロで先生にお世話になってます〜大川原くんと同期です。\nよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあ、名前は小堺と言います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UPSPAP97D",
+                    "UKH07E67M",
+                    "U01EVRBP38C"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1616209925.010500",
+        "user": "UPSPAP97D",
+        "text": "<@UPSPAP97D> has joined the channel"
+    }
+]

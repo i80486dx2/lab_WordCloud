@@ -1,0 +1,300 @@
+[
+    {
+        "client_msg_id": "06aa0b46-80b8-4070-973f-1f878acdae0d",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01F31EEVNV> <@U01EV766AH2> <@U01EPKVACEN> <@U01EP8BUKQT>\n\n明日のミーティングは以下のリンクで行います。また、LICTiAの会議室からつなぐので場所がないと言う方はLICTiAまでお越しください。\n<https:\/\/zoom.us\/j\/99616483342?pwd=M0RFbmllWmpTM0pyL3ZNMXp0MVRDUT09>",
+        "user": "UPSPAMY7M",
+        "ts": "1616331886.002000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XSFG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n明日のミーティングは以下のリンクで行います。また、LICTiAの会議室からつなぐので場所がないと言う方はLICTiAまでお越しください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/99616483342?pwd=M0RFbmllWmpTM0pyL3ZNMXp0MVRDUT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "U01F31EEVNV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01F31EEVNV> <@U01EV766AH2> <@U01EPKVACEN> <@U01EP8BUKQT>\n先程の資料展開します。次回は４月６日（火）17:00〜になります。",
+        "files": [
+            {
+                "id": "F01RT6LKU5U",
+                "created": 1616394142,
+                "timestamp": 1616394142,
+                "name": "VR輪講.pptx",
+                "title": "VR輪講.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 47832,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01RT6LKU5U\/vr______.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01RT6LKU5U\/download\/vr______.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RT6LKU5U-079d5ce5b4\/vr_______converted.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RT6LKU5U-079d5ce5b4\/vr_______thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F01RT6LKU5U\/vr______.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01RT6LKU5U-ed026f722e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NhtH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n先程の資料展開します。次回は４月６日（火）17:00〜になります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAMY7M",
+        "display_as_bot": false,
+        "ts": "1616394183.002400",
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b196953e-1614-4043-b49d-80c78ac6065d",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01F31EEVNV> <@U01EV766AH2> <@U01EPKVACEN> <@U01EP8BUKQT>\n忘れていました。輪講の論文はリンク先のものです。よろしくお願いします。\n<https:\/\/www.dropbox.com\/s\/w26jkljue0a14ik\/A%20Virtual%20Reality%20Dance%20Training%20System%20Using%20Motion%20Capture%20Technology.pdf?dl=0>",
+        "user": "UPSPAMY7M",
+        "ts": "1616395865.003100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vr=L9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n忘れていました。輪講の論文はリンク先のものです。よろしくお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/w26jkljue0a14ik\/A%20Virtual%20Reality%20Dance%20Training%20System%20Using%20Motion%20Capture%20Technology.pdf?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

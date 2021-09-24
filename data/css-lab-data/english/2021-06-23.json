@@ -1,0 +1,1072 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1624444777.202800",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1624444777.202800",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624964303.233900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624458185.203100"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624509237.205200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624523839.206600"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1624964303.233900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624964303.233900",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「大丈夫、君はコロナウイルスじゃない。ただの恋煩いだ」 <https:\/\/pbs.twimg.com\/media\/E4j5xZbVUAE0R_D.jpg>",
+                "ts": 1624444772,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1407649516602286086",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1407649516602286086>",
+                "text": "「大丈夫、君はコロナウイルスじゃない。ただの恋煩いだ」 <https:\/\/pbs.twimg.com\/media\/E4j5xZbVUAE0R_D.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1407649516602286086",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E4j5xZbVUAE0R_D.jpg",
+                "image_width": 400,
+                "image_height": 510,
+                "image_bytes": 80901,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1624453191.202900",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1624453191.202900",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624936836.231400",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624458397.203700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624510086.205700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624524087.207100"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1624936836.231400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624936836.231400",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「大丈夫。すべての事には理由があるの」 <https:\/\/pbs.twimg.com\/media\/E4kZ0XSUYAAHSzK.jpg>",
+                "ts": 1624453185,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1407684805647486978",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1407684805647486978>",
+                "text": "「大丈夫。すべての事には理由があるの」 <https:\/\/pbs.twimg.com\/media\/E4kZ0XSUYAAHSzK.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1407684805647486978",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E4kZ0XSUYAAHSzK.jpg",
+                "image_width": 400,
+                "image_height": 500,
+                "image_bytes": 55868,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa8d962f-a7d2-4ae0-a09e-29e0005f5a05",
+        "type": "message",
+        "text": "Don't worry. You're not infected with the Corona virus. It's just a love sickness.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624458185.203100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9INx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't worry. You're not infected with the Corona virus. It's just a love sickness."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624444777.202800"
+    },
+    {
+        "client_msg_id": "6b338be2-99da-44b0-945d-b2d370db4da0",
+        "type": "message",
+        "text": "反省会「大丈夫、君はコロナウイルスじゃない。ただの恋煩いだ」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624458195.203400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CPK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「大丈夫、君はコロナウイルスじゃない。ただの恋煩いだ」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458195.203400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624965218.234100",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624458356.203500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624509939.205400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624523954.206800"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1624965218.234100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624965218.234100"
+    },
+    {
+        "client_msg_id": "e9b3ee6f-5b63-4105-ba98-d8a7e7e150d2",
+        "type": "message",
+        "text": "`Don't worry. You're not infected with the Corona virus. It's just a love sickness.`\nDeepL：心配しないでください。あなたはコロナ・ウイルスに感染していません。ただの恋の病です。\n\n• don't have Coronavirus と be not infected with Coronavirus は interchangeable？\n• 恋煩いの冠詞は a でもいい気がするが。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624458356.203500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aEgQW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't worry. You're not infected with the Corona virus. It's just a love sickness.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：心配しないでください。あなたはコロナ・ウイルスに感染していません。ただの恋の病です。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "don't have Coronavirus と be not infected with Coronavirus は interchangeable？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "恋煩いの冠詞は a でもいい気がするが。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458195.203400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "7fd3b764-5332-4ccf-a0b4-4699516165f0",
+        "type": "message",
+        "text": "Don't worry. Everything has a reason.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624458397.203700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c3OV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't worry. Everything has a reason."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624453191.202900"
+    },
+    {
+        "client_msg_id": "2eefbc1c-4cd1-4faf-9526-edc8cb1a5607",
+        "type": "message",
+        "text": "反省会「大丈夫。すべての事には理由があるの」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624458408.204100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a=r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「大丈夫。すべての事には理由があるの」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458408.204100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624937432.231600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624458507.204200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624510277.205900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624524211.207300"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1624937432.231600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624937432.231600"
+    },
+    {
+        "client_msg_id": "208617c7-1164-4641-ab57-80d44ac7ed84",
+        "type": "message",
+        "text": "`Don't worry. Everything has a reason.`\nDeepL：安心してください。すべてに理由があります。\n\n• 「happen for a reason = 理由があって起こる」なるほど。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624458507.204200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jnSps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't worry. Everything has a reason.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：安心してください。すべてに理由があります。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「happen for a reason = 理由があって起こる」なるほど。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458408.204100",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "南よ、海の見えるほう！（キキ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1624462378.204400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624462378.204400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624524381.207500",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624464459.204800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624510415.206100"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624524381.207500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624524381.207500"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：南よ、海の見えるほう！",
+        "user": "U01UMQH4W4B",
+        "ts": "1624462378.204500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624462378.204500",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624525031.207700",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1624462378.204600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624464524.205000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624511221.206300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624525031.207700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624525031.207700"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "I think south, to the ocean.",
+        "user": "U01UMQH4W4B",
+        "ts": "1624462378.204600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624462378.204500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "0386982e-843a-4905-b122-0cbe126f8848",
+        "type": "message",
+        "text": "South, the direction we can see the ocean!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624464459.204800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "go=bB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "South, the direction we can see the ocean!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624462378.204400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "fa2e4a0b-bffe-4365-9671-47cec4e7a99b",
+        "type": "message",
+        "text": "`South, the direction we can see the ocean!`\n\n• これからどっちへ向かう？って文脈だったかな？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624464524.205000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZfPo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "South, the direction we can see the ocean!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "これからどっちへ向かう？って文脈だったかな？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624462378.204500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "19f2eb46-94d2-4625-81bc-a8e0aebe7416",
+        "type": "message",
+        "text": "Don’t worry. You don’t catch a covid-19 virus. It’s just a love sick.",
+        "user": "UPSPAP97D",
+        "ts": "1624509237.205200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PMQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don’t worry. You don’t catch a covid-19 virus. It’s just a love sick."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624444777.202800"
+    },
+    {
+        "client_msg_id": "d438e18e-fe87-4c6b-bca8-9530a61f52ab",
+        "type": "message",
+        "text": "`Don't worry. You don't catch a covid-19 virus. It's just a love sick.`\nDeepL「心配しないでください。コビド19のウイルスはうつりませんよ。ただの恋の病です。」\n\n• 『sick』は「病気の」(形容詞)\n• 『catch』だと、「風邪にかかる動作」らしいので、「かかっている状態」を否定する今回の文ではふさわしくなかった。\n<https:\/\/www.eigowithluke.com\/have-or-catch-a-cold\/>",
+        "user": "UPSPAP97D",
+        "ts": "1624509939.205400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "英語 with Luke",
+                "title": "have a cold と catch a coldの違いは何でしょうか - 英語 with Luke",
+                "title_link": "https:\/\/www.eigowithluke.com\/have-or-catch-a-cold\/",
+                "text": "前回、風邪とcoldの違いについての記事を投稿したのですが、読者の方から「catch a coldとhave a coldの意味は同じですか？」という質問をいただきました。確かに、これは少し分かり辛いかもしれませんね。しかし、ポイントさえ押さえれば理解出来ることなので、今日はそれについて説明します。 まず、「catch a cold」は、「風邪を引くという動作」を表します。一方で、「have a cold」は、「風邪を引いている状態」を表します。ですので、 I caught a cold from my daughter. 娘の風邪が移った。 を、 X I have a cold from my daughter. と、いうことは出来ません。なぜならこの「I caught a cold from my daughter.」という文章は、「風邪が移った」という「動作」についての話だからです。 以下の例文を見ると、両方の使い方が分かると思います。 If I have a cold, then maybe you will catch a cold too. 私が風邪なら、あなたも風邪を引くかもしれないね。 そして、いつ風邪を引いたのかを「have a cold」で表す場合は、「since」を使って、「いつから風邪を引いている状態になったのか」を説明します。 I have had...",
+                "fallback": "英語 with Luke: have a cold と catch a coldの違いは何でしょうか - 英語 with Luke",
+                "ts": 1370865319,
+                "from_url": "https:\/\/www.eigowithluke.com\/have-or-catch-a-cold\/",
+                "service_icon": "https:\/\/www.eigowithluke.com\/wp-content\/uploads\/2020\/09\/cropped-EWL-emblem-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.eigowithluke.com\/have-or-catch-a-cold\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PAG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't worry. You don't catch a covid-19 virus. It's just a love sick.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「心配しないでください。コビド19のウイルスはうつりませんよ。ただの恋の病です。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『sick』は「病気の」(形容詞)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『catch』だと、「風邪にかかる動作」らしいので、「かかっている状態」を否定する今回の文ではふさわしくなかった。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eigowithluke.com\/have-or-catch-a-cold\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458195.203400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "b93d6f53-3470-4757-aee0-25e344b973c0",
+        "type": "message",
+        "text": "Don’t worry. Everything have a reason.",
+        "user": "UPSPAP97D",
+        "ts": "1624510086.205700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don’t worry. Everything have a reason."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624453191.202900"
+    },
+    {
+        "client_msg_id": "314fdc7b-39fc-414f-aff9-1064d3666f3f",
+        "type": "message",
+        "text": "`Don't worry. Everything have a reason.`\nDeepL「心配しないでください。すべてに理由があります。」\n\n• 『everything』は単数扱い。",
+        "user": "UPSPAP97D",
+        "ts": "1624510277.205900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LpWrW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't worry. Everything have a reason.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「心配しないでください。すべてに理由があります。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『everything』は単数扱い。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458408.204100",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "58b7a698-6695-4111-9a94-c62df17070de",
+        "type": "message",
+        "text": "For south where we can view the sea.",
+        "user": "UPSPAP97D",
+        "ts": "1624510415.206100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jf8P0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For south where we can view the sea."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624462378.204400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "1d99c23a-e032-45b7-ad1b-2642788d08d0",
+        "type": "message",
+        "text": "`For south where we can view the sea.`\nDeepL「海が見える南側へ」\n\n• 僕の文の whereの使用法間違っている気がする…\n• 「海」は『sea』しか思いつかなかった。そして『sea』の方が『ocean』より狭いのか。(Pacific Oceanとか言うもんなぁ)\n<https:\/\/juken.oricon.co.jp\/rank_english\/news\/2075189\/>",
+        "user": "UPSPAP97D",
+        "ts": "1624511221.206300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CS RANKING",
+                "title": "「sea」と「ocean」の違いって何？　“海”にまつわる英語表現を紹介 ｜英会話教室関連ニュース｜オリコン顧客満足度ランキング",
+                "title_link": "https:\/\/juken.oricon.co.jp\/rank_english\/news\/2075189\/",
+                "text": "「sea」と「ocean」の違いって何？ 7月の第3月曜日は「海の日（Marine Day）」。連休最終日でもあり、旅行をしている人や家族で過ごす人など様々だろう。一般的に、“海”は英語で「sea」や「ocean」というが、実は違いがある。今回は、海にまつわる...",
+                "fallback": "CS RANKING: 「sea」と「ocean」の違いって何？　“海”にまつわる英語表現を紹介 ｜英会話教室関連ニュース｜オリコン顧客満足度ランキング",
+                "image_url": "https:\/\/contents.oricon.co.jp\/upimg\/news\/20160718\/2075189_201607180955080001468808409c.jpg",
+                "from_url": "https:\/\/juken.oricon.co.jp\/rank_english\/news\/2075189\/",
+                "image_width": 377,
+                "image_height": 250,
+                "image_bytes": 58233,
+                "service_icon": "https:\/\/juken.oricon.co.jp\/oricon.ico",
+                "id": 1,
+                "original_url": "https:\/\/juken.oricon.co.jp\/rank_english\/news\/2075189\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CzIjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For south where we can view the sea.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「海が見える南側へ」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "僕の文の whereの使用法間違っている気がする…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「海」は『sea』しか思いつかなかった。そして『sea』の方が『ocean』より狭いのか。(Pacific Oceanとか言うもんなぁ)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/juken.oricon.co.jp\/rank_english\/news\/2075189\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624462378.204500",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

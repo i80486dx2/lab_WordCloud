@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "text": "作業ありがとうございます！文字化けの件と各パラメータ詳細調べておきます。\n\nあと、ユーザーの車の操作に関するパラメータがまとまってきたらこういうモデルを使ってユーザーの運転スキルとかを評価できないか試そうと思います。成瀬先生のロボット工学と自動制御の授業で基礎的なところはちょっと出てたと思いますが、後で解説します。",
+        "files": [
+            {
+                "id": "F019EDCB7KN",
+                "created": 1597969682,
+                "timestamp": 1597969682,
+                "name": "ドライバーモデル.pptx",
+                "title": "ドライバーモデル.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 51451,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F019EDCB7KN\/_________________________________.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F019EDCB7KN\/download\/_________________________________.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F019EDCB7KN-9b3e71a683\/__________________________________converted.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F019EDCB7KN-9b3e71a683\/__________________________________thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F019EDCB7KN\/_________________________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F019EDCB7KN-5af647bb23",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6l0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作業ありがとうございます！文字化けの件と各パラメータ詳細調べておきます。\n\nあと、ユーザーの車の操作に関するパラメータがまとまってきたらこういうモデルを使ってユーザーの運転スキルとかを評価できないか試そうと思います。成瀬先生のロボット工学と自動制御の授業で基礎的なところはちょっと出てたと思いますが、後で解説します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAMY7M",
+        "display_as_bot": false,
+        "ts": "1597969804.000200",
+        "thread_ts": "1597886159.029300",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

@@ -1,0 +1,1897 @@
+[
+    {
+        "client_msg_id": "d52cb730-44cc-42cc-b7b2-bc14ab2e6301",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 二回目のInfomapによるコミュニティの理念? を、該当するuserを抽出し、現在のつぶやきを調べることで予想しました。局地的な意見かもしれないので参考までに。\n\n<https:\/\/www.notion.so\/e2e4f47513014819881ad30feb5172e1>",
+        "user": "UPSPAP97D",
+        "ts": "1626943109.134300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Murakami's Notion on Notion",
+                "title": "強連結成分の可視化+人力コミュニティの理念調べ",
+                "title_link": "https:\/\/www.notion.so\/e2e4f47513014819881ad30feb5172e1",
+                "text": "再掲: 一段階目Infomapコミュニティ毎の 強連結成分のnode数",
+                "fallback": "Murakami's Notion on Notion: 強連結成分の可視化+人力コミュニティの理念調べ",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F364d6505-aa19-4795-9b11-5cf3df64481d%2Fstrong_connection.png?table=block&id=deec4459-cde0-422a-9cf2-073a73195a05&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/e2e4f47513014819881ad30feb5172e1",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 287934,
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/e2e4f47513014819881ad30feb5172e1"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5+RT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 二回目のInfomapによるコミュニティの理念? を、該当するuserを抽出し、現在のつぶやきを調べることで予想しました。局地的な意見かもしれないので参考までに。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/e2e4f47513014819881ad30feb5172e1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eaaabbab-4739-4daa-a23b-8c9710e4c3f1",
+        "type": "message",
+        "text": "<@UPSPAP97D> 論文で使えそうな図があれば、簡単な説明と一緒に、どこかにまとめてもらえますか？\n\n注意点は、ユーザ名が出てしまうのはよくないので、適当な記号に匿名化する必要がある点。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626951727.136000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8G4Yq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 論文で使えそうな図があれば、簡単な説明と一緒に、どこかにまとめてもらえますか？\n\n注意点は、ユーザ名が出てしまうのはよくないので、適当な記号に匿名化する必要がある点。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "reply_count": 36,
+        "reply_users_count": 2,
+        "latest_reply": "1627032531.149100",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626953056.136200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626956105.136500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626956235.136800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626959814.137200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626967367.137500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626969804.137700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627002805.137900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627015874.138300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627016880.138500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627017219.138700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627017421.139000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627017423.139200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627018188.139600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627019653.139900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627019664.140100"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627019837.140400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627022497.140700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627022825.141000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627023665.141300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627024083.142200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627024754.142400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627024960.142800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627026269.143100"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627026437.145700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627027210.145900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627028085.146500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627028129.146800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627028204.147000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627029181.147300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627030989.147800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627031094.148000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627032080.148300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627032302.148500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627032353.148700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627032406.148900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627032531.149100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627032531.149100",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aab225a5-aed2-4428-9a58-934615a05b7d",
+        "type": "message",
+        "text": "序論はだいたいこんな感じ：\n```ソーシャルメディアと呼ばれるサービスが普及して以降、情報配信においてそれまで新聞やテレビといったマスメディアが担っていた役割が相対的に低下し、我々はソーシャルメディアを通じてニュースや有識者（を含む大衆）の意見に触れる機会が増えた。一般に、ソーシャルメディア上では、匿名に近い状態で誰もが任意の意見を発信することができる。そして、多くのソーシャルメディアが独自に有するメッセージ転送機能によって、過去には個人レベルでは不可能であったスケールの大衆へと、そうした個人的な発信を拡散することが可能となった。情報を受信する側から見れば、玉石混交、真偽不明の情報の洪水に晒されることにもなり、以前に増して、情報の取捨選択のリテラシーが問われる時代となっている。こうした状況において、いくつかの問題が指摘されている：\n\n・誤情報や偽情報（いわゆるデマ）の拡散と、それに伴うプライバシーの侵害や物資の不足といった社会的混乱\n・フィルターバブルやエコーチェンバーといった現象に象徴される、意見や思想の先鋭化と社会的分断・対立\n・そうした混乱・対立を助長する組織的な活動\n\n以上の問題は、我々の個人差も含めた認知能力の制約や、「表現の自由」のような尊重されるべき基本的権利の保護といった観点から、決定的な対処が難しいのが現実である。\n\nこれらの問題の緩和に向けた別の方向からのアプローチとして、我々は「情報のフローの可視化」を提案する。情報のフローとは、ソーシャルメディア上で発生する、先に述べた人から人へのメッセージの転送が、どこを起点に、どのような経路で大衆へと拡散していくかを意味しする。一般に、ソーシャルメディアを利用する個々のユーザをネットワークのノードとし、ユーザ間のメッセージ転送をノード間のエッジとみなすと、ソーシャルメディア上の情報の拡散は数理的には重み付きの有向ネットワークとして表現することができる。ここでの重みとはメッセージ転送の頻度に対応する。情報のフローの可視化とは、この重み付き有向ネットワークの可視化に他ならない。情報が拡散する構造とその背後にある固有のパターンを明らかにすることで、意見の対立や支持グループ、潜在する組織的活動、潜在する世論などが可視化され、見えることが客観的な議論へとつながることを我々は期待する。\n\n本論文では、その有効性を確かめるための探索的な可視化の試みについて述べる。ソーシャルメディアTwitterから取得した、COVID-19に対するワクチン関連のツイートを対象に、そのメッセージ転送（リツイート）が構成するネットワークを分析する。主として使用する技術は、ネットワークのクラスタリングと二次元埋め込みによる可視化というよく知られたアプローチだが、本研究の特徴としては、Infomapとして知られる有向ネットワークのクラスタリングアルゴリズムを用いて情報のフローに着目する点にある。```",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626953056.136200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BV7HZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "序論はだいたいこんな感じ：\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ソーシャルメディアと呼ばれるサービスが普及して以降、情報配信においてそれまで新聞やテレビといったマスメディアが担っていた役割が相対的に低下し、我々はソーシャルメディアを通じてニュースや有識者（を含む大衆）の意見に触れる機会が増えた。一般に、ソーシャルメディア上では、匿名に近い状態で誰もが任意の意見を発信することができる。そして、多くのソーシャルメディアが独自に有するメッセージ転送機能によって、過去には個人レベルでは不可能であったスケールの大衆へと、そうした個人的な発信を拡散することが可能となった。情報を受信する側から見れば、玉石混交、真偽不明の情報の洪水に晒されることにもなり、以前に増して、情報の取捨選択のリテラシーが問われる時代となっている。こうした状況において、いくつかの問題が指摘されている：\n\n・誤情報や偽情報（いわゆるデマ）の拡散と、それに伴うプライバシーの侵害や物資の不足といった社会的混乱\n・フィルターバブルやエコーチェンバーといった現象に象徴される、意見や思想の先鋭化と社会的分断・対立\n・そうした混乱・対立を助長する組織的な活動\n\n以上の問題は、我々の個人差も含めた認知能力の制約や、「表現の自由」のような尊重されるべき基本的権利の保護といった観点から、決定的な対処が難しいのが現実である。\n\nこれらの問題の緩和に向けた別の方向からのアプローチとして、我々は「情報のフローの可視化」を提案する。情報のフローとは、ソーシャルメディア上で発生する、先に述べた人から人へのメッセージの転送が、どこを起点に、どのような経路で大衆へと拡散していくかを意味しする。一般に、ソーシャルメディアを利用する個々のユーザをネットワークのノードとし、ユーザ間のメッセージ転送をノード間のエッジとみなすと、ソーシャルメディア上の情報の拡散は数理的には重み付きの有向ネットワークとして表現することができる。ここでの重みとはメッセージ転送の頻度に対応する。情報のフローの可視化とは、この重み付き有向ネットワークの可視化に他ならない。情報が拡散する構造とその背後にある固有のパターンを明らかにすることで、意見の対立や支持グループ、潜在する組織的活動、潜在する世論などが可視化され、見えることが客観的な議論へとつながることを我々は期待する。\n\n本論文では、その有効性を確かめるための探索的な可視化の試みについて述べる。ソーシャルメディアTwitterから取得した、COVID-19に対するワクチン関連のツイートを対象に、そのメッセージ転送（リツイート）が構成するネットワークを分析する。主として使用する技術は、ネットワークのクラスタリングと二次元埋め込みによる可視化というよく知られたアプローチだが、本研究の特徴としては、Infomapとして知られる有向ネットワークのクラスタリングアルゴリズムを用いて情報のフローに着目する点にある。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d122d4c-c21a-4248-80ce-b5b89b21ade4",
+        "type": "message",
+        "text": "<@UPSPAP97D> 以下の`???`の箇所、埋められますか？それと、同じくハイライトの説明が間違ってないか確認してください。\n＊＊＊\n本研究ではTwitterから2020年12月から2021年`???`月の間に取得したデータを用いた。テキスト中に「コロナウイルス」「コロナウィルス」「新型コロナ」「corona virus」「covid19」のいずれかを含む日本語のツイートの中から、さらにハッシュタグに「`ワクチン`」「`???`」「`???`」を含むツイートを絞り込んだ。このときのツイート総数は`???`、リツイート総数は`???`、関連ツイートを行ったユーザ数は`???`である。参考に、リツイートされた回数の推移を図1に示す。`リツイートが方向を問わず2回以上行われたユーザ間をエッジで接続し、リツイート回数をエッジの重みとする。相互に1度ずつリツイートが行われたユーザは、重み1のエッジが相互に張られる。上記の方法でエッジを持たない孤立ユーザは除去される。`結果として、リツイートが作るネットワークの規模は、ノード数（ユーザ数）`???`、エッジ数`???`となった。\n＊＊＊",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626956105.136500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1626956113.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LXFAv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 以下の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "???",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "の箇所、埋められますか？それと、同じくハイライトの説明が間違ってないか確認してください。\n＊＊＊\n本研究ではTwitterから2020年12月から2021年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "???",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "月の間に取得したデータを用いた。テキスト中に「コロナウイルス」「コロナウィルス」「新型コロナ」「corona virus」「covid19」のいずれかを含む日本語のツイートの中から、さらにハッシュタグに「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ワクチン",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "???",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "???",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」を含むツイートを絞り込んだ。このときのツイート総数は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "???",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、リツイート総数は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "???",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、関連ツイートを行ったユーザ数は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "???",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "である。参考に、リツイートされた回数の推移を図1に示す。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "リツイートが方向を問わず2回以上行われたユーザ間をエッジで接続し、リツイート回数をエッジの重みとする。相互に1度ずつリツイートが行われたユーザは、重み1のエッジが相互に張られる。上記の方法でエッジを持たない孤立ユーザは除去される。",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "結果として、リツイートが作るネットワークの規模は、ノード数（ユーザ数）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "???",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、エッジ数"
+                            },
+                            {
+                                "type": "text",
+                                "text": "???",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となった。\n＊＊＊"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ade65256-66ad-49d6-bde2-b79a8771a494",
+        "type": "message",
+        "text": "<@UPSPAP97D> いろいろ聞きたいこと書きますが、明日でいいです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626956235.136800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=0oPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " いろいろ聞きたいこと書きますが、明日でいいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ebf4190-aa19-4c7e-8c26-c8f63cba76fc",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>\n`???` 部分を埋めてみました。また、 ハイライト部分は確認しましたが、問題なさそうです。\nそれと、一部打ち消し線で修正しました。\n\n＊＊＊\n本研究ではTwitterから2020年~12~`2`月から2021年`3`月の間に取得したデータを用いた。テキスト中に「コロナウイルス」「コロナウィルス」「新型コロナ」「corona virus」「covid19」のいずれかを含む日本語のツイートの中から、さらに~ハッシュタグ~`テキスト(ハッシュタグ含む)中`に「`ワクチン`」「`ﾜｸﾁﾝ`」`(←半角カタカナ)`「`わくちん`」を含むツイートを絞り込んだ。このときのツイート総数は`3337031(リツイート含む総数)`、リツイート総数は`2726963`、関連ツイートを行ったユーザ数は`755561(リツイートだけのユーザも含む)`である。参考に、リツイートされた回数の推移を図1に示す。`リツイートが方向を問わず2回以上行われたユーザ間をエッジで接続し、リツイート回数をエッジの重みとする。相互に1度ずつリツイートが行われたユーザは、重み1のエッジが相互に張られる。上記の方法でエッジを持たない孤立ユーザは除去される。`結果として、リツイートが作るネットワークの規模は、ノード数（ユーザ数）`98486`、エッジ数`242432`となった。\n＊＊＊",
+        "user": "UPSPAP97D",
+        "ts": "1626959814.137200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CNOjb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "???",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 部分を埋めてみました。また、 ハイライト部分は確認しましたが、問題なさそうです。\nそれと、一部打ち消し線で修正しました。\n\n＊＊＊\n本研究ではTwitterから2020年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "12",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "2",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "月から2021年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "月の間に取得したデータを用いた。テキスト中に「コロナウイルス」「コロナウィルス」「新型コロナ」「corona virus」「covid19」のいずれかを含む日本語のツイートの中から、さらに"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ハッシュタグ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "テキスト(ハッシュタグ含む)中",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ワクチン",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ﾜｸﾁﾝ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(←半角カタカナ)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "わくちん",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」を含むツイートを絞り込んだ。このときのツイート総数は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3337031(リツイート含む総数)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、リツイート総数は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2726963",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、関連ツイートを行ったユーザ数は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "755561(リツイートだけのユーザも含む)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "である。参考に、リツイートされた回数の推移を図1に示す。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "リツイートが方向を問わず2回以上行われたユーザ間をエッジで接続し、リツイート回数をエッジの重みとする。相互に1度ずつリツイートが行われたユーザは、重み1のエッジが相互に張られる。上記の方法でエッジを持たない孤立ユーザは除去される。",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "結果として、リツイートが作るネットワークの規模は、ノード数（ユーザ数）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "98486",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、エッジ数"
+                            },
+                            {
+                                "type": "text",
+                                "text": "242432",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となった。\n＊＊＊"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0099fe9-fb4a-4f0c-8add-908ba7241dcd",
+        "type": "message",
+        "text": "• 掲載するネットワークの図の描画手法の説明ですが、力指向（force-directed）の手法でレイアウトした図はありますか？あれば使った*ライブラリ*と、そのライブラリの説明書に記されてるであろう、*アルゴリズムの名前*（Kamada-KawaiとかForce-Atlasとかいろいろあるので）を教えてください。\n• ちなみに私のObservableのデモで使ってるのは、D3に元々実装されてる独自アルゴリズムd3-forceです。\n• UMAPによるノードのレイアウトはいろいろ試したと思いますが、どの図を載せるのがよいでしょうか？それによって説明が変わると思います。Deep Walkを使ったものとか、隣接行列にセルフループを仮想的に加えたものとか。\n• Infomapで使った*ライブラリ*を教えてください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626967367.137500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A340",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "掲載するネットワークの図の描画手法の説明ですが、力指向（force-directed）の手法でレイアウトした図はありますか？あれば使った"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ライブラリ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "と、そのライブラリの説明書に記されてるであろう、"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "アルゴリズムの名前",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "（Kamada-KawaiとかForce-Atlasとかいろいろあるので）を教えてください。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ちなみに私のObservableのデモで使ってるのは、D3に元々実装されてる独自アルゴリズムd3-forceです。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "UMAPによるノードのレイアウトはいろいろ試したと思いますが、どの図を載せるのがよいでしょうか？それによって説明が変わると思います。Deep Walkを使ったものとか、隣接行列にセルフループを仮想的に加えたものとか。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Infomapで使った"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ライブラリ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "を教えてください。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "d4fa346c-ed52-49f3-a908-b8b0979c21d0",
+        "type": "message",
+        "text": "• コミュニティ間のフローをheatmapで表した図は載せようと思います。あの図の`cbrt`って何？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626969804.137700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wks",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "コミュニティ間のフローをheatmapで表した図は載せようと思います。あの図の"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "cbrt",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "って何？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "45169f30-bbf6-46f6-bb9a-1080f7df95f6",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 遅くなりましたが、今のところ論文で使えるかもしれない写真をまとめてみました。\n\n<https:\/\/www.notion.so\/674a80fd3fab4f61b04e2adcef007b76>\n\n&gt; ライブライ + アルゴリズムについて\nこの中に、使用したライブラリを載せてあるので参照してください。見つけれない+記載漏れがあれば教えて下さい。\n\n&gt; UMAPによるノードのレイアウトはいろいろ試したと思いますが、どの図を載せるのがよいでしょうか？\n僕もUMAP結果はどれにすべきか決めあぐねてます。(どの可視化も同じような結果なので...)\n一応、上のURLでは「隣接行列+セルフループ でUMAP（リンクの向き無し 、重み無し）」 「DeepWalk＋UMAP」を載せてあります。\n\n&gt; あの図の`cbrt`って何？\n`cbrt`は 立方根(三乗根）です。平方根(二乗根) より、リンク重みが小さな値でも色が表示できるようにしてみました。\n(二乗根でもよかったかもしれないが...)",
+        "user": "UPSPAP97D",
+        "ts": "1627002805.137900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Murakami's Notion on Notion",
+                "title": "可視化シンポジウム用画像まとめ",
+                "title_link": "https:\/\/www.notion.so\/674a80fd3fab4f61b04e2adcef007b76",
+                "text": "リツイートされた回数の推移",
+                "fallback": "Murakami's Notion on Notion: 可視化シンポジウム用画像まとめ",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0e1cad9b-ea46-423b-b4ee-540d00e03cb8%2Fretweet_time_sequence.png?table=block&id=92d53aea-67db-44ed-896a-deb3f05def3d&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/674a80fd3fab4f61b04e2adcef007b76",
+                "image_width": 328,
+                "image_height": 250,
+                "image_bytes": 62118,
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/674a80fd3fab4f61b04e2adcef007b76"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 遅くなりましたが、今のところ論文で使えるかもしれない写真をまとめてみました。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/674a80fd3fab4f61b04e2adcef007b76"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ライブライ + アルゴリズムについて"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この中に、使用したライブラリを載せてあるので参照してください。見つけれない+記載漏れがあれば教えて下さい。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "UMAPによるノードのレイアウトはいろいろ試したと思いますが、どの図を載せるのがよいでしょうか？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕もUMAP結果はどれにすべきか決めあぐねてます。(どの可視化も同じような結果なので...)\n一応、上のURLでは「隣接行列+セルフループ でUMAP（リンクの向き無し 、重み無し）」 「DeepWalk＋UMAP」を載せてあります。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あの図の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "cbrt",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "って何？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cbrt",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "は 立方根(三乗根）です。平方根(二乗根) より、リンク重みが小さな値でも色が表示できるようにしてみました。\n(二乗根でもよかったかもしれないが...)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a37a5d59-e72d-45e3-b041-9d37856474f3",
+        "type": "message",
+        "text": "<@UPSPAP97D> 図が全体的に解像度が低くて論文では使えなさそうなので、高解像度のものか、あるいは出力をsvgかpdfかepsにしてどこかに置けますか？\n\nそれと、以前、医師のクラスターが面白い形してたと思いますが、その図とかは使えませんか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627015874.138300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gdJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 図が全体的に解像度が低くて論文では使えなさそうなので、高解像度のものか、あるいは出力をsvgかpdfかepsにしてどこかに置けますか？\n\nそれと、以前、医師のクラスターが面白い形してたと思いますが、その図とかは使えませんか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "f3e9c2df-61e5-4507-a4bd-e56d6e32549c",
+        "type": "message",
+        "text": "&gt; それと、以前、医師のクラスターが面白い形してたと思いますが、その図とかは使えませんか？\n恐らく、強連結成分だけでなく末端も表示する場合、そのようになると思います。（Observableでは耐えられないと思うので、pythonのForceAtlas2で可視化しておきます。)\n結果は以下の部分↓ で上げておきます。\n\n&gt; 図が全体的に解像度が低くて論文では使えなさそうなので、高解像度のものか、あるいは出力をsvgかpdfかepsにしてどこかに置けますか？\n了解です。notionだと高解像度データを上げれなかったので、slack橋本先生とのダイレクトメッセージ内でスレッド作ります。\n\n因みにですが、高解像度データはネットワーク以外(raincloud、line plotなど) もですか？",
+        "user": "UPSPAP97D",
+        "ts": "1627016880.138500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tb6t8",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それと、以前、医師のクラスターが面白い形してたと思いますが、その図とかは使えませんか？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "恐らく、強連結成分だけでなく末端も表示する場合、そのようになると思います。（Observableでは耐えられないと思うので、pythonのForceAtlas2で可視化しておきます。)\n結果は以下の部分↓ で上げておきます。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "図が全体的に解像度が低くて論文では使えなさそうなので、高解像度のものか、あるいは出力をsvgかpdfかepsにしてどこかに置けますか？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。notionだと高解像度データを上げれなかったので、slack橋本先生とのダイレクトメッセージ内でスレッド作ります。\n\n因みにですが、高解像度データはネットワーク以外(raincloud、line plotなど) もですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "a0892355-fec5-4654-b14a-b808c93cd272",
+        "type": "message",
+        "text": "&gt; 因みにですが、高解像度データはネットワーク以外(raincloud、line plotなど) もですか？\nむしろネットワーク以外の方が高解像度が欲しいｗ　現状だと文字がつぶれてしまいそう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627017219.138700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BWY",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "因みにですが、高解像度データはネットワーク以外(raincloud、line plotなど) もですか？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "むしろネットワーク以外の方が高解像度が欲しいｗ　現状だと文字がつぶれてしまいそう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04290091-9591-4614-a562-265ba949c15c",
+        "type": "message",
+        "text": "現状こんな感じです。Fig.1とか、文字のピクセル化しちゃってるので、これの２倍くらいの解像度が欲しいです。svgやpdfならこちらで微調整ができるので、可能ならその方が助かります。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627017421.139000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NAk58",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現状こんな感じです。Fig.1とか、文字のピクセル化しちゃってるので、これの２倍くらいの解像度が欲しいです。svgやpdfならこちらで微調整ができるので、可能ならその方が助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "496b7b97-b8b5-4600-b73d-28f1dac42907",
+        "type": "message",
+        "text": "<https:\/\/www.dropbox.com\/s\/m7hvk571fq8c503\/VSJ_template_2021.pdf?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627017423.139200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "liXa",
+                        "external_id": "1-c6b99d23405879a4fb4c444a73b7e619b2b2bac8b38c94d5ea774cd98bd6498a",
+                        "source": "remote",
+                        "file_id": "F02955P7692",
+                        "file": {
+                            "id": "F02955P7692",
+                            "created": 1627017427,
+                            "timestamp": 1627017427,
+                            "name": "VSJ_template_2021_pdf",
+                            "title": "VSJ_template_2021.pdf",
+                            "mimetype": "application\/pdf",
+                            "filetype": "pdf",
+                            "pretty_type": "PDF",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 145216,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/m7hvk571fq8c503\/VSJ_template_2021.pdf?dl=0",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 180,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_480_w": 480,
+                            "thumb_480_h": 240,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720_w": 720,
+                            "thumb_720_h": 360,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 400,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_960_w": 960,
+                            "thumb_960_h": 480,
+                            "original_w": 1000,
+                            "original_h": 500,
+                            "thumb_tiny": "AwAYADDTooppIPrQA6iowfVjRk\/3qAJM+1FNBA9adQAHpTN3HNOb7pplABx\/dpfl\/u0gooAdux2pw6VHUg6CgD\/\/2Q==",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F02955P7692\/vsj_template_2021_pdf",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-c6b99d23405879a4fb4c444a73b7e619b2b2bac8b38c94d5ea774cd98bd6498a",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/m7hvk571fq8c503\/VSJ_template_2021.pdf?dl=0",
+                            "has_rich_preview": true
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/m7hvk571fq8c503\/VSJ_template_2021.pdf?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0iWf0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/m7hvk571fq8c503\/VSJ_template_2021.pdf?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "5cf9185f-c907-4828-a2be-6369228fbabd",
+        "type": "message",
+        "text": "一旦、svgで line plot のみ作成してみました。\n何かしら問題（ファイルフォーマットミスなど）があれば、教えてください。\n`x軸表示ががっつり切れていたので、修正します`\n\n<https:\/\/compu-soceco.slack.com\/archives\/DPRE1QG58\/p1627017861105600?thread_ts=1627016932.105300&amp;cid=DPRE1QG58>",
+        "user": "UPSPAP97D",
+        "ts": "1627018188.139600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1627018607.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kwyPk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一旦、svgで line plot のみ作成してみました。\n何かしら問題（ファイルフォーマットミスなど）があれば、教えてください。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "x軸表示ががっつり切れていたので、修正します",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/compu-soceco.slack.com\/archives\/DPRE1QG58\/p1627017861105600?thread_ts=1627016932.105300&cid=DPRE1QG58"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "e7c129d5-3712-4c41-8448-fc3012ba78e3",
+        "type": "message",
+        "text": "svgはこんな感じで大丈夫です。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627019653.139900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gWm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "svgはこんな感じで大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d61fe16-7dba-4e07-9d94-781728392e60",
+        "type": "message",
+        "text": "ちなみにUMAPのライブラリはどれですか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627019664.140100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "06e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちなみにUMAPのライブラリはどれですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "fb517cad-a5a6-4be7-8c32-4a17e97f5fd6",
+        "type": "message",
+        "text": "UMAPのライブラリはこれです。\n<https:\/\/umap-learn.readthedocs.io\/en\/latest\/>",
+        "user": "UPSPAP97D",
+        "ts": "1627019837.140400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6pf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "UMAPのライブラリはこれです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/umap-learn.readthedocs.io\/en\/latest\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "744500d2-14d1-46c3-828b-750fd2496334",
+        "type": "message",
+        "text": "前半部は書き終えたが、分析のところで煮詰まった。↓このときの分析結果とかおもしろいと思うんですが、条件がだいぶ最近やってる分析と違うんですよね？\n<https:\/\/www.notion.so\/network-ff6eaf1400c44daf83244ffec15047b0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627022497.140700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Murakami's Notion on Notion",
+                "title": "コミュニティ毎のnetwork可視化",
+                "title_link": "https:\/\/www.notion.so\/network-ff6eaf1400c44daf83244ffec15047b0",
+                "text": "infomap全体像:",
+                "fallback": "Murakami's Notion on Notion: コミュニティ毎のnetwork可視化",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc1d42616-e715-4b8c-854b-0c64f2753c51%2Finfomap_UMAP.png?table=block&id=f0906894-ba4c-4f58-84a7-abb13c1ad525&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/network-ff6eaf1400c44daf83244ffec15047b0",
+                "image_width": 408,
+                "image_height": 250,
+                "image_bytes": 466559,
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/network-ff6eaf1400c44daf83244ffec15047b0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/Mn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前半部は書き終えたが、分析のところで煮詰まった。↓このときの分析結果とかおもしろいと思うんですが、条件がだいぶ最近やってる分析と違うんですよね？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/network-ff6eaf1400c44daf83244ffec15047b0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "b0aade2f-df31-4694-b7f0-912467ed96de",
+        "type": "message",
+        "text": "現状はこれ：<https:\/\/www.dropbox.com\/s\/m7hvk571fq8c503\/VSJ_template_2021.pdf?dl=0>\n\nここに以下が追加できればいいのだが：\n• infomap+UMAPのネットワーク全体の可視化\n    ◦ UMAPを使っても、力学手法のようにそれなりにレイアウトが成功している点。計算量的にUMAPが有利\n    ◦ infomapの結果はLouvain法とは違う点\n• infomapで見えた変わった構造\n    ◦ 例えばNHKのハブ構造や、医師の変な構造（複数のグループが医師？を介して接続）\n    ◦ コミュニティをノードとみたときの、コミュニティ間のフローのネットワーク図（heatmapはよい結果なのでそれとセットで）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627022825.141000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "oG4U7",
+                        "external_id": "1-c6b99d23405879a4fb4c444a73b7e619b2b2bac8b38c94d5ea774cd98bd6498a",
+                        "source": "remote",
+                        "file_id": "F02955P7692",
+                        "file": {
+                            "id": "F02955P7692",
+                            "created": 1627017427,
+                            "timestamp": 1627017427,
+                            "name": "VSJ_template_2021_pdf",
+                            "title": "VSJ_template_2021.pdf",
+                            "mimetype": "application\/pdf",
+                            "filetype": "pdf",
+                            "pretty_type": "PDF",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 145216,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/m7hvk571fq8c503\/VSJ_template_2021.pdf?dl=0",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 180,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_480_w": 480,
+                            "thumb_480_h": 240,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720_w": 720,
+                            "thumb_720_h": 360,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 400,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02955P7692-7e57732496\/vsj_template_2021_pdf_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_960_w": 960,
+                            "thumb_960_h": 480,
+                            "original_w": 1000,
+                            "original_h": 500,
+                            "thumb_tiny": "AwAYADDTooppIPrQA6iowfVjRk\/3qAJM+1FNBA9adQAHpTN3HNOb7pplABx\/dpfl\/u0gooAdux2pw6VHUg6CgD\/\/2Q==",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F02955P7692\/vsj_template_2021_pdf",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-c6b99d23405879a4fb4c444a73b7e619b2b2bac8b38c94d5ea774cd98bd6498a",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/m7hvk571fq8c503\/VSJ_template_2021.pdf?dl=0",
+                            "has_rich_preview": true
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/m7hvk571fq8c503\/VSJ_template_2021.pdf?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5kF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現状はこれ："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/m7hvk571fq8c503\/VSJ_template_2021.pdf?dl=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nここに以下が追加できればいいのだが：\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "infomap+UMAPのネットワーク全体の可視化"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "UMAPを使っても、力学手法のようにそれなりにレイアウトが成功している点。計算量的にUMAPが有利"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "infomapの結果はLouvain法とは違う点"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "infomapで見えた変わった構造"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "例えばNHKのハブ構造や、医師の変な構造（複数のグループが医師？を介して接続）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "コミュニティをノードとみたときの、コミュニティ間のフローのネットワーク図（heatmapはよい結果なのでそれとセットで）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626951727.136000",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "bb5cb233-2fbb-448d-ab53-a7d28b03320e",
+        "type": "message",
+        "text": "<!channel> 物品の貸し出し管理用チャンネル作りました。入っておいてください！ → <#C021LFF8939|lending>",
+        "user": "U01EPKVACEN",
+        "ts": "1621139051.029800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9tal",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 物品の貸し出し管理用チャンネル作りました。入っておいてください！ → "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C021LFF8939"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UPSPAP97D",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

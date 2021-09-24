@@ -1,0 +1,143 @@
+[
+    {
+        "type": "message",
+        "text": "前回のファイルに追加して主成分分析でクラスタリングしてみました。\nご確認ください。",
+        "files": [
+            {
+                "id": "F010FUC6SCT",
+                "created": 1585209783,
+                "timestamp": 1585209783,
+                "name": "顧客クラスタリング.ipynb",
+                "title": "顧客クラスタリング.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 1230677,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010FUC6SCT\/___________________________.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010FUC6SCT\/download\/___________________________.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F010FUC6SCT\/___________________________.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F010FUC6SCT-7bf821aed9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BV7yn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前回のファイルに追加して主成分分析でクラスタリングしてみました。\nご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1585209786.000500",
+        "client_msg_id": "e6923468-b350-4fe8-9e87-51db8f3bde3a",
+        "thread_ts": "1585194675.000400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "d234ac2e-d053-41a7-a880-3d77cd7ad5fe",
+        "type": "message",
+        "text": "<@UQ47R82RW> 分析ありがとうございます！実は多変量解析かけたかったので助かりました。ちょっと気になる所として、４店舗分の来店動向でクラスタリングされていますが、これが１店舗分であれば各成分の固有ベクトルの分布とクラスラリング結果って変わりそうですよね？\n後、固有ベクトルを曜日別来店回数のみにして、主成分軸を２軸くらいに絞ったら顧客ごとの来店動向の性質をシンプルにクラスタリングできないかな〜なんて思っているんですがどうでしょう？",
+        "user": "UPSPAMY7M",
+        "ts": "1585215365.000900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qX9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 分析ありがとうございます！実は多変量解析かけたかったので助かりました。ちょっと気になる所として、４店舗分の来店動向でクラスタリングされていますが、これが１店舗分であれば各成分の固有ベクトルの分布とクラスラリング結果って変わりそうですよね？\n後、固有ベクトルを曜日別来店回数のみにして、主成分軸を２軸くらいに絞ったら顧客ごとの来店動向の性質をシンプルにクラスタリングできないかな〜なんて思っているんですがどうでしょう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585194675.000400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "fc0b27ac-5851-4d90-b85a-8686a9788e50",
+        "type": "message",
+        "text": "そうですね！次はそれでやってみます。",
+        "user": "UQ47R82RW",
+        "ts": "1585215418.001100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3C=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね！次はそれでやってみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585194675.000400",
+        "parent_user_id": "UQ47R82RW"
+    }
+]

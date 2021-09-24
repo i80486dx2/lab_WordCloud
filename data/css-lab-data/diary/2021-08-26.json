@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "text": "アルプスアルパインの見学行ってきた。工場見学面白かった。",
+        "files": [
+            {
+                "id": "F02CMRY2F0C",
+                "created": 1629984572,
+                "timestamp": 1629984572,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 1657755,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CMRY2F0C\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CMRY2F0C\/download\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CMRY2F0C-d62d31d66d\/ios___________64.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CMRY2F0C-d62d31d66d\/ios___________80.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CMRY2F0C-d62d31d66d\/ios___________360.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CMRY2F0C-d62d31d66d\/ios___________480.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CMRY2F0C-d62d31d66d\/ios___________160.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CMRY2F0C-d62d31d66d\/ios___________720.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CMRY2F0C-d62d31d66d\/ios___________800.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CMRY2F0C-d62d31d66d\/ios___________960.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CMRY2F0C-d62d31d66d\/ios___________1024.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADC3sTHQ03ykHJ6elZ7TvuyXOfrQLp9\/LZHvTuIvqBzhTz3xUbx4UkjJ9qh+2nIBUH8amhuBJkEKvH1zRcLELRng8hTVVmwxA5x61oNKSmCAPpUHlJnO0fjWbaQD2tkJ5LfhTDbxjsT9TVknNQsrE5AJFN6bDGNAgGAMANj609VVeEUCmtMGbgjGcHjnNLmlMB3elpuaXNZgSHrUb56ZNPPWmPWwyooHmqf9s1YqBf8AWL\/vn+VWDUS3ENJwRSg5pD1H1oXr+FSI\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F02CMRY2F0C\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02CMRY2F0C-da67f7fea4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DbB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アルプスアルパインの見学行ってきた。工場見学面白かった。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "display_as_bot": false,
+        "ts": "1629984676.001500",
+        "client_msg_id": "56B81DEB-7DA2-400C-B261-CE354E828C4F",
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U01FP2RDV44",
+                    "U01EL0SAUTF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UQ47R82RW",
+                    "UKUKA65GU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "camera_with_flash",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

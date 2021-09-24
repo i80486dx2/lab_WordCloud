@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "text": "後ろから直線か判定して、1000回以上使われたものについてやってみました。\nやはり3051語もあると根性マイニングもしづらそうなので、\nどのbinのタイミングでトランジションしているのかなどをあとでまとめて一つのグラフにしようと思います。",
+        "files": [
+            {
+                "id": "F02E4F0B26P",
+                "created": 1631371236,
+                "timestamp": 1631371236,
+                "name": "room_clip_more_1000_分割.png",
+                "title": "room_clip_more_1000_分割.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 9300671,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02E4F0B26P\/room_clip_more_1000_______.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02E4F0B26P\/download\/room_clip_more_1000_______.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F02E4F0B26P\/room_clip_more_1000_______.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02E4F0B26P-cd4e6eda9f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VisRW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "後ろから直線か判定して、1000回以上使われたものについてやってみました。\nやはり3051語もあると根性マイニングもしづらそうなので、\nどのbinのタイミングでトランジションしているのかなどをあとでまとめて一つのグラフにしようと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1631388628.003200",
+        "thread_ts": "1631388628.003200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1631461314.003500",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1631461314.003500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631461314.003500"
+    }
+]

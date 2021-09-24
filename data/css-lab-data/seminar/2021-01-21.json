@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "a49df3ee-2de4-4f25-878b-d6f5872b9873",
+        "type": "message",
+        "text": "アドレスは前回と同じです：\n<https:\/\/zoom.us\/j\/99967032703?pwd=RUlhTXRYTGZSQW01ZnhDckxwOWVpZz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1611302181.000200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アドレスは前回と同じです：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/99967032703?pwd=RUlhTXRYTGZSQW01ZnhDckxwOWVpZz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1610449624.010200",
+        "parent_user_id": "UQ47R82RW"
+    }
+]

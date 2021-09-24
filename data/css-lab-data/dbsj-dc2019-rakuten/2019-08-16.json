@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "de9f26e0-7197-4e01-b8a4-21527f2d467d",
+        "type": "message",
+        "text": "3:ジンクス検証\nまずはどんなジンクスがあるのか？\n(1): 打者がホームラン級のファールを打った後は、凡打や三振で終わる。\n(2): ラッキーセブンジンクス（7回の攻撃は点が入りやすい）\n(3): 大勝した直後の試合は、打線が沈黙して負ける。\n(4): 先頭打者に四球で出したランナーは、安打で出したランナーよりも得点になりやすい。（データの出所がわからないが、全く関係がないことが証明されているらしい）\n\nこれらも少しデータを分析してみたいところではありますが、なかなかこれらに合うようにデータを抽出するのがなかなか難しいというのが現状です。",
+        "user": "UKUKA65GU",
+        "ts": "1566022469.013600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

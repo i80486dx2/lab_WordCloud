@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "87776950-31f1-4404-b2a7-36257b608374",
+        "type": "message",
+        "text": "<@U01EL0SAUTF> こちらその後どうでしょうか？8\/27（金）にグループmtgがあるので、それまでに一応ケリを付けたく。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629572219.026700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+RgR=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらその後どうでしょうか？8\/27（金）にグループmtgがあるので、それまでに一応ケリを付けたく。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628415480.014100",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "EC4158CD-2571-4548-B568-B587C513F675",
+        "type": "message",
+        "text": "すみません、平日がフルタイムで入っていて土日やってる状態です:man-bowing:\n25日には終わる予定です",
+        "user": "U01EL0SAUTF",
+        "ts": "1629594034.028100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QGh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、平日がフルタイムで入っていて土日やってる状態です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n25日には終わる予定です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628415480.014100",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

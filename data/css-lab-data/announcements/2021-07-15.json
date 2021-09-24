@@ -1,0 +1,129 @@
+[
+    {
+        "client_msg_id": "64922fb9-e57c-4349-aa11-034be3152c5d",
+        "type": "message",
+        "text": "<!channel> 案内が遅くなりましたが、今週土曜に人工知能学会のALIFE研究会のワークショップが\nYouTube Liveで配信されます。一部は英語セッションですが、ほとんどが日本語セッションです。\n人工生命研究の動向を分かりやすく解説します。時間があれば是非。\n（私は裏方で登壇者のプレゼンサポートをしています。）\n\n<https:\/\/alife-japan.org\/event\/workshop001\/>\n\n7月17日（土）10時～17時\nYouTube Live: <https:\/\/youtu.be\/zPS-Nz35wWM>\n\n```■　プログラム\n10:00 - 10:15  オープニング\n10:25 - 11:15  ショーケース[日本語＋英語]\n　参加者｜Takashi Ikegami（東京大学）、飯塚博幸（北海道大学）、Olaf Witkowski（Cross Labs）、鈴木啓介（北海道大学）\n11:30 - 12:15  午前のダイアローグ：オープンエンド性[英語]\n　参加者｜Lisa Soros（Cross Labs）、Olaf Witkowski（Cross Labs）、Lana Sinapayen（SONY CSL）\n　モデレーター｜Claus Aranha（筑波大学）\n12:15 - 14:00  Lunch Break ランチ休憩\n14:00 - 14:45  午後のダイアローグ1：エージェンシー[日本語]\n　参加者｜升森敦士（東京大学）、鈴木啓介（北海道大学）、鈴木麗璽（名古屋大学）\n　モデレーター｜飯塚博幸（北海道大学）\n15:00 - 15:45  午後のダイアローグ2：人工生命と社会[日本語]\n　参加者｜笹原和俊（東京工業大学）、田口茂（北海道大学）、金井良太（株式会社アラヤ）\n　モデレーター｜ドミニク・チェン（早稲田大学）\n16:00 - 17:00  午後のパネル：人工生命の可能性[日本語]\n　参加者｜池上高志（東京大学）、前田泰宏（中小企業庁）\n　モデレーター｜岡瑞起(筑波大学)\n17:00 - 17:10  クロージング```\n",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626354250.034900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "人工生命研究会",
+                "title": "第1回人工生命研究会 | 人工生命研究会",
+                "title_link": "https:\/\/alife-japan.org\/event\/workshop001\/",
+                "text": "日本の人工生命研究の普及・発展を目指し、情報学、物理学、生物学、化学、社会科学などの様々な分野の研究者により活発に情報共有・議論を行う場「workshop 001」を開催します。",
+                "fallback": "人工生命研究会: 第1回人工生命研究会 | 人工生命研究会",
+                "fields": [
+                    {
+                        "title": "推定読書時間",
+                        "value": "1分",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/alife-japan.org\/event\/workshop001\/",
+                "id": 1,
+                "original_url": "https:\/\/alife-japan.org\/event\/workshop001\/"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Alife-Japan Workshop 001 Livestream",
+                "title_link": "https:\/\/youtu.be\/zPS-Nz35wWM",
+                "author_name": "Japanese Society for Artificial Life (SIG-ALIFE)",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCzk7FtIDa49n1d9CWLBpy1w",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/zPS-Nz35wWM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Alife-Japan Workshop 001 Livestream",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/zPS-Nz35wWM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/zPS-Nz35wWM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/youtu.be\/zPS-Nz35wWM"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AWN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 案内が遅くなりましたが、今週土曜に人工知能学会のALIFE研究会のワークショップが\nYouTube Liveで配信されます。一部は英語セッションですが、ほとんどが日本語セッションです。\n人工生命研究の動向を分かりやすく解説します。時間があれば是非。\n（私は裏方で登壇者のプレゼンサポートをしています。）\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/alife-japan.org\/event\/workshop001\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n7月17日（土）10時～17時\nYouTube Live: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/zPS-Nz35wWM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "■　プログラム\n10:00 - 10:15  オープニング\n10:25 - 11:15  ショーケース[日本語＋英語]\n　参加者｜Takashi Ikegami（東京大学）、飯塚博幸（北海道大学）、Olaf Witkowski（Cross Labs）、鈴木啓介（北海道大学）\n11:30 - 12:15  午前のダイアローグ：オープンエンド性[英語]\n　参加者｜Lisa Soros（Cross Labs）、Olaf Witkowski（Cross Labs）、Lana Sinapayen（SONY CSL）\n　モデレーター｜Claus Aranha（筑波大学）\n12:15 - 14:00  Lunch Break ランチ休憩\n14:00 - 14:45  午後のダイアローグ1：エージェンシー[日本語]\n　参加者｜升森敦士（東京大学）、鈴木啓介（北海道大学）、鈴木麗璽（名古屋大学）\n　モデレーター｜飯塚博幸（北海道大学）\n15:00 - 15:45  午後のダイアローグ2：人工生命と社会[日本語]\n　参加者｜笹原和俊（東京工業大学）、田口茂（北海道大学）、金井良太（株式会社アラヤ）\n　モデレーター｜ドミニク・チェン（早稲田大学）\n16:00 - 17:00  午後のパネル：人工生命の可能性[日本語]\n　参加者｜池上高志（東京大学）、前田泰宏（中小企業庁）\n　モデレーター｜岡瑞起(筑波大学)\n17:00 - 17:10  クロージング"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EVRBP38C",
+                    "U01EP839LHH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

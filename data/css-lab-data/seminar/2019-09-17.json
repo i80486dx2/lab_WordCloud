@@ -1,0 +1,196 @@
+[
+    {
+        "client_msg_id": "1f343dc4-096e-47b5-907c-624a7284c16a",
+        "type": "message",
+        "text": "これからしばらくゼミの輪講で以下のテキストを読み進めていこうと思います：\n<http:\/\/networksciencebook.com\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1568707009.000700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BarabásiLab",
+                "title": "Network Science by Albert-László Barabási",
+                "title_link": "http:\/\/networksciencebook.com\/",
+                "text": "The power of network science, the beauty of network visualization.",
+                "fallback": "BarabásiLab: Network Science by Albert-László Barabási",
+                "image_url": "http:\/\/networksciencebook.com\/images\/networksciencebook.jpg",
+                "from_url": "http:\/\/networksciencebook.com\/",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 93066,
+                "id": 1,
+                "original_url": "http:\/\/networksciencebook.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88a2d047-9655-4ad7-99bc-80d80de57a6a",
+        "type": "message",
+        "text": "今回の輪講の部分は、どこになりますか？",
+        "user": "UKUKA65GU",
+        "ts": "1568707422.006700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f16a215e-3711-4e06-9c53-97516e549337",
+        "type": "message",
+        "text": "来週のゼミでは1.IntroductionのSection 1.1, 1.2, 1.3をやりましょう。担当は順に鈴木君1.1、千葉君1.2、讃岐君1.3でいいでしょうか。前回の輪講で進め方はおおよそ掴めたと思いますが、以下に注意して臨んでください：\n・スラスラと日本語で説明できることが前提。必要に応じてノートを作るなりしてください。\n・意味が通じれば十分で、美文である必要は全くありません。\n・数式等わからないところはあると思います。今後かじりついていくことも必要ですが、とりあえず分からなければ分からないで大丈夫です。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1568707427.006800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0387d9c5-8b57-4e40-be84-474f9ffe2508",
+        "type": "message",
+        "text": "出てくる数式は学部レベルから大学院レベルまで様々なので（私にも追えないところがあるかも）必要に応じて私から解説をするなり、結果だけ天下り的に受け入れながら進めようと思います。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1568707555.008200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c5df7838-ec97-4469-8d09-fbcd90c72e70",
+        "type": "message",
+        "text": "讃岐君には同じ内容をメールしておきます。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1568707589.008500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B0172264-AEB8-41D3-9AB1-AC8A6A29AB85",
+        "type": "message",
+        "text": "わかりました！",
+        "user": "UKH07E67M",
+        "ts": "1568707632.008700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e8b475dc-71db-4da6-b1ab-9ca43c118012",
+        "type": "message",
+        "text": "承知しました。",
+        "user": "UKUKA65GU",
+        "ts": "1568707665.008900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7e59d328-1bff-48f0-90d6-65d574e2dad1",
+        "type": "message",
+        "text": "9月26日（木）10:30から場所はオフィスで。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1568707684.009200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

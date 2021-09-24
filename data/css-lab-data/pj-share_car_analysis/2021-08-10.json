@@ -1,0 +1,120 @@
+[
+    {
+        "type": "message",
+        "text": "ちょっと時間帯によって道路の主な流れの方向が変わるから時間帯によって交差点での流れの方向に偏りがあるのでは・・・という話をしたと思うんですが、学生が会津大起点に運転しているのであんま関係ないかもしれませんね。\n下記、交通流量に関する基礎的な話なので知識として入れておいて頂ければと思います（交通流の物理は日本流体力学学会なのが面白い）。",
+        "files": [
+            {
+                "id": "F02B3N7SVCZ",
+                "created": 1628601766,
+                "timestamp": 1628601766,
+                "name": "交通工学.pdf",
+                "title": "交通工学.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 1551276,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02B3N7SVCZ\/____________.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02B3N7SVCZ\/download\/____________.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02B3N7SVCZ-8e163ff93b\/_____________thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 641,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F02B3N7SVCZ\/____________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02B3N7SVCZ-125acde4f8",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02AR9WSMLK",
+                "created": 1628601772,
+                "timestamp": 1628601772,
+                "name": "道路の交通容量と サービスの質に関する研究.pdf",
+                "title": "道路の交通容量と サービスの質に関する研究.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 27298967,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02AR9WSMLK\/________________________________________________________________.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02AR9WSMLK\/download\/________________________________________________________________.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AR9WSMLK-ff3f8ce340\/_________________________________________________________________thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F02AR9WSMLK\/________________________________________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02AR9WSMLK-20dc4ee0ee",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02AJBJEKN2",
+                "created": 1628601778,
+                "timestamp": 1628601778,
+                "name": "交通流の物理.pdf",
+                "title": "交通流の物理.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 2548280,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02AJBJEKN2\/__________________.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02AJBJEKN2\/download\/__________________.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AJBJEKN2-d1ae6e1a8d\/___________________thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 788,
+                "thumb_pdf_h": 1114,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F02AJBJEKN2\/__________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02AJBJEKN2-1b6ab397b9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1\/PGp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと時間帯によって道路の主な流れの方向が変わるから時間帯によって交差点での流れの方向に偏りがあるのでは・・・という話をしたと思うんですが、学生が会津大起点に運転しているのであんま関係ないかもしれませんね。\n下記、交通流量に関する基礎的な話なので知識として入れておいて頂ければと思います（交通流の物理は日本流体力学学会なのが面白い）。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAMY7M",
+        "ts": "1628601786.007600",
+        "thread_ts": "1628497334.006500",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

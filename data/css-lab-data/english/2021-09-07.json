@@ -1,0 +1,284 @@
+[
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "ババ様は隠れておれ！（ジル\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1631028778.036500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1631028778.036500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1631188295.043200",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1631079404.036900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1631130184.038200"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1631188295.043200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631188295.043200"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：ババ様は隠れておれ！",
+        "user": "U01UMQH4W4B",
+        "ts": "1631028778.036600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1631028778.036600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1631130286.038400",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKH07E67M",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1631028778.036700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1631079596.037100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1631130286.038400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631130286.038400"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Obaba, hide yourself.",
+        "user": "U01UMQH4W4B",
+        "ts": "1631028778.036700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1631028778.036600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "46113763-bfdd-400c-a347-0ae550f7c74b",
+        "type": "message",
+        "text": "Mrs. Baba, hide you!",
+        "user": "UKH07E67M",
+        "ts": "1631079404.036900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tEE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mrs. Baba, hide you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631028778.036500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "60e2ed7e-36fd-4154-bfb1-b198b7be0296",
+        "type": "message",
+        "text": "`Mrs. Baba, hide you!`\n馬場さん、隠れて！？\n• まあそうなるよね\n• ババ様って婆様って書くと思ったから固有名詞じゃないと思ってた\n• <https:\/\/ejje.weblio.jp\/content\/hide+oneself> hide oneselfの形が既にあるのか\n• <https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q13160399163> ああ、そういう考え方もできたのか ",
+        "user": "UKH07E67M",
+        "ts": "1631079596.037100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "hide oneself - Weblio 英和・和英辞典",
+                "title_link": "https:\/\/ejje.weblio.jp\/content\/hide+oneself",
+                "text": "hide oneself: 潜る,伏す,身を隠す,身をひそめる,身を潜める,〈身を隠す〉・隠れる,姿をくらます,〈隠れる〉・忍ぶ,〈隠れる〉・潜む,身を潜める",
+                "fallback": "hide oneself - Weblio 英和・和英辞典",
+                "from_url": "https:\/\/ejje.weblio.jp\/content\/hide+oneself",
+                "service_icon": "https:\/\/weblio.hs.llnwd.net\/e7\/img\/favicon\/ejje\/safari\/apple-touch-icon.png",
+                "service_name": "ejje.weblio.jp",
+                "id": 1,
+                "original_url": "https:\/\/ejje.weblio.jp\/content\/hide+oneself"
+            },
+            {
+                "service_name": "Yahoo!知恵袋",
+                "title": "英語での風の谷のナウシカの大ババ様の呼び名について教えてください。先程英語の字幕で風の谷のナウシカを見てたのですが大ババ様の字... - Yahoo!知恵袋",
+                "title_link": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q13160399163",
+                "text": "英語での風の谷のナウシカの大ババ様の呼び名について教えてください。先程英語の字幕で風の谷のナウシカを見てたのですが大ババ様の字幕が『Obaba』になってました。ナウシカの父の母な ので『grandmother』ではないのですか?海外で大ババは通じないですよね?ジブリ Obabaで通じるんでしょうね。もしくは、あの独特の魔法使いみたいな神秘を持つ老婆を固有名詞のオババとしたのでしょう。うる覚えですが、キャ...",
+                "fallback": "Yahoo!知恵袋: 英語での風の谷のナウシカの大ババ様の呼び名について教えてください。先程英語の字幕で風の谷のナウシカを見てたのですが大ババ様の字... - Yahoo!知恵袋",
+                "thumb_url": "https:\/\/s.yimg.jp\/images\/ks\/official\/nt\/ogp_1200.png",
+                "from_url": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q13160399163",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 2,
+                "original_url": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q13160399163"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Auz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mrs. Baba, hide you!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n馬場さん、隠れて！？\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "まあそうなるよね"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ババ様って婆様って書くと思ったから固有名詞じゃないと思ってた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/ejje.weblio.jp\/content\/hide+oneself"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " hide oneselfの形が既にあるのか"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q13160399163"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ああ、そういう考え方もできたのか "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631028778.036600",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

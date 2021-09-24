@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "d9be5c38-cc24-422c-848c-c79020eee174",
+        "type": "message",
+        "text": "ちょっと記事を読んでいて、面白い！と思ったので共有します。\n数字と心理の、ちょっと個人的には面白い記事でした\n<https:\/\/toyokeizai.net\/articles\/-\/361708?utm_campaign=MKtkol_moments&amp;utm_source=twitter&amp;utm_medium=social>",
+        "user": "UKUKA65GU",
+        "ts": "1595247426.039000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "東洋経済オンライン",
+                "title": "サイゼリヤ｢1円値上げ｣が与える想定外の衝撃 | トクを積む習慣",
+                "title_link": "https:\/\/toyokeizai.net\/articles\/-\/361708?utm_campaign=MKtkol_moments&utm_source=twitter&utm_medium=social",
+                "text": "「サイゼリヤ、値上げするってよ」――とばかりに、ショックを隠せない愛好家も多かったに違いない。筆者もその1人だ。昨年の消費増税にもひるまず税込み299円を守ってきた人気メニュー「ミラノ風ドリア」が、いよ…",
+                "fallback": "東洋経済オンライン: サイゼリヤ｢1円値上げ｣が与える想定外の衝撃 | トクを積む習慣",
+                "image_url": "https:\/\/toyokeizai.net\/mwimgs\/7\/0\/-\/img_70c5a8ad8d5dea78c29427a359250bf8874765.jpg",
+                "ts": 1594672500,
+                "from_url": "https:\/\/toyokeizai.net\/articles\/-\/361708?utm_campaign=MKtkol_moments&utm_source=twitter&utm_medium=social",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 152594,
+                "service_icon": "https:\/\/toyokeizai.net\/apple-touch-icon.png?20131220",
+                "id": 1,
+                "original_url": "https:\/\/toyokeizai.net\/articles\/-\/361708?utm_campaign=MKtkol_moments&amp;utm_source=twitter&amp;utm_medium=social"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VKki",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと記事を読んでいて、面白い！と思ったので共有します。\n数字と心理の、ちょっと個人的には面白い記事でした\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/toyokeizai.net\/articles\/-\/361708?utm_campaign=MKtkol_moments&utm_source=twitter&utm_medium=social"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blue_book",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

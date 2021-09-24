@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "09EC0919-7709-4C66-A0CE-1580C5CC961A",
+        "type": "message",
+        "text": "輪講の時間にサークルの用事が被ってしまったので、輪講の時間を変えて頂きたいですが可能でしょうか？",
+        "user": "U01EP8BUKQT",
+        "ts": "1628921619.008400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ged914d7ba7b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed914d7ba7bbb4f21370d607232d99bf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "上田　健登",
+            "real_name": "上田　健登",
+            "display_name": "kento",
+            "team": "TKS1Q2JUE",
+            "name": "ueken110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "輪講の時間にサークルの用事が被ってしまったので、輪講の時間を変えて頂きたいですが可能でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628141060.003900",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

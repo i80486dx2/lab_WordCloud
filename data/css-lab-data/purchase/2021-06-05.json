@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "09ae6a85-14fc-4df9-af74-d05a72b18258",
+        "type": "message",
+        "text": "Nreal lightと一緒に来たスマホってandroid10なんですが、11にアップデートしても大丈夫でしょうか？\nデバッグをwi-fi経由でできるようになって便利そうなのですが…",
+        "user": "U01EPKVACEN",
+        "ts": "1622896848.004900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G6i3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nreal lightと一緒に来たスマホってandroid10なんですが、11にアップデートしても大丈夫でしょうか？\nデバッグをwi-fi経由でできるようになって便利そうなのですが…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621814464.001200",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "c53112af-9888-4e97-a640-3533d333ffb8",
+        "type": "message",
+        "text": "<@U01EPKVACEN>\nそういえばandroid10なんですね。了解しました。一応借り物なので先方にメール投げておきました。返答は月曜日になりそうです。よろしくお願いします。",
+        "user": "UPSPAMY7M",
+        "ts": "1622899416.005100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zxm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそういえばandroid10なんですね。了解しました。一応借り物なので先方にメール投げておきました。返答は月曜日になりそうです。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621814464.001200",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

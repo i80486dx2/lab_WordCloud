@@ -1,0 +1,227 @@
+[
+    {
+        "client_msg_id": "2db2e908-d7b7-4f49-ba19-3a391d872e30",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01EPKVACEN> <@U01F31EEVNV> <@U01EP8BUKQT> <@U01EV766AH2>\n\n今日の輪講の会議リンクは以下になります\n<https:\/\/us06web.zoom.us\/j\/81906281807?pwd=blZHQjJhZWRsY2RiNkZZck5xVjdIdz09>\n\nミーティングID: 819 0628 1807\nパスコード: 398089",
+        "user": "UPSPAMY7M",
+        "ts": "1627369377.073200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pYW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n今日の輪講の会議リンクは以下になります\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/81906281807?pwd=blZHQjJhZWRsY2RiNkZZck5xVjdIdz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nミーティングID: 819 0628 1807\nパスコード: 398089"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626317689.072700",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EP8BUKQT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73037DD0-7359-421D-BE55-D70247A78007",
+        "type": "message",
+        "text": "<!channel> 次回(7\/30 金曜 17:00〜 予定) の研究室会について\n発表者\n<@UPSPAP97D>\n<@UKH07E67M>\n<@UKUKA65GU>\nzoom(変更なし)\n<https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09>\n\n\nこの次の取りまとめ役は <@UPRE1RSJW>です。(次回はまだ未定)\n夏休みの間(?)はラボミが休みになると思うので、3年の方もお時間があれば是非ご参加ください:fist:",
+        "user": "UKUKA65GU",
+        "ts": "1627390624.075800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKUKA65GU",
+            "ts": "1627477426.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "we=O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 次回(7\/30 金曜 17:00〜 予定) の研究室会について\n発表者\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nzoom(変更なし)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nこの次の取りまとめ役は "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。(次回はまだ未定)\n夏休みの間(?)はラボミが休みになると思うので、3年の方もお時間があれば是非ご参加ください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fist"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627390624.075800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1628409843.005600",
+        "reply_users": [
+            "U01EP839LHH",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "U01EP839LHH",
+                "ts": "1627653096.003300"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1628409843.005600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U01EL0SAUTF",
+                    "UPRE1RSJW",
+                    "UKH07E67M",
+                    "UQ47R82RW",
+                    "U01EVRBP38C"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UKS1Q2KTQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

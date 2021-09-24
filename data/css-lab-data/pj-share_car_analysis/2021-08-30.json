@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "f1defd90-233a-406e-b289-85942c6bece3",
+        "type": "message",
+        "text": "YOLO V5でフロントカメラの物体検出をしました。本来、70種類のオブジェクトを検知できますが、‘person’,‘bicycle’,‘car’,‘traffic light’,‘stop sign’の5つに絞って行いました。\n<https:\/\/kepler.gl\/demo\/map?mapUrl=https:\/\/dl.dropboxusercontent.com\/s\/ct02wc60cfmfbr5\/keplergl_h9gn7hn.json>",
+        "user": "UPRE1RSJW",
+        "ts": "1630383539.002200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "kepler.gl",
+                "title": "Large-scale WebGL-powered Geospatial Data Visualization Tool",
+                "title_link": "https:\/\/kepler.gl\/demo\/map?mapUrl=https:\/\/dl.dropboxusercontent.com\/s\/ct02wc60cfmfbr5\/keplergl_h9gn7hn.json",
+                "text": "<http:\/\/Kepler.gl|Kepler.gl> is a powerful web-based geospatial data analysis tool. Built on a high performance rendering engine and designed for large-scale data sets.",
+                "fallback": "kepler.gl: Large-scale WebGL-powered Geospatial Data Visualization Tool",
+                "image_url": "https:\/\/d1a3f4spazzrp4.cloudfront.net\/kepler.gl\/kepler.gl-meta-tag.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/kepler.gl\/demo\/map?mapUrl=https:\/\/dl.dropboxusercontent.com\/s\/ct02wc60cfmfbr5\/keplergl_h9gn7hn.json",
+                "image_bytes": 200408,
+                "service_icon": "https:\/\/kepler.gl\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/kepler.gl\/demo\/map?mapUrl=https:\/\/dl.dropboxusercontent.com\/s\/ct02wc60cfmfbr5\/keplergl_h9gn7hn.json"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cFhh1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YOLO V5でフロントカメラの物体検出をしました。本来、70種類のオブジェクトを検知できますが、‘person’,‘bicycle’,‘car’,‘traffic light’,‘stop sign’の5つに絞って行いました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kepler.gl\/demo\/map?mapUrl=https:\/\/dl.dropboxusercontent.com\/s\/ct02wc60cfmfbr5\/keplergl_h9gn7hn.json"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "5470d11f-590f-4a99-9a58-5bbd629064bf",
+        "type": "message",
+        "text": "<!channel> 今週12\/2（水）17:30に予定している研究室会ですが、2年生の新メンバーで出られる方は参加してください。オンラインです。<@UPSPAP97D> 君は先日のt-sneの内容をシェアしてもらえませんか？他に3年生で話題提供できる方いますか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1606698332.018900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dPU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今週12\/2（水）17:30に予定している研究室会ですが、2年生の新メンバーで出られる方は参加してください。オンラインです。"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君は先日のt-sneの内容をシェアしてもらえませんか？他に3年生で話題提供できる方いますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EVRBP38C",
+                    "U01EPKVACEN",
+                    "U01EP8BUKQT",
+                    "U01EL0SAUTF"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ok",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

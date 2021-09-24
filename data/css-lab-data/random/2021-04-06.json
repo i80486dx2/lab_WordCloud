@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "B15ED714-DCF7-404B-8B81-38B1FF6C0373",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "U01EVRBP38C",
+        "ts": "1617724898.022200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xNCfM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617674419.019700",
+        "parent_user_id": "U016X0FK7FB",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32f239cb-7a09-4a99-a465-5d6e5a917978",
+        "type": "message",
+        "text": "遅れちゃった！おたおめです！！",
+        "user": "UKUKA65GU",
+        "ts": "1617772666.022600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RaG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅れちゃった！おたおめです！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617674419.019700",
+        "parent_user_id": "U016X0FK7FB"
+    }
+]

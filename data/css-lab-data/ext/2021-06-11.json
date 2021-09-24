@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "8c6c927f-1721-4ec5-8423-714e30664467",
+        "type": "message",
+        "text": "これ土曜はオフィスが休みだからあえて前日にお祝いメッセージ表示してるのかな。だとしたらすごい。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623411707.007200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=oJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これ土曜はオフィスが休みだからあえて前日にお祝いメッセージ表示してるのかな。だとしたらすごい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623376800.006700",
+        "parent_user_id": "U016X0FK7FB",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

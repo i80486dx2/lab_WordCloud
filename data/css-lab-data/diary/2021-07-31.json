@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "16412236-b928-49e8-828e-6ace12c63d3c",
+        "type": "message",
+        "text": "鶴ケ城の方行ってSARF体験してきましたが拡張した美術館の音声案内みたいな感じでした\ngpsで特定地域の範囲内に入ると音声が流れます",
+        "user": "U01EPKVACEN",
+        "ts": "1627742368.002300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YzHAG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "鶴ケ城の方行ってSARF体験してきましたが拡張した美術館の音声案内みたいな感じでした\ngpsで特定地域の範囲内に入ると音声が流れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e836503-8783-4633-9b75-58133786bc6d",
+        "type": "message",
+        "text": "<https:\/\/compu-soceco.slack.com\/archives\/CKS1Q31GE\/p1626740445142400|https:\/\/compu-soceco.slack.com\/archives\/CKS1Q31GE\/p1626740445142400>",
+        "user": "U01EPKVACEN",
+        "ts": "1627742398.002500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/compu-soceco.slack.com\/archives\/CKS1Q31GE\/p1626740445142400",
+                "fallback": "[July 19th, 2021 5:20 PM] ueken110: 会津で面白そうな事やってた\n<https:\/\/prtimes.jp\/main\/html\/rd\/p\/000000007.000050806.html|https:\/\/prtimes.jp\/main\/html\/rd\/p\/000000007.000050806.html>",
+                "ts": "1626740445.142400",
+                "author_id": "U01EP8BUKQT",
+                "author_subname": "上田　健登",
+                "channel_id": "CKS1Q31GE",
+                "channel_name": "random",
+                "is_msg_unfurl": true,
+                "text": "会津で面白そうな事やってた\n<https:\/\/prtimes.jp\/main\/html\/rd\/p\/000000007.000050806.html|https:\/\/prtimes.jp\/main\/html\/rd\/p\/000000007.000050806.html>",
+                "author_name": "上田　健登",
+                "author_link": "https:\/\/compu-soceco.slack.com\/team\/U01EP8BUKQT",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/ed914d7ba7bbb4f21370d607232d99bf.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/compu-soceco.slack.com\/archives\/CKS1Q31GE\/p1626740445142400",
+                "footer": "Posted in #random"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L7m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/compu-soceco.slack.com\/archives\/CKS1Q31GE\/p1626740445142400",
+                                "text": "https:\/\/compu-soceco.slack.com\/archives\/CKS1Q31GE\/p1626740445142400"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627742398.002500",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1627875066.014900",
+        "reply_users": [
+            "U01FP2RDV44",
+            "U01EPKVACEN"
+        ],
+        "replies": [
+            {
+                "user": "U01FP2RDV44",
+                "ts": "1627798088.004400"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1627810523.006500"
+            },
+            {
+                "user": "U01FP2RDV44",
+                "ts": "1627814670.009700"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1627825602.010000"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1627825626.010200"
+            },
+            {
+                "user": "U01FP2RDV44",
+                "ts": "1627875066.014900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U01FP2RDV44"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1B887B29-6CA4-425C-AC32-B35CD878BC1E",
+        "type": "message",
+        "text": "<@U01EPKVACEN> 僕もこれ興味あるんですけど、エンタメや観光というコンテクストで考えた時、高橋先輩的に面白かったですかー？",
+        "user": "U01FP2RDV44",
+        "ts": "1627798088.004400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LSu4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 僕もこれ興味あるんですけど、エンタメや観光というコンテクストで考えた時、高橋先輩的に面白かったですかー？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627742398.002500",
+        "parent_user_id": "U01EPKVACEN"
+    }
+]

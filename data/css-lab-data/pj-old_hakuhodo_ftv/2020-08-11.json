@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "24f5c823-8019-4180-bfc5-cc394a866aa2",
+        "type": "message",
+        "text": "いつ頃テレビが取材に来ますか？",
+        "user": "UPRE1RSJW",
+        "ts": "1597197927.000100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPRE1RSJW",
+            "ts": "1597197939.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IZJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いつ頃テレビが取材に来ますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596450944.191100",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "d8adb9fb-6b30-418f-ad29-5208be4b5ef2",
+        "type": "message",
+        "text": "そういえばもう12日ですね。特にまだ連絡は来てないです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1597198293.000400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9R0x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そういえばもう12日ですね。特にまだ連絡は来てないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596450944.191100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

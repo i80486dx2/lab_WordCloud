@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "@channel 今日の研究室会はこちらで：\n<https:\/\/us02web.zoom.us\/j\/84429527193?pwd=SnZWZEZyck56QWtXN2kyZHZ3Vi9Sdz09>\n\n直前まで博報堂のプロジェクトでオンラインインタビューをしているので、もしかすると少し遅れるかもしれません。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1597815491.119700",
+        "thread_ts": "1596013577.113800",
+        "root": {
+            "client_msg_id": "867a5578-9c43-4cc2-8c7b-8fc1d42a3c2a",
+            "type": "message",
+            "text": "<!channel> 次回の研究室会ですが、お盆をとばして、3週間後の8\/19（水）16:00はどうでしょうか？",
+            "user": "UKS1Q2KTQ",
+            "ts": "1596013577.113800",
+            "team": "TKS1Q2JUE",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9uvre",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 次回の研究室会ですが、お盆をとばして、3週間後の8\/19（水）16:00はどうでしょうか？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1596013577.113800",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1597824735.121100",
+            "reply_users": [
+                "UKS1Q2KTQ",
+                "UKUKA65GU"
+            ],
+            "replies": [
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1596174659.117100"
+                },
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1597815491.119700"
+                },
+                {
+                    "user": "UKUKA65GU",
+                    "ts": "1597824735.121100"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1597824735.121100"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fFGy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@channel 今日の研究室会はこちらで：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/84429527193?pwd=SnZWZEZyck56QWtXN2kyZHZ3Vi9Sdz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n直前まで博報堂のプロジェクトでオンラインインタビューをしているので、もしかすると少し遅れるかもしれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "092f96b3-ad85-4e27-9311-fd57eb7ab36e",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UKH07E67M",
+                    "UQ47R82RW"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

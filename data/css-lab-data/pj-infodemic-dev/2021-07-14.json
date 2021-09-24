@@ -1,0 +1,445 @@
+[
+    {
+        "client_msg_id": "6a48ec82-0494-413c-b4d6-6db67ed51afe",
+        "type": "message",
+        "text": "<@U01KC41PR9C> <@U01EL0SAUTF>\nバックエンド覚え書き\n• スクロールAPIの実装\n    ◦ キャッシュの有効時間（今は1分）\n    ◦ 時間順：order=1、時間逆順order=-1\n    ◦ 2ページ目以降はscroll_idのみ指定\n• csvとjsonのダウンローダ\n    ◦ 現在は最大10,000件\n    ◦ ハッシュタグ検索はAND検索( &amp; )とOR検索( | )\nフロントエンド覚え書き\n• カラムの動作の安定向上\n• 無限スクロールの実装（上方向は？）\n• デザインの修正（橋本より。デプロイ先を教えて）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626253642.110700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1626254364.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gIBB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nバックエンド覚え書き\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "スクロールAPIの実装"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "キャッシュの有効時間（今は1分）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "時間順：order=1、時間逆順order=-1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2ページ目以降はscroll_idのみ指定"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "csvとjsonのダウンローダ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "現在は最大10,000件"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ハッシュタグ検索はAND検索( & )とOR検索( | )"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nフロントエンド覚え書き\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "カラムの動作の安定向上"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "無限スクロールの実装（上方向は？）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "デザインの修正（橋本より。デプロイ先を教えて）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a559c280-d52f-4ad2-9a92-0184679a649a",
+        "type": "message",
+        "text": "新しいデプロイ先です！\n<https:\/\/infodemic-73335.web.app\/>\n\n:point_down:新しいリポジトリです\n<https:\/\/github.com\/hond0413\/InfodemicApp>",
+        "user": "U01EL0SAUTF",
+        "ts": "1626254313.111500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01EL0SAUTF",
+            "ts": "1626254366.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "hond0413\/InfodemicApp",
+                "title": "hond0413\/InfodemicApp",
+                "id": 1,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "Vue",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "a day ago",
+                        "short": true
+                    }
+                ],
+                "bot_id": "B024PUF4EQ6",
+                "app_unfurl_url": "https:\/\/github.com\/hond0413\/InfodemicApp",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Lp5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新しいデプロイ先です！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/infodemic-73335.web.app\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_down"
+                            },
+                            {
+                                "type": "text",
+                                "text": "新しいリポジトリです\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/hond0413\/InfodemicApp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01KC41PR9C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76fadd2c-541e-47e9-9605-b68cc0cf6c96",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> コミュニティ内部・コミュニティ間の様子を大まかに調べてみました。\n\nコミュニティ内部(notion):\n• ニュースサイトuserの多さなどを手動で確認せずに 取り出せないか検討\n    ◦ 結果: shortest_path平均、pagerankでノード埋め込み が使えそう？\nコミュニティ間(Observable):\n• heatmapで確認\n    ◦ 結果: コミュニティをノードにしたInfomap結果が、思ったより綺麗なコミュニティ検出していた (コミュニティ内で情報が滞留するようす?が見れた)\n\n<https:\/\/www.notion.so\/d8df934195af47849b240141217a8746>",
+        "user": "UPSPAP97D",
+        "ts": "1626318791.119300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Murakami's Notion on Notion",
+                "title": "コミュニティトポロジー調べ(仮)",
+                "title_link": "https:\/\/www.notion.so\/d8df934195af47849b240141217a8746",
+                "text": "user数100以上のコミュニティをノードにしたネットワークのheatmap図",
+                "fallback": "Murakami's Notion on Notion: コミュニティトポロジー調べ(仮)",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faf5e5ad5-871e-43f7-9d5d-8cce66252924%2Fin_out_avg.png?table=block&id=1ee45b44-d117-454c-83d4-270ef608d1b6&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/d8df934195af47849b240141217a8746",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 338020,
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/d8df934195af47849b240141217a8746"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MAsjb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " コミュニティ内部・コミュニティ間の様子を大まかに調べてみました。\n\nコミュニティ内部(notion):\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ニュースサイトuserの多さなどを手動で確認せずに 取り出せないか検討"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "結果: shortest_path平均、pagerankでノード埋め込み が使えそう？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nコミュニティ間(Observable):\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "heatmapで確認"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "結果: コミュニティをノードにしたInfomap結果が、思ったより綺麗なコミュニティ検出していた (コミュニティ内で情報が滞留するようす?が見れた)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/d8df934195af47849b240141217a8746"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "a78635e9-46be-434f-b81e-f5ff1fc6c306",
+        "type": "message",
+        "text": "ある自然数が積で表されている=&gt;約数判定で高速化を狙う、という発想に至るための良い問題\n<https:\/\/atcoder.jp\/contests\/abc190\/tasks\/abc190_d>",
+        "user": "U01F42ZFA73",
+        "ts": "1623115872.027100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "AtCoder",
+                "title": "D - Staircase Sequences",
+                "title_link": "https:\/\/atcoder.jp\/contests\/abc190\/tasks\/abc190_d",
+                "text": "AtCoder is a programming contest site for anyone from beginners to experts. We hold weekly programming contests online.",
+                "fallback": "AtCoder: D - Staircase Sequences",
+                "thumb_url": "https:\/\/img.atcoder.jp\/assets\/atcoder.png",
+                "from_url": "https:\/\/atcoder.jp\/contests\/abc190\/tasks\/abc190_d",
+                "thumb_width": 280,
+                "thumb_height": 280,
+                "service_icon": "http:\/\/img.atcoder.jp\/assets\/atcoder.png",
+                "id": 1,
+                "original_url": "https:\/\/atcoder.jp\/contests\/abc190\/tasks\/abc190_d"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U5px",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ある自然数が積で表されている=>約数判定で高速化を狙う、という発想に至るための良い問題\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atcoder.jp\/contests\/abc190\/tasks\/abc190_d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

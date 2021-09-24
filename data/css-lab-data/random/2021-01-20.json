@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "A922845F-3368-48D4-8478-38E31F6973DF",
+        "type": "message",
+        "text": "<http:\/\/www.natural-science.or.jp\/PHYSICS\/example\/RandomWalk.html|http:\/\/www.natural-science.or.jp\/PHYSICS\/example\/RandomWalk.html>\nもう何が何だかよく分からん。",
+        "user": "U01F42ZFA73",
+        "ts": "1611207860.000200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1611207883.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n\/ZE6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.natural-science.or.jp\/PHYSICS\/example\/RandomWalk.html",
+                                "text": "http:\/\/www.natural-science.or.jp\/PHYSICS\/example\/RandomWalk.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nもう何が何だかよく分からん。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1611207860.000200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1611271929.002100",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1611271929.002100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1611271929.002100",
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

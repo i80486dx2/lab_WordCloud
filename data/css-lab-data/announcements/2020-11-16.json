@@ -1,0 +1,568 @@
+[
+    {
+        "client_msg_id": "B5E2A93B-DAEF-4C89-83C5-8FAED8DA065A",
+        "type": "message",
+        "text": "新しく畠先生の研究室でお世話になります、学部2年の吾妻敬也です。よろしくお願いします！",
+        "user": "U01EV766AH2",
+        "ts": "1605514681.054700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b2ff5f8847ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-16\/1503423459234_b2ff5f8847ffb1c6c427_72.png",
+            "first_name": "Keiya",
+            "real_name": "Keiya Azuma",
+            "display_name": "azuma",
+            "team": "TKS1Q2JUE",
+            "name": "s1270107",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GcXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新しく畠先生の研究室でお世話になります、学部2年の吾妻敬也です。よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "U01EP8BUKQT",
+                    "UPSPAP97D",
+                    "UKH07E67M",
+                    "U01EP839LHH",
+                    "UPSPAMY7M",
+                    "UKUKA65GU",
+                    "U01EVRBP38C",
+                    "UKS1Q2KTQ",
+                    "U01EL0SAUTF"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecafad91-14f2-4287-9749-b757429efac8",
+        "type": "message",
+        "text": "研究室にあるPC(Ubuntu\/Windows)に外付けHDD(8TB)を設置しました。HD-ADU3の名前でフォルダに表示されています。中身は学籍番号で分けてある（二年生はまだ）ので各自そこの中にデータを保存してください。各自のフォルダには誰でもアクセスできるので注意してください。Ubuntu\/Windowsどちらからでも使えます。",
+        "user": "UPRE1RSJW",
+        "ts": "1605535772.059500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7AcUm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "研究室にあるPC(Ubuntu\/Windows)に外付けHDD(8TB)を設置しました。HD-ADU3の名前でフォルダに表示されています。中身は学籍番号で分けてある（二年生はまだ）ので各自そこの中にデータを保存してください。各自のフォルダには誰でもアクセスできるので注意してください。Ubuntu\/Windowsどちらからでも使えます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605535772.059500",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1605553086.062700",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1605550921.060800"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1605551230.061000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1605552218.061200"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1605552392.061400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1605552432.061600"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1605552508.061900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1605552570.062100"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1605552779.062400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1605553086.062700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1605553086.062700",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UPSPAP97D",
+                    "UKUKA65GU",
+                    "UPSPAMY7M"
+                ],
+                "count": 5
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UPSPAP97D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UPSPAP97D",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77f423b7-73ed-469b-a136-ae24da1cc658",
+        "type": "message",
+        "text": "<@UPRE1RSJW> 結局各自のアカウントってどうするんでしたっけ？助川君に頼めば作ってもらえるのかな？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1605550921.060800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z0i8R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 結局各自のアカウントってどうするんでしたっけ？助川君に頼めば作ってもらえるのかな？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605535772.059500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "4b4f2ab2-082b-46c2-9f7d-515f7e681b44",
+        "type": "message",
+        "text": "僕でなくてもcse_memberログイン出来る人がそこでアカウント作ればいけると思います。勿論、僕が作ってもいいですよ。",
+        "user": "UPRE1RSJW",
+        "ts": "1605551230.061000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YIZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕でなくてもcse_memberログイン出来る人がそこでアカウント作ればいけると思います。勿論、僕が作ってもいいですよ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605535772.059500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "a6a0699f-3cfb-4eb1-8c91-a2c5b2db84d0",
+        "type": "message",
+        "text": "そういえばcse_memberという管理者アカウントを作ったのを忘れてました（パスワード忘れたけど！）。cse_memberを誰でも入れる通常アカウントにしてしまって、管理者用のcse_admin（あるいは単にadmin）を作って、学生2人ほどと私が把握しておくってのはいかが？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1605552218.061200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xdQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そういえばcse_memberという管理者アカウントを作ったのを忘れてました（パスワード忘れたけど！）。cse_memberを誰でも入れる通常アカウントにしてしまって、管理者用のcse_admin（あるいは単にadmin）を作って、学生2人ほどと私が把握しておくってのはいかが？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605535772.059500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "bf880899-e88a-4b82-b182-907934a678fc",
+        "type": "message",
+        "text": "いいと思いますがcse_memberは一時的な利用というイメージでいいですか？",
+        "user": "UPRE1RSJW",
+        "ts": "1605552392.061400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zGeJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いいと思いますがcse_memberは一時的な利用というイメージでいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605535772.059500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "8a1ab2d6-6241-440f-a8a0-3059769b7700",
+        "type": "message",
+        "text": "うん。例えば2年生とか、課プロの学生がちょっと使いたいとか。（だとするとguestの方がいいのか）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1605552432.061600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1605552458.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0BO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うん。例えば2年生とか、課プロの学生がちょっと使いたいとか。（だとするとguestの方がいいのか）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605535772.059500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "ff17d7a8-8781-4539-bb01-94da733fe2d3",
+        "type": "message",
+        "text": "あーなるほど",
+        "user": "UPRE1RSJW",
+        "ts": "1605552508.061900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あーなるほど"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605535772.059500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "a13e4539-cba4-483c-8d7d-a1d7036d36e1",
+        "type": "message",
+        "text": "ちょっと話は変わるけど、100～150万くらいで超速い計算機が買える予算をもらうことになったのだが、どうしよう。（独り言）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1605552570.062100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1605552602.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vGR=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと話は変わるけど、100～150万くらいで超速い計算機が買える予算をもらうことになったのだが、どうしよう。（独り言）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605535772.059500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "224b5a93-2ab0-4750-9973-ce9158b89f08",
+        "type": "message",
+        "text": "使い道が思い浮かばないですけど\n<https:\/\/www.apple.com\/jp_edu_1460\/shop\/buy-mac\/mac-pro\/rack#>",
+        "user": "UPRE1RSJW",
+        "ts": "1605552779.062400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "教育 - Apple（日本）",
+                "title": "Mac Proラック型を購入",
+                "title_link": "https:\/\/www.apple.com\/jp_edu_1460\/shop\/buy-mac\/mac-pro\/rack",
+                "text": "最大28コアのパワー、最大1.5TBのメモリ、Radeon Pro Vega II Duoで、あなたの新しいMac Proラック型筐体をカスタマイズしましょう。オンラインでの購入はapple.comで。",
+                "fallback": "教育 - Apple（日本）: Mac Proラック型を購入",
+                "image_url": "https:\/\/store.storeimages.cdn-apple.com\/8567\/as-images.apple.com\/is\/mac-pro-rack-hero-cto?wid=1200&hei=630&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1572546631194",
+                "from_url": "https:\/\/www.apple.com\/jp_edu_1460\/shop\/buy-mac\/mac-pro\/rack",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 158588,
+                "service_icon": "https:\/\/www.apple.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.apple.com\/jp_edu_1460\/shop\/buy-mac\/mac-pro\/rack#"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Si9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "使い道が思い浮かばないですけど\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.apple.com\/jp_edu_1460\/shop\/buy-mac\/mac-pro\/rack#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605535772.059500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "1da6ddde-4bdc-491b-b491-18d8e729ff46",
+        "type": "message",
+        "text": "16core, memory192GB, ssd2TB, VegaII×1で税込み148万か…ｺﾞｸﾘ",
+        "user": "UKS1Q2KTQ",
+        "ts": "1605553086.062700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eSU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "16core, memory192GB, ssd2TB, VegaII×1で税込み148万か…ｺﾞｸﾘ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605535772.059500",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

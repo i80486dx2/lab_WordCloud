@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "eced5faa-4a93-4c28-b54c-16bc780fc094",
+        "type": "message",
+        "text": "<@UKH07E67M> <@U01EVRBP38C> ミット打ちのよい勉強になるわ。あと二人とも相撲やってたってさ！：\n<https:\/\/www.youtube.com\/watch?v=qsaS6klTUkw>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618934806.038300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1618935702.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "立ち技から組みまで！朝倉未来選手の強さに迫ってみた。",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=qsaS6klTUkw",
+                "author_name": "魔裟斗チャンネル",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCz6A-bktEcKGLil_do4Vqzw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/qsaS6klTUkw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 立ち技から組みまで！朝倉未来選手の強さに迫ってみた。",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/qsaS6klTUkw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=qsaS6klTUkw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=qsaS6klTUkw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Smy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EVRBP38C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ミット打ちのよい勉強になるわ。あと二人とも相撲やってたってさ！：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=qsaS6klTUkw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

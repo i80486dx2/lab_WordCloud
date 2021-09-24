@@ -1,0 +1,1576 @@
+[
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "飛行クラブっていうんだけど、ぜひ君に来てほしいんだよ（トンボ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1622302377.084000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622302377.084000",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1622452661.100000",
+        "reply_users": [
+            "UKUKA65GU",
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKUKA65GU",
+                "ts": "1622303180.084400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622348434.085500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622351081.091400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622361581.095200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622452661.100000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622452661.100000"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：飛行クラブっていうんだけど、ぜひ君に来てほしいんだよ",
+        "user": "U01UMQH4W4B",
+        "ts": "1622302377.084100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622302377.084100",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1622452994.100200",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKUKA65GU",
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1622302378.084200"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1622303328.084600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622348712.086600"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622351158.092600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622362535.095400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622452994.100200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622452994.100200"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "It’s called the flying club, and we’d really like you to come.",
+        "user": "U01UMQH4W4B",
+        "ts": "1622302378.084200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622302377.084100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "48e8383b-6f66-4cdf-a9ed-f58a119f4d10",
+        "type": "message",
+        "text": "The name is \"Flying Club\".\nI really want you to see it.",
+        "user": "UKUKA65GU",
+        "ts": "1622303180.084400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R+p7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The name is \"Flying Club\".\nI really want you to see it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622302377.084000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "456b3b8e-72aa-4676-841c-8d820d35450a",
+        "type": "message",
+        "text": "`The name is \"Flying Club\".I really want you to see it.`\nうーん、来て欲しいなのに自分で勝手に見て欲しいにしてる...\nぜひ→強調でReallyを入れられたのは◎",
+        "user": "UKUKA65GU",
+        "ts": "1622303328.084600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/+If",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The name is \"Flying Club\".I really want you to see it.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nうーん、来て欲しいなのに自分で勝手に見て欲しいにしてる...\nぜひ→強調でReallyを入れられたのは◎"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622302377.084100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1622346832.084800",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1622346832.084800",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1626565744.340600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01EVRBP38C",
+            "UQ47R82RW",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622347356.084900"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622351145.092400"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622351289.093200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622362769.095600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622453321.100600"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626565744.340600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626565744.340600",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「あーあ、全人類が私にひれ伏せばいいのに」 <https:\/\/pbs.twimg.com\/media\/E2m2vfkVgAg2IvF.jpg>",
+                "ts": 1622346826,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1398850094061875201",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1398850094061875201>",
+                "text": "「あーあ、全人類が私にひれ伏せばいいのに」 <https:\/\/pbs.twimg.com\/media\/E2m2vfkVgAg2IvF.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1398850094061875201",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E2m2vfkVgAg2IvF.jpg",
+                "image_width": 400,
+                "image_height": 460,
+                "image_bytes": 32833,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d96241bc-2697-4d0c-ab6d-daeb7c25313e",
+        "type": "message",
+        "text": "Oh, I wish all humanity would genuflect to me.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622347356.084900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8FK4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, I wish all humanity would genuflect to me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622346832.084800"
+    },
+    {
+        "client_msg_id": "511b3cc0-5b2c-4f76-be1a-35c7afdb267c",
+        "type": "message",
+        "text": "反省会「あーあ、全人類が私にひれ伏せばいいのに」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622347857.085200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7yJX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「あーあ、全人類が私にひれ伏せばいいのに」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622347857.085200",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1622453791.100800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "U01EVRBP38C",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622348151.085300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622351529.094100"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622351653.095000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622364075.095800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622453791.100800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622453791.100800"
+    },
+    {
+        "client_msg_id": "9fa2508b-fef9-437a-8c3f-55982d07e335",
+        "type": "message",
+        "text": "`Oh, I wish all humanity would genuflect to me.`\nDeepL：ああ、全人類が私にひれ伏してくれればいいのに。\n\n• 模範解答と全然違う英文なのに和訳がほぼ同じ…。\n• 「if only ... = ... だといいのに」了。和訳はできても、これで英作文はなかなかできない。\n• mankind と humanity は interchangeable のようだ。\n• 「grovel = ひれ伏す」了。初めて見た！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622348151.085300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H7f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, I wish all humanity would genuflect to me.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：ああ、全人類が私にひれ伏してくれればいいのに。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "模範解答と全然違う英文なのに和訳がほぼ同じ…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「if only ... = ... だといいのに」了。和訳はできても、これで英作文はなかなかできない。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "mankind と humanity は interchangeable のようだ。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「grovel = ひれ伏す」了。初めて見た！"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622347857.085200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "24a72eed-9a02-490b-9360-a836752ee50f",
+        "type": "message",
+        "text": "I eagerly hope you to join our club, the \"Flying Club\".",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622348434.085500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BZpK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I eagerly hope you to join our club, the \"Flying Club\"."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622302377.084000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "12af44d7-7ec1-4042-8e59-13b08f65614e",
+        "type": "message",
+        "text": "I hope to stop increasing victim.  Please.",
+        "user": "UQ47R82RW",
+        "ts": "1622348584.086400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tc\/JW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope to stop increasing victim.  Please."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621956777.048900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "150a867e-ef7c-4250-8b29-4b46ca30b0d1",
+        "type": "message",
+        "text": "`I eagerly hope you to join our club, the \"Flying Club\".`\nDeepL：私たちのクラブ、\"Flying Club \"への参加を熱望します。\n\n• クラブに入って欲しいのではなく、単に見に来て欲しいという文脈だった。\n• 少年が口にする「ぜひ...してほしい」だから eagerly hope よりも would really like が軽くてよさそう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622348712.086600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qp=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I eagerly hope you to join our club, the \"Flying Club\".",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：私たちのクラブ、\"Flying Club \"への参加を熱望します。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "クラブに入って欲しいのではなく、単に見に来て欲しいという文脈だった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "少年が口にする「ぜひ...してほしい」だから eagerly hope よりも would really like が軽くてよさそう。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622302377.084100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f19174a9-8470-41c7-b4f5-eb2fd765a118",
+        "type": "message",
+        "text": "I hope to stop increasing victim. Please.\nDeep:被害者を増やさないようにしたいです。 お願いします。\n\n結構当てずっぽうなpleaseだったけど、英語圏でも発想は同じなのか。\n<https:\/\/www.english-speaking.jp\/meaning-of-please\/>\n\nsacrificeは、神への生贄的な犠牲者。\n正直シーンがわからないと、犠牲をvictimとsacrificeで見分けられないような....\nナウシカの話を覚えてないのが、響くなぁ。\n王蟲へなのかなぁ。",
+        "user": "UQ47R82RW",
+        "ts": "1622348958.086800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "英語イメージリンク",
+                "title": "please（プリーズ）の本当の意味、ネイティブの感覚とは…",
+                "title_link": "https:\/\/www.english-speaking.jp\/meaning-of-please\/",
+                "text": "please を「どうぞ～ください」で覚えていませんか？この日本語訳で覚えてしまうと、不適切な場面で please を使いすぎてしまったり、言うべきときに please が抜けてしまったりしがちなのです。この記事では please の意味を対談形式で解説します。",
+                "fallback": "英語イメージリンク: please（プリーズ）の本当の意味、ネイティブの感覚とは…",
+                "thumb_url": "https:\/\/www.english-speaking.jp\/wp-content\/uploads\/meaning-of-please-eyecatch.jpg",
+                "from_url": "https:\/\/www.english-speaking.jp\/meaning-of-please\/",
+                "thumb_width": 640,
+                "thumb_height": 427,
+                "service_icon": "https:\/\/www.english-speaking.jp\/wp-content\/uploads\/cropped-imagelink_512-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.english-speaking.jp\/meaning-of-please\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cA5hX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope to stop increasing victim. Please.\nDeep:被害者を増やさないようにしたいです。 お願いします。\n\n結構当てずっぽうなpleaseだったけど、英語圏でも発想は同じなのか。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.english-speaking.jp\/meaning-of-please\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nsacrificeは、神への生贄的な犠牲者。\n正直シーンがわからないと、犠牲をvictimとsacrificeで見分けられないような....\nナウシカの話を覚えてないのが、響くなぁ。\n王蟲へなのかなぁ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621956777.049000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b023873a-3866-45fa-8839-0e0164751777",
+        "type": "message",
+        "text": "If you want burning, It adopt Honnou-ji. It has trust and results.",
+        "user": "UQ47R82RW",
+        "ts": "1622349070.087100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nxl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want burning, It adopt Honnou-ji. It has trust and results."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622031446.060800"
+    },
+    {
+        "client_msg_id": "dc322f81-073f-4376-beac-6664946c3076",
+        "type": "message",
+        "text": "If you want burning, It adopt Honnou-ji. It has trust and results.\nDeep:燃えたいなら本能寺を採用する。信頼と実績があります。\n本能寺テンプルってなんやねん....って思ったけど、そういう訳なのか。\n正式名+種類的な？\n~なら、金閣寺はkinkaku-ji templeなのかなぁ。~\nそういうわけでもなさそう↓\n<https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59181\/#:~:text=%E9%87%91%E9%96%A3%E5%AF%BA%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEKinkaku%2DJI,%E3%81%A0%E3%81%8B%E3%82%89Kinkaku%20Temple%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82|https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59181\/#:~:text=%E9%87%91%E9%96%A3%E5%AF%BA%E3%81%AF%E3%8[…]2%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82>\n\nwhen it comes to ~: 〜なら、　これは定訳\n\n任せる count on\n\nproven=証明された、実績のある\n<https:\/\/eikaiwa.dmm.com\/app\/uknow\/word\/proven\/gflJ1PwiTRKGjCEt-oTaRQ>\n\ntrustedでprovenな本能寺とは.....",
+        "user": "UQ47R82RW",
+        "ts": "1622349468.087300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DMM英会話なんてuKnow?",
+                "title": "金閣寺って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "title_link": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59181\/#:~:text=%E9%87%91%E9%96%A3%E5%AF%BA%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEKinkaku%2DJI,%E3%81%A0%E3%81%8B%E3%82%89Kinkaku%20Temple%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82",
+                "text": "京都にある金閣寺は英語で説明する場合はなんて言ったらいいですか？",
+                "fallback": "DMM英会話なんてuKnow?: 金閣寺って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "image_url": "https:\/\/img.eikaiwa.dmm.com\/assets\/uknow\/fb_ogp.png",
+                "from_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59181\/#:~:text=%E9%87%91%E9%96%A3%E5%AF%BA%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEKinkaku%2DJI,%E3%81%A0%E3%81%8B%E3%82%89Kinkaku%20Temple%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 28296,
+                "service_icon": "https:\/\/eikaiwa.dmm.com\/fav-apple-touch-icon-57x57-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59181\/#:~:text=%E9%87%91%E9%96%A3%E5%AF%BA%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEKinkaku%2DJI,%E3%81%A0%E3%81%8B%E3%82%89Kinkaku%20Temple%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GmK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want burning, It adopt Honnou-ji. It has trust and results.\nDeep:燃えたいなら本能寺を採用する。信頼と実績があります。\n本能寺テンプルってなんやねん....って思ったけど、そういう訳なのか。\n正式名+種類的な？\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なら、金閣寺はkinkaku-ji templeなのかなぁ。",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそういうわけでもなさそう↓\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59181\/#:~:text=%E9%87%91%E9%96%A3%E5%AF%BA%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BEKinkaku%2DJI,%E3%81%A0%E3%81%8B%E3%82%89Kinkaku%20Temple%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82",
+                                "text": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59181\/#:~:text=%E9%87%91%E9%96%A3%E5%AF%BA%E3%81%AF%E3%8[…]2%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nwhen it comes to ~: 〜なら、　これは定訳\n\n任せる count on\n\nproven=証明された、実績のある\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eikaiwa.dmm.com\/app\/uknow\/word\/proven\/gflJ1PwiTRKGjCEt-oTaRQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ntrustedでprovenな本能寺とは....."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622033883.061200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "b07af350-42f1-406f-acd7-99d9c042afd8",
+        "type": "message",
+        "text": "Cat is easy. I don't care you, even if you become fat as hot-cake.",
+        "user": "UQ47R82RW",
+        "ts": "1622349569.087600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "we5h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cat is easy. I don't care you, even if you become fat as hot-cake."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622043177.061900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "0b7755aa-2a85-43b2-9e9d-4c0c4d40a72b",
+        "type": "message",
+        "text": "Cat is easy. I don't care you, even if you become fat as hot-cake.\ndeep:猫は楽だ。あなたがホットケーキのように太っても、私は気にしません。\n・うーん、確かに文を読めば、猫の手も借りたいみたいな状態な雰囲気を感じるが、さすがに、難しいなぁ。\n\n太るはbecome fatじゃなくて、get fat.\n変身するものじゃなくて、脂肪を得るような感じだったか。\n\nsee if ~ : ~するかどうかみておけ-&gt;〜するか覚えとけ-&gt; ~しないからね。",
+        "user": "UQ47R82RW",
+        "ts": "1622349804.087800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gTA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cat is easy. I don't care you, even if you become fat as hot-cake.\ndeep:猫は楽だ。あなたがホットケーキのように太っても、私は気にしません。\n・うーん、確かに文を読めば、猫の手も借りたいみたいな状態な雰囲気を感じるが、さすがに、難しいなぁ。\n\n太るはbecome fatじゃなくて、get fat.\n変身するものじゃなくて、脂肪を得るような感じだったか。\n\nsee if ~ : ~するかどうかみておけ->〜するか覚えとけ-> ~しないからね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622043178.062000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "66ae8be6-6952-404a-9941-df70f7cea83d",
+        "type": "message",
+        "text": "Would you like to divide the plastic bag by cold thing and sukebe?",
+        "user": "UQ47R82RW",
+        "ts": "1622349880.088000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1622349884.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ewxM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like to divide the plastic bag by cold thing and sukebe?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622085777.065600"
+    },
+    {
+        "client_msg_id": "2cf24b5c-4c27-4639-bb56-fef92f3e73ac",
+        "type": "message",
+        "text": "Would you like to divide the plastic bag by cold thing and sukebe?\nDeep:ビニール袋を冷たいものとすけべで分けてみませんか？\n\nwould you like で~しませんか？\n\nしっかり考えれば、わかってたかもしれない。\nすけべはわからんが、sexy itemと言われれば、確かにそうかと納得できる。",
+        "user": "UQ47R82RW",
+        "ts": "1622349991.088300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "arzi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like to divide the plastic bag by cold thing and sukebe?\nDeep:ビニール袋を冷たいものとすけべで分けてみませんか？\n\nwould you like で~しませんか？\n\nしっかり考えれば、わかってたかもしれない。\nすけべはわからんが、sexy itemと言われれば、確かにそうかと納得できる。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622099085.066500",
+        "parent_user_id": "U01EVRBP38C"
+    },
+    {
+        "client_msg_id": "5cb4ac8a-5a13-4660-b607-5037452d9b4b",
+        "type": "message",
+        "text": "They become a soil after making a beauty stone from absorbed land poison.",
+        "user": "UQ47R82RW",
+        "ts": "1622350238.088500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uxt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They become a soil after making a beauty stone from absorbed land poison."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622129577.069200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "db8cddf8-30ea-4841-8498-8e67e4ddbb7e",
+        "type": "message",
+        "text": "`They become a soil after making a beauty stone from absorbed land poison.`\n吸収された土地の毒から美の石を作ってから土になります。\n\nabsorbingだ。ミス。\n\n大地はearthだ。忘れてた。\n\n結晶をど忘れ。クリスタルなんて、ゲームでいくらでも出てきてるのに、こういうときに結びつかない。\n〜から〜にするー＞生み出すなのか。そりゃそうか。\n\n死んでの訳が入れられなかった。",
+        "user": "UQ47R82RW",
+        "ts": "1622350449.088700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g7ize",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They become a soil after making a beauty stone from absorbed land poison.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n吸収された土地の毒から美の石を作ってから土になります。\n\nabsorbingだ。ミス。\n\n大地はearthだ。忘れてた。\n\n結晶をど忘れ。クリスタルなんて、ゲームでいくらでも出てきてるのに、こういうときに結びつかない。\n〜から〜にするー＞生み出すなのか。そりゃそうか。\n\n死んでの訳が入れられなかった。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622129578.069300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "d78b21fd-cae6-4b3f-844a-d2b82fcacaf5",
+        "type": "message",
+        "text": "\"You must take a long shirts.\"\nMy cat talked for the first time.",
+        "user": "UQ47R82RW",
+        "ts": "1622350660.088900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V0oAW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"You must take a long shirts.\"\nMy cat talked for the first time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622170441.069800"
+    },
+    {
+        "client_msg_id": "073860b1-5dac-4fc8-bfd2-eba81befd37f",
+        "type": "message",
+        "text": "\"You must take a long shirts.\"　My cat talked for the first time.\nDeep:\"長いシャツを着るべし\"　うちの猫が初めてしゃべった。\n絶対~した方がいいよってことだったから、mustにしたが、should definitely なのか。\n袖はスリーブ：sleeves\n\nこういう場合,talkには話相手が必要。なので今回はsaidのが良いのか？\n話す行為に着目するならspeakのがいいような？\n<https:\/\/eikaiwa.weblio.jp\/column\/study\/eigo-bunpo\/speak_say_talk_tell#talk>",
+        "user": "UQ47R82RW",
+        "ts": "1622350742.089100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1622350891.000000"
+        },
+        "attachments": [
+            {
+                "title": "＜Weblio英会話コラム＞【英語】speak・say・talk・tell の違いと使い分け方",
+                "title_link": "https:\/\/eikaiwa.weblio.jp\/column\/study\/eigo-bunpo\/speak_say_talk_tell#talk",
+                "text": "「speak」「say」「talk」「tell」はいずれも「伝達動詞」と呼ばれます。基本的には、【1】聞き手（話し相手）の存在を想定しているかどうか、【2】話す行為と内容のどちらに焦点が置かれているか、という2点で区別し使い分けることができます。",
+                "fallback": "＜Weblio英会話コラム＞【英語】speak・say・talk・tell の違いと使い分け方",
+                "image_url": "https:\/\/d3fr49y3ejekk5.cloudfront.net\/column\/wp-content\/uploads\/2015\/11\/people-72732_640.jpg",
+                "from_url": "https:\/\/eikaiwa.weblio.jp\/column\/study\/eigo-bunpo\/speak_say_talk_tell#talk",
+                "image_width": 327,
+                "image_height": 250,
+                "image_bytes": 31013,
+                "service_icon": "https:\/\/eikaiwa.weblio.jp\/favicon.ico",
+                "service_name": "eikaiwa.weblio.jp",
+                "id": 1,
+                "original_url": "https:\/\/eikaiwa.weblio.jp\/column\/study\/eigo-bunpo\/speak_say_talk_tell#talk"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qr5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"You must take a long shirts.\"　My cat talked for the first time.\nDeep:\"長いシャツを着るべし\"　うちの猫が初めてしゃべった。\n絶対~した方がいいよってことだったから、mustにしたが、should definitely なのか。\n袖はスリーブ：sleeves\n\nこういう場合,talkには話相手が必要。なので今回はsaidのが良いのか？\n話す行為に着目するならspeakのがいいような？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eikaiwa.weblio.jp\/column\/study\/eigo-bunpo\/speak_say_talk_tell#talk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622175524.072800",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "1fc20b9d-f692-4f23-a502-43801f90ded9",
+        "type": "message",
+        "text": "I am here.",
+        "user": "UQ47R82RW",
+        "ts": "1622350910.089600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hW0A4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622215977.082300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7052ca27-478b-4950-be22-b10ee891a86c",
+        "type": "message",
+        "text": "I am here.\n私はここにいます。\n\nうーん、もう少し周辺情報がないと、きちんと訳せない。\n日本語がここに残るよならまだわかってたかもなぁ。",
+        "user": "UQ47R82RW",
+        "ts": "1622351043.090900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FUrwE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am here.\n私はここにいます。\n\nうーん、もう少し周辺情報がないと、きちんと訳せない。\n日本語がここに残るよならまだわかってたかもなぁ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622215978.082400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "836754b7-712d-4a08-8ef3-287f7dacd36e",
+        "type": "message",
+        "text": "I hope you come the flying club.",
+        "user": "UQ47R82RW",
+        "ts": "1622351081.091400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope you come the flying club."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622302377.084000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "88691680-C35B-4EFA-9A38-A7E4FBB17CFA",
+        "type": "message",
+        "text": "Ah......, it were good if all people would kneel to me.",
+        "user": "U01EVRBP38C",
+        "ts": "1622351145.092400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2kB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah......, it were good if all people would kneel to me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622346832.084800"
+    },
+    {
+        "client_msg_id": "0a822cd0-e6d4-4c5c-b1ea-da7d3dba0c4f",
+        "type": "message",
+        "text": "I hope you come the flying club.\n飛ぶクラブに来てほしいですね。\n\n結構例文だと直訳てきな感じなのか。\nそこの加減がむずかしいな。",
+        "user": "UQ47R82RW",
+        "ts": "1622351158.092600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ncl8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope you come the flying club.\n飛ぶクラブに来てほしいですね。\n\n結構例文だと直訳てきな感じなのか。\nそこの加減がむずかしいな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622302377.084100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "df7d74ad-c61e-46b2-b519-3f3d3cd2af17",
+        "type": "message",
+        "text": "Ah、I wish all human being's head down to me.",
+        "user": "UQ47R82RW",
+        "ts": "1622351289.093200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nz05m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah、I wish all human being's head down to me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622346832.084800"
+    },
+    {
+        "client_msg_id": "33d8e8d4-07a7-4930-a616-5077dda6016c",
+        "type": "message",
+        "text": "Ah、I wish all human being's head down to me.\nああ、すべての人間が私に頭を下げてくれればいいのに。\n\nif onlyは願望、後悔、理由を表す。\n<https:\/\/3040english.info\/if-only\/>\n\n人を表す表現多すぎ\n確かに全人類の行動を表すなら、humanityとかmankindが今回のにはあってそう。\n<https:\/\/canteenenglish.com\/nuance-of-people\/>\n\ngrovel：這いつくばる",
+        "user": "UQ47R82RW",
+        "ts": "1622351529.094100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "30代40代で身につける英会話",
+                "title": "If only の3つの意味と簡単な使い方【例文あり】 | 30代40代で身につける英会話",
+                "title_link": "https:\/\/3040english.info\/if-only\/",
+                "text": "英語で会話をしているとよく if only を耳にします。ただ、if に only がつくだけで戸惑うことはないでしょうか？ 今回はこの if only の3つの意味と使い方を、...",
+                "fallback": "30代40代で身につける英会話: If only の3つの意味と簡単な使い方【例文あり】 | 30代40代で身につける英会話",
+                "thumb_url": "https:\/\/3040english.info\/wp-content\/uploads\/2018\/09\/if-only.gif",
+                "ts": 1537207233,
+                "from_url": "https:\/\/3040english.info\/if-only\/",
+                "thumb_width": 1280,
+                "thumb_height": 960,
+                "service_icon": "https:\/\/3040english.info\/wp-content\/uploads\/2019\/05\/cropped-3040-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/3040english.info\/if-only\/"
+            },
+            {
+                "service_name": "カモンベイビーアメリカ",
+                "title": "英語で「人々」を意味する単語のニュアンスの違い、使い分けは？（People・Folks・Gang・Those・Person(s)・Humanity・Human beings・Humans） | カモンベイビーアメリカ",
+                "title_link": "https:\/\/canteenenglish.com\/nuance-of-people\/",
+                "text": "Canteenです。 「人々」を意味する英単語はかなりたくさんあります。日本語でも、人々、人間、皆さん、みんな、人類などいろいろな表現があるように英語でも、People, Fol...",
+                "fallback": "カモンベイビーアメリカ: 英語で「人々」を意味する単語のニュアンスの違い、使い分けは？（People・Folks・Gang・Those・Person(s)・Humanity・Human beings・Humans） | カモンベイビーアメリカ",
+                "image_url": "https:\/\/canteenenglish.com\/wp-content\/uploads\/2020\/07\/synonyms-of-people.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1589065510,
+                "from_url": "https:\/\/canteenenglish.com\/nuance-of-people\/",
+                "image_bytes": 266011,
+                "service_icon": "https:\/\/canteenenglish.com\/wp-content\/uploads\/2020\/04\/cropped-us-cup-icon-180x180.png",
+                "id": 2,
+                "original_url": "https:\/\/canteenenglish.com\/nuance-of-people\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2rF5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah、I wish all human being's head down to me.\nああ、すべての人間が私に頭を下げてくれればいいのに。\n\nif onlyは願望、後悔、理由を表す。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/3040english.info\/if-only\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n人を表す表現多すぎ\n確かに全人類の行動を表すなら、humanityとかmankindが今回のにはあってそう。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/canteenenglish.com\/nuance-of-people\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\ngrovel：這いつくばる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622347857.085200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "A9E74747-CCFE-49BE-AC46-7CF8CD7C4E07",
+        "type": "message",
+        "text": "`Ah......, it were good if all people would kneel to me.`\nDeepL: Ah......、すべての人が私に跪いてくれればいいのです。\n\n・if only\n・grovel\n・I wish\n\n",
+        "user": "U01EVRBP38C",
+        "ts": "1622351653.095000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PDf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah......, it were good if all people would kneel to me.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "DeepL: Ah......、すべての人が私に跪いてくれればいいのです。\n\n・if only\n・grovel\n・I wish\n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622347857.085200",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

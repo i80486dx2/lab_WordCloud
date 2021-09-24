@@ -1,0 +1,187 @@
+[
+    {
+        "type": "message",
+        "text": "50mメッシュ区切りのマップをアニメーションで再生出来るようにしました。\n自分もこれで最後のアウトプットになると思います。",
+        "files": [
+            {
+                "id": "F018HARKBGD",
+                "created": 1597033606,
+                "timestamp": 1597033606,
+                "name": "画面収録 2020-08-10 13.26.24.mov",
+                "title": "画面収録 2020-08-10 13.26.24.mov",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 24098628,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F018HARKBGD\/_____________2020-08-10_13.26.24.mov?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F018HARKBGD\/download\/_____________2020-08-10_13.26.24.mov?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F018HARKBGD-f8ea8a5752\/_____________2020-08-10_13.26.24_thumb_video.jpeg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F018HARKBGD\/_____________2020-08-10_13.26.24.mov",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F018HARKBGD-3fbf66a8b7",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0198H0NGAC",
+                "created": 1597033703,
+                "timestamp": 1597033703,
+                "name": "mesh50_20190503.html",
+                "title": "mesh50_20190503.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 23273497,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0198H0NGAC\/mesh50_20190503.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0198H0NGAC\/download\/mesh50_20190503.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F0198H0NGAC\/mesh50_20190503.html",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0198H0NGAC-35ad2fb7d6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M5rJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "50mメッシュ区切りのマップをアニメーションで再生出来るようにしました。\n自分もこれで最後のアウトプットになると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1597033709.209300",
+        "thread_ts": "1597033709.209300",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1597045097.215300",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1597041205.209900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1597043355.213900"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1597043433.214400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1597043583.214600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1597043639.214800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1597045007.215100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1597045097.215300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1597045097.215300",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3a06276-1075-48fa-9400-26bc33ceede4",
+        "type": "message",
+        "text": "<@UPRE1RSJW> これどうやってカウントしましたか？単純にレコード数？この前 <@UKH07E67M> 君にやってもらったときは道路沿いに集中していて変な気がしましたが、こちらはそれっぽく見える。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1597041205.209900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これどうやってカウントしましたか？単純にレコード数？この前 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君にやってもらったときは道路沿いに集中していて変な気がしましたが、こちらはそれっぽく見える。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597033709.209300",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "client_msg_id": "de5b8413-cd35-45ed-9ce6-521340c61ffc",
+        "type": "message",
+        "text": "<@U01EPKVACEN> NrealLightの件なのですが、大学と協定結んでいるKDDIに借りれないか交渉してみることになりました（ついでに５Gスマホも）。他に気になるARゴーグルorスマートグラスがあれば連絡ください。",
+        "user": "UPSPAMY7M",
+        "ts": "1621814464.001200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAMY7M",
+            "ts": "1621820625.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Amxf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " NrealLightの件なのですが、大学と協定結んでいるKDDIに借りれないか交渉してみることになりました（ついでに５Gスマホも）。他に気になるARゴーグルorスマートグラスがあれば連絡ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621814464.001200",
+        "reply_count": 18,
+        "reply_users_count": 2,
+        "latest_reply": "1623037434.009900",
+        "reply_users": [
+            "UPSPAMY7M",
+            "U01EPKVACEN"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1621831668.001800"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1621837479.002000"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1621837797.002200"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1621901905.002400"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1621902326.002600"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1621902615.002800"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1621903458.003000"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1621912345.003200"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1621914186.003400"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1621922916.003600"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1621986018.003800"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1622076843.004000"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1622076913.004300"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1622114306.004500"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1622896848.004900"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1622899416.005100"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1623031693.009700"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1623037434.009900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U01EPKVACEN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U01EPKVACEN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0f054e0-f76f-4c43-8cf4-6583126f270c",
+        "type": "message",
+        "text": "<@U01EPKVACEN> NrealLightですが、スマホと一緒に１ヶ月だけなら貸してくれるらしいです。せっかくNrealが手元に来るなら何か短期集中でやってみるのも面白いかもしれませんが、１ヶ月だけ借りて何か作るってやってみたいって思いますか？（チーム作るなら研究室の枠組みでもA-PxLの枠組みでも構いません）",
+        "user": "UPSPAMY7M",
+        "ts": "1621831668.001800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9AP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " NrealLightですが、スマホと一緒に１ヶ月だけなら貸してくれるらしいです。せっかくNrealが手元に来るなら何か短期集中でやってみるのも面白いかもしれませんが、１ヶ月だけ借りて何か作るってやってみたいって思いますか？（チーム作るなら研究室の枠組みでもA-PxLの枠組みでも構いません）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621814464.001200",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "d745a33f-5112-4731-955c-ff6ddffbb1d6",
+        "type": "message",
+        "text": "<@UPSPAMY7M> やりたいです。最近サークル内でもVPSへの関心が強いので何かできると思います。",
+        "user": "U01EPKVACEN",
+        "ts": "1621837479.002000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0dE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " やりたいです。最近サークル内でもVPSへの関心が強いので何かできると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621814464.001200",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "32f2fb29-00fb-4d2c-a64a-42eff8019724",
+        "type": "message",
+        "text": "<@U01EPKVACEN> 了解です！では、ちょっと先方と調整してみます。",
+        "user": "UPSPAMY7M",
+        "ts": "1621837797.002200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cti",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です！では、ちょっと先方と調整してみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621814464.001200",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

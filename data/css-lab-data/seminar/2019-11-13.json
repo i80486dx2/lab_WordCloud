@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "e1cd2d2f-3120-4b47-88f4-6b08439735f4",
+        "type": "message",
+        "text": "ネットワークサイエンス勉強会（輪講）\n次回は11\/20  12:30~14:30  場所は346Aです。\n見にくるだけでも全然OKです。\n\n担当箇所\n3-6 鈴木\n3-7 千葉\n3-8 讃岐\n\n資料は以下になります。\n<http:\/\/networksciencebook.com>",
+        "user": "UKUKA65GU",
+        "ts": "1573636259.010200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BarabásiLab",
+                "title": "Network Science by Albert-László Barabási",
+                "title_link": "http:\/\/networksciencebook.com\/",
+                "text": "The power of network science, the beauty of network visualization.",
+                "fallback": "BarabásiLab: Network Science by Albert-László Barabási",
+                "image_url": "http:\/\/networksciencebook.com\/images\/networksciencebook.jpg",
+                "from_url": "http:\/\/networksciencebook.com\/",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 93066,
+                "id": 1,
+                "original_url": "http:\/\/networksciencebook.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UQ47R82RW",
+                    "UKS1Q2KTQ",
+                    "UQ63J44BZ",
+                    "UPRE1RSJW"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

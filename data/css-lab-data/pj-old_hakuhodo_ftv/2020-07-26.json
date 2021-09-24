@@ -1,0 +1,272 @@
+[
+    {
+        "client_msg_id": "a403e328-e86b-4eea-9994-dc6b140d4135",
+        "type": "message",
+        "text": "<!channel> 今日夕方17時から篠田さんと最後の打ち合わせを行います。これまでアップデートを送ってくれた方で都合がつく方は是非参加してください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595822918.162400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lrhcW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日夕方17時から篠田さんと最後の打ち合わせを行います。これまでアップデートを送ってくれた方で都合がつく方は是非参加してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595822918.162400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1595836459.164300",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1595836459.164300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595836459.164300",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UPRE1RSJW",
+                    "UKH07E67M",
+                    "UQ47R82RW"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f23c79ec-8f63-4fcb-9ad6-2aa448a4f49a",
+        "type": "message",
+        "text": "<@UPSPAP97D> アップデートありがとう。パワポの見方がまだよくわかっていないのだけれど、何を調べようとして何が言えるか簡単に教えてもらえますか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595822987.163300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KBSf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " アップデートありがとう。パワポの見方がまだよくわかっていないのだけれど、何を調べようとして何が言えるか簡単に教えてもらえますか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595822987.163300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1595826582.163800",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1595826139.163400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1595826365.163600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1595826582.163800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595826582.163800"
+    },
+    {
+        "client_msg_id": "b9c65ec1-f5b8-464b-a656-1767c019e8a2",
+        "type": "message",
+        "text": "一応、僕が考えていた予想と結果は以下の通りです。\n\nメインテーマ:  近場で済ます人がどれだけいるか\nスライド:  最後のスライド(近・中・遠距離のユニーク人数)\n結果:  近場で済ます人はマイナー (みんな近・中・遠距離のどれかに、毎日到達するのではない)\n\nサブテーマ:  どのしきい値が大きな変化があるか (特定のしきい値で変化があれば、次からそこを重点的に調べる)\nスライド:  全てのプロット\n結果: 特に大幅な変化無し",
+        "user": "UPSPAP97D",
+        "ts": "1595826139.163400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IWV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応、僕が考えていた予想と結果は以下の通りです。\n\nメインテーマ:  近場で済ます人がどれだけいるか\nスライド:  最後のスライド(近・中・遠距離のユニーク人数)\n結果:  近場で済ます人はマイナー (みんな近・中・遠距離のどれかに、毎日到達するのではない)\n\nサブテーマ:  どのしきい値が大きな変化があるか (特定のしきい値で変化があれば、次からそこを重点的に調べる)\nスライド:  全てのプロット\n結果: 特に大幅な変化無し"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595822987.163300",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "19f7d4f5-5d92-4dce-a27e-675c0a31fc13",
+        "type": "message",
+        "text": "<@UPSPAP97D> OK。確認ですが、&lt;1000という閾値があった場合、自宅から1000m未満のレコード数で、&lt;100のレコードも含む、という理解であっていますか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595826365.163600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JkD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " OK。確認ですが、<1000という閾値があった場合、自宅から1000m未満のレコード数で、<100のレコードも含む、という理解であっていますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595822987.163300",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "267f06a5-4411-493d-964b-6f6dfab6d109",
+        "type": "message",
+        "text": "&lt;1000の部分は 最後のスライド以外は、&lt;100の部分を含んでません。\n(ラベルや x軸に表示された, 各しきい値ごとにカウントは独立してます)\n分かりにくくて、申し訳ないです。",
+        "user": "UPSPAP97D",
+        "ts": "1595826582.163800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/FBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<1000の部分は 最後のスライド以外は、<100の部分を含んでません。\n(ラベルや x軸に表示された, 各しきい値ごとにカウントは独立してます)\n分かりにくくて、申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595822987.163300",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "type": "message",
+        "text": "<@UPSPAMY7M>\nやってみました。確認お願いします。\nまた、検定をウェブを参考にやってみましたが合っているか確認お願いします。",
+        "files": [
+            {
+                "id": "F0106R1628P",
+                "created": 1584432844,
+                "timestamp": 1584432844,
+                "name": "顧客クラスタリング.ipynb",
+                "title": "顧客クラスタリング.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 304693,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0106R1628P\/___________________________.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0106R1628P\/download\/___________________________.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F0106R1628P\/___________________________.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0106R1628P-66cfa42dbf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ymhce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nやってみました。確認お願いします。\nまた、検定をウェブを参考にやってみましたが合っているか確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1584432846.011300",
+        "client_msg_id": "c85a1451-c454-488a-a24b-9becc77ac9f2",
+        "thread_ts": "1584264669.009700",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "text": "<@UQ47R82RW> 検証ありがとうございます！ちょっと詳しくみてみるのでお待ちください。やっぱり分布の形状変えた方がいいみたいですね。\nまた、データ解析委託してる業者さんには来店頻度と購入額の軸を単純に最小-最大で正規化してもらってクラスターしてもらったのですが、こちらも比較的うまくいっているようでこれから曜日別来店頻度分析してもらいます。というわけで学生の方が仕事が早かったわけですね・・・",
+        "files": [
+            {
+                "id": "F0106UYSPAQ",
+                "created": 1584490469,
+                "timestamp": 1584490469,
+                "name": "顧客クラスタリング試行v3.pdf",
+                "title": "顧客クラスタリング試行v3.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 326983,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0106UYSPAQ\/____________________________________v3.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0106UYSPAQ\/download\/____________________________________v3.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0106UYSPAQ-5f6db83ab0\/____________________________________v3_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F0106UYSPAQ\/____________________________________v3.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0106UYSPAQ-2ffe77b12b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 検証ありがとうございます！ちょっと詳しくみてみるのでお待ちください。やっぱり分布の形状変えた方がいいみたいですね。\nまた、データ解析委託してる業者さんには来店頻度と購入額の軸を単純に最小-最大で正規化してもらってクラスターしてもらったのですが、こちらも比較的うまくいっているようでこれから曜日別来店頻度分析してもらいます。というわけで学生の方が仕事が早かったわけですね・・・"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAMY7M",
+        "display_as_bot": false,
+        "ts": "1584490471.011700",
+        "client_msg_id": "e3244ad0-8f7d-4b4b-a036-c4cc96adbd6a",
+        "thread_ts": "1584264669.009700",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

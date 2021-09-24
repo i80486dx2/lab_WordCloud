@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "40EA2648-0C2A-4251-8E10-59288C6362FF",
+        "type": "message",
+        "text": "<!channel> \nリマインドですが、明日の研究室会の自己紹介スライド各自お忘れずに！(僕はさっき思い出したので:fearful:)",
+        "user": "UKUKA65GU",
+        "ts": "1617694937.019400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8h+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nリマインドですが、明日の研究室会の自己紹介スライド各自お忘れずに！(僕はさっき思い出したので"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fearful"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "U01F31EEVNV",
+                    "UPSPAP97D",
+                    "UKH07E67M",
+                    "U01EPKVACEN",
+                    "U01FP2RDV44"
+                ],
+                "count": 6
+            },
+            {
+                "name": "man-raising-hand",
+                "users": [
+                    "U01EL0SAUTF",
+                    "U01EVRBP38C"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

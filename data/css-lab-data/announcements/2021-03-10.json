@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "ad348c75-721f-41e3-8291-4f86c1dc8232",
+        "type": "message",
+        "text": "<!channel> 2021年度の卒論の日程が決定しました：\n1. 中間発表会（ポスター展示）：2021年10月25日(月)～12月15日(水)\n2. 卒業論文発表会（口頭発表）：2022年2月14日(月)、15日(火)\n※中間発表を行わないと卒論審査を受けれません。\n\n提出方法とフォーマット：\n<http:\/\/web-int.u-aizu.ac.jp\/official\/students\/sad\/stsa16_j.html>\n\n実施概要：\n<http:\/\/web-int.u-aizu.ac.jp\/official\/students\/sad\/stsa16-1_j.pdf>\n\n新4年生は頑張って！:muscle:",
+        "user": "UKS1Q2KTQ",
+        "ts": "1615371527.004300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ytV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2021年度の卒論の日程が決定しました：\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "中間発表会（ポスター展示）：2021年10月25日(月)～12月15日(水)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "卒業論文発表会（口頭発表）：2022年2月14日(月)、15日(火)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "※中間発表を行わないと卒論審査を受けれません。\n\n提出方法とフォーマット：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/web-int.u-aizu.ac.jp\/official\/students\/sad\/stsa16_j.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n実施概要：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/web-int.u-aizu.ac.jp\/official\/students\/sad\/stsa16-1_j.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n新4年生は頑張って！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UKH07E67M",
+                    "UKUKA65GU",
+                    "UQ47R82RW",
+                    "UPRE1RSJW",
+                    "UPSPAP97D"
+                ],
+                "count": 5
+            },
+            {
+                "name": "right-facing_fist",
+                "users": [
+                    "UKUKA65GU",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

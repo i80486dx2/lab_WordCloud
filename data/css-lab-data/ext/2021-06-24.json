@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "02b789a8-3122-44b3-982a-8236396346e3",
+        "type": "message",
+        "text": "研究室のフリーデスクの方で使われていたiphoneの充電ケーブルが見当たりません。ご存知な方いらっしゃいませんか？",
+        "user": "UKH07E67M",
+        "ts": "1624587029.014400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DB0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "研究室のフリーデスクの方で使われていたiphoneの充電ケーブルが見当たりません。ご存知な方いらっしゃいませんか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624587029.014400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1624591098.015300",
+        "reply_users": [
+            "U01TMSLEBUH",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01TMSLEBUH",
+                "ts": "1624590846.014900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624591098.015300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D0CBD925-C289-47A2-BDF8-98ED15E5E4D4",
+        "type": "message",
+        "text": "間違えて持ってきたかもしれない、今日持ってく",
+        "user": "U01TMSLEBUH",
+        "ts": "1624590846.014900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "c50249cb95e6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-05\/1924211953861_c50249cb95e67d0d0a39_72.png",
+            "first_name": "Shihomi",
+            "real_name": "Shihomi Hashimoto",
+            "display_name": "シホホホ",
+            "team": "TKS1Q2JUE",
+            "name": "shihomihashi",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "edited": {
+            "user": "U01TMSLEBUH",
+            "ts": "1624590981.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NGN+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "間違えて持ってきたかもしれない、今日持ってく"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624587029.014400",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "e5949abf-b27f-4201-8448-443c18d7c410",
+        "type": "message",
+        "text": "ririir",
+        "user": "UKH07E67M",
+        "ts": "1624591098.015300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uX5NJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ririir"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624587029.014400",
+        "parent_user_id": "UKH07E67M"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "client_msg_id": "ab809e05-9e3f-4061-aa35-24b887f19d25",
+        "type": "message",
+        "text": "<@U01EPKVACEN>そういえば、先程の件ですがHPの薄型ディスプレイ(27インチ)とちょっと良さげなゲーミングキーボードあります。持っていきますか？",
+        "user": "UPSPAMY7M",
+        "ts": "1619006111.004500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nHw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そういえば、先程の件ですがHPの薄型ディスプレイ(27インチ)とちょっと良さげなゲーミングキーボードあります。持っていきますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619006111.004500",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1619067430.005500",
+        "reply_users": [
+            "U01EPKVACEN",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1619006386.004600"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1619065715.005100"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1619067430.005500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6edfb48e-33ac-4404-8321-b63439c613c6",
+        "type": "message",
+        "text": "おー、お願いします！",
+        "user": "U01EPKVACEN",
+        "ts": "1619006386.004600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GkSh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おー、お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619006111.004500",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPSPAMY7M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U01EPKVACEN>暫定でここに置いておきます！",
+        "files": [
+            {
+                "id": "F0201L1BY01",
+                "created": 1619065696,
+                "timestamp": 1619065696,
+                "name": "IMG_20210422_132613.jpg",
+                "title": "IMG_20210422_132613.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 288911,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0201L1BY01\/img_20210422_132613.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0201L1BY01\/download\/img_20210422_132613.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0201L1BY01-0bdb4bbe2b\/img_20210422_132613_64.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0201L1BY01-0bdb4bbe2b\/img_20210422_132613_80.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0201L1BY01-0bdb4bbe2b\/img_20210422_132613_360.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0201L1BY01-0bdb4bbe2b\/img_20210422_132613_480.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0201L1BY01-0bdb4bbe2b\/img_20210422_132613_160.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0201L1BY01-0bdb4bbe2b\/img_20210422_132613_720.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0201L1BY01-0bdb4bbe2b\/img_20210422_132613_800.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0201L1BY01-0bdb4bbe2b\/img_20210422_132613_960.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0201L1BY01-0bdb4bbe2b\/img_20210422_132613_1024.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4160,
+                "original_h": 3120,
+                "thumb_tiny": "AwAkADBw3DsaXcR2oRQWI9qeVI7\/AK1IxnmYo8wnvtqNnYNjB4ODSzPFE+GYk46BaYDw6r06+tBlzVZJRI4RF5PrU5tnJ4YYoER+aqtku2761LA8cjAu2cdMmqbRk9KaFYMvsaYGk8X7wshGDVW6t3Zg+QBjHNPyVkGCQO+KspK4Gc5FAFC2gkEqSAAqD61pc+hpu+Nz8yj8qlBDdDQBn4prAU+mNSGPhJwR2xmpYTlDmoYep+hqWD\/VmhAxJOlMV2B61JJ0qEdaoR\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F0201L1BY01\/img_20210422_132613.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0201L1BY01-ab749e1bac",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i1yxq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "暫定でここに置いておきます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAMY7M",
+        "display_as_bot": false,
+        "ts": "1619065715.005100",
+        "client_msg_id": "6fb728eb-ad81-4946-b404-6349b4b9d0a9",
+        "thread_ts": "1619006111.004500",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "f0372091-eb27-4b3b-8a21-de04c26c814a",
+        "type": "message",
+        "text": "ありがとうございます!!",
+        "user": "U01EPKVACEN",
+        "ts": "1619067430.005500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hD\/Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619006111.004500",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

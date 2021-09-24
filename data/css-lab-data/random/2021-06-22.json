@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "8d369a91-7e2b-473a-a34d-be301ebd8050",
+        "type": "message",
+        "text": "知らなかった！超絶便利。\n\n&gt; ゴチャゴチャした函数を計算間違いせずにシステマティックに微分するFeynmanの技法\n<https:\/\/www.math.nagoya-u.ac.jp\/~shinichiroh\/2019\/11\/03\/Feynman-way-to-differentiate-complicated-functions.html>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624382437.043600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Feynmanの微分の方法",
+                "title_link": "https:\/\/www.math.nagoya-u.ac.jp\/~shinichiroh\/2019\/11\/03\/Feynman-way-to-differentiate-complicated-functions.html",
+                "text": "Feynmanの微分の方法",
+                "fallback": "Feynmanの微分の方法",
+                "from_url": "https:\/\/www.math.nagoya-u.ac.jp\/~shinichiroh\/2019\/11\/03\/Feynman-way-to-differentiate-complicated-functions.html",
+                "service_icon": "https:\/\/www.math.nagoya-u.ac.jp\/~shinichiroh\/data\/pictures\/favicon.ico",
+                "service_name": "math.nagoya-u.ac.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.math.nagoya-u.ac.jp\/~shinichiroh\/2019\/11\/03\/Feynman-way-to-differentiate-complicated-functions.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQAQm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "知らなかった！超絶便利。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゴチャゴチャした函数を計算間違いせずにシステマティックに微分するFeynmanの技法"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.math.nagoya-u.ac.jp\/~shinichiroh\/2019\/11\/03\/Feynman-way-to-differentiate-complicated-functions.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,499 @@
+[
+    {
+        "client_msg_id": "a6fe37ec-cf09-4b3e-a62d-4b70ad080dea",
+        "type": "message",
+        "text": "<@UPRE1RSJW> UMAPについて書いた発表スライド、既に削除してました…(共有もしてませんでした)\n\n代わり? として、覚えている限りのことを以下にまとめます。\n\n• <https:\/\/pair-code.github.io\/understanding-umap\/>\n    ◦ 言いたいこと → 『UMAPは良いけど、理解には気をつけて』\n        ▪︎ 利点\n            • t-SNE(同じような埋め込み) より早い\n            • 大局的な埋め込みが出来る? \n                ◦ ↑ 『マンモス』での埋め込み図\n        ▪︎ 欠点\n            • パラメータによって、表示が大きく変化する\n                ◦ 題名『UMAP Parameters』部分の画像 (色々見れます)\n            • ランダムな(意味のない)点でも、塊があるように見える時がある\n• <https:\/\/css-uoa.slack.com\/archives\/CL7A4B596\/p1612252847000400>\n    ◦ 言いたいこと → 『配置の初期化が大切』\n        ▪︎ t-SNE, UMAP の内部動作\n            • 圧縮後の次元に 「配置」し、ここから特徴が似ているデータを近づけ・似てないデータから遠ざかる\n                ◦ ↑ 点(データの配置)を動かす処理を繰り返し、良い感じになるまで行う\n            • 「配置」によっては、局地解で止まってしまう…\n        ▪︎ UMAPの配置について\n            • デフォルトで、最適な初期化をしている\n                ◦ <https:\/\/umap-learn.readthedocs.io\/en\/latest\/api.html>\n                ◦ ↑ の引数だと、「init」部分が randam ではないから (違ってたら、ごめん)\n        ▪︎ 試した結果\n            • Fig1 を参考に\n                ◦ ランダムではない場合(最適な初期化)、円の特徴を保持していた",
+        "user": "UPSPAP97D",
+        "ts": "1628234718.002800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1628234884.000000"
+        },
+        "attachments": [
+            {
+                "title": "Understanding UMAP",
+                "title_link": "https:\/\/pair-code.github.io\/understanding-umap\/",
+                "text": "UMAP is a new dimensionality reduction technique that offers increased speed and better preservation of global structure.",
+                "fallback": "Understanding UMAP",
+                "image_url": "https:\/\/pair-code.github.io\/understanding-umap\/share.png",
+                "from_url": "https:\/\/pair-code.github.io\/understanding-umap\/",
+                "image_width": 372,
+                "image_height": 250,
+                "image_bytes": 1889314,
+                "service_name": "pair-code.github.io",
+                "id": 1,
+                "original_url": "https:\/\/pair-code.github.io\/understanding-umap\/"
+            },
+            {
+                "from_url": "https:\/\/css-uoa.slack.com\/archives\/CL7A4B596\/p1612252847000400",
+                "fallback": "[February 2nd, 2021 12:00 AM] yasuhirohashimoto: <@UPSPAP97D> これ短いので読んでみませんか？\n<https:\/\/www.dropbox.com\/s\/b8z4ay59y2p6b42\/s41587-020-00809-z.pdf?dl=0>",
+                "ts": "1612252847.000400",
+                "author_id": "UKS1Q2KTQ",
+                "author_subname": "Yasuhiro Hashimoto",
+                "channel_id": "CL7A4B596",
+                "channel_name": "articles",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<@UPSPAP97D> これ短いので読んでみませんか？\n<https:\/\/www.dropbox.com\/s\/b8z4ay59y2p6b42\/s41587-020-00809-z.pdf?dl=0>",
+                "author_name": "Yasuhiro Hashimoto",
+                "author_link": "https:\/\/css-uoa.slack.com\/team\/UKS1Q2KTQ",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 2,
+                "original_url": "https:\/\/css-uoa.slack.com\/archives\/CL7A4B596\/p1612252847000400",
+                "footer": "Thread in #articles"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iv8n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " UMAPについて書いた発表スライド、既に削除してました…(共有もしてませんでした)\n\n代わり? として、覚えている限りのことを以下にまとめます。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/pair-code.github.io\/understanding-umap\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "言いたいこと → 『UMAPは良いけど、理解には気をつけて』"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "利点"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "t-SNE(同じような埋め込み) より早い"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "大局的な埋め込みが出来る? "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "↑ 『マンモス』での埋め込み図"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "欠点"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "パラメータによって、表示が大きく変化する"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "題名『UMAP Parameters』部分の画像 (色々見れます)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ランダムな(意味のない)点でも、塊があるように見える時がある"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/css-uoa.slack.com\/archives\/CL7A4B596\/p1612252847000400"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "言いたいこと → 『配置の初期化が大切』"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "t-SNE, UMAP の内部動作"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "圧縮後の次元に 「配置」し、ここから特徴が似ているデータを近づけ・似てないデータから遠ざかる"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "↑ 点(データの配置)を動かす処理を繰り返し、良い感じになるまで行う"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「配置」によっては、局地解で止まってしまう…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "UMAPの配置について"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "デフォルトで、最適な初期化をしている"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/umap-learn.readthedocs.io\/en\/latest\/api.html"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "↑ の引数だと、「init」部分が randam ではないから (違ってたら、ごめん)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "試した結果"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fig1 を参考に"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ランダムではない場合(最適な初期化)、円の特徴を保持していた"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 4
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628224733.002700",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08d28239-16d6-4873-988b-707be2235234",
+        "type": "message",
+        "text": "わざわざまとめてくれてありがとう。",
+        "user": "UPRE1RSJW",
+        "ts": "1628234811.003100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6T9Wj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わざわざまとめてくれてありがとう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628224733.002700",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

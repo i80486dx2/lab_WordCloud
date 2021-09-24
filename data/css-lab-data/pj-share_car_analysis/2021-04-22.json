@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "text": "<@UPRE1RSJW>",
+        "files": [
+            {
+                "id": "F01UWMVJ3RC",
+                "created": 1619077761,
+                "timestamp": 1619077761,
+                "name": "dft.csv",
+                "title": "dft.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UPSPAMY7M",
+                "editable": true,
+                "size": 635,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01UWMVJ3RC\/dft.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01UWMVJ3RC\/download\/dft.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F01UWMVJ3RC\/dft.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01UWMVJ3RC-f816b618dd",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F01UWMVJ3RC\/dft.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01UNN12UFR",
+                "created": 1619077779,
+                "timestamp": 1619077779,
+                "name": "fourie.ipynb",
+                "title": "fourie.ipynb",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UPSPAMY7M",
+                "editable": true,
+                "size": 12943,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01UNN12UFR\/fourie.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01UNN12UFR\/download\/fourie.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F01UNN12UFR\/fourie.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01UNN12UFR-b99552a9a5",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F01UNN12UFR\/fourie.ipynb\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EU8+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAMY7M",
+        "ts": "1619077785.024300"
+    }
+]

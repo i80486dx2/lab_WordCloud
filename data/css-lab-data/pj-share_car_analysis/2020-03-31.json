@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "221dc5fc-843e-4309-8852-579e794c8861",
+        "type": "message",
+        "text": "<@UPSPAP97D> ありがとうございます。一般に、人間の動作速度は5Hz以下と言われています。人間の動作を車の機構を通してCANデータとして収集されるのでこの辺りの基礎データをヒントにしていくとドライバーの動作評価につながるかもしれません。",
+        "user": "UPSPAMY7M",
+        "ts": "1585643936.042500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dqYD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。一般に、人間の動作速度は5Hz以下と言われています。人間の動作を車の機構を通してCANデータとして収集されるのでこの辺りの基礎データをヒントにしていくとドライバーの動作評価につながるかもしれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585384215.011000",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "DADB0269-BD15-447E-86AB-AC49C7572652",
+        "type": "message",
+        "text": "人間の動作速読って、そうなんですね！知りませんでした……\n今後、人の動作のデータを扱う時の参考にします！",
+        "user": "UPSPAP97D",
+        "ts": "1585647633.045200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mxnh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "人間の動作速読って、そうなんですね！知りませんでした……\n今後、人の動作のデータを扱う時の参考にします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585384215.011000",
+        "parent_user_id": "UPSPAP97D"
+    }
+]

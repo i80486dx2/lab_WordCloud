@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "078ac371-5733-4752-8637-500563511d3b",
+        "type": "message",
+        "text": "8\/23\nホーム試合、ビジター試合それぞれにおける、イニング別の総得点数のカウント結果。\nホームは、一番ではないにしろ、順位的には上位（TOP3に入る総督点数が5\/6チーム）の傾向が見られる\n\nTeam 10 (Home only)\n[31 39 28 40 41 44 49 24 18  1  0  1]\nMax is 49 Max inning is  7 Inning 7 rank is 1\n\nTeam 11 (Home only)\n[33  7 32 24 29 38 32 27  7  2  0  0]\nMax is 38 Max inning is  6 Inning 7 rank is 3\n\nTeam 12 (Home only)\n[28 43 30 20 30 43 30 22 10  5  1  0]\nMax is 43 Max inning is  2 Inning 7 rank is 3\n\nTeam 13 (Home only)\n[56 32 34 27 31 27 47 31 14  1  2  1]\nMax is 56 Max inning is  1 Inning 7 rank is 2\n\nTeam 14 (Home only)\n[29 34 30 43 27 32 40 32 10  0  2  2]\nMax is 43 Max inning is  4 Inning 7 rank is 2\n\nTeam 15 (Home only)\n[45 23 49 52 32 36 34 37 16  1  0  2]\nMax is 52 Max inning is  4 Inning 7 rank is 6",
+        "user": "UKUKA65GU",
+        "ts": "1566567697.017800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "df7ae054-facf-4ac4-9e3a-109c462ef505",
+        "type": "message",
+        "text": "一方ビジターを見てみると、ホームの時のような傾向は見られない。\nTeam 10 (Visitor only)\n[30, 32, 32, 48, 36, 34, 34, 35, 20, 0, 1, 1]\nMax is 48 Max inning is  4 Inning 7 rank is 4\n\nTeam 11 (Visitor only)\n[31, 20, 37, 28, 29, 35, 21, 32, 16, 0, 1, 0]\nMax is 37 Max inning is  3 Inning 7 rank is 7\n\nTeam 12 (Visitor only)\n[34, 18, 31, 34, 43, 42, 41, 38, 36, 3, 1, 0]\nMax is 43 Max inning is  5 Inning 7 rank is 3\n\nTeam 13 (Visitor only)\n[42, 32, 35, 29, 39, 39, 31, 31, 27, 5, 0, 0]\nMax is 42 Max inning is  1 Inning 7 rank is 6\n\nTeam 14 (Visitor only)\n[27, 24, 26, 17, 29, 39, 35, 29, 36, 0, 1, 0]\nMax is 39 Max inning is  6 Inning 7 rank is 3\n\nTeam 15 (Visitor only)\n[50, 34, 33, 31, 29, 34, 31, 36, 24, 8, 0, 0]\nMax is 50 Max inning is  1 Inning 7 rank is 6",
+        "user": "UKUKA65GU",
+        "ts": "1566567736.018400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "client_msg_id": "ba44b22d-ba73-4e61-93d8-69d76c9561e5",
+        "type": "message",
+        "text": "<@UPRE1RSJW> とりあえずなんですが、もうちょっとデータ密度が取れるといいかなと思ったので、まずは極端な条件でデータ抽出したらどういうデータ形状になるのか気になりました。",
+        "user": "UPSPAMY7M",
+        "ts": "1623629103.034400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ez34",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " とりあえずなんですが、もうちょっとデータ密度が取れるといいかなと思ったので、まずは極端な条件でデータ抽出したらどういうデータ形状になるのか気になりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623295062.013900",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "表情分析の結果をタイムスタンプとGPSに対応させました。15フレーム(0.5秒)分の推定結果で最も多く判定された結果をその期間の表情としました。全フレームの推定結果の判定傾向も出しておきました。\n　ちなみに、データの抽出条件を変えずにもっとデータを取り出せそうです。現在の90件から1300件まで増やせそうです。",
+        "files": [
+            {
+                "id": "F024WRWM85Q",
+                "created": 1623634202,
+                "timestamp": 1623634202,
+                "name": "emotion.html",
+                "title": "emotion.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "UPRE1RSJW",
+                "editable": true,
+                "size": 829292,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F024WRWM85Q\/emotion.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F024WRWM85Q\/download\/emotion.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F024WRWM85Q\/emotion.html",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F024WRWM85Q-7a543decd4",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F024WRWM85Q\/emotion.html\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F024X2X93NF",
+                "created": 1623634411,
+                "timestamp": 1623634411,
+                "name": "スクリーンショット 2021-06-14 10.32.56.png",
+                "title": "スクリーンショット 2021-06-14 10.32.56.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 79175,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F024X2X93NF\/____________________________2021-06-14_10.32.56.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F024X2X93NF\/download\/____________________________2021-06-14_10.32.56.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024X2X93NF-9811610d16\/____________________________2021-06-14_10.32.56_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024X2X93NF-9811610d16\/____________________________2021-06-14_10.32.56_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024X2X93NF-9811610d16\/____________________________2021-06-14_10.32.56_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 213,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024X2X93NF-9811610d16\/____________________________2021-06-14_10.32.56_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 284,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024X2X93NF-9811610d16\/____________________________2021-06-14_10.32.56_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024X2X93NF-9811610d16\/____________________________2021-06-14_10.32.56_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 426,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024X2X93NF-9811610d16\/____________________________2021-06-14_10.32.56_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 473,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024X2X93NF-9811610d16\/____________________________2021-06-14_10.32.56_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 568,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F024X2X93NF-9811610d16\/____________________________2021-06-14_10.32.56_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 606,
+                "original_w": 1204,
+                "original_h": 712,
+                "thumb_tiny": "AwAcADDQIOSdzfpSYbI+Z\/yFSUUAN5H96lz7GlooAKKaRlhxmhQOuKAHUUUUAFFFFADT94UooIyc0tAH\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F024X2X93NF\/____________________________2021-06-14_10.32.56.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F024X2X93NF-ad10d04840",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0m5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "表情分析の結果をタイムスタンプとGPSに対応させました。15フレーム(0.5秒)分の推定結果で最も多く判定された結果をその期間の表情としました。全フレームの推定結果の判定傾向も出しておきました。\n　ちなみに、データの抽出条件を変えずにもっとデータを取り出せそうです。現在の90件から1300件まで増やせそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1623634589.037400",
+        "thread_ts": "1623634589.037400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1623911604.039000",
+        "reply_users": [
+            "UPSPAMY7M",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1623889724.038400"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1623889923.038600"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1623911604.039000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ADAE992B-BDAC-4897-9B37-4013BC156A4D",
+        "type": "message",
+        "text": "了解しました。",
+        "user": "U01EV766AH2",
+        "ts": "1623652885.038200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b2ff5f8847ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-16\/1503423459234_b2ff5f8847ffb1c6c427_72.png",
+            "first_name": "Keiya",
+            "real_name": "Keiya Azuma",
+            "display_name": "azuma",
+            "team": "TKS1Q2JUE",
+            "name": "s1270107",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=+Vn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623498116.034300",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

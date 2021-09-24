@@ -1,0 +1,1032 @@
+[
+    {
+        "client_msg_id": "5e610a21-8cb7-4fca-af66-aeb16dea09fd",
+        "type": "message",
+        "text": "`Nick, shall we invade standard human rights of Bob tonight?`\nDeepL: ニック、今夜はボブの標準的な人権を侵害しようか？\n• fundamental==基礎的な\n• ex) we have fundamental human rights\n• I was wondering if==〜かな？\n• ex) I was wondering if you would like to eat out?",
+        "user": "U01F42ZFA73",
+        "ts": "1629981409.004500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LQg\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nick, shall we invade standard human rights of Bob tonight?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: ニック、今夜はボブの標準的な人権を侵害しようか？\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "fundamental==基礎的な"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) we have fundamental human rights"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I was wondering if==〜かな？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) I was wondering if you would like to eat out?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629949952.001600",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "39515f8d-5e52-455b-947b-9894fee4dd09",
+        "type": "message",
+        "text": "`a baked Manjuu, 4 Manjuu was sticked per bamboo, expresses each the place, Akagi, Haruna, Myougi, Asama.`\nDeepL: 焼きまんじゅうは、竹に4つのまんじゅうが刺さっていて、赤城、榛名、妙義、浅間、それぞれの場所を表現しています。\n• express==自分の考えや感情を表現する\n• represent==何かのサインやシンボルとして表現する\n• The artist express his sense of loneliness.\n• the Chinese characters that represent number.",
+        "user": "U01F42ZFA73",
+        "ts": "1629981815.004700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1629981850.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j\/94e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a baked Manjuu, 4 Manjuu was sticked per bamboo, expresses each the place, Akagi, Haruna, Myougi, Asama.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 焼きまんじゅうは、竹に4つのまんじゅうが刺さっていて、赤城、榛名、妙義、浅間、それぞれの場所を表現しています。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "express==自分の考えや感情を表現する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "represent==何かのサインやシンボルとして表現する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "The artist express his sense of loneliness."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the Chinese characters that represent number."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629862586.090700",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "シシ神は生命を与えもし、奪いもする。そんな事も忘れてしまったのか、猪共（モロ\/もののけ姫）",
+        "user": "U01UMQH4W4B",
+        "ts": "1629991977.005000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629991977.005000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1631497651.050800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1630021421.006200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1630041531.007200"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1631497651.050800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631497651.050800"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：シシ神は生命を与えもし、奪いもする。そんな事も忘れてしまったのか、猪共",
+        "user": "U01UMQH4W4B",
+        "ts": "1629991978.005100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629991978.005100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1631624167.055600",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1629991978.005200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1630021498.006400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1630042062.007500"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1631624167.055600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631624167.055600"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "The Shishi-gami both gives and takes life.Have you forgotten even such a thing, you boars?",
+        "user": "U01UMQH4W4B",
+        "ts": "1629991978.005200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629991978.005100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "2e21c8de-cf69-4097-a64b-e6eab1271ba2",
+        "type": "message",
+        "text": "I'm supposed to go to train myself. I have to work hard in another town for a year to become a witch.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630020820.005400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8sF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm supposed to go to train myself. I have to work hard in another town for a year to become a witch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629905578.091200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7f28d3da-1e43-40fe-b1aa-101c92f2b998",
+        "type": "message",
+        "text": "`I'm supposed to go to train myself. I have to work hard in another town for a year to become a witch.`\nDeepL：自分を鍛えるために行くことになった。魔女になるために他の町で1年間頑張らなければなりません。\n\n• 模範解答、全然解答になってないです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630020899.005600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ffB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm supposed to go to train myself. I have to work hard in another town for a year to become a witch.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：自分を鍛えるために行くことになった。魔女になるために他の町で1年間頑張らなければなりません。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "模範解答、全然解答になってないです。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629905578.091300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "c4e97135-e7d5-4573-bff1-7bb92f96f6aa",
+        "type": "message",
+        "text": "Nick, why don't you join me to raid Bob's basic human rights together tonight?",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630021019.005800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mRtZn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nick, why don't you join me to raid Bob's basic human rights together tonight?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629947761.001400"
+    },
+    {
+        "client_msg_id": "89be1a94-9636-4c30-9f66-3c488259b5e1",
+        "type": "message",
+        "text": "`Nick, why don't you join me to raid Bob's basic human rights together tonight?`\nDeepL：ニックさん、今夜は一緒にボブの基本的人権を踏みにじりませんか？\n\n• 「よかったら～しない？ = I was wondering if you would like」了。\n• 「基本的人権 = fundamental human rights」了。\n• go and violate",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630021168.006000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A2n+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nick, why don't you join me to raid Bob's basic human rights together tonight?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：ニックさん、今夜は一緒にボブの基本的人権を踏みにじりませんか？\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「よかったら～しない？ = I was wondering if you would like」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「基本的人権 = fundamental human rights」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "go and violate"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629949952.001600",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "62c687a0-9d7a-405a-b2e9-1f287578a584",
+        "type": "message",
+        "text": "Shishi-Gami gives a life as well as deprives. Have you forgotten so much as that, boars?",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630021421.006200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K9nwc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shishi-Gami gives a life as well as deprives. Have you forgotten so much as that, boars?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629991977.005000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "8c14b8fb-18c1-44c8-b8a9-4ac4fb6d45ad",
+        "type": "message",
+        "text": "`Shishi-Gami gives a life as well as deprives. Have you forgotten so much as that, boars?`\nDeepL：獅子神は命を与えるだけでなく、奪うこともできます。そんなことも忘れてしまったのか、猪たちよ。\n\n• 「命を奪う = take life」了。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630021498.006400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Om",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shishi-Gami gives a life as well as deprives. Have you forgotten so much as that, boars?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：獅子神は命を与えるだけでなく、奪うこともできます。そんなことも忘れてしまったのか、猪たちよ。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「命を奪う = take life」了。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629991978.005100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e179531f-275b-4193-b287-68dcfe1fdd57",
+        "type": "message",
+        "text": "I suddenly came up with the number 17. I will go home on time today.",
+        "user": "U01F42ZFA73",
+        "ts": "1630036407.006600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=pi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I suddenly came up with the number 17. I will go home on time today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619409672.244300"
+    },
+    {
+        "client_msg_id": "c39e8818-367c-4988-81ad-88e3d50f7ae7",
+        "type": "message",
+        "text": "`I suddenly came up with the number 17. I will go home on time today.`\nDeepL: ふと、17という数字を思いついた。今日は定時に帰ります。\n• come up withだと能動的に、come to mindだと受動的なニュアンスになる。\n• ex) I've just *come* *up* *with* a great idea.\n• ex) Your name *came to mind* when we wanted help. \n• vaguely==詳細がわかってない意味で曖昧\n• ex) I vaguely remember a woman in a red dress standing outside the door.",
+        "user": "U01F42ZFA73",
+        "ts": "1630037641.006800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bzft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I suddenly came up with the number 17. I will go home on time today.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: ふと、17という数字を思いついた。今日は定時に帰ります。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "come up withだと能動的に、come to mindだと受動的なニュアンスになる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) I'"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ve just",
+                                        "style": {
+                                            "unlink": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "come",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "up",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "with",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "great",
+                                        "style": {
+                                            "unlink": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " idea."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) Your name"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " came to mind ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "when we wanted help. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "vaguely==詳細がわかってない意味で曖昧"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) I vaguely remember a woman in a red dress standing outside the door."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619412596.245600",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "3c5db386-95d8-4271-8a3e-777930f60f72",
+        "type": "message",
+        "text": "the string of guilty vaguely came to mind. I find the defendant guilty.",
+        "user": "U01F42ZFA73",
+        "ts": "1630037811.007000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7BdsW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the string of guilty vaguely came to mind. I find the defendant guilty."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619315053.238400"
+    },
+    {
+        "client_msg_id": "2156de62-ba46-4677-9d42-1eb929ea0fa2",
+        "type": "message",
+        "text": "God Leo gives life and gets its from other. You forgot it that it is very simple, aren't you?",
+        "user": "UKH07E67M",
+        "ts": "1630041531.007200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zHt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "God Leo gives life and gets its from other. You forgot it that it is very simple, aren't you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629991977.005000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "d712f295-9e0f-4d15-9bae-48e8820e707e",
+        "type": "message",
+        "text": "`God Leo gives life and gets its from other. You forgot it that it is very simple, aren't you?`\n神レオは命を与え、その命を他から得る。とてもシンプルなことを忘れていませんか？\n• take life 命を奪う\n• 奪う take away, rob, steal 最近使ってなかった。\n• 動詞 and 動詞 目的　できるじゃん！やろうと思いつかなかった 染み込んでない\n• 過去形ではなかった。今覚えてるの？って話になる。完了形かー\n• even such a thing 副でさえ　形このような　名事　あー　even suchどっちも便利なんだからどんどん使おう\n• boar 猪　英語出てこなかった。",
+        "user": "UKH07E67M",
+        "ts": "1630042062.007500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/cO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "God Leo gives life and gets its from other. You forgot it that it is very simple, aren't you?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n神レオは命を与え、その命を他から得る。とてもシンプルなことを忘れていませんか？\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "take life 命を奪う"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "奪う take away, rob, steal 最近使ってなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "動詞 and 動詞 目的　できるじゃん！やろうと思いつかなかった 染み込んでない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "過去形ではなかった。今覚えてるの？って話になる。完了形かー"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "even such a thing 副でさえ　形このような　名事　あー　even suchどっちも便利なんだからどんどん使おう"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "boar 猪　英語出てこなかった。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629991978.005100",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

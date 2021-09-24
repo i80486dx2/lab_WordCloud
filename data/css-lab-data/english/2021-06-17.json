@@ -1,0 +1,879 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1623918049.181300",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1623918049.181300",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1625450519.262700",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1623919197.181800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1623919493.182500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624068847.187800"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1625450519.262700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625450519.262700",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「おめでとうございます！あなたは2000万人目のワクチン接種者です」 <https:\/\/pbs.twimg.com\/media\/E4EgQ3pVcAIx_Xp.jpg>",
+                "ts": 1623918044,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1405440258456449030",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1405440258456449030>",
+                "text": "「おめでとうございます！あなたは2000万人目のワクチン接種者です」 <https:\/\/pbs.twimg.com\/media\/E4EgQ3pVcAIx_Xp.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1405440258456449030",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E4EgQ3pVcAIx_Xp.jpg",
+                "image_width": 400,
+                "image_height": 530,
+                "image_bytes": 69342,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be048c7f-4dc1-4175-bf59-98cc083264a3",
+        "type": "message",
+        "text": "When I noticed, my dog opened the power of FORCE.",
+        "user": "UKH07E67M",
+        "ts": "1623918312.181400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k9mt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I noticed, my dog opened the power of FORCE."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623899809.180100"
+    },
+    {
+        "client_msg_id": "6fa74e90-a79e-4468-b054-9484bc50e290",
+        "type": "message",
+        "text": "`When I noticed, my dog opened the power of FORCE.`\n気づいたときには、愛犬が「FORCE」の力を開放していました。\n• いつの間にか　Before I knew it や Before I realized it\n• unleash 解放する、束縛を解く　初めて知った",
+        "user": "UKH07E67M",
+        "ts": "1623918498.181600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAFtF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I noticed, my dog opened the power of FORCE.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n気づいたときには、愛犬が「FORCE」の力を開放していました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "いつの間にか　Before I knew it や Before I realized it"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "unleash 解放する、束縛を解く　初めて知った"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623909356.181000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "80a87e8f-3ccb-42ba-8a11-743674844fcf",
+        "type": "message",
+        "text": "Congratulations! You are 20 million count’s human that gotten vaccination.",
+        "user": "UKH07E67M",
+        "ts": "1623919197.181800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSsKp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations! You are 20 million count’s human that gotten vaccination."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623918049.181300"
+    },
+    {
+        "client_msg_id": "1a7f8481-b013-4f9d-993d-bc9f43cece86",
+        "type": "message",
+        "text": "反省会：「おめでとうございます！あなたは2000万人目のワクチン接種者です」",
+        "user": "UKH07E67M",
+        "ts": "1623919211.182200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "41dDP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：「おめでとうございます！あなたは2000万人目のワクチン接種者です」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623919211.182200",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1625450870.262900",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1623919403.182300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1623919573.182800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624069234.188000"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1625450870.262900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625450870.262900"
+    },
+    {
+        "client_msg_id": "63eb5dd3-9eb9-4812-bcf0-7ffc7d3129a2",
+        "type": "message",
+        "text": "`Congratulations! You are 20 million count's human that gotten vaccination.`\nおめでとうございます。あなたはワクチンを接種した2,000万カウントの人間です。\n•  ~th ~人目の、回目の\n• visitor 来客\n• a vaccination　たまたま今日、ワクチネーションってゴロを見て無かったら答えられなかった。いい加減覚えろ\nCongratulations! You are 20 million people human that gotten vaccination.",
+        "user": "UKH07E67M",
+        "ts": "1623919403.182300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1623919495.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6vRsK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations! You are 20 million count's human that gotten vaccination.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおめでとうございます。あなたはワクチンを接種した2,000万カウントの人間です。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " ~th ~人目の、回目の"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "visitor 来客"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a vaccination　たまたま今日、ワクチネーションってゴロを見て無かったら答えられなかった。いい加減覚えろ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations! You are 20 million people human that gotten vaccination."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623919211.182200",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "afa2d009-3ddc-4e3e-91f5-155dbaf52a16",
+        "type": "message",
+        "text": "Congratulations! You're the 20 millionth vaccinated person.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623919493.182500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=3V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations! You're the 20 millionth vaccinated person."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623918049.181300"
+    },
+    {
+        "client_msg_id": "3c9604bb-2750-4b40-971f-9cc64203fe98",
+        "type": "message",
+        "text": "`Congratulations! You're the 20 millionth vaccinated person.`\nDeepL：おめでとうございます。あなたは2000万人目のワクチン接種者です。\n\n• これからワクチンを打つのか…。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623919573.182800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ATfy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations! You're the 20 millionth vaccinated person.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：おめでとうございます。あなたは2000万人目のワクチン接種者です。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "これからワクチンを打つのか…。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623919211.182200",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "ナウシカ、見間違えたぞ（ユパ\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1623943977.183000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1623943977.183000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624088473.189900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1623944928.183400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624069531.188300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624088473.189900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624088473.189900"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：ナウシカ、見間違えたぞ",
+        "user": "U01UMQH4W4B",
+        "ts": "1623943978.183100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1623943978.183100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624088878.190100",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1623943978.183200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1623944989.183600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624069953.188500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624088878.190100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624088878.190100"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Nausicaa, I hardly recognized you.",
+        "user": "U01UMQH4W4B",
+        "ts": "1623943978.183200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1623943978.183100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "12aba0b4-9bd2-4748-b4f7-b7fa5bea789f",
+        "type": "message",
+        "text": "Nausicaa, I was unable to recognize you since you've grown so much.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623944928.183400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=x8k0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nausicaa, I was unable to recognize you since you've grown so much."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623943977.183000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "4b3e4c27-cfe6-414b-bcb4-26d82b90d695",
+        "type": "message",
+        "text": "`Nausicaa, I was unable to recognize you since you've grown so much.`\nDeepL：ナウシカ、大きく成長したあなたに気づけませんでした。\n\n• hardly recognized シンプルでよいな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623944989.183600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HvJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nausicaa, I was unable to recognize you since you've grown so much.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：ナウシカ、大きく成長したあなたに気づけませんでした。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "hardly recognized シンプルでよいな。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623943978.183100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b3d9287a-23df-4c4e-91f5-b54395d530c8",
+        "type": "message",
+        "text": "\"Could you lend me the wash-let\"\n\"OK\"",
+        "user": "UQ47R82RW",
+        "ts": "1623980935.184400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GrK7=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Could you lend me the wash-let\"\n\"OK\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622538309.111300"
+    },
+    {
+        "client_msg_id": "dbdca5d5-8de0-4ae7-a346-f75b1e050e21",
+        "type": "message",
+        "text": "`\"Could you lend me the wash-let\"`\n`\"OK\"`\n\nすみませんを忘れてた-&gt; excuse me\n\nwashletは動かせるものじゃないので、can I useか",
+        "user": "UQ47R82RW",
+        "ts": "1623981004.184600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dag",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Could you lend me the wash-let\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"OK\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nすみませんを忘れてた-> excuse me\n\nwashletは動かせるものじゃないので、can I useか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622562957.112900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "f4252c59-bdfb-4500-bdce-3e7c62059e8d",
+        "type": "message",
+        "text": "Burn off",
+        "user": "UQ47R82RW",
+        "ts": "1623981058.185000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JdD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Burn off"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561577.111900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "36e2de15-2e7d-4e99-b0f6-c4958d43258e",
+        "type": "message",
+        "text": "Burn off\nDeep: 焼き切る\n\n焼き払え-&gt;それらを燃やせ=&gt;  Burn them.",
+        "user": "UQ47R82RW",
+        "ts": "1623981103.185200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pty",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Burn off\nDeep: 焼き切る\n\n焼き払え->それらを燃やせ=>  Burn them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561578.112000",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

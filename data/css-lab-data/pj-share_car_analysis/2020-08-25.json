@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "05b71d4c-c0b1-48ae-9b77-f59d9f48ca3a",
+        "type": "message",
+        "text": "<@UPRE1RSJW> DropBoxにShareCarData0001,0002,0011〜0013をアップロードしてます。あとで確認お願いします。",
+        "user": "UPSPAMY7M",
+        "ts": "1598341805.005900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fpD83",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " DropBoxにShareCarData0001,0002,0011〜0013をアップロードしてます。あとで確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

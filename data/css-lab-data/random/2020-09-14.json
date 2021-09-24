@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "text": "x:それまででてきたキーワード数\ny:１作品あたりのキーワード数\nでプロットしてみるとよくわからなかったので,\nそこに追加して、直近1000作品の平均をいれてみました\n初期から少し経つとkeywordが増えるがすぐに落ち、地道に増加をし、最近急激に増えている感じで、面白い動きをしてますね",
+        "files": [
+            {
+                "id": "F01AMKMF7CJ",
+                "created": 1600091796,
+                "timestamp": 1600091796,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 167721,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01AMKMF7CJ\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01AMKMF7CJ\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01AMKMF7CJ-be3c19cf9c\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01AMKMF7CJ-be3c19cf9c\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01AMKMF7CJ-be3c19cf9c\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 156,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01AMKMF7CJ-be3c19cf9c\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 208,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01AMKMF7CJ-be3c19cf9c\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01AMKMF7CJ-be3c19cf9c\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 312,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01AMKMF7CJ-be3c19cf9c\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 347,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01AMKMF7CJ-be3c19cf9c\/image_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 416,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01AMKMF7CJ-be3c19cf9c\/image_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 444,
+                "original_w": 1902,
+                "original_h": 824,
+                "thumb_tiny": "AwAUADDRY0magumKlQPSoPMf1q1G6EXc0uao+Y\/rRvf1NVyBcubxkVJiqCMTImSeorQqJKwIMUYHpRRUjEwKXA9KKKADAooooA\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F01AMKMF7CJ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01AMKMF7CJ-a3f14c08b7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bT4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "x:それまででてきたキーワード数\ny:１作品あたりのキーワード数\nでプロットしてみるとよくわからなかったので,\nそこに追加して、直近1000作品の平均をいれてみました\n初期から少し経つとkeywordが増えるがすぐに落ち、地道に増加をし、最近急激に増えている感じで、面白い動きをしてますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1600092047.025800",
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    }
+]

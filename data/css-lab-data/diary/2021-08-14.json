@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "edf0679e-5a8c-486e-9b25-1c09234f060d",
+        "type": "message",
+        "text": "この記事が役に立ったんですけど、shapelyはPointを生成するために使われてるだけでしたね。\n<https:\/\/y-mattu.hatenablog.com\/entry\/2017\/09\/18\/185014>",
+        "user": "UPRE1RSJW",
+        "ts": "1628924417.025600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "★データ解析備忘録★",
+                "title": "Pythonでshapefileから逆ジオコーディング - ★データ解析備忘録★",
+                "title_link": "https:\/\/y-mattu.hatenablog.com\/entry\/2017\/09\/18\/185014",
+                "text": "はじめに 緯度経度から住所(市区町村・番地)を求める逆ジオコーディングですが、Rを使ったバージョンは以前書きました。 <http:\/\/y-mattu.hatenablog.com|y-mattu.hatenablog.com> また、上記は市までわかっているバージョンだたのですが、そもそもの県や市を求めたいときは以下も参考になります。 <http:\/\/qiita.com|qiita.com> 今回は市までわかってるverをPythonでやってみます。",
+                "fallback": "★データ解析備忘録★: Pythonでshapefileから逆ジオコーディング - ★データ解析備忘録★",
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/s\/songcunyouzai\/20170918\/20170918184948.png",
+                "ts": 1505728214,
+                "from_url": "https:\/\/y-mattu.hatenablog.com\/entry\/2017\/09\/18\/185014",
+                "image_width": 816,
+                "image_height": 118,
+                "image_bytes": 20021,
+                "service_icon": "https:\/\/y-mattu.hatenablog.com\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/y-mattu.hatenablog.com\/entry\/2017\/09\/18\/185014"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XUBI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この記事が役に立ったんですけど、shapelyはPointを生成するために使われてるだけでしたね。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/y-mattu.hatenablog.com\/entry\/2017\/09\/18\/185014"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628906726.025300",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

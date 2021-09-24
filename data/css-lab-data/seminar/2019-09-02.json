@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "ff9e5777-0f7f-430a-9cc6-688fd5badc8c",
+        "type": "message",
+        "text": "明日の件なのですが、何時頃からお願いできますか？",
+        "user": "UKUKA65GU",
+        "ts": "1567486314.002100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b655bb5d-477f-4136-8adf-91031a803cf3",
+        "type": "message",
+        "text": "グラフ化したいデータも決まり、グラフ化の基礎的な部分から色々アプローチはしているのですが、なかなか進展しておらず、かなり焦っています。\n明日、ディスカッションお願いした後に、水木でガッツリ仕上げる気ではいるのですが、可能であれば日中からお願いできればと思っていました。",
+        "user": "UKUKA65GU",
+        "ts": "1567486397.003500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "61cb175f-0e4b-4148-b9a8-6d6223b6c932",
+        "type": "message",
+        "text": "明日は一日時間あるので何時でも。10:30とかにしておきますか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1567493856.004900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

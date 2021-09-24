@@ -1,0 +1,366 @@
+[
+    {
+        "client_msg_id": "49672bbd-29e3-4c6d-9330-aa9efadc527c",
+        "type": "message",
+        "text": "<@UQ47R82RW> <@U01F42ZFA73> <@U01EP839LHH> 会議は17:30くらいに終わりそうなので、もし時間あれば18時から <@UQ47R82RW> 君担当箇所だけ終わらせちゃいませんか？\n\nもう予定入れてしまっていたら、来週にしましょう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620703923.052000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1620703940.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9+SA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP839LHH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 会議は17:30くらいに終わりそうなので、もし時間あれば18時から "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君担当箇所だけ終わらせちゃいませんか？\n\nもう予定入れてしまっていたら、来週にしましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620622449.051600",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "a3a85fe4-93a6-4424-a25d-35c268a21575",
+        "type": "message",
+        "text": "自分はその時間帯はオンラインであればできます",
+        "user": "UQ47R82RW",
+        "ts": "1620704185.052400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xp62u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分はその時間帯はオンラインであればできます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620622449.051600",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2DE51617-9962-4DB3-98B2-8E371F77663A",
+        "type": "message",
+        "text": "自分も参加します。",
+        "user": "U01F42ZFA73",
+        "ts": "1620704458.053000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CAIU5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分も参加します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620622449.051600",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4608CC7F-E4CD-4131-8F05-BDEB6E169307",
+        "type": "message",
+        "text": "参加します。",
+        "user": "U01EP839LHH",
+        "ts": "1620708474.053600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "10f8072a6377",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1728126443014_10f8072a637710127d26_72.png",
+            "first_name": "平川　令祐",
+            "real_name": "平川　令祐",
+            "display_name": "ryosuke",
+            "team": "TKS1Q2JUE",
+            "name": "s1270080",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ljS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "参加します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620622449.051600",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecc8cfd8-0dc5-43d5-86e5-078b6638cd9f",
+        "type": "message",
+        "text": "<@UQ47R82RW> <@U01EP839LHH> <@U01F42ZFA73> では今日18:00からこちらで：\n<https:\/\/us06web.zoom.us\/j\/81420063689?pwd=Tm95WStlYW1mWDVIQ0Y4c04xSTlPQT09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620708831.053900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "605D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP839LHH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": " では今日18:00からこちらで：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/81420063689?pwd=Tm95WStlYW1mWDVIQ0Y4c04xSTlPQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620622449.051600",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW",
+                    "U01F42ZFA73"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8130773-b373-49cf-acc1-3bba3367a2bf",
+        "type": "message",
+        "text": "<!channel> 明日5月12日（水）17:00～の研究室会のリマインダーです：\n<https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09>\n\n発表者は誰になりますか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620712695.054900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6nFAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日5月12日（水）17:00～の研究室会のリマインダーです：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n発表者は誰になりますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620712695.054900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1620772892.056500",
+        "reply_users": [
+            "UKH07E67M",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1620731396.055600"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1620772892.056500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620772892.056500"
+    }
+]

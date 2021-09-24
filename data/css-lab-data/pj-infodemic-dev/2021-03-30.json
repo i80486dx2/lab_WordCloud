@@ -1,0 +1,754 @@
+[
+    {
+        "client_msg_id": "677cb4e5-dbd3-48db-92b7-7e4f575631b6",
+        "type": "message",
+        "text": "すみません、今日もオンライン参加でお願いします。",
+        "user": "U01EL0SAUTF",
+        "ts": "1617153878.009900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d+rY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません、今日もオンライン参加でお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e600a88-a08d-4fad-822b-16e61c7601c8",
+        "type": "message",
+        "text": "<!channel> 今日の13時からのmtgはこちらで：<https:\/\/us06web.zoom.us\/j\/99266177893?pwd=OWJOeHAzaW1mQmhVWEpmNitaamVwdz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617154916.010400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JU07p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日の13時からのmtgはこちらで："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/99266177893?pwd=OWJOeHAzaW1mQmhVWEpmNitaamVwdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "バックエンド覚え書き\n• Elastic Search (on GCP) 導入完了（データロード中）\n• ToDo: Elastic Search と FastAPI (APIサーバ：flask後継) の連携",
+        "files": [
+            {
+                "id": "F01TLE8M7SL",
+                "created": 1617163617,
+                "timestamp": 1617163617,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKS1Q2KTQ",
+                "editable": false,
+                "size": 81927,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01TLE8M7SL\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01TLE8M7SL\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01TLE8M7SL-d5f53aa302\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01TLE8M7SL-d5f53aa302\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01TLE8M7SL-d5f53aa302\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 265,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01TLE8M7SL-d5f53aa302\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 354,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01TLE8M7SL-d5f53aa302\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01TLE8M7SL-d5f53aa302\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 531,
+                "original_w": 754,
+                "original_h": 556,
+                "thumb_tiny": "AwAjADDSzz0NAOexFNlQuhCkg9iKVF2IFznHc0AKSR0BNAJPUEUc9j+lAz3NAC0Uhzng\/pRz3NAC0UUUAFFFFACHihTkcjFBz2AP1oGe4FAC0UUUAFFFFACGig0UAf\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKS1Q2KTQ\/F01TLE8M7SL\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01TLE8M7SL-d756d12713",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yrp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バックエンド覚え書き\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Elastic Search (on GCP) 導入完了（データロード中）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ToDo: Elastic Search と FastAPI (APIサーバ：flask後継) の連携"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKS1Q2KTQ",
+        "display_as_bot": false,
+        "ts": "1617163637.011800",
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1617165324.000000"
+        },
+        "thread_ts": "1617163637.011800",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1617163930.012900",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617163715.012300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617163930.012900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617163930.012900",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "今後は以下の構成に変更（FastAPIとelasticsearchはDocker上）",
+        "files": [
+            {
+                "id": "F01SWL6R9R8",
+                "created": 1617163712,
+                "timestamp": 1617163712,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKS1Q2KTQ",
+                "editable": false,
+                "size": 47292,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01SWL6R9R8\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01SWL6R9R8\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SWL6R9R8-7bba93925c\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SWL6R9R8-7bba93925c\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SWL6R9R8-7bba93925c\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 243,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SWL6R9R8-7bba93925c\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 325,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SWL6R9R8-7bba93925c\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 587,
+                "original_h": 397,
+                "thumb_tiny": "AwAgADDTopCAeDUPnIZfL2NuzQBPRSAY4FLQAx84+U80+m7h7\/lSg5oAWm7F37++MU6igAooooAbvX+8PzpQQehzS0UAf\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKS1Q2KTQ\/F01SWL6R9R8\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01SWL6R9R8-1868246f0f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DEDN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今後は以下の構成に変更（FastAPIとelasticsearchはDocker上）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKS1Q2KTQ",
+        "display_as_bot": false,
+        "ts": "1617163715.012300",
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1617163898.000000"
+        },
+        "thread_ts": "1617163637.011800",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "131430b2-8887-4fde-b385-33a06f1357cf",
+        "type": "message",
+        "text": "さらにフロントエンド（Firebase）も Docker に移せば支払い管理しやすい？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617163930.012900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9P9y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "さらにフロントエンド（Firebase）も Docker に移せば支払い管理しやすい？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617163637.011800",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "261c3233-412a-427b-962c-ca04743b1a20",
+        "type": "message",
+        "text": "フロントエンド覚え書き\n• 前回挙げた項目を実装中（まだデプロイはしていない）\n• ToDo: ブラッシュアップ",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617164070.013800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1617165531.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cp\/qM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フロントエンド覚え書き\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "前回挙げた項目を実装中（まだデプロイはしていない）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ToDo: ブラッシュアップ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0de31e5-20e9-4394-a3c7-3292460cf8f0",
+        "type": "message",
+        "text": "その他\n• RTグラフの描画を4～5月の目標の一つにする。\n• <@U01KC41PR9C> RTグラフのデータ処理周りの実装（4月）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617165515.017600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "heE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その他\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "RTグラフの描画を4～5月の目標の一つにする。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01KC41PR9C"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " RTグラフのデータ処理周りの実装（4月）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f040fad8-fce8-4b59-962a-ad0096f546ce",
+        "type": "message",
+        "text": "<!channel> そういえばこれまだシェアしてませんでした。すごい労作。\nThe Data Visualizations Behind COVID-19 Skepticism\n<http:\/\/vis.mit.edu\/covid-story\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617168437.018400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "The Data Visualizations Behind COVID-19 Skepticism",
+                "title_link": "http:\/\/vis.mit.edu\/covid-story\/",
+                "text": "How do COVID-19 skeptics use public health data and social media to advocate for reopening the economy and against mask mandates?",
+                "fallback": "The Data Visualizations Behind COVID-19 Skepticism",
+                "image_url": "http:\/\/vis.csail.mit.edu\/covid-story\/summary_image.png",
+                "from_url": "http:\/\/vis.mit.edu\/covid-story\/",
+                "image_width": 463,
+                "image_height": 250,
+                "image_bytes": 932206,
+                "service_name": "vis.mit.edu",
+                "id": 1,
+                "original_url": "http:\/\/vis.mit.edu\/covid-story\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " そういえばこれまだシェアしてませんでした。すごい労作。\nThe Data Visualizations Behind COVID-19 Skepticism\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/vis.mit.edu\/covid-story\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617168437.018400",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1617169218.019300",
+        "reply_users": [
+            "U01KC41PR9C",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1617169049.018700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617169111.018900"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1617169133.019100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617169218.019300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617169218.019300",
+        "reactions": [
+            {
+                "name": "hushed",
+                "users": [
+                    "U01KC41PR9C",
+                    "U01EL0SAUTF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00678d2d-b28f-4985-892b-8d323c90648d",
+        "type": "message",
+        "text": "やはりネットワーク図は、Twitterデータの可視化に必須を言えますね。\nあるのとないのでは、格段に印象が違います。",
+        "user": "U01KC41PR9C",
+        "ts": "1617169049.018700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tfs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やはりネットワーク図は、Twitterデータの可視化に必須を言えますね。\nあるのとないのでは、格段に印象が違います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617168437.018400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "c7c6192b-ca5a-4e7a-8cc4-944f97d24fc4",
+        "type": "message",
+        "text": "情勢の地図としてすごい説得力ありますね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617169111.018900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mpzC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "情勢の地図としてすごい説得力ありますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617168437.018400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "d0d8a914-43d3-429d-b3bf-900574c7b973",
+        "type": "message",
+        "text": "また、このサイトの「勢力毎の分析」は参考になりました。\nSPAで考えていますが、こうした勢力図のような分析結果は別ページでまとめてもいいかと。",
+        "user": "U01KC41PR9C",
+        "ts": "1617169133.019100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9=vN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "また、このサイトの「勢力毎の分析」は参考になりました。\nSPAで考えていますが、こうした勢力図のような分析結果は別ページでまとめてもいいかと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617168437.018400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "da281c7b-4524-4d2f-af42-fe838e980b86",
+        "type": "message",
+        "text": "たしかに。ダッシュボードが分析結果を含むページへの起点になるのをイメージしてます。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617169218.019300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xgHJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "たしかに。ダッシュボードが分析結果を含むページへの起点になるのをイメージしてます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617168437.018400",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

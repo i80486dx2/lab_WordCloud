@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "a2b304f9-03b8-404a-9a1d-f8a4e5f44bb9",
+        "type": "message",
+        "text": "<@UPRE1RSJW> ちなみにウインカーが出ていないところを全て抽出すると変な感じになりそうですか？\nあと、先程アルパインと打ち合わせしたんですが、クラスター結果と、そのクラスターがどんな状況を意味するかを調べるヒントとして操作頻度（≠周波数）のマッピングをしたら何か出たりしないかという話が出ました。",
+        "user": "UPSPAMY7M",
+        "ts": "1623397805.017600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cDX3A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ちなみにウインカーが出ていないところを全て抽出すると変な感じになりそうですか？\nあと、先程アルパインと打ち合わせしたんですが、クラスター結果と、そのクラスターがどんな状況を意味するかを調べるヒントとして操作頻度（≠周波数）のマッピングをしたら何か出たりしないかという話が出ました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623295062.013900",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "1066e9b1-fa77-4613-baa3-7e8202df9a20",
+        "type": "message",
+        "text": "それは直線走行以外も含むということですか",
+        "user": "UPRE1RSJW",
+        "ts": "1623398284.017800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/hg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それは直線走行以外も含むということですか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623295062.013900",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

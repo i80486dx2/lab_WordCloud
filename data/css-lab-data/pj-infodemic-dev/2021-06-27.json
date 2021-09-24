@@ -1,0 +1,204 @@
+[
+    {
+        "client_msg_id": "a900b4ca-3559-43bc-bf1d-18a8e9d84ce2",
+        "type": "message",
+        "text": "<@UPSPAP97D> 今日、17時に授業が終わるのだけど、その後もし時間あれば1時間程度どうですか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624848458.091300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RRqBY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日、17時に授業が終わるのだけど、その後もし時間あれば1時間程度どうですか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624720363.090900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "259D4097-3343-43EA-8C4E-B9C32B8ADCD0",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 今日の17時頃は僕も大丈夫なので、この時間でお願いします。",
+        "user": "UPSPAP97D",
+        "ts": "1624848604.093800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e2GE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日の17時頃は僕も大丈夫なので、この時間でお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624720363.090900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "907944d4-e348-46c8-8027-6ae2871bccd1",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> ひらがな・半角カタカナを含めた「ワクチン」RTデータでの可視化処理を一通り終えたので共有します。\n\n<https:\/\/www.notion.so\/21-05-16-f104019d90df49808038573e146b1112>",
+        "user": "UPSPAP97D",
+        "ts": "1624856839.095300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Murakami's Notion on Notion",
+                "title": "21\/05\/16データ(ひらがな・半角アリ)",
+                "title_link": "https:\/\/www.notion.so\/21-05-16-f104019d90df49808038573e146b1112",
+                "text": "ひらがな・半角カタカナを加えた",
+                "fallback": "Murakami's Notion on Notion: 21\/05\/16データ(ひらがな・半角アリ)",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fba626f07-5129-49e4-9977-dd968d568eb3%2Finfomap_info.png?table=block&id=c7b9d90e-7d71-4b9b-a6bc-4ff22fc40013&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/21-05-16-f104019d90df49808038573e146b1112",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 65990,
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/21-05-16-f104019d90df49808038573e146b1112"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K2O5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ひらがな・半角カタカナを含めた「ワクチン」RTデータでの可視化処理を一通り終えたので共有します。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/21-05-16-f104019d90df49808038573e146b1112"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624856839.095300",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1625044234.099100",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625038599.096000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1625038817.096200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625038874.096400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625043305.098600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625044234.099100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625044234.099100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

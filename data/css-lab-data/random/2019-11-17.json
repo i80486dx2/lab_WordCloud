@@ -1,0 +1,228 @@
+[
+    {
+        "client_msg_id": "02645c0a-456c-4d82-b76c-134d05ad37c4",
+        "type": "message",
+        "text": "<https:\/\/newspicks.com\/news\/4002571\/body\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1574004742.000200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "NewsPicks",
+                "title": "行動は“ググる”から“タグる”へ。SNS戦略で「勝つマーケター」の思考法",
+                "title_link": "https:\/\/newspicks.com\/news\/4002571\/body\/",
+                "text": "──昨今、Instagramを中心として、言語よりも直感的なビジュアルでのコミュニケーションが浸透しています。SNSはどう変化しているのでしょうか？SNSの歴史を見るといくつか転機があります。2...",
+                "fallback": "NewsPicks: 行動は“ググる”から“タグる”へ。SNS戦略で「勝つマーケター」の思考法",
+                "image_url": "https:\/\/contents.newspicks.com\/images\/news\/4002571\/share",
+                "ts": 1561708800,
+                "from_url": "https:\/\/newspicks.com\/news\/4002571\/body\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 566320,
+                "service_icon": "https:\/\/newspicks.com\/np_logo.png",
+                "id": 1,
+                "original_url": "https:\/\/newspicks.com\/news\/4002571\/body\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8574f156-c72c-4421-97ef-66ab45d73cac",
+        "type": "message",
+        "text": "ちゃんと読んでないからおもしろいかどうかはわからない。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1574004773.000800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "db17a9e6-1702-4c4e-9682-8f6f1ff11772",
+        "type": "message",
+        "text": "<https:\/\/toyokeizai.net\/articles\/-\/291764>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1574005360.001000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "東洋経済オンライン",
+                "title": "｢SNS｣と｢生態系｣､実は似ている本当の理由 | インターネット",
+                "title_link": "https:\/\/toyokeizai.net\/articles\/-\/291764",
+                "text": "いまや、実社会での出来事がネット空間で取りあげられない日はない。老後資金2000万円の報告書、@KuToo、「引きこもり」と呼ばれる加害者による児童殺傷事件。これらに対するコメントがソーシャルメディアにあふれ…",
+                "fallback": "東洋経済オンライン: ｢SNS｣と｢生態系｣､実は似ている本当の理由 | インターネット",
+                "image_url": "https:\/\/toyokeizai.net\/mwimgs\/5\/5\/-\/img_55b8553ca989a044e2c5ffa90bffc122125866.jpg",
+                "ts": 1563398400,
+                "from_url": "https:\/\/toyokeizai.net\/articles\/-\/291764",
+                "image_width": 443,
+                "image_height": 250,
+                "image_bytes": 97360,
+                "service_icon": "https:\/\/toyokeizai.net\/apple-touch-icon.png?20131220",
+                "id": 1,
+                "original_url": "https:\/\/toyokeizai.net\/articles\/-\/291764"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbef1edb-6d96-4b09-bba0-775c818b2674",
+        "type": "message",
+        "text": "こちらで紹介されている「ソーシャルメディアの生態系」は先日購入したので、読んでみたい方はどうぞ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1574005411.002000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M",
+                    "UKUKA65GU",
+                    "UQ47R82RW",
+                    "UPSPAP97D"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61FFFC5A-9753-4525-B98E-61E2D9A91BB3",
+        "type": "message",
+        "text": "研究室用ノートPC(MacBook Pro)が研究室に戻りました。\n一応希望者がいれば週単位での利用という形になるかと思います。",
+        "user": "UKUKA65GU",
+        "ts": "1574056216.004900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "管理者権限などの都合でうまく生徒用がまだ設定できていませんが、生徒用に新規ファイルは作ってあるので、現時点でコードとかは各自で自分のファイルに保存という形で...",
+        "files": [
+            {
+                "id": "FQMNJK5AQ",
+                "created": 1574056358,
+                "timestamp": 1574056358,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 666111,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FQMNJK5AQ\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FQMNJK5AQ\/download\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FQMNJK5AQ-99562e624b\/ios___________64.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FQMNJK5AQ-99562e624b\/ios___________80.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FQMNJK5AQ-99562e624b\/ios___________360.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FQMNJK5AQ-99562e624b\/ios___________480.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FQMNJK5AQ-99562e624b\/ios___________160.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FQMNJK5AQ-99562e624b\/ios___________720.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FQMNJK5AQ-99562e624b\/ios___________800.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FQMNJK5AQ-99562e624b\/ios___________960.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FQMNJK5AQ-99562e624b\/ios___________1024.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACRgs4++786DaRDs3\/fVWFSnhKqxNyp9mj\/un\/vqkNugH3f\/AB6ruymsnFOyFdhYSKLYBmAwTirPmJ\/eFZkBiEQ3xox55I96k3W\/\/PGP8qzLuPjlz0P4VMsqnqMVWVV9KlBB+8M1F7GlkyyNpGQRUcrIO4qMcfdOfamSbSCSMHHaqUyHEhggMkKsHxn2qT7If75\/Kltl\/wBGj+TPHWpdv\/TOmBVDU9XqvunH\/LH9KDLL\/wA8SPwNTylXLW6myN8jfSq6zODzGT9c05ndoyPJPI60uVhdF61H+ixf7oqbFRQxAQoCCDtGeSKf5a+\/\/fRqxH\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/FQMNJK5AQ\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-FQMNJK5AQ-78e563e39b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UKUKA65GU",
+        "display_as_bot": false,
+        "ts": "1574056358.007200",
+        "client_msg_id": "17E856DA-1C4B-4034-A5A3-1AE88BC195A6",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,2202 @@
+[
+    {
+        "client_msg_id": "678147e1-3b31-46f5-b3c5-2e416fdb200e",
+        "type": "message",
+        "text": "[How to escape from zombies]\n“I am one point in TABE log, so not delicious”",
+        "user": "UKH07E67M",
+        "ts": "1618306016.141700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RCMyy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[How to escape from zombies]\n“I am one point in TABE log, so not delicious”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618238290.133300"
+    },
+    {
+        "client_msg_id": "553b2db0-d9d1-4088-be13-d96b26dbe480",
+        "type": "message",
+        "text": "`[How to escape from zombies` \n`\"I am one point in TABE log, so not delicious\"`\n• カッコ内は完璧にできた\n• tastyのスペルド忘れしてdeliciousにした。\n• soのあとは私は美味しくないってするのならI amつけるべきだった\n• one pointだと意味が伝わらないかもという疑念はonlyによって解決された\n• 過去分詞…？　↑なるほど\n• in ではなく onだった。前置詞選択が甘い調べる ",
+        "user": "UKH07E67M",
+        "ts": "1618306300.141900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VjMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[How to escape from zombies ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"I am one point in TABE log, so not delicious\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "カッコ内は完璧にできた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "tastyのスペルド忘れしてdeliciousにした。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "soのあとは私は美味しくないってするのならI amつけるべきだった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "one pointだと意味が伝わらないかもという疑念はonlyによって解決された"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "過去分詞…？　↑なるほど"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "in ではなく onだった。前置詞選択が甘い調べる "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618242336.135400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "b32c85c2-eb14-4122-a85e-33f772e7ed45",
+        "type": "message",
+        "text": "Stefany doesn’t flow my trash at her company because she has her thinking.",
+        "user": "UKH07E67M",
+        "ts": "1618306535.142100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ujx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Stefany doesn’t flow my trash at her company because she has her thinking."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618282638.140000"
+    },
+    {
+        "client_msg_id": "e4a950d3-e7a5-4702-be48-a5980627d4a0",
+        "type": "message",
+        "text": "`Stefany doesn't flow my trash at her company because she has her thinking.`\n• ステファニーは仕方ない\n• deepl : ステファニーは、自分の考えを持っているので、私のゴミを会社に流しません。\n• うんこがわからなくて私のゴミ\n• 流すがわからなくてflow\n• わざとがわからなくて彼女は彼女の考えを持ってもらうことにした\n• flush the toiletでトイレを流す\n• take a dump でうんこする\n• なんで流さないんだろう\n•  ",
+        "user": "UKH07E67M",
+        "ts": "1618306935.142300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CiC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Stefany doesn't flow my trash at her company because she has her thinking.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ステファニーは仕方ない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "deepl : ステファニーは、自分の考えを持っているので、私のゴミを会社に流しません。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "うんこがわからなくて私のゴミ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "流すがわからなくてflow"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "わざとがわからなくて彼女は彼女の考えを持ってもらうことにした"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "flush the toiletでトイレを流す"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "take a dump でうんこする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "なんで流さないんだろう"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618284553.140500",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1618324290.142500",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1618324290.142500",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1618575388.170400",
+        "reply_users": [
+            "U01EPKVACEN",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1618326059.142700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618359643.145500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618360113.145900"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618575388.170400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618575388.170400",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「歯石を取るので、もしも痛かったら手を挙げてくださいね」 <https:\/\/pbs.twimg.com\/media\/Ey3F9HHVEAstyzr.jpg>",
+                "ts": 1618324285,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1381978333622071298",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1381978333622071298>",
+                "text": "「歯石を取るので、もしも痛かったら手を挙げてくださいね」 <https:\/\/pbs.twimg.com\/media\/Ey3F9HHVEAstyzr.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1381978333622071298",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Ey3F9HHVEAstyzr.jpg",
+                "image_width": 400,
+                "image_height": 550,
+                "image_bytes": 71676,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1618324942.142600",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1618324942.142600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1618575699.170800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618359925.145700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618360735.146300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618575699.170800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618575699.170800",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「もっと口を大きく開いてください。舌に力を入れないで！」 <https:\/\/pbs.twimg.com\/media\/Ey3IcLnVIAESr3z.jpg>",
+                "ts": 1618324936,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1381981065091239938",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1381981065091239938>",
+                "text": "「もっと口を大きく開いてください。舌に力を入れないで！」 <https:\/\/pbs.twimg.com\/media\/Ey3IcLnVIAESr3z.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1381981065091239938",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Ey3IcLnVIAESr3z.jpg",
+                "image_width": 400,
+                "image_height": 550,
+                "image_bytes": 69455,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c82afa6-0f40-4268-9cdf-c0d5eec65395",
+        "type": "message",
+        "text": "I’ll take garbage of your teeth. If you feel hurt, please raise your hand.",
+        "user": "U01EPKVACEN",
+        "ts": "1618326059.142700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dhR2=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll take garbage of your teeth. If you feel hurt, please raise your hand."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618324290.142500"
+    },
+    {
+        "client_msg_id": "82ad050b-54e6-4069-8057-94828062db88",
+        "type": "message",
+        "text": "反省会「歯石を取るので、もしも痛かったら手を挙げてくださいね」",
+        "user": "U01EPKVACEN",
+        "ts": "1618326079.143100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jYU6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「歯石を取るので、もしも痛かったら手を挙げてくださいね」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618326079.143100",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1618575588.170600",
+        "reply_users": [
+            "U01EPKVACEN",
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1618326379.143200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618360245.146100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618369432.147900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618369964.148100"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618575588.170600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618575588.170600"
+    },
+    {
+        "client_msg_id": "d1d502a4-129c-47ee-bd8f-101fe962fc3a",
+        "type": "message",
+        "text": "```I'll take garbage of your teeth. If you feel hurt, please raise your hand.```\nremove!\nthe tartar 歯石\npain 「痛み」の語がわからなかった\n例文の語順の方が自然なのか？",
+        "user": "U01EPKVACEN",
+        "ts": "1618326379.143200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wXJWP",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll take garbage of your teeth. If you feel hurt, please raise your hand."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nremove!\nthe tartar 歯石\npain 「痛み」の語がわからなかった\n例文の語順の方が自然なのか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618326079.143100",
+        "parent_user_id": "U01EPKVACEN"
+    },
+    {
+        "client_msg_id": "8E7C1B08-A394-4B94-97A7-56D2A22279E9",
+        "type": "message",
+        "text": "Momotaro couldn’t get in Onigashima-island because of lock-down.",
+        "user": "U01EVRBP38C",
+        "ts": "1618335057.145300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iUp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Momotaro couldn’t get in Onigashima-island because of lock-down."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618217240.131500"
+    },
+    {
+        "client_msg_id": "115a25d4-b85c-4443-a14a-ebc81c850695",
+        "type": "message",
+        "text": "I'm going to remove your dental petrification, so please raise your hand if it hurts.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618359643.145500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x\/9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm going to remove your dental petrification, so please raise your hand if it hurts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618324290.142500"
+    },
+    {
+        "client_msg_id": "64dc4ce7-7636-41b0-ab40-066c679a543b",
+        "type": "message",
+        "text": "Open your mouth wider. Don't stiffen your tongue!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618359925.145700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GvRfS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Open your mouth wider. Don't stiffen your tongue!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618324942.142600"
+    },
+    {
+        "client_msg_id": "7c0591d5-7db7-45e0-82fd-9478728e7a5c",
+        "type": "message",
+        "text": "I’ll remove your tooth stone. If you feel ache, please raise your hand.",
+        "user": "UKH07E67M",
+        "ts": "1618360113.145900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SmEc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll remove your tooth stone. If you feel ache, please raise your hand."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618324290.142500"
+    },
+    {
+        "client_msg_id": "a2064d66-2eeb-4e90-9666-7ab5caf0cef7",
+        "type": "message",
+        "text": "`I'll remove your tooth stone. If you feel ache, please raise your hand.`\n• 歯石って何？\n• 痛みの英語わからんくなってストマックエイクを思い出した。\n• 形としてはマシ？ ",
+        "user": "UKH07E67M",
+        "ts": "1618360245.146100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "30me",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll remove your tooth stone. If you feel ache, please raise your hand.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "歯石って何？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "痛みの英語わからんくなってストマックエイクを思い出した。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "形としてはマシ？ "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618326079.143100",
+        "parent_user_id": "U01EPKVACEN"
+    },
+    {
+        "client_msg_id": "bf58ebaf-dd23-452b-a4dc-2dafa5f8b6be",
+        "type": "message",
+        "text": "Please open your mouse bigger. Don’t have power at your tang!",
+        "user": "UKH07E67M",
+        "ts": "1618360735.146300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please open your mouse bigger. Don’t have power at your tang!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618324942.142600"
+    },
+    {
+        "client_msg_id": "7431dac5-74c5-4410-9013-06ad2caea014",
+        "type": "message",
+        "text": "反省会「もっと口を大きく開いてください。舌に力を入れないで！」",
+        "user": "UKH07E67M",
+        "ts": "1618360788.147000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y61c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「もっと口を大きく開いてください。舌に力を入れないで！」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618360788.147000",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1618575867.171000",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1618360858.147100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618363146.147300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618363260.147500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618365518.147700"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618575867.171000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618575867.171000"
+    },
+    {
+        "client_msg_id": "39c4510a-ba6e-428a-8995-2e21d997f494",
+        "type": "message",
+        "text": "`Please open your mouse bigger. Don't have power at your tang!`\n• bigではなくwide。納得\n• tangってなんだよtongueだ\n• relaxが思いつかなかった ",
+        "user": "UKH07E67M",
+        "ts": "1618360858.147100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please open your mouse bigger. Don't have power at your tang!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "bigではなくwide。納得"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "tangってなんだよtongueだ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "relaxが思いつかなかった "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618360788.147000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "05f3806e-d5d4-4a1a-8c17-a3325d8a2939",
+        "type": "message",
+        "text": "<@UKH07E67M> ネズミ…。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618363146.147300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLNX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ネズミ…。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618360788.147000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "ba23f4a9-550e-42a3-bcdf-d78e822e8b89",
+        "type": "message",
+        "text": "うわあmousemouthああああああああ",
+        "user": "UKH07E67M",
+        "ts": "1618363260.147500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f8b5Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うわあmousemouthああああああああ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618360788.147000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "5cc21ba2-2e2c-4c60-bfa8-bd240b1e7e79",
+        "type": "message",
+        "text": "`Open your mouth wider. Don't stiffen your tongue!`\nDeepL「口を大きく開けてください。舌を硬くしないでください。」\n\n• この場合は Relax だなー。悔しい。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618365518.147700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sfIj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Open your mouth wider. Don't stiffen your tongue!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「口を大きく開けてください。舌を硬くしないでください。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "この場合は Relax だなー。悔しい。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618360788.147000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "5ee74c9f-c873-4563-ab18-8baadf2d4a50",
+        "type": "message",
+        "text": "`I'm going to remove your dental petrification, so please raise your hand if it hurts.`\nDeepL「歯の石化を除去しますので、痛かったら手を挙げてくださいね。」\n\n• 「tartar = 歯石」了。歯医者でよく聞く scale（これも歯石）が出なくて悔しい。dental stone もありらしい。dental petrification はないわ。\n• いままさに歯石を取ろうとするニュアンスで I'm going to としたが、治療の説明と考えれば will かな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618369432.147900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ectG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm going to remove your dental petrification, so please raise your hand if it hurts.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「歯の石化を除去しますので、痛かったら手を挙げてくださいね。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「tartar = 歯石」了。歯医者でよく聞く scale（これも歯石）が出なくて悔しい。dental stone もありらしい。dental petrification はないわ。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "いままさに歯石を取ろうとするニュアンスで I'm going to としたが、治療の説明と考えれば will かな。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618326079.143100",
+        "parent_user_id": "U01EPKVACEN"
+    },
+    {
+        "client_msg_id": "8ff663a1-b03e-4ef9-99ff-aad874e717fa",
+        "type": "message",
+        "text": "<@U01EPKVACEN> feel hurt だと「感情を害する、不快に思う」になるらしい（傷ついた、と感じる）。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618369964.148100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ojgs6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " feel hurt だと「感情を害する、不快に思う」になるらしい（傷ついた、と感じる）。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618326079.143100",
+        "parent_user_id": "U01EPKVACEN"
+    },
+    {
+        "client_msg_id": "e44d809b-9a2b-47b9-aea1-540b6fe48d18",
+        "type": "message",
+        "text": "<!channel> このチャンネルでの勉強法に以下を追加：単に当たった・外れたではなく、間違った箇所をレビューすることが重要。\n<https:\/\/compu-soceco.slack.com\/archives\/C01MHL783J4\/p1616928250062000>\n\n例えば ache と pain の違いは何か？\n<https:\/\/eigobu.jp\/magazine\/ache-pain>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618370436.150500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/compu-soceco.slack.com\/archives\/C01MHL783J4\/p1616928250062000",
+                "fallback": "[March 28th, 2021 3:44 AM] yasuhirohashimoto: <!channel> このチャンネルでの勉強法について\n• （当たり前だが）先に答えを見ない。人間は「納得」では学習しない。「予測」をして外れることが学習効果を最大にする。\n• 語彙が足らなくても、知っている単語を駆使して、なんとか言いたいことを表現する。\n• 複数の言い回しを考えた上で、その中から吟味して選ぶ。\n• 単に当たった・外れたではなく、間違った箇所をレビューすることが重要。\n• 反省を共有するとアドバイスをもらえるかも。自作英文をDeepLで翻訳してみるのもあり。",
+                "ts": "1616928250.062000",
+                "author_id": "UKS1Q2KTQ",
+                "author_subname": "Yasuhiro Hashimoto",
+                "channel_id": "C01MHL783J4",
+                "channel_name": "english",
+                "is_msg_unfurl": true,
+                "text": "<!channel> このチャンネルでの勉強法について\n• （当たり前だが）先に答えを見ない。人間は「納得」では学習しない。「予測」をして外れることが学習効果を最大にする。\n• 語彙が足らなくても、知っている単語を駆使して、なんとか言いたいことを表現する。\n• 複数の言い回しを考えた上で、その中から吟味して選ぶ。\n• 単に当たった・外れたではなく、間違った箇所をレビューすることが重要。\n• 反省を共有するとアドバイスをもらえるかも。自作英文をDeepLで翻訳してみるのもあり。",
+                "author_name": "Yasuhiro Hashimoto",
+                "author_link": "https:\/\/compu-soceco.slack.com\/team\/UKS1Q2KTQ",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/compu-soceco.slack.com\/archives\/C01MHL783J4\/p1616928250062000",
+                "footer": "Posted in #english"
+            },
+            {
+                "service_name": "WURK（旧英語部）",
+                "title": "「ache」と「pain」の違いと使い分け",
+                "title_link": "https:\/\/eigobu.jp\/magazine\/ache-pain",
+                "text": "「ache」と「pain」はどちらも「痛み」を表す英単語ですが、ニュアンスや使い方に違いがあります。「ache」と「pain」の意味と使い方のポイントをそれぞれ説明していきます。音声付き例文もありますので発音も確認してみてください。",
+                "fallback": "WURK（旧英語部）: 「ache」と「pain」の違いと使い分け",
+                "image_url": "https:\/\/cdn.eigobu.jp\/images\/article\/ex\/16\/800x600.jpg",
+                "from_url": "https:\/\/eigobu.jp\/magazine\/ache-pain",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 46611,
+                "id": 2,
+                "original_url": "https:\/\/eigobu.jp\/magazine\/ache-pain"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KpBRe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " このチャンネルでの勉強法に以下を追加：単に当たった・外れたではなく、間違った箇所をレビューすることが重要。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/compu-soceco.slack.com\/archives\/C01MHL783J4\/p1616928250062000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n例えば ache と pain の違いは何か？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eigobu.jp\/magazine\/ache-pain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKH07E67M",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcc3e337-a644-49df-8a64-01fff004bfa6",
+        "type": "message",
+        "text": "単語の理解に便利なサイト SKELL: <https:\/\/skell.sketchengine.eu\/>\n\n例えば ache を検索して \"Similar words\" タブを押すと、同じような使われ方をする単語が表示されるが、ここに同じ「痛み」を表す pain がないことに注目。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618370740.152000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jd5I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "単語の理解に便利なサイト SKELL: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/skell.sketchengine.eu\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n例えば ache を検索して \"Similar words\" タブを押すと、同じような使われ方をする単語が表示されるが、ここに同じ「痛み」を表す pain がないことに注目。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1618372552.152200",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1618372552.152200",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1618576063.171300",
+        "reply_users": [
+            "UKUKA65GU",
+            "UKS1Q2KTQ",
+            "U01EPKVACEN",
+            "UKH07E67M",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKUKA65GU",
+                "ts": "1618372918.153600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618374360.154300"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1618375338.155000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618381405.155800"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618576063.171300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618576063.171300",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「私の中のゴーストがささやいているので、早退してもよいですか？」 <https:\/\/pbs.twimg.com\/media\/Ey5-Ei8UYAAxmTr.jpg>",
+                "ts": 1618372546,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1382180757339185157",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1382180757339185157>",
+                "text": "「私の中のゴーストがささやいているので、早退してもよいですか？」 <https:\/\/pbs.twimg.com\/media\/Ey5-Ei8UYAAxmTr.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1382180757339185157",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Ey5-Ei8UYAAxmTr.jpg",
+                "image_width": 400,
+                "image_height": 500,
+                "image_bytes": 25473,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1341339-e2ad-416d-91cd-efc7a2c0b0c7",
+        "type": "message",
+        "text": "The ghost which inside me is whispering, so can I get home early?",
+        "user": "UKUKA65GU",
+        "ts": "1618372918.153600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cbfo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The ghost which inside me is whispering, so can I get home early?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618372552.152200"
+    },
+    {
+        "client_msg_id": "c3eff08c-6ee6-48fd-8bb2-cee976db44c1",
+        "type": "message",
+        "text": "反省会「私の中のゴーストがささやいているので、早退してもよいですか？」",
+        "user": "UKUKA65GU",
+        "ts": "1618372943.154000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ypBg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「私の中のゴーストがささやいているので、早退してもよいですか？」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618372943.154000",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1618576476.171500",
+        "reply_users": [
+            "UKUKA65GU",
+            "UKS1Q2KTQ",
+            "U01EPKVACEN",
+            "UKH07E67M",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKUKA65GU",
+                "ts": "1618373145.154100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618374991.154600"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1618375864.155200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618377082.155600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618381710.156000"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1618401856.156500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618403837.157700"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618576476.171500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618576476.171500"
+    },
+    {
+        "client_msg_id": "75f80838-6afa-497d-a067-73944467d7cb",
+        "type": "message",
+        "text": "・Can I ではカジュアルすぎる。目上の人に〜しても良いかの場合はMay Iにすべき。（これでも塾講師かよ:wave:）\n・get homeは、家に到着する状態のことを指すらしい。\ngo homeを使うと、これから向かう先が家である状態を指し、\ncome homeだと話し手が家にいる状態で、帰宅について話す場合に使うらしいですよ",
+        "user": "UKUKA65GU",
+        "ts": "1618373145.154100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・Can I ではカジュアルすぎる。目上の人に〜しても良いかの場合はMay Iにすべき。（これでも塾講師かよ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）\n・get homeは、家に到着する状態のことを指すらしい。\ngo homeを使うと、これから向かう先が家である状態を指し、\ncome homeだと話し手が家にいる状態で、帰宅について話す場合に使うらしいですよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618372943.154000",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "bea294fa-bf98-4230-a8d4-5eb792f18e19",
+        "type": "message",
+        "text": "May I go home (or leave office) earlier because my internal ghost is murmuring?",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618374360.154300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1618374530.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ygb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "May I go home (or leave office) earlier because my internal ghost is murmuring?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618372552.152200"
+    },
+    {
+        "client_msg_id": "52497599-c6d5-49c0-bdaf-61cd879ad57c",
+        "type": "message",
+        "text": "`May I go home (or leave office) earlier because my internal ghost is murmuring?`\nDeepL「内臓のおばけがつぶやいているので、早く帰ってもいいですか？」\n\n• 「whisper = ささやく」が出なかった。痛恨。一応 murmur, mutter 辺りは類義語ではある。\n• 「go home early = 早退する」は定型文なので earlier とはしない。了。\n• これは攻殻の決め台詞的な使い方なので、あえて because とはしない。\n• 同じく「私の中のゴースト」は my ghost （my internal ghost とする例は少ない。でも内臓のおばけはないわ…）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618374991.154600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1618375138.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "May I go home (or leave office) earlier because my internal ghost is murmuring?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「内臓のおばけがつぶやいているので、早く帰ってもいいですか？」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「whisper = ささやく」が出なかった。痛恨。一応 murmur, mutter 辺りは類義語ではある。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「go home early = 早退する」は定型文なので earlier とはしない。了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "これは攻殻の決め台詞的な使い方なので、あえて because とはしない。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "同じく「私の中のゴースト」は my ghost （my internal ghost とする例は少ない。でも内臓のおばけはないわ…）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618372943.154000",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "d87c6727-2677-4530-91b9-0848294e8eb9",
+        "type": "message",
+        "text": "Can I go home early? My ghost tells me to do so.",
+        "user": "U01EPKVACEN",
+        "ts": "1618375338.155000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "msZj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I go home early? My ghost tells me to do so."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618372552.152200"
+    },
+    {
+        "client_msg_id": "5e705149-8d54-4856-8c0e-8e6746eeb354",
+        "type": "message",
+        "text": "```Can I go home early? My ghost tells me to do so.```\n• 「ゴーストが囁いてる」なんて上司にまともに言うはずがないしCan Iでもいいか\n• is whispering: 例文のセリフを行っている最中もささやいているのかな?こういう時現在形にするか迷う。\n• to do soまで言うとくどいのかもしれない 。",
+        "user": "U01EPKVACEN",
+        "ts": "1618375864.155200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4pE",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I go home early? My ghost tells me to do so."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「ゴーストが囁いてる」なんて上司にまともに言うはずがないしCan Iでもいいか"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "is whispering: 例文のセリフを行っている最中もささやいているのかな?こういう時現在形にするか迷う。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "to do soまで言うとくどいのかもしれない 。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618372943.154000",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "e6b4a9ba-5d2f-4a09-a9a4-280b04f554e9",
+        "type": "message",
+        "text": "<@UKUKA65GU> inside に動詞の用法はないので which inside me は文としておかしい。the ghost inside me ならOK。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618377082.155600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6NTIY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " inside に動詞の用法はないので which inside me は文としておかしい。the ghost inside me ならOK。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618372943.154000",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "e1d31a6e-1e6d-4047-bb06-9b73ad135dcb",
+        "type": "message",
+        "text": "The goast in my heart said something, so can I get home early?",
+        "user": "UKH07E67M",
+        "ts": "1618381405.155800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ArB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The goast in my heart said something, so can I get home early?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618372552.152200"
+    },
+    {
+        "client_msg_id": "5ab0b23e-3e19-4d39-9998-15e3d7c6fcfe",
+        "type": "message",
+        "text": "`The goast in my heart said something, so can I get home early?`\n• ghostですかー\n• get home とgo homeは違うのか？→*get home*は、直訳すると「*home*を獲得する」つまり、家にすでに着いているという状態です。 一方、*go home*は、直訳すると「*home*に行く」つまり、家についているわけではなく、家に向かっているという状態です。→そーなのー\n• whisper忘れてたー。妖怪をっちが流行ったときにウィスパーっていうキャラの意味を調べたけど忘れてた\n• 私の中のとかガン無視でいいんだ\n• may Iとcan Iの違い\n→*Can I～?：家族や友人、親しい同僚に*\n　*May I～?：目上の人や、初対面の人に*\nなーる",
+        "user": "UKH07E67M",
+        "ts": "1618381710.156000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vyq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The goast in my heart said something, so can I get home early?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ghostですかー"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "get home とgo homeは違うのか？→"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "get home",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "は、直訳すると「"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "home",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "を獲得する」つまり、家にすでに着いているという状態です。 一方、"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "go home",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "は、直訳すると「"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "home",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "に行く」つまり、家についているわけではなく、家に向かっているという状態です。→そーなのー"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "whisper忘れてたー。妖怪をっちが流行ったときにウィスパーっていうキャラの意味を調べたけど忘れてた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "私の中のとかガン無視でいいんだ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "may Iとcan Iの違い"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "→"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Can I～?：家族や友人、親しい同僚に",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　May I～?：目上の人や、初対面の人に",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nなーる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618372943.154000",
+        "parent_user_id": "UKUKA65GU"
+    }
+]

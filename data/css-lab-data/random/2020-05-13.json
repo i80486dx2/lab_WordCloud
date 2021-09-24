@@ -1,0 +1,722 @@
+[
+    {
+        "client_msg_id": "59126a19-66d0-437e-a78e-f27a6c46e5a9",
+        "type": "message",
+        "text": "プロトタイプ完成しました。\n<https:\/\/note.com\/i80486dx2\/n\/n96b7c734670e>",
+        "user": "UPRE1RSJW",
+        "ts": "1589353484.015500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "note（ノート）",
+                "title": "コロナウイルスにITで立ち向かう！  ~Touchless Switchプロトタイプ完成~｜Beetle｜note",
+                "title_link": "https:\/\/note.com\/i80486dx2\/n\/n96b7c734670e",
+                "text": "はじめに この記事は、現在開催中のアイデアソン・ハッカソンの応募記事です。Touchless Switchプロトタイプが完成しましたので紹介していきたいと思います。Touchless Switchのアイデアや概要を紹介した記事はこちらです。 意識したこと 今まで私はたくさんのアイデアソン、ハッカソンに参加してきました。過去にはハッカソン当日に新しい技術を使ったり、開発タイムのほとんどをエラーと向き合う時間に潰したりしてきましたが、今回の作品は比較的実装が簡単な方でした。実際、今回のイベントで書いたコードは50行も満たない量です。ということで、今回の作品は実用性を意識して開発し",
+                "fallback": "note（ノート）: コロナウイルスにITで立ち向かう！  ~Touchless Switchプロトタイプ完成~｜Beetle｜note",
+                "image_url": "https:\/\/d2l930y2yx77uc.cloudfront.net\/production\/uploads\/images\/25441677\/rectangle_large_type_2_1b6c8e5567dcecef0b25badd8b0f49f3.png",
+                "from_url": "https:\/\/note.com\/i80486dx2\/n\/n96b7c734670e",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 4523283,
+                "service_icon": "https:\/\/d291vdycu0ht11.cloudfront.net\/nuxt\/static\/metaicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/note.com\/i80486dx2\/n\/n96b7c734670e"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7\/PYG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロトタイプ完成しました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/note.com\/i80486dx2\/n\/n96b7c734670e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587281695.006500",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "fries",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0f18bc5-8b82-496a-ba63-bcfc97e03922",
+        "type": "message",
+        "text": "<!channel> 天鳳何年も使ってなくてあまり覚えてないんですが、今もし時間あればここにアクセスしてみて！<https:\/\/tenhou.net\/0\/?6616>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1589364148.017000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+z=B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 天鳳何年も使ってなくてあまり覚えてないんですが、今もし時間あればここにアクセスしてみて！"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tenhou.net\/0\/?6616"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "reply_count": 13,
+        "reply_users_count": 2,
+        "latest_reply": "1589442498.020300",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1589364326.017600"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1589364376.017800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1589364416.018000"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1589364431.018300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1589364486.018500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1589364494.018700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1589364503.018900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1589365157.019100"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1589365221.019400"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1589365252.019600"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1589365275.019800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1589365286.020000"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1589442498.020300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1589442498.020300"
+    },
+    {
+        "client_msg_id": "91eff5e3-ad15-4657-8827-e4fcd219d512",
+        "type": "message",
+        "text": "おおお",
+        "user": "UKUKA65GU",
+        "ts": "1589364187.017200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おおお"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83be9fc4-4cc8-469f-a8ce-3a4f8b53e0fd",
+        "type": "message",
+        "text": "あぁ、卓で他の人が来るのを待つのはできないのかな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1589364326.017600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "53On",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あぁ、卓で他の人が来るのを待つのはできないのかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "2d0a16c4-cee4-4fca-8a05-5272bad922e9",
+        "type": "message",
+        "text": "今一応お試しで入りましたが、人が足りなくて始められなさそう…",
+        "user": "UKUKA65GU",
+        "ts": "1589364376.017800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCb0U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今一応お試しで入りましたが、人が足りなくて始められなさそう…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "9f6a7404-3dfa-427b-aca2-a3ce5fe83693",
+        "type": "message",
+        "text": "たぶん足りなくてもcomが埋めるからちょっと試してみない？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1589364416.018000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1589364424.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PM=d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "たぶん足りなくてもcomが埋めるからちょっと試してみない？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "d9b999cf-f656-4801-afc7-eae195617873",
+        "type": "message",
+        "text": "ぜひ！",
+        "user": "UKUKA65GU",
+        "ts": "1589364431.018300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTeC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ぜひ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "3bc15968-f1df-4c3a-afb7-ebd5cad460f6",
+        "type": "message",
+        "text": "<https:\/\/us02web.zoom.us\/j\/87022677867?pwd=WXc1QkZ4WGo2VnpyTUpnWW0vSGxQZz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1589364486.018500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b3Qg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/87022677867?pwd=WXc1QkZ4WGo2VnpyTUpnWW0vSGxQZz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "f87993ad-bd8d-4258-823e-4a6a18d2ad5a",
+        "type": "message",
+        "text": "ちょっとzoomでタイミング合わせよう",
+        "user": "UKS1Q2KTQ",
+        "ts": "1589364494.018700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q5K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっとzoomでタイミング合わせよう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "b709472e-e6f6-4ab7-af21-c580d6b83d14",
+        "type": "message",
+        "text": "<@UKUKA65GU>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1589364503.018900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EK9c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "1cc17010-e7b4-4dd9-846f-4ef1c43b320d",
+        "type": "message",
+        "text": "なるほど。サンキュー。今度4人でやろう。<@UKUKA65GU>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1589365157.019100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jm7hL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど。サンキュー。今度4人でやろう。"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d9f18a5-ba0e-4f03-9cc3-aaed27b5c3ff",
+        "type": "message",
+        "text": "今どきの麻雀アプリって、捨てるべき牌のアシストとか付いてるものとか自動ソート機能あるんですが",
+        "user": "UKUKA65GU",
+        "ts": "1589365221.019400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iTAL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今どきの麻雀アプリって、捨てるべき牌のアシストとか付いてるものとか自動ソート機能あるんですが"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "c9d2b185-f66d-4447-8b47-ff2512710669",
+        "type": "message",
+        "text": "天鳳は結構自分で色々いじれる人じゃないと最初の方はもしかしたら難しいかも…",
+        "user": "UKUKA65GU",
+        "ts": "1589365252.019600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UYQZY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "天鳳は結構自分で色々いじれる人じゃないと最初の方はもしかしたら難しいかも…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "19ecdedc-4272-486b-b3c9-6119435cbf69",
+        "type": "message",
+        "text": "実際に卓でやる感覚に近いのは天鳳ですね（卓でやったことないですが）",
+        "user": "UKUKA65GU",
+        "ts": "1589365275.019800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QWtG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "実際に卓でやる感覚に近いのは天鳳ですね（卓でやったことないですが）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "a52c890f-a73d-4016-b692-7d15d21a1091",
+        "type": "message",
+        "text": "牌のアシスト！？そんな軟弱な…。自動ソートっていうのは何してくれるの？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1589365286.020000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1589365315.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "牌のアシスト！？そんな軟弱な…。自動ソートっていうのは何してくれるの？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589364148.017000",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

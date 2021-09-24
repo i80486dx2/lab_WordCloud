@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "a6523672-d0ed-488e-b866-f8684972a548",
+        "type": "message",
+        "text": "geopandasとshapelyで逆ジオコーディングが出来るの素晴らしい。GCPのGeocoding APIを使わなくて良いから請求の心配はなくなりそう。",
+        "user": "UPRE1RSJW",
+        "ts": "1628906726.025300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x7E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "geopandasとshapelyで逆ジオコーディングが出来るの素晴らしい。GCPのGeocoding APIを使わなくて良いから請求の心配はなくなりそう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628906726.025300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1628924417.025600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1628923776.025400"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1628924417.025600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1628924417.025600"
+    },
+    {
+        "client_msg_id": "2554fbab-8164-41e9-acb8-1c1dc1b546fa",
+        "type": "message",
+        "text": "この場合、shapely は何をしてくれるの？（shapelyに座標変換系はなかった気がするけど）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628923776.025400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "arOx8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この場合、shapely は何をしてくれるの？（shapelyに座標変換系はなかった気がするけど）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628906726.025300",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "client_msg_id": "7556eec3-1a8a-41ed-98cb-6b38e7ce1d8a",
+        "type": "message",
+        "text": "コロナで発送が遅れてたけどようやく到着するみたい！\n<http:\/\/tracking.luxonis.com\/781880838707>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1609664908.008300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Track order status - Luxonis - 781880838707",
+                "title_link": "http:\/\/tracking.luxonis.com\/781880838707",
+                "text": "Track delivery status of your packages. Powered by AfterShip.",
+                "fallback": "Track order status - Luxonis - 781880838707",
+                "from_url": "http:\/\/tracking.luxonis.com\/781880838707",
+                "service_name": "tracking.luxonis.com",
+                "id": 1,
+                "original_url": "http:\/\/tracking.luxonis.com\/781880838707"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fv4X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コロナで発送が遅れてたけどようやく到着するみたい！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/tracking.luxonis.com\/781880838707"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596162479.011200",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43e88c41-7dc5-41ee-aa79-b2f5603f6e0a",
+        "type": "message",
+        "text": "カメラ付きモジュールのこれ（OAK-1＋OAK-Dセット）届きました。思ったより作りがしっかりしていて高級感？あるw 興味がある人は遊んでください。\n<https:\/\/store.opencv.ai\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1609730590.009900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "OpenCV.AI",
+                "title": "OPENCV.AI HARDWARE STORE",
+                "title_link": "https:\/\/store.opencv.ai\/",
+                "text": "<http:\/\/OPENCV.AI|OPENCV.AI> HARDWARE STORE",
+                "fallback": "OpenCV.AI: OPENCV.AI HARDWARE STORE",
+                "thumb_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0494\/8020\/4455\/files\/Frame_59_9e5edb98-50ea-41ce-950b-5aab85804def_1024x.jpg?v=1606459105",
+                "from_url": "https:\/\/store.opencv.ai\/",
+                "thumb_width": 1024,
+                "thumb_height": 536,
+                "service_icon": "http:\/\/cdn.shopify.com\/s\/files\/1\/0494\/8020\/4455\/files\/6e713e6f8a121333a004147b1c9bcbb7_32x32.png?v=1602773554",
+                "id": 1,
+                "original_url": "https:\/\/store.opencv.ai\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gxW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カメラ付きモジュールのこれ（OAK-1＋OAK-Dセット）届きました。思ったより作りがしっかりしていて高級感？あるw 興味がある人は遊んでください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/store.opencv.ai\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96e72ff7-4799-4930-8620-cd86854d803a",
+        "type": "message",
+        "text": "これを2個注文しました。\n<https:\/\/www.amazon.co.jp\/dp\/B01M4FMS8I\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1609736986.010300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "[山善] 遠赤外線カーボンヒーター(900W\/450W 2段階切替) 自動首振り機能付 ホワイト DC-S097(W) [メーカー保証1年]",
+                "title_link": "https:\/\/www.amazon.co.jp\/dp\/B01M4FMS8I\/",
+                "text": "[山善] 遠赤外線カーボンヒーター(900W\/450W 2段階切替) 自動首振り機能付 ホワイト DC-S097(W) [メーカー保証1年]",
+                "fallback": "[山善] 遠赤外線カーボンヒーター(900W\/450W 2段階切替) 自動首振り機能付 ホワイト DC-S097(W) [メーカー保証1年]",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/41D7ufl6dnL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA950%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/dp\/B01M4FMS8I\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 66310,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/dp\/B01M4FMS8I\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RIWz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これを2個注文しました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/dp\/B01M4FMS8I\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01EVRBP38C",
+                    "UPSPAP97D",
+                    "U01EL0SAUTF",
+                    "UKUKA65GU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01EVRBP38C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

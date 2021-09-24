@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*OUTSIDER* has removed themselves from this channel.",
+        "ts": "1625638780.026400",
+        "user": "USLACKBOT",
+        "username": "slackbot",
+        "team": "TKS1Q2JUE"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> セキュリティ分野ですが、NICT主催の長期ハッカソンのご案内をします。UBICの由本先生から情報共有いただいたものです。由本先生は総務省から人事交流で赴任されている先生なので書類関連のサポートも受け付けております。",
+        "files": [
+            {
+                "id": "FQB5325QS",
+                "created": 1574148004,
+                "timestamp": 1574148004,
+                "name": "191005_SecHach365概要説明会（NICT）.pdf",
+                "title": "191005_SecHach365概要説明会（NICT）.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 5362858,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FQB5325QS\/191005_sechach365__________________nict___.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FQB5325QS\/download\/191005_sechach365__________________nict___.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FQB5325QS-83485f3c46\/191005_sechach365__________________nict____thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1287,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/FQB5325QS\/191005_sechach365__________________nict___.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-FQB5325QS-4243020201",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UPSPAMY7M",
+        "display_as_bot": false,
+        "ts": "1574148005.000400",
+        "client_msg_id": "7ae37a26-ce18-4692-9f0a-bb81f53a45c4"
+    }
+]

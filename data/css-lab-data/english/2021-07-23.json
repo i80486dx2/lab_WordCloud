@@ -1,0 +1,991 @@
+[
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "血で飛ぶんだって（キキ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1627054378.361300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1627054378.361300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1627143012.366100",
+        "reply_users": [
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1627104609.362300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627111112.364900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627143012.366100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627143012.366100"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：血で飛ぶんだって",
+        "user": "U01UMQH4W4B",
+        "ts": "1627054378.361400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1627054378.361400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1627111557.365100",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1627054378.361500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1627104808.362500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627111557.365100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "We fly with our spirit.",
+        "user": "U01UMQH4W4B",
+        "ts": "1627054378.361500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1627054378.361400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "ed208679-9369-4217-8993-8c56a9e81a86",
+        "type": "message",
+        "text": "newly hired nurse, kristy, can throw bottle for pee at 160km\/h.",
+        "user": "U01F42ZFA73",
+        "ts": "1627098411.361700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3400I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "newly hired nurse, kristy, can throw bottle for pee at 160km\/h."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621691957.031600"
+    },
+    {
+        "client_msg_id": "78e21867-bff4-4ea0-8d57-0dcf4b3450c3",
+        "type": "message",
+        "text": "Since I want not to lie to myself, would I go back home early?",
+        "user": "U01F42ZFA73",
+        "ts": "1627099338.361900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Since I want not to lie to myself, would I go back home early?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621567441.019000"
+    },
+    {
+        "client_msg_id": "67430e38-0b10-49a5-b536-4d843039ae60",
+        "type": "message",
+        "text": "`Since I want not to lie to myself, Would I go back home early?`\nDeepL:自分に嘘をつきたくないので、早く家に帰ってもいいですか？\n• Can I ～？ ～してもいい？（友達どうしでの会話） \n• May I ～？ ～させていただいてもよろしいでしょうか？（へりくだった言い方） \n• Would I ～？ ～しても差し支えありませんでしょうか？（ていねいな言い方） \n• Should I ～？ ～するべきでしょうか？（義務かどうか聞く）\n• go back homeだと実家に帰る、go homeだと自宅に帰るの意味になるらしい",
+        "user": "U01F42ZFA73",
+        "ts": "1627100846.362100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFw\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Since I want not to lie to myself, Would I go back home early?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL:自分に嘘をつきたくないので、早く家に帰ってもいいですか？\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Can I ～？ ～してもいい？（友達どうしでの会話） "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "May I ～？ ～させていただいてもよろしいでしょうか？（へりくだった言い方） "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Would I ～？ ～しても差し支えありませんでしょうか？（ていねいな言い方） "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Should I ～？ ～するべきでしょうか？（義務かどうか聞く）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "go back homeだと実家に帰る、go homeだと自宅に帰るの意味になるらしい"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621569005.019800",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "079a12a2-e720-4599-ac3c-da48712e96b4",
+        "type": "message",
+        "text": "The method of flying is by our blood.",
+        "user": "UKH07E67M",
+        "ts": "1627104609.362300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KKF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The method of flying is by our blood."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627054378.361300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "aa485f55-a1ae-4e2b-b495-39bd368f0087",
+        "type": "message",
+        "text": "`The method of flying is by our blood.`\n飛び方は、私たちの血によるものです。\n• <https:\/\/karin-zakki.com\/majotaku-chidetobu-911>\n• 自分の描きたかったことが表現できなかった結果こうなった\n• せめて「血によって私たちは飛べる」にすべきだった。 ",
+        "user": "UKH07E67M",
+        "ts": "1627104808.362500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "花凛雑記 | 気になった映画やアニメなど、トレンドを取り上げています。",
+                "title": "魔女の宅急便「魔女の血で飛ぶ」台詞の意味とは？ウルスラの名言についても | 花凛雑記",
+                "title_link": "https:\/\/karin-zakki.com\/majotaku-chidetobu-911",
+                "text": "魔女の宅急便でキキとウルスラの会話の中で出てくる「魔女は血で飛ぶ」という印象的な台詞がありますが、この意味とは何でしょうか？他にもウルスラの名言についてまとめました！",
+                "fallback": "花凛雑記 | 気になった映画やアニメなど、トレンドを取り上げています。: 魔女の宅急便「魔女の血で飛ぶ」台詞の意味とは？ウルスラの名言についても | 花凛雑記",
+                "thumb_url": "https:\/\/karin-zakki.com\/wp-content\/themes\/cocoon-master\/screenshot.jpg",
+                "ts": 1585055874,
+                "from_url": "https:\/\/karin-zakki.com\/majotaku-chidetobu-911",
+                "thumb_width": 880,
+                "thumb_height": 660,
+                "service_icon": "https:\/\/karin-zakki.com\/wp-content\/themes\/cocoon-master\/images\/site-icon180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/karin-zakki.com\/majotaku-chidetobu-911"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9pnvh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The method of flying is by our blood.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n飛び方は、私たちの血によるものです。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/karin-zakki.com\/majotaku-chidetobu-911"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "自分の描きたかったことが表現できなかった結果こうなった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "せめて「血によって私たちは飛べる」にすべきだった。 "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627054378.361400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7004e44a-553c-4160-913a-852bdfa69c53",
+        "type": "message",
+        "text": "I go around, see a scenery, sleep in afternoon, do noting.",
+        "user": "UPSPAP97D",
+        "ts": "1627106137.362800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i8Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I go around, see a scenery, sleep in afternoon, do noting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626795177.350100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "fd3eee02-dea2-4b2b-993b-3df7a3af04dc",
+        "type": "message",
+        "text": "`I go around, see a scenery, sleep in afternoon, do noting.`\nDeepL「あちこち行って、景色を見て、午後は寝て、記帳をする。」\n\n• 「散歩する」は『take a walk』\n• 『doze off』で「うたた寝する、うとうとする」(新単語！)。\n• 『nap』「仮眠、昼寝」。覚えてなかった。\n• 『in afternoon』だと「午後ずっと寝てる感」が出るので『at』？\n• 『nothing』、タイポしてた。",
+        "user": "UPSPAP97D",
+        "ts": "1627106645.363000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3DQk9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I go around, see a scenery, sleep in afternoon, do noting.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「あちこち行って、景色を見て、午後は寝て、記帳をする。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「散歩する」は『take a walk』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『doze off』で「うたた寝する、うとうとする」(新単語！)。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『nap』「仮眠、昼寝」。覚えてなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『in afternoon』だと「午後ずっと寝てる感」が出るので『at』？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『nothing』、タイポしてた。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626795178.350200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "bb303d40-1cbd-4c07-92c5-f795e8e12c65",
+        "type": "message",
+        "text": "When the leader said “The person who arrived last on the conference room is a documentation writer!“, all personnels have run in a road on same time.",
+        "user": "UPSPAP97D",
+        "ts": "1627107175.363200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Tlc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When the leader said “The person who arrived last on the conference room is a documentation writer!“, all personnels have run in a road on same time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626837283.350500"
+    },
+    {
+        "client_msg_id": "6df516da-ec71-4763-a57f-d28b7918143d",
+        "type": "message",
+        "text": "`When the leader said \"The person who arrived last on the conference room is a documentation writer!\", all personnels have run in a road on same time.` \nDeepL「会議室に一番最後に来た人は文書作成者だ！」というリーダーの一言で、全員が一斉に道路を走った。」\n\n• 『arrive in』で「(空間があるもの)に到着する、(時間が広いもの)で到着する」。今回は『in』が良かった。\n• 『personnel』は不加算。\n• 道に接して走るので『run on 〜』が良かった。\n• 「廊下」は『corridor』\n• 『the moment (that)』で「〜の途端に」「〜したらすぐ」。知らなかった。\n• 「役員」は『board member』\n• 『“(発言)” 人 say\/speak』のようにできる。忘れていた。",
+        "user": "UPSPAP97D",
+        "ts": "1627108403.363400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0y8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When the leader said \"The person who arrived last on the conference room is a documentation writer!\", all personnels have run in a road on same time. ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「会議室に一番最後に来た人は文書作成者だ！」というリーダーの一言で、全員が一斉に道路を走った。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『arrive in』で「(空間があるもの)に到着する、(時間が広いもの)で到着する」。今回は『in』が良かった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『personnel』は不加算。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "道に接して走るので『run on 〜』が良かった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「廊下」は『corridor』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『the moment (that)』で「〜の途端に」「〜したらすぐ」。知らなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「役員」は『board member』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『“(発言)” 人 say\/speak』のようにできる。忘れていた。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626850626.351000",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "d0a42cae-7a51-45ef-9c5d-610e5c5fc435",
+        "type": "message",
+        "text": "Smile! The first impression is important.",
+        "user": "UPSPAP97D",
+        "ts": "1627108537.363600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U4eez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Smile! The first impression is important."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626881577.355800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "41e19698-90e0-4b37-a7ef-f1c7fb688b3e",
+        "type": "message",
+        "text": "`Smile! The first impression is important.`\nDeepL「Smile! 第一印象は大切です。」\n\n• 『the』を付けると、今回の印象のみ大切感が生まれそうなのでダメ。",
+        "user": "UPSPAP97D",
+        "ts": "1627108741.363800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0FRx4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Smile! The first impression is important.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「Smile! 第一印象は大切です。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『the』を付けると、今回の印象のみ大切感が生まれそうなのでダメ。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626881577.355900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "1920d956-9e7a-43c0-88af-56d1065860e5",
+        "type": "message",
+        "text": "Can you remember when I illed?",
+        "user": "UPSPAP97D",
+        "ts": "1627109079.364000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iMzh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you remember when I illed?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626967977.358800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "95ae6648-75f7-43e6-950b-50d2d116a443",
+        "type": "message",
+        "text": "`Can you remember when I illed?`\nDeepL「私が殺した時のことを覚えていますか？」\n\n• 『lied』ド忘れした。（DeepL は 『killed』だと予想したらしい）\n• 『lie to 人』で「〜に嘘をつく」。『lie 人 into』で「(人)を欺いて〜させる」(自動詞的な使い方、他動詞の使い方とごっちゃになりそう)\n• 自分主語の疑問文はなかなか出てこない…",
+        "user": "UPSPAP97D",
+        "ts": "1627109591.364200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wS\/+J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you remember when I illed?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「私が殺した時のことを覚えていますか？」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『lied』ド忘れした。（DeepL は 『killed』だと予想したらしい）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『lie to 人』で「〜に嘘をつく」。『lie 人 into』で「(人)を欺いて〜させる」(自動詞的な使い方、他動詞の使い方とごっちゃになりそう)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "自分主語の疑問文はなかなか出てこない…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626967978.358900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "543763de-244e-468c-82be-7fe3b75caf83",
+        "type": "message",
+        "text": "“Which is one you dropped in the lake Pole Chocolate or Corn Chocolate?”\n“Pole Chocolate”\n“I don’t meet your fancy. Please go away.”",
+        "user": "UPSPAP97D",
+        "ts": "1627109965.364400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0BG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“Which is one you dropped in the lake Pole Chocolate or Corn Chocolate?”\n“Pole Chocolate”\n“I don’t meet your fancy. Please go away.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627006515.359200"
+    }
+]

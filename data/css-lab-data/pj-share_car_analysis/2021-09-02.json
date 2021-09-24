@@ -1,0 +1,330 @@
+[
+    {
+        "type": "message",
+        "text": "YOLO V5でフロントカメラの物体検出をした時のオブジェクト数とアクセル操作の立ち上がりの回数を30秒区切りでカウントしたグラフです。YOLO V5でフロントカメラの物体検出を行った時のサンプル映像を置いておきます。\n<https:\/\/www.dropbox.com\/s\/fh574k6m9r5rl53\/FrontCAM_5480_003.mp4?dl=0>",
+        "files": [
+            {
+                "id": "F02CT6NJ23H",
+                "created": 1630596238,
+                "timestamp": 1630596238,
+                "name": "window30_user1.png",
+                "title": "window30_user1.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 84278,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CT6NJ23H\/window30_user1.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CT6NJ23H\/download\/window30_user1.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NJ23H-4f87522af8\/window30_user1_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NJ23H-4f87522af8\/window30_user1_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NJ23H-4f87522af8\/window30_user1_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NJ23H-4f87522af8\/window30_user1_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NJ23H-4f87522af8\/window30_user1_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NJ23H-4f87522af8\/window30_user1_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NJ23H-4f87522af8\/window30_user1_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "original_w": 864,
+                "original_h": 864,
+                "thumb_tiny": "AwAwADDOijaWQIgyx6VY\/s65\/uD\/AL6FJp3\/AB+x\/j\/I1uA0AYn9nXP9wf8AfQo\/s65\/uD\/voVtk4pRQBh\/2dc\/88x\/30KhmgkgYLIMEjPWuirI1f\/j4T\/d\/rQBDp3\/H9H+P8q3B0FYenf8AH9H+P8q3M80gEPelBpDyaTsaAH1kav8A8fCf7v8AWtY9qydX\/wBen+7\/AFpgQ6d\/x+x\/j\/I1t4rnY5GicOhww6Gp\/wC0Lr\/np\/46KANzFGBWH\/aF1\/z0\/wDHRR\/aF1\/z0\/8AHRQBuGsnVv8AXx\/7n9ah\/tC5\/wCen\/joqKaaSdg0jbiBjpQB\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F02CT6NJ23H\/window30_user1.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02CT6NJ23H-9f1ff1800e",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02CT6NT3HV",
+                "created": 1630596242,
+                "timestamp": 1630596242,
+                "name": "window30_user3.png",
+                "title": "window30_user3.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 66225,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CT6NT3HV\/window30_user3.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CT6NT3HV\/download\/window30_user3.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NT3HV-bc2155ed85\/window30_user3_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NT3HV-bc2155ed85\/window30_user3_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NT3HV-bc2155ed85\/window30_user3_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NT3HV-bc2155ed85\/window30_user3_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NT3HV-bc2155ed85\/window30_user3_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NT3HV-bc2155ed85\/window30_user3_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CT6NT3HV-bc2155ed85\/window30_user3_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "original_w": 864,
+                "original_h": 864,
+                "thumb_tiny": "AwAwADDOijaWQIgyx6VY\/s65\/uD\/AL6FJp3\/AB+x\/j\/I1uA0AYn9nXP9wf8AfQo\/s65\/uD\/voVuUUAYf9nXP\/PMf99CoZoJIGCyDBIz1roqyNX\/4+E\/3f60AQ6d\/x\/R\/j\/Ktw9RWHp3\/AB\/R\/j\/Ktw9qAFPSimnsaO5pAOrI1f8A4+E\/3f61rDrWTq\/\/AB8J\/u\/1pgQ6d\/x\/R\/j\/ACrcIziucjkaJw6HDDoan\/tC6\/56f+OigDbIox71if2hdf8APT\/x0Uf2hdf89P8Ax0UAbYrK1f8A4+E\/3f61D\/aFz\/z0\/wDHRUU00k7BpG3EDHSgD\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F02CT6NT3HV\/window30_user3.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02CT6NT3HV-6140ed257d",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02DE4M5ER2",
+                "created": 1630596244,
+                "timestamp": 1630596244,
+                "name": "window30_user6.png",
+                "title": "window30_user6.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 103678,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02DE4M5ER2\/window30_user6.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02DE4M5ER2\/download\/window30_user6.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DE4M5ER2-44189d457c\/window30_user6_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DE4M5ER2-44189d457c\/window30_user6_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DE4M5ER2-44189d457c\/window30_user6_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DE4M5ER2-44189d457c\/window30_user6_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DE4M5ER2-44189d457c\/window30_user6_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DE4M5ER2-44189d457c\/window30_user6_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DE4M5ER2-44189d457c\/window30_user6_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "original_w": 864,
+                "original_h": 864,
+                "thumb_tiny": "AwAwADDOijaWQIgyx6VY\/s65\/uD\/AL6FJp3\/AB\/R\/j\/Kt2gDD\/s65\/uD\/voUf2dc\/wBwf99CtwHNHegDD\/s65\/uD\/voVDNBJAwWQYJGetdD3rJ1f\/j4T\/d\/rQBDp3\/H9H+P8q3M1h6f\/AMfsf4\/yNbOaAHA8il700evvR3NK4xc5JrK1f\/j4T\/d\/rWmOG\/GszV\/9en+7\/WhCIdO\/4\/Y\/x\/ka2gvHNc9HI0Th0OGHQ1P\/AGhc\/wDPT\/x0UwNojAwKTk4\/Ksb+0Lr\/AJ6f+Oij+0Lr\/np\/46KVgNojj6Vl6v8A69P9z+tQ\/wBoXX\/PT\/x0VFNNJOwaRtxAx0pgf\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F02DE4M5ER2\/window30_user6.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02DE4M5ER2-996f3f485a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uSvT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YOLO V5でフロントカメラの物体検出をした時のオブジェクト数とアクセル操作の立ち上がりの回数を30秒区切りでカウントしたグラフです。YOLO V5でフロントカメラの物体検出を行った時のサンプル映像を置いておきます。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/fh574k6m9r5rl53\/FrontCAM_5480_003.mp4?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1630596326.008700",
+        "thread_ts": "1630596326.008700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1630637325.010800",
+        "reply_users": [
+            "UPSPAMY7M",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1630633595.009600"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1630634114.010600"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1630637325.010800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU",
+                    "UPSPAMY7M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2814574e-4386-4a42-a167-01e1e55b2d8b",
+        "type": "message",
+        "text": "共有ありがとうございます。\n今日のアルパインとの打ち合わせメモです\n9\/2 アルパイン打ち合わせメモ\n・足元カメラのAI認識について上手い人ほどペダリングをためらうのか知りたい\n・事故った人と比べてどうか\n・ためらう人ほど上手くて、ためらわない人ほど事故る?\n・ためらいは事前操作？CAN的には踏んで無いけど事前操作\n・モードごとに調べるなど\n・ブレーキを踏む位置、ペダルのゴムの減り具合で運転の嗜好が見える（車屋曰く）\n・上手い人下手な人が見えるといい。運転をよくする方法など。\n・頭部回転量とオブジェクト数に関係ある？\n・頭部回転量が少ないのにオブジェクト数が多い区間はディーラーの横を通った時など？",
+        "user": "UPSPAMY7M",
+        "ts": "1630633595.009600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ljXKw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "共有ありがとうございます。\n今日のアルパインとの打ち合わせメモです\n9\/2 アルパイン打ち合わせメモ\n・足元カメラのAI認識について上手い人ほどペダリングをためらうのか知りたい\n・事故った人と比べてどうか\n・ためらう人ほど上手くて、ためらわない人ほど事故る?\n・ためらいは事前操作？CAN的には踏んで無いけど事前操作\n・モードごとに調べるなど\n・ブレーキを踏む位置、ペダルのゴムの減り具合で運転の嗜好が見える（車屋曰く）\n・上手い人下手な人が見えるといい。運転をよくする方法など。\n・頭部回転量とオブジェクト数に関係ある？\n・頭部回転量が少ないのにオブジェクト数が多い区間はディーラーの横を通った時など？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630596326.008700",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "B7A50355-608C-4CE6-A3EF-78813316D4FE",
+        "type": "message",
+        "text": "「モードごとに調べる」のモードって何ですか？",
+        "user": "UPRE1RSJW",
+        "ts": "1630634114.010600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EAHWC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「モードごとに調べる」のモードって何ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630596326.008700",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "4675eb06-5d01-4e26-84a3-c4c21161349c",
+        "type": "message",
+        "text": "意味合いといては\n・上り坂or下り坂\n・街中\n・高速道路\nなどの道路と運転の性質分類的なものです",
+        "user": "UPSPAMY7M",
+        "ts": "1630637325.010800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VBU4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "意味合いといては\n・上り坂or下り坂\n・街中\n・高速道路\nなどの道路と運転の性質分類的なものです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630596326.008700",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

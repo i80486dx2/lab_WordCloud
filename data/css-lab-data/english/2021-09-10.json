@@ -1,0 +1,768 @@
+[
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "失せろ。我が牙が届かぬうちに（山犬\/もののけ姫）",
+        "user": "U01UMQH4W4B",
+        "ts": "1631287977.046600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1631287977.046600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1631352056.049200",
+        "reply_users": [
+            "U01F42ZFA73",
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1631331105.047000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1631340617.048700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1631352056.049200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631352056.049200"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：失せろ。我が牙が届かぬうちに",
+        "user": "U01UMQH4W4B",
+        "ts": "1631287978.046700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1631287978.046700",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1631352327.049400",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "U01F42ZFA73",
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1631287978.046800"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1631331441.047200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1631340693.048900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1631352327.049400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631352327.049400"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Begone. Lest my fangs reach you…",
+        "user": "U01UMQH4W4B",
+        "ts": "1631287978.046800",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1631287978.046700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e0795c51-f124-4d94-bf79-936c982fe59d",
+        "type": "message",
+        "text": "leave here. my fang will reach to you.",
+        "user": "U01F42ZFA73",
+        "ts": "1631331105.047000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LbN9+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "leave here. my fang will reach to you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631287977.046600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "28753696-75f1-4681-9db3-d288a5783cb4",
+        "type": "message",
+        "text": "`leave here. my fang reach to you.`\nDeepL: ここを離れる。私の牙はあなたに届きます。\n• Begone==立ち去れ\n• ex) tell him to begone at once\n• lest==~しないように\n• ex) He ran away. lest he be caught. ",
+        "user": "U01F42ZFA73",
+        "ts": "1631331441.047200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "brn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "leave here. my fang reach to you.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: ここを離れる。私の牙はあなたに届きます。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Begone==立ち去れ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) tell him to begone at once"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "lest==~しないように"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) He ran away. lest he be caught. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631287978.046700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "4fe796bc-e969-4c33-86cc-9d4057a47cfd",
+        "type": "message",
+        "text": "to leave here is also brave. head your forest.",
+        "user": "U01F42ZFA73",
+        "ts": "1631331860.047400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QTvB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to leave here is also brave. head your forest."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630078377.007800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "d64cab49-60f9-4d88-89f3-54247eecae5d",
+        "type": "message",
+        "text": "`to leave here is also brave. head your forest.`\nDeepL: ここを離れるのも勇気がいる。あなたの森に向かって。\n• retreat==撤退する\n• ex) the troops started to retreat from the enemy country.\n• おそらく、離れること＝勇敢である状態ではない。\n• 離れること＝勇敢である概念だという意味かな？",
+        "user": "U01F42ZFA73",
+        "ts": "1631332028.047600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1631332113.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4t=v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to leave here is also brave. head your forest.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: ここを離れるのも勇気がいる。あなたの森に向かって。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "retreat==撤退する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) the troops started to retreat from the enemy country."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "おそらく、離れること＝勇敢である状態ではない。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "離れること＝勇敢である概念だという意味かな？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630078379.007900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "152b7d4d-4c75-4082-9497-bcce8aa10b0f",
+        "type": "message",
+        "text": "eventually, north wind and sun could not let the boy youtuber go to school.",
+        "user": "U01F42ZFA73",
+        "ts": "1631332354.047900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nm+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eventually, north wind and sun could not let the boy youtuber go to school."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618802265.193300"
+    },
+    {
+        "client_msg_id": "2b23d682-f3d4-428c-bcc3-1d1542dd250b",
+        "type": "message",
+        "text": "`eventually, north wind and sun could not let the boy youtuber go to school.`\nDeepL: 結局、北風と太陽が少年youtuberを学校に行かせることはできなかった。\n•  make(強制)&gt;have（義務）&gt;let（許可）の順で強制度が違う\n• ex) when I was a child, my mother didn't let me watch that show.\n• ex2) The teacher made hime write an essay as punishment for his bad behavior.\n• ex3) I'll have my secretary make a copy of the document later.\n• in the end==結局は\n• ex) you will succeed in the end.",
+        "user": "U01F42ZFA73",
+        "ts": "1631333142.048100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f8+GX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eventually, north wind and sun could not let the boy youtuber go to school.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 結局、北風と太陽が少年youtuberを学校に行かせることはできなかった。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " make(強制)>have（義務）>let（許可）の順で強制度が違う"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) when I was a child, my mother didn't let me watch that show."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex2) The teacher made hime write an essay as punishment for his bad behavior."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex3) I'll have my secretary make a copy of the document later."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "in the end==結局は"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) you will succeed in the end."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618803918.194900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "b23a8ec2-84d7-4249-87de-d4673ce7ed09",
+        "type": "message",
+        "text": "I don't know what happened to her, but she's gotten girlier indeed.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631340323.048300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3oc5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know what happened to her, but she's gotten girlier indeed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631201577.044300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "2d54fd7f-9af4-4047-b7d0-c1815343a31a",
+        "type": "message",
+        "text": "`I don't know what happened to her, but she's gotten girlier indeed.`\nDeepL：何があったのかは知りませんが、さすがに女の子らしくなりましたね。\n\n• who knows 構文\n• sure には副詞の使い方があるのか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631340463.048500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oHT6h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know what happened to her, but she's gotten girlier indeed.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：何があったのかは知りませんが、さすがに女の子らしくなりましたね。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "who knows 構文"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "sure には副詞の使い方があるのか。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631201577.044400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b5379d2b-2fed-41cd-8535-24d36fe20f28",
+        "type": "message",
+        "text": "Leave here while my fangs don't get you.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631340617.048700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFo7k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Leave here while my fangs don't get you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631287977.046600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7980e917-8776-4876-bf62-0470a584216e",
+        "type": "message",
+        "text": "`Leave here while my fangs don't get you.`\nDeepL：私の牙にかからないうちに、ここを離れなさい。\n\n• 「立ち去れ」という命令形に特化した古語 begone\n• 「lest ... = ... しないように」初見。in case に近いか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631340693.048900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1631340781.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Leave here while my fangs don't get you.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：私の牙にかからないうちに、ここを離れなさい。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「立ち去れ」という命令形に特化した古語 begone"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「lest ... = ... しないように」初見。in case に近いか。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631287978.046700",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

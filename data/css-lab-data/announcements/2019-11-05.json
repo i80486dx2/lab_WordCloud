@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "0de3122c-4723-4eeb-aebd-5b062943d48a",
+        "type": "message",
+        "text": "<!channel> 畠先生、二年生の新メンバーの皆さん、実際の配属はまだ先ですが、一度顔合わせしませんか。\n<http:\/\/chosuke.rumix.jp\/main.aspx?g=1e17e9d2101e187846>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1573024841.001300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573024841.001300",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1573106267.005500",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKUKA65GU",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1573025187.001400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1573031608.003800"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1573033473.004500"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1573044628.005000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1573047417.005300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1573106267.005500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1573106267.005500",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UQ47R82RW",
+                    "UPSPAMY7M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a359483-c961-463f-aec6-a78b1c0b981a",
+        "type": "message",
+        "text": "場所は346A、時間は30分くらい。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1573025187.001400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573024841.001300",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

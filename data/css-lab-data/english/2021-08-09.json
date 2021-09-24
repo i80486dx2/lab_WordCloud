@@ -1,0 +1,1408 @@
+[
+    {
+        "client_msg_id": "6e0b52dd-881e-4694-a1df-4a41d63ccbd4",
+        "type": "message",
+        "text": "The stone has a special power! Incredible!",
+        "user": "UKH07E67M",
+        "ts": "1628504328.024200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YAS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The stone has a special power! Incredible!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628350377.012700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "521a30c6-81c1-459a-8310-bdb59f033893",
+        "type": "message",
+        "text": "`The stone has a special power! Incredible!`\nこの石には特別な力があります。信じられない!\n• やっぱりがわからなかった。「私の考えは間違っていなかった」で代用しようと考えたが、「すごいや！」が自分は間違っていなかったことにかかる気がしたため無くしrた\n• after all 結局、要するに　副詞 \n• 例文には力関連一切書いていないが、「原因は石だったんだ！」とだけいう場面ということを考えれば納得（日本語らしい主語を省く文だけど、英語にも日本語ほどではないが主語を省くことはあるらしい。それの例が<https:\/\/www.youtube.com\/watch?v=rfAp7SEC2D0>　の終盤にも少しだけわかる。形式的な文ばかりではないって理解したい）",
+        "user": "UKH07E67M",
+        "ts": "1628504733.024400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "英会話のコツ：奇跡の応用 (文＋αを付け足す)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=rfAp7SEC2D0",
+                "author_name": "ニック式英会話",
+                "author_link": "https:\/\/www.youtube.com\/c\/ニック式英会話",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/rfAp7SEC2D0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 英会話のコツ：奇跡の応用 (文＋αを付け足す)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/rfAp7SEC2D0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=rfAp7SEC2D0",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=rfAp7SEC2D0"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A4Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The stone has a special power! Incredible!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの石には特別な力があります。信じられない!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "やっぱりがわからなかった。「私の考えは間違っていなかった」で代用しようと考えたが、「すごいや！」が自分は間違っていなかったことにかかる気がしたため無くしrた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "after all 結局、要するに　副詞 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "例文には力関連一切書いていないが、「原因は石だったんだ！」とだけいう場面ということを考えれば納得（日本語らしい主語を省く文だけど、英語にも日本語ほどではないが主語を省くことはあるらしい。それの例が"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/watch?v=rfAp7SEC2D0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "　の終盤にも少しだけわかる。形式的な文ばかりではないって理解したい）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628350377.012800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "2a4358c9-1be0-46d3-9ef9-b3043f0f47c1",
+        "type": "message",
+        "text": "Gunma prefecture has the counter power with a lot of spires that were made by bamboos.",
+        "user": "UKH07E67M",
+        "ts": "1628505295.024700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tbi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gunma prefecture has the counter power with a lot of spires that were made by bamboos."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628390786.013900"
+    },
+    {
+        "client_msg_id": "523c8fc4-2b6f-4101-98a8-4b7d7dc125c3",
+        "type": "message",
+        "text": "`Gunma prefecture has the counter power with a lot of spires that were made by bamboos.`\n群馬県は、竹で作られた尖塔が多く、カウンターパワーがあります。\n• *spire* 名\n1. 《建築》尖塔\n2. 《植物》〔木や葉のとがった〕先端部\n• spear 槍\n`Gunma prefecture has the counter power with a lot of spears that were made by bamboos.`\n群馬県は、竹で作られた槍をたくさん持っていて対抗力があります。\n• マシにはなった\n• possess使うこと覚えてたけど思い出せなかった\n• a massive number of たくさんよりも上かぁ\n• deterrent 抑止力",
+        "user": "UKH07E67M",
+        "ts": "1628505748.024900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07PM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gunma prefecture has the counter power with a lot of spires that were made by bamboos.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n群馬県は、竹で作られた尖塔が多く、カウンターパワーがあります。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "spire ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "名"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "《建築》尖塔"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "《植物》〔木や葉のとがった〕先端部"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "spear 槍"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gunma prefecture has the counter power with a lot of spears that were made by bamboos.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n群馬県は、竹で作られた槍をたくさん持っていて対抗力があります。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "マシにはなった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "possess使うこと覚えてたけど思い出せなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a massive number of たくさんよりも上かぁ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "deterrent 抑止力"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628396718.014500",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "この世界のものを食べないと、そなたは消えてしまう（ハク\/千と千尋の神隠し）",
+        "user": "U01UMQH4W4B",
+        "ts": "1628523177.025100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1628523177.025100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1631803140.066600",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1628530119.027000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1628724786.047400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1631803140.066600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631803140.066600"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：この世界のものを食べないと、そなたは消えてしまう",
+        "user": "U01UMQH4W4B",
+        "ts": "1628523177.025200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1628523177.025200",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1631803394.066800",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1628523178.025300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1628530347.027200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1628724912.047600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1631803394.066800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631803394.066800"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Unless you eat something from this world, you’ll vanish.",
+        "user": "U01UMQH4W4B",
+        "ts": "1628523178.025300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1628523177.025200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "ab4712f1-573d-4ee4-a07a-fade67b061c0",
+        "type": "message",
+        "text": "I want that you get my meat ball, as friendship.",
+        "user": "UKH07E67M",
+        "ts": "1628526709.025500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want that you get my meat ball, as friendship."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628395850.014000"
+    },
+    {
+        "client_msg_id": "d616f677-ebca-4407-98a2-b1dcfaa36841",
+        "type": "message",
+        "text": "`I want that you get my meat ball, as friendship.`\n友情として、私の肉球を受け取ってほしい。\n• 二度目さんどめ\n• paw思い出せない...\n• paw pad\n• 受け入れてほしい\n•  <https:\/\/ejje.weblio.jp\/content\/as+a+token+of>\n• 記憶にございません...",
+        "user": "UKH07E67M",
+        "ts": "1628526928.025700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "as a token of - Weblio 英和・和英辞典",
+                "title_link": "https:\/\/ejje.weblio.jp\/content\/as+a+token+of",
+                "text": "as a token of: …のしるしに,…の記念に",
+                "fallback": "as a token of - Weblio 英和・和英辞典",
+                "from_url": "https:\/\/ejje.weblio.jp\/content\/as+a+token+of",
+                "service_icon": "https:\/\/weblio.hs.llnwd.net\/e7\/img\/favicon\/ejje\/safari\/apple-touch-icon.png",
+                "service_name": "ejje.weblio.jp",
+                "id": 1,
+                "original_url": "https:\/\/ejje.weblio.jp\/content\/as+a+token+of"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vd8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want that you get my meat ball, as friendship.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n友情として、私の肉球を受け取ってほしい。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "二度目さんどめ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "paw思い出せない..."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "paw pad"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "受け入れてほしい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/ejje.weblio.jp\/content\/as+a+token+of"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "記憶にございません..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628397294.015200",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "4eb6b41c-94cf-4769-940e-79217f5d05a9",
+        "type": "message",
+        "text": "You are a bad girl!",
+        "user": "UKH07E67M",
+        "ts": "1628527002.026000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dWR4C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are a bad girl!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628436777.016000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "3ee92287-916e-49da-9d60-35d4113e6472",
+        "type": "message",
+        "text": "`You are a bad girl!`\nあなたは悪女です!\n• フェアじゃない...?\n画家のウルスラ「…、キキの悩んでる顔をみて、これだー！って」\nキキ「いじわる！」\nウルスラ「だから、あいこ」\n• らしい\n• フェアじゃない...?\n• <https:\/\/eikaiwa.dmm.com\/uknow\/questions\/6726\/>\n• meanでの「いじわる」はちょっと悪が強すぎる気がする\n• <https:\/\/eitopi.com\/ijiwaru-eigo#i>\n• と思ったら別にそんなことなかった。you are mean!",
+        "user": "UKH07E67M",
+        "ts": "1628527292.026200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DMM英会話なんてuKnow?",
+                "title": "意地悪な人って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "title_link": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/6726\/",
+                "text": "なんでも否定的に受け取ったり妨害しようとする人がいると困ります。",
+                "fallback": "DMM英会話なんてuKnow?: 意地悪な人って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "image_url": "https:\/\/img.eikaiwa.dmm.com\/assets\/uknow\/fb_ogp.png",
+                "from_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/6726\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 28296,
+                "service_icon": "https:\/\/eikaiwa.dmm.com\/fav-apple-touch-icon-57x57-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/6726\/"
+            },
+            {
+                "service_name": "英トピ",
+                "title": "「意地悪」の英語！恋人に冗談で使う・嫌な性格を表すフレーズ17選！ | 英トピ",
+                "title_link": "https:\/\/eitopi.com\/ijiwaru-eigo#i",
+                "text": "皆さんは「意地悪」という言葉をどんな場面で使いますか？ 「あの人意地悪な人なんだよね」という使い方もあれば、「もう、いじわる〜！」というような冗談に近い使い方もありますよね。相手によって意味がガラリと変わるこの言葉を、英語ではどう表現するかご存知ですか？ 今回は、対象別に使える「意地悪」の英語フレーズをご紹介していきます！ 仲のいい人に まずは、親しい間柄の友人や恋人を相手に、「もう、いじわる！」「いじわるやめてよ〜」と冗談っぽく使える英語フレーズを紹介していきます。 You're so mean! いじわる〜！ \"mean\"は「意地悪」という意味の代表的な英単語です。本気の「意地悪」はもちろん、このフレーズのように、冗談で「いじわる〜！」という使い方も出来るんですよ。 使い方のポイントは２つ。１つ目は、「すごく」いじわるな訳では無いけどあえて \"so\"（とても）を付けること。これによって、「超いじわる〜」というニュアンスになります。 日本語でも、親しい人とも会話では「超〇〇」と言いがちですよね。それと一緒です！ ２つ目のポイントは、明るい口調で発音すること。これも日本語と同じで、低いトーンと真面目な表情で言っても本気で捉えられるだけですよね。 英語でも、冗談っぽさを前面に出して使うのが肝です！ A: Hey, you're so mean! （も〜いじわる！） B: You're so gullible. （本当騙されやすいよね〜。） You're so evil! 凄く意地悪なんだから！ \"evil\"は「悪い」や「邪悪な」という意味の英単語。響きからして悪の塊みたいな英語ですが、「なんてひどいことをするの〜！」と冗談で使うことも出来る単語なんです。 友人や恋人の間でよく使われる表現です。 \"so\"（すごく）を付けることで「超いじわる！」というニュアンスになりますよ。 A: This cupcake is the best. Want some? （このカップケーキが超美味しいんだよね。食べる？） B: You're so evil! You know I'm on diet! （凄くいじわるなんだから！今ダイエット中だって知ってるでしょ！） Oh that's so nice of you! なんて意地悪なの！ \"so nice of",
+                "fallback": "英トピ: 「意地悪」の英語！恋人に冗談で使う・嫌な性格を表すフレーズ17選！ | 英トピ",
+                "thumb_url": "https:\/\/eitopi.com\/wp-content\/uploads\/2015\/06\/s_181519442-680x454.jpg",
+                "ts": 1514584818,
+                "from_url": "https:\/\/eitopi.com\/ijiwaru-eigo#i",
+                "thumb_width": 680,
+                "thumb_height": 454,
+                "service_icon": "https:\/\/eitopi.com\/wp-content\/themes\/stinger5ver20150603\/images\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/eitopi.com\/ijiwaru-eigo#i"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3XgyD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are a bad girl!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあなたは悪女です!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "フェアじゃない...?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "画家のウルスラ「…、キキの悩んでる顔をみて、これだー！って」\nキキ「いじわる！」\nウルスラ「だから、あいこ」\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "らしい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "フェアじゃない...?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/6726\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "meanでの「いじわる」はちょっと悪が強すぎる気がする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eitopi.com\/ijiwaru-eigo#i"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "と思ったら別にそんなことなかった。you are mean!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628436777.016100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e2260063-1a07-4573-b5d4-67936197acc0",
+        "type": "message",
+        "text": "While you held your dream and a girlfriend on the single bed, I sold eraser balls with smell at expensive price, with a old man who has no tooth in amazon.",
+        "user": "UKH07E67M",
+        "ts": "1628527640.026500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vRlY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "While you held your dream and a girlfriend on the single bed, I sold eraser balls with smell at expensive price, with a old man who has no tooth in amazon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628477958.016800"
+    },
+    {
+        "client_msg_id": "a70acec4-afb9-4563-8df5-344cbb33f75a",
+        "type": "message",
+        "text": "`While you held your dream and a girlfriend on the single bed, I sold eraser balls with smell at expensive price, with a old man who has no tooth in amazon.`\nあなたがシングルベッドで夢と彼女を抱いている間に、私はamazonで歯のないオジサンと一緒に、匂い付きの消しゴムボールを高額で売っていました。\n• 前は練り消しをtrash of eraserとかって言ってた気がする\n•  〜した頃って振り返って言ってるから過去進行形か。忘れてた\n• <https:\/\/eikaiwamastery.blogspot.com\/2016\/11\/chigai-in-the-bed-on-the-bed-in-bed.html> in か onかはまあわからないからどっちでもいいのか？\n• peddle 密売する　知らない\n• knead こねる練る　動詞　忘れてた\n• cola 書いたはずなのに消えてた...\n• smell　は動詞だから普通形では使えない。匂いがしている消しゴムだからing\n• cokeはコカコーラのコーラのこと。なぜペプシではないと決めつけた？私はコーク派ですが\n• 歯がない　lessを使って表現。やれたことがない。意識すべき\n• an\n• extortionate 法外な　忘れてた\n• 密林　森が集まってるからdense forests\n• 南米　何でamazonでいいと思った...",
+        "user": "UKH07E67M",
+        "ts": "1628528294.026700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "「in the bed」「on the bed」「in bed」の違いは？",
+                "title_link": "https:\/\/eikaiwamastery.blogspot.com\/2016\/11\/chigai-in-the-bed-on-the-bed-in-bed.html",
+                "text": "【英語・英会話】 似た意味の表現である in the bed、on the bed 、in bed の違いや使い分けを解説しています。",
+                "fallback": "「in the bed」「on the bed」「in bed」の違いは？",
+                "image_url": "https:\/\/3.bp.blogspot.com\/-KbbkmiTQlBM\/WDbPlZPlx9I\/AAAAAAAABUI\/LAMqENRce7QLh8G4x8Zn_V3WVGVlUn-IgCLcB\/w1200-h630-p-k-no-nu\/095.jpg",
+                "from_url": "https:\/\/eikaiwamastery.blogspot.com\/2016\/11\/chigai-in-the-bed-on-the-bed-in-bed.html",
+                "image_width": 400,
+                "image_height": 210,
+                "image_bytes": 24258,
+                "service_icon": "https:\/\/eikaiwamastery.blogspot.com\/favicon.ico",
+                "service_name": "eikaiwamastery.blogspot.com",
+                "id": 1,
+                "original_url": "https:\/\/eikaiwamastery.blogspot.com\/2016\/11\/chigai-in-the-bed-on-the-bed-in-bed.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mhKyn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "While you held your dream and a girlfriend on the single bed, I sold eraser balls with smell at expensive price, with a old man who has no tooth in amazon.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあなたがシングルベッドで夢と彼女を抱いている間に、私はamazonで歯のないオジサンと一緒に、匂い付きの消しゴムボールを高額で売っていました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "前は練り消しをtrash of eraserとかって言ってた気がする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 〜した頃って振り返って言ってるから過去進行形か。忘れてた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eikaiwamastery.blogspot.com\/2016\/11\/chigai-in-the-bed-on-the-bed-in-bed.html"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " in か onかはまあわからないからどっちでもいいのか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "peddle 密売する　知らない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "knead こねる練る　動詞　忘れてた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "cola 書いたはずなのに消えてた..."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "smell　は動詞だから普通形では使えない。匂いがしている消しゴムだからing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "cokeはコカコーラのコーラのこと。なぜペプシではないと決めつけた？私はコーク派ですが"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "歯がない　lessを使って表現。やれたことがない。意識すべき"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "an"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "extortionate 法外な　忘れてた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "密林　森が集まってるからdense forests"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "南米　何でamazonでいいと思った..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628483082.023200",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "53a01208-b038-4e24-b459-64631d464c6d",
+        "type": "message",
+        "text": "If you don't eat this world's meal, you will banish.",
+        "user": "UKH07E67M",
+        "ts": "1628530119.027000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R6yV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you don't eat this world's meal, you will banish."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628523177.025100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "ac0e8dae-9e42-4ac8-836d-6fcd993f7e90",
+        "type": "message",
+        "text": "`If you don't eat this world's meal, you will banish.`\nこの世の食事を食べなければ、追放されてしまう。\n• vanish~~~~~~~\n• banish 追放する\n• eat something でもよかった。もっと良いのはそれが考えついたこと。今までは選択肢が一つしか存在しなかった。選択肢を増やすために語彙を増やす必要 がある\n•  しかしA unless Bは思いつかなかった。反省",
+        "user": "UKH07E67M",
+        "ts": "1628530347.027200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gD6V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you don't eat this world's meal, you will banish.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの世の食事を食べなければ、追放されてしまう。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "vanish~~~~~~~"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "banish 追放する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "eat something でもよかった。もっと良いのはそれが考えついたこと。今までは選択肢が一つしか存在しなかった。選択肢を増やすために語彙を増やす必要 がある"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " しかしA unless Bは思いつかなかった。反省"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628523177.025200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "CC6715BD-92A1-49BD-A455-F09BA36DD811",
+        "type": "message",
+        "text": "As a proof of friends, I want you to receive this paw.",
+        "user": "U01EVRBP38C",
+        "ts": "1628564679.028600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F0zq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As a proof of friends, I want you to receive this paw."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628395850.014000"
+    },
+    {
+        "client_msg_id": "182F953C-2984-4FB0-9D3B-09B1EA76EF56",
+        "type": "message",
+        "text": "Hi, I’m Godness of Win. Can I come in the baseball field now?",
+        "user": "U01EVRBP38C",
+        "ts": "1628564950.031500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TYk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, I’m Godness of Win. Can I come in the baseball field now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628339106.012600"
+    },
+    {
+        "client_msg_id": "898A3C66-ABC0-4345-8980-F31C22F6B86A",
+        "type": "message",
+        "text": "Customer of the number seven, please come to the reception desk while I can continue keeping me.",
+        "user": "U01EVRBP38C",
+        "ts": "1628565310.035300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "isiYA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Customer of the number seven, please come to the reception desk while I can continue keeping me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628133645.000100"
+    },
+    {
+        "client_msg_id": "6EF76664-CD4B-4BE2-BB16-8201BBBD24C8",
+        "type": "message",
+        "text": "Go for it, japan! I put away the monster of Olympic.",
+        "user": "U01EVRBP38C",
+        "ts": "1628565693.036800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wf7w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go for it, japan! I put away the monster of Olympic."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628084842.020400"
+    },
+    {
+        "client_msg_id": "8108FB3A-E9E9-487F-BA53-A57769DA15E1",
+        "type": "message",
+        "text": "Melos got anger, but he got back home because of more 37.5 degree heaver.",
+        "user": "U01EVRBP38C",
+        "ts": "1628566037.039400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Stf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Melos got anger, but he got back home because of more 37.5 degree heaver."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628046180.016900"
+    }
+]

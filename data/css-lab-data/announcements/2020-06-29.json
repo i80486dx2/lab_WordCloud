@@ -1,0 +1,226 @@
+[
+    {
+        "client_msg_id": "634467ad-a7a9-463c-b8ae-021ef5f33b3e",
+        "type": "message",
+        "text": "<!channel> 2年生で一人見学希望の学生がいて来週面談するのですが、研究室のメンバーとも少し話したいようなので、来週水曜16時以降か木曜午前でどなたか（1～2人）学生部屋でだべっていてもらえませんか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1593419485.031400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKK8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2年生で一人見学希望の学生がいて来週面談するのですが、研究室のメンバーとも少し話したいようなので、来週水曜16時以降か木曜午前でどなたか（1～2人）学生部屋でだべっていてもらえませんか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593419485.031400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1593422787.033900",
+        "reply_users": [
+            "UPRE1RSJW",
+            "UKUKA65GU",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1593419669.032700"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1593420304.033600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1593422787.033900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1593422787.033900",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3E591A32-EBCB-46C1-BC4E-A6289686D4A0",
+        "type": "message",
+        "text": "水曜は16時〜17時、木曜は10時40分までokです。",
+        "user": "UPRE1RSJW",
+        "ts": "1593419669.032700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oDpt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "水曜は16時〜17時、木曜は10時40分までokです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593419485.031400",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2EB354EC-797F-4AB1-A58A-B024010E7308",
+        "type": "message",
+        "text": "おそらく同じ時間帯にならOKです",
+        "user": "UKUKA65GU",
+        "ts": "1593420304.033600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eaOd+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おそらく同じ時間帯にならOKです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593419485.031400",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1755117-327e-430f-af68-55116ba363e6",
+        "type": "message",
+        "text": "来週水曜16時に来ることになりました。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1593422787.033900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0kf0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "来週水曜16時に来ることになりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593419485.031400",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

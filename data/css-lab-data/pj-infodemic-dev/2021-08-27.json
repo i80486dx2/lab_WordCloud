@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "b37dda7f-cc45-434b-9b1a-c803db2cf18c",
+        "type": "message",
+        "text": "<@UPSPAP97D> プログラム公開されてますね。ひろむ君の発表は9\/11（土）9:10～10:30のセッションのようです。\n<https:\/\/www.vsj.jp\/symp2021\/program.html>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630048917.001700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1630048949.000000"
+        },
+        "attachments": [
+            {
+                "title": "プログラム",
+                "title_link": "https:\/\/www.vsj.jp\/symp2021\/program.html",
+                "text": "可視化情報シンポジウム 2021 in 神奈川, 開催日：2021年9月9日（木），10日（金），11日（土）, 主催：（社）可視化情報学会",
+                "fallback": "プログラム",
+                "from_url": "https:\/\/www.vsj.jp\/symp2021\/program.html",
+                "service_icon": "https:\/\/www.vsj.jp\/favicon.ico",
+                "service_name": "vsj.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.vsj.jp\/symp2021\/program.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/dw=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " プログラム公開されてますね。ひろむ君の発表は9\/11（土）9:10～10:30のセッションのようです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.vsj.jp\/symp2021\/program.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

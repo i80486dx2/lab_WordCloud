@@ -1,0 +1,1230 @@
+[
+    {
+        "client_msg_id": "eb7346b5-f302-4ad2-9d7c-94c37674ba89",
+        "type": "message",
+        "text": "<@U01KC41PR9C> <@U01EL0SAUTF> 17:00からのmtgはいつものアドレスです：\n<https:\/\/us06web.zoom.us\/j\/99266177893?pwd=OWJOeHAzaW1mQmhVWEpmNitaamVwdz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621497446.031100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a8AM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 17:00からのmtgはいつものアドレスです：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/99266177893?pwd=OWJOeHAzaW1mQmhVWEpmNitaamVwdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U01EL0SAUTF",
+                    "U01KC41PR9C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f856cb3c-275c-4c00-ab8b-dc53d7ef8e9e",
+        "type": "message",
+        "text": "フロントエンド覚え書き\n• 描画の更新タイミングで生じていたバグを解決（原因はfor await周りの同期）\n• 複数チャートを別フレームで描画\n• ツイートの埋め込み\n• 時系列のUI\n• ツイートリストのレイアウト\nバックエンド覚え書き\n• BigQueryの調査\n    ◦ クエリーに課金：$5\/TB (free untill 1TB)\n    ◦ 例えば、全ツイートの日付のみ検索で100MB、テキスト全文検索で30GB程度\n    ◦ 検索はカラムを全部なめるので、日毎にカラムを分けた。\n    ◦ SQLで書ける。\n    ◦ データが増えた場合にストレージの制約を考えなくよい。\n    ◦ 現在のデータ量ではストレージは月次数百円",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621497628.031500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1621501869.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ubD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フロントエンド覚え書き\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "描画の更新タイミングで生じていたバグを解決（原因はfor await周りの同期）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "複数チャートを別フレームで描画"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ツイートの埋め込み"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "時系列のUI"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ツイートリストのレイアウト"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nバックエンド覚え書き\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "BigQueryの調査"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "クエリーに課金：$5\/TB (free untill 1TB)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "例えば、全ツイートの日付のみ検索で100MB、テキスト全文検索で30GB程度"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "検索はカラムを全部なめるので、日毎にカラムを分けた。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "SQLで書ける。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "データが増えた場合にストレージの制約を考えなくよい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "現在のデータ量ではストレージは月次数百円"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a88956f4-b356-425f-bfeb-20f812b969fb",
+        "type": "message",
+        "text": "「BigQuery＋FastAPI」の準備が整いました。\n以下がデフォルトのクエリサイズです。\n```【サイズ】 : \"apiエンドポイント\"　:　(デフォルトの日付\/日付範囲)\n【849.4MB】 \"count-dates\": (2020-02-20~12-31),\n【849.4MB】 \"count-months\/\": (2020-02-20~12-31),\n【1.8GB】 \"count-hashtags\/dates\/{hashtag}\": (2020-02-20~12-31),\n【1.8GB】 \"count-hashtags\/months\/{hashtag}\": (2020-02-20~12-31),\n【125.9MB】 \"get-tweets\/\": (2020-02-20),\n【129.1MB】 \"get-tweets\/{hashtag}\": (2020-02-20),\n【125.9MB】 \"get-tweets-by-text\/{text}\": (2020-02-20)```\n注意:\ncount-hashtagの範囲を1日にしてしまうと効果が無い為、そのままにしてあります。\n使いすぎると...(´ཀ`)\n\nデプロイは全員に確認していただいて、GOサインが出たらやります",
+        "user": "U01KC41PR9C",
+        "ts": "1621567695.038600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "za=bb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「BigQuery＋FastAPI」の準備が整いました。\n以下がデフォルトのクエリサイズです。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "【サイズ】 : \"apiエンドポイント\"　:　(デフォルトの日付\/日付範囲)\n【849.4MB】 \"count-dates\": (2020-02-20~12-31),\n【849.4MB】 \"count-months\/\": (2020-02-20~12-31),\n【1.8GB】 \"count-hashtags\/dates\/{hashtag}\": (2020-02-20~12-31),\n【1.8GB】 \"count-hashtags\/months\/{hashtag}\": (2020-02-20~12-31),\n【125.9MB】 \"get-tweets\/\": (2020-02-20),\n【129.1MB】 \"get-tweets\/{hashtag}\": (2020-02-20),\n【125.9MB】 \"get-tweets-by-text\/{text}\": (2020-02-20)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "注意:\ncount-hashtagの範囲を1日にしてしまうと効果が無い為、そのままにしてあります。\n使いすぎると...(´ཀ`)\n\nデプロイは全員に確認していただいて、GOサインが出たらやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621567695.038600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1621591583.044600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01KC41PR9C"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621589406.044300"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1621591583.044600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621591583.044600"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F022EF15B2A",
+                "mode": "tombstone"
+            },
+            {
+                "id": "F022ZSMGXA5",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "infomap上位コミュニティをtwitter検索して軽くまとめてみました。（僕の主観的判断なので違う可能性あり）\n\n\nまた、infomapとUMAPの初期化ミスっており再現できなかったので、再度実行した infomapコミュニティと UMAP可視化を再掲します。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "infomap結果 (この中にある in\/out の最大次数は コミュニティ内のみのカウントでした。)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ノード数: 58583,\t エッジ数: 118385\n\ninfomap|  summary: Clustering with 58583 elements and 2553 clusters,\tモジュラリティ: 0.505268514532041\n\n占有率 上位 10位\ncommunity_id:   0\t occupation: 5.174 % (3031個)\t max-degree(out):      1\t max-degree(in):   3030\ncommunity_id:   2\t occupation: 4.046 % (2370個)\t max-degree(out):      3\t max-degree(in):   2356\ncommunity_id:  18\t occupation: 3.984 % (2334個)\t max-degree(out):      1\t max-degree(in):   2333\ncommunity_id:  11\t occupation: 2.56 % (1500個)\t max-degree(out):     11\t max-degree(in):    507\ncommunity_id:  54\t occupation: 2.356 % (1380個)\t max-degree(out):      4\t max-degree(in):   1367\ncommunity_id: 157\t occupation: 2.27 % (1330個)\t max-degree(out):      2\t max-degree(in):   1327\ncommunity_id:  17\t occupation: 2.252 % (1319個)\t max-degree(out):     49\t max-degree(in):   1208\ncommunity_id:  88\t occupation: 1.888 % (1106個)\t max-degree(out):      6\t max-degree(in):    942\ncommunity_id: 107\t occupation: 1.623 % (951個)\t max-degree(out):      2\t max-degree(in):    903\ncommunity_id:  24\t occupation: 1.49 % (873個)\t max-degree(out):      2\t max-degree(in):    867"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n[コミュニティごとのユーザ調べ]\nin-degree内の次数:   自分自身の入次数\nout-degree内の次数:    自分自身の出次数\nランダムサンプリングの次数:    自分自身の入・出次数合計?\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ID: 0"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "印象: 「ライブドアニュース」主体? + out-degree上位は思慮深い?? + ランダムサンプリングは趣味垢?\nin-degree上位\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: livedoornews        次数: 4633 （「ライブドアニュース」公式）\n（以降は 入次数1以下）"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "out-degree上位\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: hagishiho           次数: 5　（一般ユーザ[中立?]）\nユーザ名: fukushima_akita     次数: 4 （一般ユーザ[news関連rtは少?]）\nユーザ名: agunistar           次数: 4　（一般ユーザ[ワクチン賛成?]）\nユーザ名: KSilverarrow        次数: 3　（一般ユーザ[ワクチン賛成より?]）\nユーザ名: tomo_arashi         次数: 3　（一般ユーザ[news関連rt少]）\nユーザ名: asaton_s            次数: 3 （一般ユーザ[news関連rt少?]\nユーザ名: iwamototuka         次数: 3 （一般ユーザ[ワクチン賛成より?]）\nユーザ名: boguscorey          次数: 3　（一般ユーザ[中立?+堅そうな内容が多い？+自分も発言]）\nユーザ名: demtry_zion         次数: 3 （一般ユーザ[ワクチン賛成より?]）\nユーザ名: ioiotouken          次数: 3  （一般ユーザ[news関連rt少+ワクチン賛成?]）"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ランダム選択\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: c3zwhFZd59IMlvs     次数: 1  (一般ユーザ[newsのrtはあってもエンタメ系?])\nユーザ名: TARE77051           次数: 1  (一般ユーザ[news関連rtほぼ無し])\nユーザ名: issuemario          次数: 1  (一般ユーザ[news関連rtほぼ無し])\nユーザ名: kyuorou             次数: 1  (一般ユーザ[news関連rt無し?]\nユーザ名: sumisoume           次数: 1  (一般ユーザ[news関連rtはほぼ無し])\nユーザ名: TYG35489296         次数: 1  (一般ユーザ[news関連rt無し?])\nユーザ名: peco_922808         次数: 1  （一般ユーザ[news関連rtは livedoornewsが多い]）\nユーザ名: urumepahau_huka     次数: 1  (一般ユーザ[news関連rtエンタメ系?])\nユーザ名: venom_BAY_snake     次数: 1  (一般ユーザ[news関連rtエンタメ系?])\nユーザ名: botamochi1301       次数: 1  (一般ユーザ[news関連rtは少])"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ID: 2"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "印象: ロイター日本語版が軸(可視化では) + 政府批判が多め??\nin-degree上位\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: ReutersJapan        次数: 5750  （英ロイター通信の日本版公式?）\nユーザ名: iiduna_yutaka       次数: 44  （一般ユーザ[news関連発言少? + 引用rtしてる]）\nユーザ名: mikihirano          次数: 20  (ジャーナリスト?[海外在住で日本政府批判?])\n（以降は 入次数4以下）"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "out-degree上位\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: margotanako         次数: 13  (一般ユーザ[政府批判系??])\nユーザ名: ishida5235          次数: 13  (一般ユーザ[中立?])\nユーザ名: kagamimasashi       次数: 12  (一般ユーザ[ワクチン賛成?])\nユーザ名: ISH1500KA           次数: 12  (一般ユーザ[政府批判系??])\nユーザ名: itacccchi           次数: 11  (一般ユーザ[news関連rt少])\nユーザ名: buchymaru           次数: 11  (一般ユーザ[非公開])\nユーザ名: funamushi_bb        次数: 11  (一般ユーザ[news関連rt少なめ?])\nユーザ名: uptetbie            次数: 10  (一般ユーザ[news関連rtは NHKが多い?])\nユーザ名: nini509             次数: 10  (一般ユーザ[ワクチン賛成?])\nユーザ名: Aerial_classic      次数: 10  (一般ユーザ[政府批判?])"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ランダム選択\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: davinchi2222        次数: 2  (一般ユーザ?[rt+自分からも発信])\nユーザ名: fluffywing777       次数: 1 (凍結アカウント)\nユーザ名: lancista1965        次数: 2  (一般ユーザ[政府批判?])\nユーザ名: nyantarou111111     次数: 2  (凍結アカウント)\nユーザ名: ssm8882             次数: 1  (一般ユーザ[news関連rt少なめ?+政府批判?])\nユーザ名: Yumingongon         次数: 1  (一般ユーザ[ワクチン賛成?])\nユーザ名: nanchatteracing     次数: 1  (一般ユーザ[news関連rt少])\nユーザ名: HDAIBP              次数: 2  (一般ユーザ[非公開])\nユーザ名: haruru_48           次数: 2  (一般ユーザ[news関連rt無し?])\nユーザ名: Averarji            次数: 1  (一般ユーザ[news関連rt少なめ?])"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ID: 18"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "印象: Yahooニュース(可視化では) + 他よりnews関連のrt多め?\nin-degree上位\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAP97D",
+        "ts": "1621575226.038700",
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F022EF15B2A",
+                "mode": "tombstone"
+            },
+            {
+                "id": "F022ZSMGXA5",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0l-ha8w+",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: YahooNewsTopics     次数: 4415  (ヤフー公式)\n（以降は 入次数1以下）"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "out-degree上位\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: tncpa2              次数: 7  (一般ユーザ[news関連rtそこそこ+自分から発言も+中立??])\nユーザ名: foxr3               次数: 6  (凍結アカウント)\nユーザ名: urushizawa_t        次数: 6 (一般ユーザ[news関連rtそこそこ+中立??+たまに発言])\nユーザ名: another_shadow      次数: 5 (一般ユーザ[news関連rtそこそこ])\nユーザ名: VNdL9MpG9ohEaSr     次数: 4  (一般ユーザ[news関連rt無し？])\nユーザ名: MT_aikatsu          次数: 4  (一般ユーザ[news関連rtほぼ無し])\nユーザ名: uh7a4m              次数: 4  (一般ユーザ[news関連rt少なめ+一部韓国語で読めないrtある])\nユーザ名: pooh_8_2            次数: 4  (一般ユーザ[news関連rtほぼ無し])\nユーザ名: zdOSqab7uSYls4g     次数: 4  (一般ユーザ[news関連rt少なめ?+ワクチン反対より?])\nユーザ名: beszamel            次数: 4 (一般ユーザ[中立??])"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ランダム選択\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: johnet_m            次数: 2  (一般ユーザ[news関連rt少なめ])\nユーザ名: KUIDAORE2014        次数: 1  (一般ユーザ[中立??])\nユーザ名: matti0228           次数: 2  (一般ユーザ[news関連rtほぼ無し??])\nユーザ名: tank82853913        次数: 2  (一般ユーザ[中立??])\nユーザ名: 3wine8chateau       次数: 1  (一般ユーザ[news関連rtそこそこ])\nユーザ名: ASSars_yr           次数: 1  (一般ユーザ[news関連rt少なめ+news以外の発言多め])\nユーザ名: kusakabe_s10        次数: 1 （一般ユーザ[news関連rtはエンタメ系が多め+rtにたまに発言])\nユーザ名: yuuzircon           次数: 2 (一般ユーザ?[非公開])\nユーザ名: to48emi             次数: 2 (一般ユーザ[news関連rtは少なめ])\nユーザ名: drewin_enaji        次数: 1  (一般ユーザ[rtに対し発言してる+自分からもたまに発言])"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ID: 11"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "印象: 医療関係の複数コミニュティ? + それを信頼する人?\nin-degree上位10位\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: VaccineWatch        次数: 1357  (日本の国立大で働く研究者)\nユーザ名: masahirono          次数: 1275  (免疫学者)\nユーザ名: sekkai              次数: 1159  (現在 感染症内科の人)\nユーザ名: TOTB1984            次数: 425  (アカウントがない->名前を変えた?)\nユーザ名: BiotechMania        次数: 222  (医学研究者)\nユーザ名: carpe_diem0820      次数: 134  (予防接種、熱帯医学関連の人)\nユーザ名: miyatamitsuru       次数: 114  (科学ジャーナリスト)\nユーザ名: nikkeibiotech       次数: 62 (「日経バイオテク」の公式アカウント)\nユーザ名: KeikoUTorii         次数: 60  (「Torii Lab」所属研究員?)\nユーザ名: norionakatsuji      次数: 46 (京都大 名誉教授 幹細胞研究?)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "out-degree上位\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: norionakatsuji      次数: 20 (京都大 名誉教授 幹細胞研究?)\nユーザ名: VaccineWatch        次数: 15  (日本の国立大で働く研究者)\nユーザ名: DrugVacCovid19      次数: 12  (製薬周辺業界の人物)\nユーザ名: TSK010              次数: 12  (血液学、免疫学、幹細胞学などの人?)\nユーザ名: hawks__fan          次数: 11  (一般ユーザ[政府批判??])\nユーザ名: BiotechMania        次数: 10  (医学研究者)\nユーザ名: yoheiyamanouchi     次数: 10  (一般ユーザ[ワクチン賛成?])\nユーザ名: bokudentw           次数: 9  (一般ユーザ[news関連rt少なめ])\nユーザ名: t1IVh81dsFb6IeL     次数: 9  (一般ユーザ?[マスメディア批判??])\nユーザ名: norikimu            次数: 9  (一般ユーザ[中立?])"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ランダム選択\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: Naotoshi_O          次数: 1  (一般ユーザ[news関連rtほぼ無し?])\nユーザ名: yamifupass          次数: 1  (一般ユーザ[news関連rt無し?])\nユーザ名: marimo_politic      次数: 1  (一般ユーザ[引用rtのみ+中立?])\nユーザ名: RurikisI            次数: 1  (一般ユーザ[news関連rtほぼ無し])\nユーザ名: tibesuna2660_2      次数: 1  (一般ユーザ[news関連rtそこそこ])\nユーザ名: aloneneet           次数: 1  (一般ユーザ[野党批判??])\nユーザ名: revo_toya           次数: 1  (一般ユーザ[news関連rt少なめ])\nユーザ名: Hikashi19           次数: 1  (一般ユーザ[news関連rt少なめ])\nユーザ名: hatsuyume           次数: 1  (一般ユーザ[news関連rt少なめ?+政府批判??])\nユーザ名: biochem_fan         次数: 1  (一般ユーザ[news関連rtほぼ無し?])"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ID: 54"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "印象: NHK系? + 上位out-degree人は最近LGBT関連RT多かった??\nin-degree上位\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: nhk_news            次数: 3978  (NHKニュース公式)\nユーザ名: nhk_ohayou          次数: 15  (NHK番組「おはよう日本」の公式)\nユーザ名: Hiromi19611         次数: 12 (一般ユーザ[引用rtもたまに+自分でも発言+政府批判??])\nユーザ名: nhk_nw9             次数: 9  (NHK番組「ニュースウォッチ9」公式)\nユーザ名: nhk_kyou1           次数: 6  (一般ユーザ??[非公開])\n（以降は 入次数3以下）"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "out-degree上位\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: kei_nerulove        次数: 12 （一般ユーザー[news関連rt無し?])\nユーザ名: notwen2014          次数: 5  (一般ユーザ??[NKKニュース Yahooニュースのみ rtしている])\nユーザ名: Dai_9608            次数: 4 (一般ユーザ[野党批判??])\nユーザ名: nhk_news            次数: 3  (NHKニュース公式)\nユーザ名: aKaSi2956           次数: 3  （一般ユーザ[news関連rtそこそこ??]）\nユーザ名: chika_y_e           次数: 3  (一般ユーザ[news関連rt少なめ?])\nユーザ名: fondant_uni         次数: 3  (一般ユーザ[news関連rt少なめ])\nユーザ名: radio_IloveYou      次数: 3  (一般ユーザ[news関連rtほぼ無し?])\nユーザ名: rinforzato          次数: 3  (一般ユーザ[news関連少し+ワクチン賛成?])\nユーザ名: thoton9             次数: 2 (一般ユーザ[news関連は海外アカウントrtが半数])"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ランダム選択\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAP97D",
+        "ts": "1621575226.038900",
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F022EF15B2A",
+                "mode": "tombstone"
+            },
+            {
+                "id": "F022ZSMGXA5",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0l-ha8w+-FA5G3",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ユーザ名: yumeuraminto        次数: 1  (アカウント無し->名前変更した?)\nユーザ名: trico_jal_fun       次数: 1 (一般ユーザ[NHKニュースとYahooニュースrt多め+自分もたまに発言])\nユーザ名: CHhr91dk            次数: 1 (アカウント無し->名前変更した?)\nユーザ名: nhknews_retweet     次数: 1  (非公式bot)\nユーザ名: kwnooo              次数: 1 (一般ユーザ[news関連rt無し])\nユーザ名: maimai0409          次数: 1  (一般ユーザ[news関連rtほぼ無し])\nユーザ名: tomo235740          次数: 1 （一般ユーザ[news関連rtは少なめ]）\nユーザ名: BlackLantis1994     次数: 1  (一般ユーザ[news関連rtは無し?])\nユーザ名: kao196112191        次数: 1  (一般ユーザ[news関連rtはしても ほぼNHKニュース])\nユーザ名: nonohatake          次数: 1 (一般ユーザ[news関連rtそこそこ+自分からも発言?])"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAP97D",
+        "ts": "1621575226.039100",
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "caa96191-7a97-4351-9401-e3d46de19276",
+        "type": "message",
+        "text": "(僕のslack上表示で) ファイルが変な~感じ~位置で表示されたので、画像ファイルは一度消しました。",
+        "user": "UPSPAP97D",
+        "ts": "1621575309.039700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1621575520.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JG\/nm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(僕のslack上表示で) ファイルが変な"
+                            },
+                            {
+                                "type": "text",
+                                "text": "感じ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "位置で表示されたので、画像ファイルは一度消しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "type": "message",
+        "text": "再度実行した画像ファイルです。",
+        "files": [
+            {
+                "id": "F023B2ZPEAC",
+                "created": 1621575360,
+                "timestamp": 1621575360,
+                "name": "infomap_withUMAP.png",
+                "title": "infomap_withUMAP.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPSPAP97D",
+                "editable": false,
+                "size": 8608118,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F023B2ZPEAC\/infomap_withumap.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F023B2ZPEAC\/download\/infomap_withumap.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B2ZPEAC-04867882d2\/infomap_withumap_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B2ZPEAC-04867882d2\/infomap_withumap_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B2ZPEAC-04867882d2\/infomap_withumap_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B2ZPEAC-04867882d2\/infomap_withumap_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B2ZPEAC-04867882d2\/infomap_withumap_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B2ZPEAC-04867882d2\/infomap_withumap_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 480,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B2ZPEAC-04867882d2\/infomap_withumap_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 533,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B2ZPEAC-04867882d2\/infomap_withumap_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 640,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B2ZPEAC-04867882d2\/infomap_withumap_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 683,
+                "original_w": 6000,
+                "original_h": 4000,
+                "thumb_tiny": "AwAgADDTooprSIpILDI60AOoqpLepGDt5NVPOlnfIBJHT0FAGsCD0oqC13eX8xBNT0AFQzI8nCqAOuSamooAzWtGmORgVKlqUA3CM54GBVwqpOcc+tG0ZB9KAEVQigAdKdRRQB\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F023B2ZPEAC\/infomap_withumap.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F023B2ZPEAC-1da5158158",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F023B302UG0",
+                "created": 1621575371,
+                "timestamp": 1621575371,
+                "name": "infomap_bar.png",
+                "title": "infomap_bar.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPSPAP97D",
+                "editable": false,
+                "size": 24281,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F023B302UG0\/infomap_bar.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F023B302UG0\/download\/infomap_bar.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B302UG0-89fc173b29\/infomap_bar_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B302UG0-89fc173b29\/infomap_bar_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B302UG0-89fc173b29\/infomap_bar_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 238,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B302UG0-89fc173b29\/infomap_bar_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 318,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023B302UG0-89fc173b29\/infomap_bar_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 553,
+                "original_h": 366,
+                "thumb_tiny": "AwAfADC8FHkDAGdvp7U5EBRcqM454pEP7lc+n9KepyoPtQAbF\/uj8qNi\/wB0flS0UARyKAV2qOTzxSFRtzgdPSnucbeM5NIfu\/8AAaAEH+oAHXb6+1Mt5AIFEhAYdRnNIlxD5agvzjHQ0edb\/wB4f980AS+bH\/fFHmx\/3xUXnQY+8P8Avmk8+HnkflQBN5sf98UF1ZWCsDxUXnW\/94f980GeAA4cZ\/3TQB\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F023B302UG0\/infomap_bar.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F023B302UG0-e7a8974b54",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Hm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "再度実行した画像ファイルです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAP97D",
+        "ts": "1621575393.039900",
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "8b0d60da-9fbb-46b2-8816-6545e4c3a830",
+        "type": "message",
+        "text": "<@UPSPAP97D> OK！Slack べた張りだときつくなってきたのでテキストにまとめられないかな。Word でもよいし、あるいはウェブだと Notion とか。<https:\/\/www.notion.so\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621576458.040600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Notion",
+                "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+                "title_link": "https:\/\/www.notion.so\/",
+                "text": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.",
+                "fallback": "Notion: Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+                "image_url": "https:\/\/www.notion.so\/front-static\/meta\/default.png",
+                "from_url": "https:\/\/www.notion.so\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 80585,
+                "service_icon": "https:\/\/www.notion.so\/front-static\/logo-ios.png",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKtc1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " OK！Slack べた張りだときつくなってきたのでテキストにまとめられないかな。Word でもよいし、あるいはウェブだと Notion とか。"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "a77cbe00-3d5f-436f-a5f0-0d05a1fde72c",
+        "type": "message",
+        "text": "<@UPSPAP97D> 上の結果についてはまだまとめなくてよいです。口頭で詳細を聞かせてください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621576558.040900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNfL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 上の結果についてはまだまとめなくてよいです。口頭で詳細を聞かせてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24053E08-7114-4B18-B002-8CCACD2B320D",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 今から大学に行く予定があるので（図書館に返却）、その時でよければ。",
+        "user": "UPSPAP97D",
+        "ts": "1621577023.043700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yjpyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今から大学に行く予定があるので（図書館に返却）、その時でよければ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb148b44-ca69-4237-96da-6ab6933bd5a8",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 場所はオフィスにしますか？",
+        "user": "UPSPAP97D",
+        "ts": "1621578912.044000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ELA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 場所はオフィスにしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

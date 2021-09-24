@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "4977190d-04be-4a5e-8ddc-347bad8099d1",
+        "type": "message",
+        "text": "<@U01EPKVACEN> 4日か5日にオンラインとかでやる予定なんですが、時間的に何時くらいだったら入れるでしょうか？",
+        "user": "UPSPAMY7M",
+        "ts": "1614751228.002900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BFdYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 4日か5日にオンラインとかでやる予定なんですが、時間的に何時くらいだったら入れるでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614515122.002400",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "fd316286-b092-45e6-89d2-629a423525ed",
+        "type": "message",
+        "text": "１〜３時の間くらいだと助かります。",
+        "user": "U01EPKVACEN",
+        "ts": "1614758087.003100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WJ02b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "１〜３時の間くらいだと助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614515122.002400",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

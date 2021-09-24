@@ -1,0 +1,251 @@
+[
+    {
+        "client_msg_id": "80d6a7ef-a803-4e33-85b6-67afe76db199",
+        "type": "message",
+        "text": "<@UPSPAP97D> 予稿も提出したことなので、少し内容を整理・レビューして、発表までに追加でできること考えましょうか。\n\n• データの stats を整理したい。（csvもしくはパワポにまとめておきたい）\n    ◦ 対象期間と、対象期間の総ツイート数、総リツイート数、ユーザ数。その中でキーワードを含むものの数。\n• リツイートグラフの作り方。\n    ◦ 全リツイートを使ったグラフは大きすぎて Infomap 無理？可能ならばやりたい。\n    ◦ まずは、全リツイートを使ったグラフの弱連結成分を求めてみる。\n    ◦ 現在の「向きを考慮せず２回以上のリツイートでリンクを張る」という方法はちょっとひっかかる。同じ向きに2回以上あるものとかの方がよいのでは？（あるいは1回、つまり全リツイート）\n    ◦ 例えば、一度もリツイートされずリツイートを1回だけするようなユーザが大量にいると思うが、前処理でこういうノードをうまくまとめてしまえるとよい。\n• ユーザのリツイート相手の多様性（エントロピー）の計算について\n    ◦ これはネットワークに寄与するユーザだけでなく全データを使ってるんでしたっけ？全データを使うのがよいと思うが。\n    ◦ リツイート数の少ないユーザはエントロピー計算の解像度が粗くなるので、ユーザごとのリツイート数の分布も知りたい。\n    ◦ 各ユーザがリツイートをした数（縦軸）とされた数（横軸）の散布図（ヒートマップ）をみたい。\n• 二次のコミュニティの計算結果は、階層的エッジバンドリング（円周上にノードを配置）で表示すると見やすくなりそう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628236703.011900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1628237526.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LGAF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 予稿も提出したことなので、少し内容を整理・レビューして、発表までに追加でできること考えましょうか。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "データの stats を整理したい。（csvもしくはパワポにまとめておきたい）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "対象期間と、対象期間の総ツイート数、総リツイート数、ユーザ数。その中でキーワードを含むものの数。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "リツイートグラフの作り方。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "全リツイートを使ったグラフは大きすぎて Infomap 無理？可能ならばやりたい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "まずは、全リツイートを使ったグラフの弱連結成分を求めてみる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "現在の「向きを考慮せず２回以上のリツイートでリンクを張る」という方法はちょっとひっかかる。同じ向きに2回以上あるものとかの方がよいのでは？（あるいは1回、つまり全リツイート）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "例えば、一度もリツイートされずリツイートを1回だけするようなユーザが大量にいると思うが、前処理でこういうノードをうまくまとめてしまえるとよい。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ユーザのリツイート相手の多様性（エントロピー）の計算について"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "これはネットワークに寄与するユーザだけでなく全データを使ってるんでしたっけ？全データを使うのがよいと思うが。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "リツイート数の少ないユーザはエントロピー計算の解像度が粗くなるので、ユーザごとのリツイート数の分布も知りたい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "各ユーザがリツイートをした数（縦軸）とされた数（横軸）の散布図（ヒートマップ）をみたい。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "二次のコミュニティの計算結果は、階層的エッジバンドリング（円周上にノードを配置）で表示すると見やすくなりそう。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628236703.011900",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1629781324.030100",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1629182232.024100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629212197.024500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1629250586.024700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629251923.024900"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1629254059.026400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1629781324.030100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1629781324.030100",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

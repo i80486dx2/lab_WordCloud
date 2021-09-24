@@ -1,0 +1,359 @@
+[
+    {
+        "client_msg_id": "ced6fedc-9bdc-4bd0-b948-1f65df7ae1f5",
+        "type": "message",
+        "text": "<@UPSPAP97D> これ短いので読んでみませんか？\n<https:\/\/www.dropbox.com\/s\/b8z4ay59y2p6b42\/s41587-020-00809-z.pdf?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1612252847.000400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "inuos",
+                        "external_id": "1-57e20fcbc74296a724e0d7d950cfb0b519f6f014eba5b7175eda27cdc6891d0b",
+                        "source": "remote",
+                        "file_id": "F01LUA4S3C4",
+                        "file": {
+                            "id": "F01LUA4S3C4",
+                            "created": 1612252856,
+                            "timestamp": 1612252856,
+                            "name": "s41587-020-00809-z_pdf",
+                            "title": "s41587-020-00809-z.pdf",
+                            "mimetype": "application\/pdf",
+                            "filetype": "pdf",
+                            "pretty_type": "PDF",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 119639,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/b8z4ay59y2p6b42\/s41587-020-00809-z.pdf?dl=0",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01LUA4S3C4-e40dcaad03\/s41587-020-00809-z_pdf_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01LUA4S3C4-e40dcaad03\/s41587-020-00809-z_pdf_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01LUA4S3C4-e40dcaad03\/s41587-020-00809-z_pdf_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 180,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01LUA4S3C4-e40dcaad03\/s41587-020-00809-z_pdf_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_480_w": 480,
+                            "thumb_480_h": 240,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01LUA4S3C4-e40dcaad03\/s41587-020-00809-z_pdf_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01LUA4S3C4-e40dcaad03\/s41587-020-00809-z_pdf_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720_w": 720,
+                            "thumb_720_h": 360,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01LUA4S3C4-e40dcaad03\/s41587-020-00809-z_pdf_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 400,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01LUA4S3C4-e40dcaad03\/s41587-020-00809-z_pdf_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_960_w": 960,
+                            "thumb_960_h": 480,
+                            "original_w": 1000,
+                            "original_h": 500,
+                            "thumb_tiny": "AwAYADDRbd\/DTZPNMbBMBscHNEi7iP8AA03Zj\/8AUf8AGgdyDZe\/3v1FAS9zy36ip\/L56\/of8aXyjn7w\/I\/40rFc\/kiDbd+v6ipbcTBz5p4xxUnlL6H8zTlUKMCiwnK4jnBpu4\/5FK\/3h9KaP60yRQxz\/wDWo3HPWk7ig9aAF3N605SSeaavUVJQB\/\/Z",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F01LUA4S3C4\/s41587-020-00809-z_pdf",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-57e20fcbc74296a724e0d7d950cfb0b519f6f014eba5b7175eda27cdc6891d0b",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/b8z4ay59y2p6b42\/s41587-020-00809-z.pdf?dl=0",
+                            "has_rich_preview": true
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/b8z4ay59y2p6b42\/s41587-020-00809-z.pdf?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dpK\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これ短いので読んでみませんか？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/b8z4ay59y2p6b42\/s41587-020-00809-z.pdf?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612252847.000400",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1612261242.009000",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1612254066.000900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1612255573.001100"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1612257558.006700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1612260084.006900"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1612261242.009000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1612261242.009000"
+    },
+    {
+        "client_msg_id": "42c27187-54e9-4554-9cc3-710eed3d82a8",
+        "type": "message",
+        "text": "是非、お願いしたいです！",
+        "user": "UPSPAP97D",
+        "ts": "1612254066.000900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yVC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "是非、お願いしたいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612252847.000400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "e1af7496-063b-410f-b0aa-1af3647bb3fd",
+        "type": "message",
+        "text": "<@UPSPAP97D> 都合のよい時間を2～3ついただけますか？解説してもらって、私から補足と議論する感じでよいですか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1612255573.001100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nlVis",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 都合のよい時間を2～3ついただけますか？解説してもらって、私から補足と議論する感じでよいですか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612252847.000400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "15FCCE54-4BED-4CF0-9694-3F177A89D425",
+        "type": "message",
+        "text": "今週の都合の良い時間帯は以下の通りです。\n\n水曜日: ラボミーティングの時間以外\n木曜日: 午前中\n金曜日: いつでも大丈夫\n\n\n記事の読み方は、その方法でお願いします。",
+        "user": "UPSPAP97D",
+        "ts": "1612257558.006700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrCfL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今週の都合の良い時間帯は以下の通りです。\n\n水曜日: ラボミーティングの時間以外\n木曜日: 午前中\n金曜日: いつでも大丈夫\n\n\n記事の読み方は、その方法でお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612252847.000400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "26d386ae-e002-482b-8299-de89fe25747a",
+        "type": "message",
+        "text": "では金曜13時どうでしょう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1612260084.006900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IGqf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "では金曜13時どうでしょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612252847.000400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "82001995-78A8-476A-9A0F-E17418143F3B",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> その日時でよろしくお願いします。",
+        "user": "UPSPAP97D",
+        "ts": "1612261242.009000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zyG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " その日時でよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612252847.000400",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "dd1ff70b-1609-490d-8294-a25d49955ad5",
+        "type": "message",
+        "text": "Adaptive Code ~ C#実践開発手法 第2版\n*<https:\/\/www.amazon.co.jp\/Adaptive-Code->*<https:\/\/www.amazon.co.jp\/Adaptive-Code-%E5%AE%9F%E8%B7%B5%E9%96%8B%E7%99%BA%E6%89%8B%E6%B3%95-%E7%AC%AC2%E7%89%88-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E9%96%A2%E9%80%A3%E6%9B%B8\/dp\/4822253546?&amp;linkCode=sl1&amp;tag=tomohn-22&amp;linkId=be2d6a9f0cf0a7eda864d87111424d0f&amp;language=ja_JP&amp;ref_=as_li_ss_tl|実践開発手法-第2版-マイクロソフト関連書\/dp\/4822253546?&amp;linkCode=sl1&amp;tag=tomohn-22&amp;linkId=be2d6a9f0cf0a7eda864d87111424d0f&amp;language=ja_JP&amp;ref_=as_li_ss_tl>\nこの本購入していただけますか？",
+        "user": "U01EPKVACEN",
+        "ts": "1626597042.012000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Adaptive Code ~ C#実践開発手法 第2版 (マイクロソフト関連書)",
+                "title_link": "https:\/\/www.amazon.co.jp\/Adaptive-Code-%E5%AE%9F%E8%B7%B5%E9%96%8B%E7%99%BA%E6%89%8B%E6%B3%95-%E7%AC%AC2%E7%89%88-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E9%96%A2%E9%80%A3%E6%9B%B8\/dp\/4822253546?&linkCode=sl1&tag=tomohn-22&linkId=be2d6a9f0cf0a7eda864d87111424d0f&language=ja_JP&ref_=as_li_ss_tl",
+                "text": "Adaptive Code ~ C#実践開発手法 第2版 (マイクロソフト関連書)",
+                "fallback": "Adaptive Code ~ C#実践開発手法 第2版 (マイクロソフト関連書)",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51mDTq8WrXL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA13%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/Adaptive-Code-%E5%AE%9F%E8%B7%B5%E9%96%8B%E7%99%BA%E6%89%8B%E6%B3%95-%E7%AC%AC2%E7%89%88-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E9%96%A2%E9%80%A3%E6%9B%B8\/dp\/4822253546?&linkCode=sl1&tag=tomohn-22&linkId=be2d6a9f0cf0a7eda864d87111424d0f&language=ja_JP&ref_=as_li_ss_tl",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 48127,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/Adaptive-Code-%E5%AE%9F%E8%B7%B5%E9%96%8B%E7%99%BA%E6%89%8B%E6%B3%95-%E7%AC%AC2%E7%89%88-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E9%96%A2%E9%80%A3%E6%9B%B8\/dp\/4822253546?&amp;linkCode=sl1&amp;tag=tomohn-22&amp;linkId=be2d6a9f0cf0a7eda864d87111424d0f&amp;language=ja_JP&amp;ref_=as_li_ss_tl"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BA1V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adaptive Code ~ C#実践開発手法 第2版\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/Adaptive-Code-",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/Adaptive-Code-%E5%AE%9F%E8%B7%B5%E9%96%8B%E7%99%BA%E6%89%8B%E6%B3%95-%E7%AC%AC2%E7%89%88-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E9%96%A2%E9%80%A3%E6%9B%B8\/dp\/4822253546?&linkCode=sl1&tag=tomohn-22&linkId=be2d6a9f0cf0a7eda864d87111424d0f&language=ja_JP&ref_=as_li_ss_tl",
+                                "text": "実践開発手法-第2版-マイクロソフト関連書\/dp\/4822253546?&linkCode=sl1&tag=tomohn-22&linkId=be2d6a9f0cf0a7eda864d87111424d0f&language=ja_JP&ref_=as_li_ss_tl"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの本購入していただけますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

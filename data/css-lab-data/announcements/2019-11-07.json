@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "aa7438ce-aa99-4a32-ace9-bab54de7e86c",
+        "type": "message",
+        "text": "<!channel> 二年生の皆さんをメーリングリスト（cse-lab）に登録しました。確認のため、もしメールが届いていたらこのポストに:+1:を付けてください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1573183700.007500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UPRE1RSJW",
+                    "UQ47R82RW",
+                    "UKUKA65GU",
+                    "UPSPAP97D",
+                    "UQ63J44BZ"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8be722ec-098b-49ee-9603-2ea13bd3b848",
+        "type": "message",
+        "text": "<!channel>:\n皆様、\n会津大学でシェアカーサービスが１１月１１日（月）からスタートします。サービス運営はアルプスアルパインです。\n卒論テーマ説明会でもお話しましたが、シェアカーにはIoTセンサーが仕込まれていてデータ分析をするという本学との共同研究事業にもなり、卒論の１テーマとして設置しております。\nまずはサービス開始にあたり、私の近くの学生・教員・職員から案内して小さくスタートします。（一般学生に広く使ってもらうのは来年度の予定）\n登録は無料、30kmまでの走行は無料、30km以上走った場合は1リッターで20km走行する計算でガソリン代が発生します。\n・シェアカー体験してみたい\n・免許はあるが車が無い\n・大学からのちょっとした足に使いたい\n・最新型のプリウスPHVに乗ってみたい\nなど、サービス利用していただければと思います。興味ある方はDMもしくはこの書き込みにレス頂ければ別途ご案内します。（質問もOKです）\n※データ取得をしますのでデータ取得に関する説明と被験者同意書の署名などが必要です\n※免許証の他にクレジットカードの登録が必要になります。学生でクレジットカードを持っていない場合個別にご相談ください。",
+        "user": "UPSPAMY7M",
+        "ts": "1573193035.008500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573193035.008500",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1574677941.000900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1573196301.008800"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1573256502.009100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1573287199.009300"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1573391778.009600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1574650711.000700"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1574677941.000900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1574677941.000900",
+        "reactions": [
+            {
+                "name": "hand",
+                "users": [
+                    "UPRE1RSJW",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d81e46e-f440-46bd-b2a2-2450ee89162e",
+        "type": "message",
+        "text": "普通に便利そうw 30kmまでの走行というのはユーザ当たり累積でしょうか？5人乗り？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1573196301.008800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573193035.008500",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

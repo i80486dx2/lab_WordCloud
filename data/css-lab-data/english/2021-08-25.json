@@ -1,0 +1,995 @@
+[
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "わたし修行に行くのよ。よその町で一年がんばらないと魔女になれないんだから！（キキ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1629905578.091200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629905578.091200",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1631603047.054800",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1629942156.001000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1630020820.005400"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1631603047.054800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631603047.054800"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：わたし修行に行くのよ。よその町で一年がんばらないと魔女になれないんだから！",
+        "user": "U01UMQH4W4B",
+        "ts": "1629905578.091300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629905578.091300",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1631624584.055800",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1629905578.091400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1629942587.001200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1630020899.005600"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1631624584.055800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631624584.055800"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "But I’m not going for a good time. I’ll be in training at least a year.",
+        "user": "U01UMQH4W4B",
+        "ts": "1629905578.091400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629905578.091300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "a99f496e-e9b5-4a72-8552-0236c7fe9e9c",
+        "type": "message",
+        "text": "Our mother is smiling.",
+        "user": "UKH07E67M",
+        "ts": "1629940607.000100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "triTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our mother is smiling."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629819178.089500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "33eec547-93ec-4f0d-8729-eab4dd9aa215",
+        "type": "message",
+        "text": "`Our mother is smiling.`\n母は微笑んでいる。\n• <https:\/\/kiwi-english.net\/34637> mother使わないのか...\n• <https:\/\/www.abc-academy.jp\/blog\/2018\/05\/23\/smile-laugh\/> あーlaughだった気がする\n• 冠詞使わないのは前先生が書いてたな ",
+        "user": "UKH07E67M",
+        "ts": "1629940869.000300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "日刊英語ライフ",
+                "title": "「お母さん」を表す mother, mom, mum, mommy, mummy, mama の違いとは？ | 日刊英語ライフ",
+                "title_link": "https:\/\/kiwi-english.net\/34637",
+                "text": "スポンサーリンク 「お母さん」を意味する英単語といえば、”mother” を真っ先に思い浮かべる人が多いと思います。 でも、英語で「お母さん、母親、ママ」を表す英単語はいくつかあるんです。 mot […]",
+                "fallback": "日刊英語ライフ: 「お母さん」を表す mother, mom, mum, mommy, mummy, mama の違いとは？ | 日刊英語ライフ",
+                "image_url": "https:\/\/kiwi-english.net\/wp-content\/uploads\/2019\/11\/34637.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1573077394,
+                "from_url": "https:\/\/kiwi-english.net\/34637",
+                "image_bytes": 100998,
+                "service_icon": "https:\/\/kiwi-english.net\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/kiwi-english.net\/34637"
+            },
+            {
+                "service_name": "ABCアカデミーブログ",
+                "title": "英会話初心者が間違えやすい！？「Smile」と「Laugh」の違い",
+                "title_link": "https:\/\/www.abc-academy.jp\/blog\/2018\/05\/23\/smile-laugh\/",
+                "text": "  「スマイル」はカタカナ英語としても使用されるので 馴染みのある言葉ですね。 ですが「笑う」と英語で表現する時、 なんと表現したらいいのか分からない方が多いのではないでしょうか？ いくつかご紹介致します。       smile （笑う、微笑む）   「smile」は「声を出さずに微笑む」という意味です。   ・She smile…",
+                "fallback": "ABCアカデミーブログ: 英会話初心者が間違えやすい！？「Smile」と「Laugh」の違い",
+                "image_url": "https:\/\/www.abc-academy.jp\/blog\/wp-content\/uploads\/2018\/05\/baby-2604853_960_720.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1527087230,
+                "from_url": "https:\/\/www.abc-academy.jp\/blog\/2018\/05\/23\/smile-laugh\/",
+                "image_bytes": 107592,
+                "service_icon": "https:\/\/www.abc-academy.jp\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/www.abc-academy.jp\/blog\/2018\/05\/23\/smile-laugh\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZKo0s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our mother is smiling.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n母は微笑んでいる。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/kiwi-english.net\/34637"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " mother使わないのか..."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.abc-academy.jp\/blog\/2018\/05\/23\/smile-laugh\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " あーlaughだった気がする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "冠詞使わないのは前先生が書いてたな "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629819178.089600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e43e0587-681c-4a16-924c-92bf8b469d45",
+        "type": "message",
+        "text": "A baked Manju has four Manjues on one stick, the Manjues said themself, Akagi, Haruna, Myogi and Asama.",
+        "user": "UKH07E67M",
+        "ts": "1629941366.000600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "45Yfg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A baked Manju has four Manjues on one stick, the Manjues said themself, Akagi, Haruna, Myogi and Asama."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629861730.090300"
+    },
+    {
+        "client_msg_id": "02a0c648-cd0b-4852-b727-068c455f4555",
+        "type": "message",
+        "text": "`A baked Manju has four Manjues on one stick, the Manjues said themself, Akagi, Haruna, Myogi and Asama.`\n焼きまんじゅうは、1本の棒に4つのまんじゅうが付いていて、まんじゅうは自分で、赤城、榛名、妙義、浅間と言っていました。\n• 表すが飛んだ represent\n• 串 bamboo stick そういや竹だったな\n• skewer \n• 名\n1. 串、焼き串\n• 他動\n2. 串に刺す\n• 〔串刺しにするように激しく〕攻撃する、批判する\n• これ文にbamboo stickいらないなぁ\n• dumpling 団子\n• A is a set of 数 何か　で　Aは何か数分です\n• ",
+        "user": "UKH07E67M",
+        "ts": "1629941703.000800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A baked Manju has four Manjues on one stick, the Manjues said themself, Akagi, Haruna, Myogi and Asama.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n焼きまんじゅうは、1本の棒に4つのまんじゅうが付いていて、まんじゅうは自分で、赤城、榛名、妙義、浅間と言っていました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "表すが飛んだ represent"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "串 bamboo stick そういや竹だったな"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "skewer "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "名"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "串、焼き串"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "他動"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "串に刺す"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "〔串刺しにするように激しく〕攻撃する、批判する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "これ文にbamboo stickいらないなぁ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dumpling 団子"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "A is a set of 数 何か　で　Aは何か数分です"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": []
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629862586.090700",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "a5413f59-d00e-4a98-860d-6f40aeaad976",
+        "type": "message",
+        "text": "I'm going to go to other towns to lesson. If I don't lesson other towns, I cannot become a witch!",
+        "user": "UKH07E67M",
+        "ts": "1629942156.001000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vEzOQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm going to go to other towns to lesson. If I don't lesson other towns, I cannot become a witch!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629905578.091200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "0b3581e8-a857-4a91-8df1-dceca63557e7",
+        "type": "message",
+        "text": "`I'm going to go to other towns to lesson. If I don't lesson other towns, I cannot become a witch!`\n私は他の町にレッスンに行きます。他の町でレッスンしないと、魔女になれないのです\n• lessonは他人に教えてもらいながらだから不適切\n• practiceは既にかじっていることだからまあまだ適切\n• trainingは職業訓練だから一番適切　らしい\n• good time には良い時間のほかに刺激的な経験という意味があるらしい\n• 最低一年 at least a year　完全に書き忘れた\n•  模範の文はなぜ訓練するのか言ってないけどそれでいいのか？",
+        "user": "UKH07E67M",
+        "ts": "1629942587.001200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6COU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm going to go to other towns to lesson. If I don't lesson other towns, I cannot become a witch!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n私は他の町にレッスンに行きます。他の町でレッスンしないと、魔女になれないのです\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "lessonは他人に教えてもらいながらだから不適切"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "practiceは既にかじっていることだからまあまだ適切"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "trainingは職業訓練だから一番適切　らしい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "good time には良い時間のほかに刺激的な経験という意味があるらしい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "最低一年 at least a year　完全に書き忘れた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 模範の文はなぜ訓練するのか言ってないけどそれでいいのか？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629905578.091300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1629947761.001400",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1629947761.001400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1630021019.005800",
+        "reply_users": [
+            "UKH07E67M",
+            "U01F42ZFA73",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1629951586.001700"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629956209.004300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1630021019.005800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630021019.005800",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「ニック、よかったら今夜一緒にボブの基本的人権、蹂躙しに行かない？」 <https:\/\/pbs.twimg.com\/media\/E9r5-TwVUAEA9Gz.jpg>",
+                "ts": 1629947756,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1430730703243603971",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1430730703243603971>",
+                "text": "「ニック、よかったら今夜一緒にボブの基本的人権、蹂躙しに行かない？」 <https:\/\/pbs.twimg.com\/media\/E9r5-TwVUAEA9Gz.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1430730703243603971",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E9r5-TwVUAEA9Gz.jpg",
+                "image_width": 400,
+                "image_height": 470,
+                "image_bytes": 36018,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cad7091c-6926-4a32-a36e-110fdba9bb52",
+        "type": "message",
+        "text": "反省会：「ニック、よかったら今夜一緒にボブの基本的人権、蹂躙しに行かない？」",
+        "user": "UKH07E67M",
+        "ts": "1629949952.001600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vzrf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：「ニック、よかったら今夜一緒にボブの基本的人権、蹂躙しに行かない？」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629949952.001600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1630021168.006000",
+        "reply_users": [
+            "UKH07E67M",
+            "U01F42ZFA73",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1629952331.001900"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629981409.004500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1630021168.006000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630021168.006000"
+    },
+    {
+        "client_msg_id": "7b193c42-f877-4f0d-99db-a9548aea8b5b",
+        "type": "message",
+        "text": "Nick, shall we go to break Bob's ticket of human tonight?",
+        "user": "UKH07E67M",
+        "ts": "1629951586.001700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xzy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nick, shall we go to break Bob's ticket of human tonight?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629947761.001400"
+    },
+    {
+        "client_msg_id": "2c1cc3a7-fdab-4278-8f5e-3e03ccba365a",
+        "type": "message",
+        "text": "`Nick, shall we go to break Bob's ticket of human tonight?`\nニック、今夜はボブの人間のチケットを破りに行きましょうか。\n• <https:\/\/ryotoeikaiwa.net\/i-was-wondering-if-%EF%BD%9E-%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%A84%E3%81%A4%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9\/> I was wondering if  めっちゃ便利って思ってるのに使えたことない。意識したい。忘れる。\n• I was wondering if もしよければしませんか？\n• I was wondering if you'd like to もしよければしませんか？\n• I was wondering if you could よろしければしていただけますか？\n• violate 違反する、破る、侵す 前もやった\n• fundamental human rights 基本的人権 最近やった せめてrightぐらい書け",
+        "user": "UKH07E67M",
+        "ts": "1629952331.001900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "RYO 英会話ジム",
+                "title": "”I was wondering if ～.”の意味と4つの使い方【考えを伝えたり丁寧な表現に】 | RYO英会話ジム",
+                "title_link": "https:\/\/ryotoeikaiwa.net\/i-was-wondering-if-%EF%BD%9E-%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%A84%E3%81%A4%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9\/",
+                "text": "目次動画チュートリアル1. “I was wondering if ～.”の意味と使い方2. “wonder”は思いを巡らせているときにも使う3. 相手に許可をもらうときに...",
+                "fallback": "RYO 英会話ジム: ”I was wondering if ～.”の意味と4つの使い方【考えを伝えたり丁寧な表現に】 | RYO英会話ジム",
+                "image_url": "https:\/\/ryotoeikaiwa.net\/wp-content\/uploads\/2017\/02\/Click-here-for-regular-updates.-2.png",
+                "image_width": 450,
+                "image_height": 250,
+                "ts": 1487392738,
+                "from_url": "https:\/\/ryotoeikaiwa.net\/i-was-wondering-if-%EF%BD%9E-%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%A84%E3%81%A4%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9\/",
+                "image_bytes": 410705,
+                "service_icon": "https:\/\/ryotoeikaiwa.net\/wp-content\/uploads\/2021\/07\/1982cdf9e97b39a5332cc86976318917.png",
+                "id": 1,
+                "original_url": "https:\/\/ryotoeikaiwa.net\/i-was-wondering-if-%EF%BD%9E-%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%A84%E3%81%A4%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y1O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nick, shall we go to break Bob's ticket of human tonight?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nニック、今夜はボブの人間のチケットを破りに行きましょうか。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/ryotoeikaiwa.net\/i-was-wondering-if-%EF%BD%9E-%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%A84%E3%81%A4%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " I was wondering if  めっちゃ便利って思ってるのに使えたことない。意識したい。忘れる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I was wondering if もしよければしませんか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I was wondering if you'd like to もしよければしませんか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I was wondering if you could よろしければしていただけますか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "violate 違反する、破る、侵す 前もやった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "fundamental human rights 基本的人権 最近やった せめてrightぐらい書け"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629949952.001600",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "B03FBDF5-DB33-438E-9382-FD85BE0DFDD5",
+        "type": "message",
+        "text": "Nick, shall we invade standard human rights of Bob tonight?",
+        "user": "U01F42ZFA73",
+        "ts": "1629956209.004300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A4F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nick, shall we invade standard human rights of Bob tonight?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629947761.001400"
+    }
+]

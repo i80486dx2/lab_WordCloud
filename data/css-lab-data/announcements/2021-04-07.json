@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "41E083F7-4BFA-4F19-90CC-919F8F956C6D",
+        "type": "message",
+        "text": "今日はオンラインですか？オンサイトですか？",
+        "user": "U01FP2RDV44",
+        "ts": "1617780386.021000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bgt=r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日はオンラインですか？オンサイトですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617083454.015400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "f403a686-49af-4ced-a051-9eea248df3a8",
+        "type": "message",
+        "text": "<#CLBRA6QJ3|seminar> の方にzoomアドレスをポストしました。ラボにも結構人いたけど。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617780436.021200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qSQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "CLBRA6QJ3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " の方にzoomアドレスをポストしました。ラボにも結構人いたけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617083454.015400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "bca7ff72-ac00-4627-a838-05a54290c090",
+        "type": "message",
+        "text": "<@U01FP2RDV44>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617780445.021400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zmg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01FP2RDV44"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617083454.015400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "D159E7BD-817E-43F4-8EE0-60DA2DC08C5D",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>　ありがとうございます。",
+        "user": "U01FP2RDV44",
+        "ts": "1617780818.021900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7=Wso",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617083454.015400",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

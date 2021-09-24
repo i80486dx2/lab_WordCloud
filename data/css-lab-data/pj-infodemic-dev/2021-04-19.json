@@ -1,0 +1,395 @@
+[
+    {
+        "client_msg_id": "0eacec72-f35e-4aeb-9404-afd14ef48b3e",
+        "type": "message",
+        "text": "本日もオンラインで参加します",
+        "user": "U01KC41PR9C",
+        "ts": "1618818567.031200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G3dMT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日もオンラインで参加します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f268e06a-588f-40e9-b090-f92250462beb",
+        "type": "message",
+        "text": "こちらで！：<https:\/\/us06web.zoom.us\/j\/99266177893?pwd=OWJOeHAzaW1mQmhVWEpmNitaamVwdz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618819209.031500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aOFvB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらで！："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/99266177893?pwd=OWJOeHAzaW1mQmhVWEpmNitaamVwdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9eb5f131-b5e3-49ea-966b-497f63b64bac",
+        "type": "message",
+        "text": "覚え書き\n• ハッシュタグモードに加えて全文検索モード\n• RTグラフのプロトタイプ",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618819900.032300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ecn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "覚え書き\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ハッシュタグモードに加えて全文検索モード"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "RTグラフのプロトタイプ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "先ほどのネットワークグラフデモです。",
+        "files": [
+            {
+                "id": "F01U96FSYLF",
+                "created": 1618820317,
+                "timestamp": 1618820317,
+                "name": "Demo1.mp4",
+                "title": "Demo1.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U01KC41PR9C",
+                "editable": false,
+                "size": 199173835,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01U96FSYLF\/demo1.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01U96FSYLF\/download\/demo1.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01U96FSYLF-a8cac00454\/demo1_thumb_video.jpeg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01KC41PR9C\/F01U96FSYLF\/demo1.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01U96FSYLF-f86c9086dd",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01UQ61JCSF",
+                "created": 1618820348,
+                "timestamp": 1618820348,
+                "name": "Demo2.mp4",
+                "title": "Demo2.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U01KC41PR9C",
+                "editable": false,
+                "size": 61963560,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01UQ61JCSF\/demo2.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01UQ61JCSF\/download\/demo2.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01UQ61JCSF-c6e9d742ee\/demo2_thumb_video.jpeg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01KC41PR9C\/F01UQ61JCSF\/demo2.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01UQ61JCSF-8062496017",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+jjB=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先ほどのネットワークグラフデモです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01KC41PR9C",
+        "ts": "1618820358.032800",
+        "thread_ts": "1618820358.032800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1618820635.033900",
+        "reply_users": [
+            "U01KC41PR9C",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1618820434.033300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618820530.033500"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1618820635.033900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618820635.033900",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "U01EL0SAUTF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e3281ae-394d-4b60-b149-7e7b3ad316fb",
+        "type": "message",
+        "text": "Demo2はリツイート数が多い場合の挙動です。",
+        "user": "U01KC41PR9C",
+        "ts": "1618820434.033300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GYMSx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Demo2はリツイート数が多い場合の挙動です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618820358.032800",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "254809f3-4d5a-4224-82a2-566ca00f2ba5",
+        "type": "message",
+        "text": "<@U01KC41PR9C> 思ったよりも軽い！RTは大きいときで数千オーダーになる場合があるので、そういう場合は対策を考えないとですね。まだ先の話ですが。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618820530.033500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rzy06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 思ったよりも軽い！RTは大きいときで数千オーダーになる場合があるので、そういう場合は対策を考えないとですね。まだ先の話ですが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618820358.032800",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "beff8b11-9617-447b-8858-bed269e1efa2",
+        "type": "message",
+        "text": "そうですね。デモですので上限100件で描画しています。\n今後チューニングすればもう少しいけるかもしれません。",
+        "user": "U01KC41PR9C",
+        "ts": "1618820635.033900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね。デモですので上限100件で描画しています。\n今後チューニングすればもう少しいけるかもしれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618820358.032800",
+        "parent_user_id": "U01KC41PR9C",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

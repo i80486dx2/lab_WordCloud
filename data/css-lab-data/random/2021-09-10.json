@@ -1,0 +1,180 @@
+[
+    {
+        "client_msg_id": "b93985fb-bad2-4341-968b-4e607d781ab1",
+        "type": "message",
+        "text": "大学の研究室も何かしら変化がありそう。\n<https:\/\/twitter.com\/shohei_ub\/status\/1436355723735154691|https:\/\/twitter.com\/shohei_ub\/status\/1436355723735154691>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631333282.017700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/shohei_ub|@shohei_ub>: コロナ禍でMicrosoft社6万人がフルリモートになったことの仕事への影響を調べた壮大な社会実験結果：\n\n- グループ外との関係性が希薄化し、グループ内の関係性が強化された\n- サイロ化され、非公式の協働ネットワークが崩壊した\n- 新規に発生する関係性が減少し、ネットワークの固定化が進んだ (1\/n) <https:\/\/pbs.twimg.com\/media\/E-71pWhVQAA7Yk_.jpg>",
+                "ts": 1631288865,
+                "author_name": "Shohei",
+                "author_link": "https:\/\/twitter.com\/shohei_ub\/status\/1436355723735154691",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1306062206342066181\/59Kh4Ubg_normal.jpg",
+                "author_subname": "@shohei_ub",
+                "text": "コロナ禍でMicrosoft社6万人がフルリモートになったことの仕事への影響を調べた壮大な社会実験結果：\n\n- グループ外との関係性が希薄化し、グループ内の関係性が強化された\n- サイロ化され、非公式の協働ネットワークが崩壊した\n- 新規に発生する関係性が減少し、ネットワークの固定化が進んだ (1\/n) <https:\/\/pbs.twimg.com\/media\/E-71pWhVQAA7Yk_.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/shohei_ub\/status\/1436355723735154691",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E-71pWhVQAA7Yk_.jpg",
+                "image_width": 1200,
+                "image_height": 1092,
+                "image_bytes": 208139,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/shohei_ub\/status\/1436355723735154691",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/E-71rqhVkAg88Tp.png>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E-71rqhVkAg88Tp.png",
+                "image_width": 685,
+                "image_height": 395,
+                "image_bytes": 120367,
+                "id": 2
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/E-711FbUcAIrQg4.png>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E-711FbUcAIrQg4.png",
+                "image_width": 685,
+                "image_height": 641,
+                "image_bytes": 161612,
+                "id": 3
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/E-716I1VEAIYnTB.png>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E-716I1VEAIYnTB.png",
+                "image_width": 685,
+                "image_height": 627,
+                "image_bytes": 98824,
+                "id": 4
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4EGvK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大学の研究室も何かしら変化がありそう。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/shohei_ub\/status\/1436355723735154691",
+                                "text": "https:\/\/twitter.com\/shohei_ub\/status\/1436355723735154691"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50811e13-6dbd-4b17-a55c-00d6d0a5cd80",
+        "type": "message",
+        "text": "マスキングを使えば何かしら視界を限定したいような実験もできるのかな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631333485.017900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YjNE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マスキングを使えば何かしら視界を限定したいような実験もできるのかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631091407.012500",
+        "parent_user_id": "U01EPKVACEN"
+    },
+    {
+        "client_msg_id": "53871a39-1fcf-46d5-a494-0f0d78e1368e",
+        "type": "message",
+        "text": "できると思います",
+        "user": "U01EPKVACEN",
+        "ts": "1631334935.019100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TPQD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "できると思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631091407.012500",
+        "parent_user_id": "U01EPKVACEN",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

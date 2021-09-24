@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "34e5b704-dfeb-4c2a-ab87-d043c3a55b2d",
+        "type": "message",
+        "text": "自分は、randomのtopicを文字通りに受け取っています。そこで自身が何かを投稿する際は、アホな話、知的な話の調整を投稿数を軸にして書いてます。その方が皆にとって見やすいだろうと思って書いてました。\n\nしかし、研究室用のslackで何かを投稿するならアホな話でなく、知的な話をした方が常識的です。なので、この投稿に関しては自分に非があると思います。",
+        "user": "U01F42ZFA73",
+        "ts": "1625995722.118000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1626000856.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yYnw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分は、randomのtopicを文字通りに受け取っています。そこで自身が何かを投稿する際は、アホな話、知的な話の調整を投稿数を軸にして書いてます。その方が皆にとって見やすいだろうと思って書いてました。\n\nしかし、研究室用のslackで何かを投稿するならアホな話でなく、知的な話をした方が常識的です。なので、この投稿に関しては自分に非があると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625898501.116400",
+        "parent_user_id": "U01F42ZFA73"
+    }
+]

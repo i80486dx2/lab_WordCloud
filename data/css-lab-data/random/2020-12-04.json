@@ -1,0 +1,171 @@
+[
+    {
+        "client_msg_id": "b5422831-bff2-497b-b589-f5a206ced5a7",
+        "type": "message",
+        "text": "これってLICTiAの利用申請は２２日だけでいいんだよね？",
+        "user": "UPSPAMY7M",
+        "ts": "1607069639.055000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QpFIw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これってLICTiAの利用申請は２２日だけでいいんだよね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607068672.054700",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "75DB5845-A157-4152-8E69-CE2776D293AE",
+        "type": "message",
+        "text": "正式に使いたいのは22日ですが、開発とかでも使いたいです。開発は一時的に(数時間)使うって感じで申請しなくて大丈夫ですかね？",
+        "user": "UPRE1RSJW",
+        "ts": "1607069822.057100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jjc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "正式に使いたいのは22日ですが、開発とかでも使いたいです。開発は一時的に(数時間)使うって感じで申請しなくて大丈夫ですかね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607068672.054700",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "50d44b41-de4f-44c3-9b4d-1e918d828bbc",
+        "type": "message",
+        "text": "そうですね、由本先生とかは比較的勝手に使っているので大丈夫だと思います。",
+        "user": "UPSPAMY7M",
+        "ts": "1607069917.057300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aw2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね、由本先生とかは比較的勝手に使っているので大丈夫だと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607068672.054700",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "2b085c7a-44a2-4f46-af6f-0c7493c384a5",
+        "type": "message",
+        "text": "申請必要であればまた連絡します。",
+        "user": "UPSPAMY7M",
+        "ts": "1607069938.057500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sjgC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申請必要であればまた連絡します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607068672.054700",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

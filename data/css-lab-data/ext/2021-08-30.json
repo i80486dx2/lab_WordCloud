@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "3ffe05bf-c55f-4e5d-bff5-36cc9ba54074",
+        "type": "message",
+        "text": "<@UKH07E67M> <@U01EVRBP38C> <@U01RVMS0XBL> <@U027LSCGUBC> 照明を交換する工事で9月いっぱい道場は使えないようです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630310118.003800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dXe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EVRBP38C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01RVMS0XBL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U027LSCGUBC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 照明を交換する工事で9月いっぱい道場は使えないようです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U027LSCGUBC",
+                    "U01EVRBP38C",
+                    "UKH07E67M",
+                    "U01RVMS0XBL"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

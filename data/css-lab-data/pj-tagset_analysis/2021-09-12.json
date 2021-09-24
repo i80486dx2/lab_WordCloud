@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "text": "最大タグ数20,総データ数390万のデータから、100投稿刻みでNRを取ってみました。\nここでいうNRは\n100n+1~100n+100投稿目までに、新規のタグを1つ以上含むタグセットの総数\/100\nとしています。\n\nみた限り、減衰どころか増える様子がだいぶ見えているのですが、これでいいのだろうか...?という感じです。",
+        "files": [
+            {
+                "id": "F02ECP3G96Y",
+                "created": 1631515916,
+                "timestamp": 1631515916,
+                "name": "スクリーンショット 2021-09-13 15.51.37.png",
+                "title": "スクリーンショット 2021-09-13 15.51.37.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 343451,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02ECP3G96Y\/____________________________2021-09-13_15.51.37.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02ECP3G96Y\/download\/____________________________2021-09-13_15.51.37.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02ECP3G96Y-166d062881\/____________________________2021-09-13_15.51.37_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02ECP3G96Y-166d062881\/____________________________2021-09-13_15.51.37_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02ECP3G96Y-166d062881\/____________________________2021-09-13_15.51.37_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 251,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02ECP3G96Y-166d062881\/____________________________2021-09-13_15.51.37_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 335,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02ECP3G96Y-166d062881\/____________________________2021-09-13_15.51.37_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02ECP3G96Y-166d062881\/____________________________2021-09-13_15.51.37_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 502,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02ECP3G96Y-166d062881\/____________________________2021-09-13_15.51.37_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 558,
+                "original_w": 880,
+                "original_h": 614,
+                "thumb_tiny": "AwAhADDSJpMZOd35UvfpTZFJwB34OKaAXZ\/tH86RtqpuZyAO+apy3MsbKhU4Xlj6jNUpriSYkEnb2FaxpNiuaJvIBLs3t\/vdqliuI5iRG2SOTxWQ0EixCQr8vSrOl\/6x\/oP51UqcVG6C5qd6KTOOooJx1rnGRzRB0fPdSKrWluqyNkZIHH4gVdJ4NJ05PpVqTSsA2aISQtH6iobeAQzvt6ED+lWScCkxzmkpNKwDqKKKkAooooAKKKKAP\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F02ECP3G96Y\/____________________________2021-09-13_15.51.37.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02ECP3G96Y-c7d9a0cbab",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PkwM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最大タグ数20,総データ数390万のデータから、100投稿刻みでNRを取ってみました。\nここでいうNRは\n100n+1~100n+100投稿目までに、新規のタグを1つ以上含むタグセットの総数\/100\nとしています。\n\nみた限り、減衰どころか増える様子がだいぶ見えているのですが、これでいいのだろうか...?という感じです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKUKA65GU",
+        "display_as_bot": false,
+        "ts": "1631516070.018200"
+    }
+]

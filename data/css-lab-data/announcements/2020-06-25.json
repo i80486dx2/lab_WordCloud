@@ -1,0 +1,268 @@
+[
+    {
+        "client_msg_id": "b2906a86-35b5-4cae-bcdf-76316996dc09",
+        "type": "message",
+        "text": "<@UQ47R82RW> <@UPSPAP97D> <@UKH07E67M> (<@UPSPAMY7M>) この件、これから3週間～1ヵ月くらいで、会津若松市内の人流GPSデータを元にアイデアを出して、コロナ前後の人の生活様式の変化などを分析するという感じになりそうです。皆さんからは関心がある旨、聞いていますが、コミットできそうですか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1593083660.022400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DHrM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") この件、これから3週間～1ヵ月くらいで、会津若松市内の人流GPSデータを元にアイデアを出して、コロナ前後の人の生活様式の変化などを分析するという感じになりそうです。皆さんからは関心がある旨、聞いていますが、コミットできそうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591168885.011200",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "b8e6afdb-d91c-4453-9db8-e72007b08a80",
+        "type": "message",
+        "text": "「まだ3年生なのであまり高度なことはできないかも」というエクスキューズは伝えておこうと思いますが。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1593083726.022600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DTnb2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「まだ3年生なのであまり高度なことはできないかも」というエクスキューズは伝えておこうと思いますが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591168885.011200",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca774b74-2d55-4d11-bcf0-0a6a1b031e6a",
+        "type": "message",
+        "text": "まだ授業始まっていないのでなんとも言えませんが、できると思います。",
+        "user": "UQ47R82RW",
+        "ts": "1593083784.022900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yiWbb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まだ授業始まっていないのでなんとも言えませんが、できると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591168885.011200",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45F3340B-11AA-4DA3-AB00-EC49CADCAD45",
+        "type": "message",
+        "text": "おそらく、授業前半（1カ月以内）なら後半よりは提出物の大変さが少ないと思うので、できると思います。",
+        "user": "UPSPAP97D",
+        "ts": "1593085946.028200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FRno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おそらく、授業前半（1カ月以内）なら後半よりは提出物の大変さが少ないと思うので、できると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591168885.011200",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84BD5891-2DB2-4222-AB64-29D9B7E857F9",
+        "type": "message",
+        "text": "同じくやります。",
+        "user": "UKH07E67M",
+        "ts": "1593104963.028800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vafp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "同じくやります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1591168885.011200",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

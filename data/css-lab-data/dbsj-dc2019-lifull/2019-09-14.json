@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "text": "上げ忘れていました",
+        "files": [
+            {
+                "id": "FNEF9PHP1",
+                "created": 1568527008,
+                "timestamp": 1568527008,
+                "name": "WebDBend.pptx",
+                "title": "WebDBend.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 62269,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FNEF9PHP1\/webdbend.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FNEF9PHP1\/download\/webdbend.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FNEF9PHP1-e357b42a2e\/webdbend_converted.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FNEF9PHP1-e357b42a2e\/webdbend_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/FNEF9PHP1\/webdbend.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-FNEF9PHP1-700b16dc20",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UKH07E67M",
+        "display_as_bot": false,
+        "ts": "1568527011.000100",
+        "client_msg_id": "24f198e0-2664-4fb5-84b9-e2752bf97444"
+    }
+]

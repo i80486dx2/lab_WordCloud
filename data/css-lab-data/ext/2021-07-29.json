@@ -1,0 +1,233 @@
+[
+    {
+        "client_msg_id": "fa58f217-edc6-4169-9632-590c36b7c80a",
+        "type": "message",
+        "text": "<@U01RVMS0XBL> <@UKH07E67M> <@U01EVRBP38C> <@U027LSCGUBC> 8月も一応以下の時間帯で道場を予約してあります。\n• 月曜：19:00～21:00（8\/9は祝日で休み）\n• 木曜：18:00～20:00\n私がいけない日があれば連絡します。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627547954.002100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SRz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01RVMS0XBL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EVRBP38C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U027LSCGUBC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 8月も一応以下の時間帯で道場を予約してあります。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "月曜：19:00～21:00（8\/9は祝日で休み）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "木曜：18:00～20:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私がいけない日があれば連絡します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U027LSCGUBC",
+                    "UKH07E67M",
+                    "U01RVMS0XBL",
+                    "U01EVRBP38C"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2cfe0325-0889-47f2-be53-12a62169b7a5",
+        "type": "message",
+        "text": "月曜は池本さんのカンフーが17:00～19:00にやってるので、覗いてみてもよいかも。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627548016.002700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WSp+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "月曜は池本さんのカンフーが17:00～19:00にやってるので、覗いてみてもよいかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U027LSCGUBC",
+                    "UKH07E67M",
+                    "U01RVMS0XBL",
+                    "U01EVRBP38C"
+                ],
+                "count": 4
+            },
+            {
+                "name": "woman-wrestling",
+                "users": [
+                    "U01TMSLEBUH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05e5e3c1-7688-485e-8fb0-2e45a920f820",
+        "type": "message",
+        "text": "機会があってアルプスアルパインに会社見学に行けることになったんですが行きたい人いませんか？\n僕含めて4人までいけるので行きたい人アドリアつけてください。アドリアが４つ付き次第募集終了とします。\n日程は8\/26(木)を予定しています。",
+        "user": "UPRE1RSJW",
+        "ts": "1627628244.002500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ba4D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "機会があってアルプスアルパインに会社見学に行けることになったんですが行きたい人いませんか？\n僕含めて4人までいけるので行きたい人アドリアつけてください。アドリアが４つ付き次第募集終了とします。\n日程は8\/26(木)を予定しています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627628244.002500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1627871675.002800",
+        "reply_users": [
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1627871675.002800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

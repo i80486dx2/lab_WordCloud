@@ -1,0 +1,231 @@
+[
+    {
+        "client_msg_id": "e123eab2-5d93-4068-8d92-29cc3d85f60e",
+        "type": "message",
+        "text": "<@U01KC41PR9C> <@U01EL0SAUTF> 次回6\/8（火）のmtgは一応17時にしてありましたが、可能なら16時にできれば。どうでしょうか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622981864.053500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8dk5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 次回6\/8（火）のmtgは一応17時にしてありましたが、可能なら16時にできれば。どうでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U01KC41PR9C",
+                    "U01EL0SAUTF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "thankyou",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3dcadd6-4d8b-4652-ad9f-4cc5d858fdca",
+        "type": "message",
+        "text": "<@UPSPAP97D> 可視化情報シンポジウムが9月にあるので、今回の分析を少し発展させて発表しましょう。\n<http:\/\/www.vsj.jp\/symp2021\/submission.html>\n\n申し込み締切が6\/11（金）、論文の締切が7\/9（金）です。今週どこかで打ち合わせできますか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623047534.056100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "発表申し込み・本論文投稿",
+                "title_link": "http:\/\/www.vsj.jp\/symp2021\/submission.html",
+                "text": "可視化情報シンポジウム 2021 in 神奈川, 開催日：2021年9月9日（木），10日（金），11日（土）, 主催：（社）可視化情報学会",
+                "fallback": "発表申し込み・本論文投稿",
+                "from_url": "http:\/\/www.vsj.jp\/symp2021\/submission.html",
+                "service_icon": "http:\/\/www.vsj.jp\/favicon.ico",
+                "service_name": "vsj.jp",
+                "id": 1,
+                "original_url": "http:\/\/www.vsj.jp\/symp2021\/submission.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Tge1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 可視化情報シンポジウムが9月にあるので、今回の分析を少し発展させて発表しましょう。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.vsj.jp\/symp2021\/submission.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n申し込み締切が6\/11（金）、論文の締切が7\/9（金）です。今週どこかで打ち合わせできますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623047534.056100",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1623051983.057200",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1623047988.056300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1623050634.056600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1623050804.056800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1623051905.057000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1623051983.057200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1623051983.057200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa928545-3fe3-40e2-94bc-356e11e922ee",
+        "type": "message",
+        "text": "<@UPSPAP97D> 例えば以下のような内容でどうでしょう。\n```和文タイトル：Twitter上のCOVID-19ワクチンに関する情報フローの探索的可視化\n英文タイトル：Explorative Visualization of COVID-19 Vaccination-Related Information Flow on Twitter\nキーワード：COVID-19, Twitter, コミュニティ構造\nセッション（第１希望）：ソーシャルデータの可視化\nセッション（第２希望）：ビジュアルデータサイエンス```\n",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623047988.056300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PwBO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 例えば以下のような内容でどうでしょう。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "和文タイトル：Twitter上のCOVID-19ワクチンに関する情報フローの探索的可視化\n英文タイトル：Explorative Visualization of COVID-19 Vaccination-Related Information Flow on Twitter\nキーワード：COVID-19, Twitter, コミュニティ構造\nセッション（第１希望）：ソーシャルデータの可視化\nセッション（第２希望）：ビジュアルデータサイエンス"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623047534.056100",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

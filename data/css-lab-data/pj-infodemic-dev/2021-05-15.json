@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "9fc211f5-4bf7-4fab-93d5-90625050c2e8",
+        "type": "message",
+        "text": "<!channel> Covid19のツイートの最新版（20210331まで）をサーバの \/home\/hashimoto\/infodemic_20210516 に置きました。 \/home\/hashimoto\/infodemic\/ 以下のファイルと比較してみた感じでは、抜けがあった8月などのツイートが増えているようです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621097578.086700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GaVRS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Covid19のツイートの最新版（20210331まで）をサーバの \/home\/hashimoto\/infodemic_20210516 に置きました。 \/home\/hashimoto\/infodemic\/ 以下のファイルと比較してみた感じでは、抜けがあった8月などのツイートが増えているようです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EL0SAUTF",
+                    "U01KC41PR9C"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

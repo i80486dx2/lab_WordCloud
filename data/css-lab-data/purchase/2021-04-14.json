@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "e2f62b69-c66f-47ef-b856-33816b308072",
+        "type": "message",
+        "text": "<@UKH07E67M> <@U01FP2RDV44> 届いたので学生部屋の本棚に置いておきました。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618406173.004100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hRc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01FP2RDV44"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 届いたので学生部屋の本棚に置いておきました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618205915.003400",
+        "parent_user_id": "UKH07E67M",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U01FP2RDV44",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

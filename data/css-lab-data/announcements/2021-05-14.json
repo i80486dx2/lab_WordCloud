@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "446c1a47-0678-4a73-b0e8-e9bccf2fb72b",
+        "type": "message",
+        "text": "<!channel> 学生募集係から大学院入試の案内メールがきたので皆さんに転送しました。４年生は確認しておいてください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620980271.028000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1620980394.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z+U6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 学生募集係から大学院入試の案内メールがきたので皆さんに転送しました。４年生は確認しておいてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

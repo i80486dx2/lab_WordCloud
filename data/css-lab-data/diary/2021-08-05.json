@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "054c04a7-191b-47bd-a1ea-776414552011",
+        "type": "message",
+        "text": "denai-Englishの解答回数70回になっていた。wordでなく、excelで記録を残しておけばよかったなぁと後悔する。",
+        "user": "U01F42ZFA73",
+        "ts": "1628152270.016300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bOI2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "denai-Englishの解答回数70回になっていた。wordでなく、excelで記録を残しておけばよかったなぁと後悔する。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

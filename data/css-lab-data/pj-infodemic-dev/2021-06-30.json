@@ -1,0 +1,1202 @@
+[
+    {
+        "client_msg_id": "57ea65b8-4c3a-4174-82d2-dfa574129f12",
+        "type": "message",
+        "text": "<@U01KC41PR9C> <@U01EL0SAUTF> 今日はオフィス？オンライン？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625038557.095900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5NG9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日はオフィス？オンライン？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625038557.095900",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1625039917.097400",
+        "reply_users": [
+            "U01EL0SAUTF",
+            "U01KC41PR9C"
+        ],
+        "replies": [
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1625039159.096900"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1625039910.097200"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1625039917.097400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625039917.097400"
+    },
+    {
+        "client_msg_id": "1a16536f-4522-4498-8197-30fe59fa9992",
+        "type": "message",
+        "text": "<@UPSPAP97D> これ、今日時間あれば少し話聞けますか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625038599.096000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V7HFr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これ、今日時間あれば少し話聞けますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624856839.095300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "f31891bd-caf3-4780-96f1-18820f4ed3de",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> オンラインでなら大丈夫です。",
+        "user": "UPSPAP97D",
+        "ts": "1625038817.096200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZKw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " オンラインでなら大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624856839.095300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "b1af0409-b8d7-4ff5-bbb0-688f3d31edf2",
+        "type": "message",
+        "text": "<@UPSPAP97D> OK。開発の方のmtgが17時からなので、18時くらい当てしておいてもらえますか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625038874.096400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q=+Ip",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " OK。開発の方のmtgが17時からなので、18時くらい当てしておいてもらえますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624856839.095300",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52379254-CF10-401E-B8AD-A31D1E10420D",
+        "type": "message",
+        "text": "今からオフィス向かいます！",
+        "user": "U01EL0SAUTF",
+        "ts": "1625039159.096900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "grk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今からオフィス向かいます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625038557.095900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aeebd3ab-38ce-4f80-afb0-9f4ce62031ab",
+        "type": "message",
+        "text": "オフィスに向かいます",
+        "user": "U01KC41PR9C",
+        "ts": "1625039910.097200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "anW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "オフィスに向かいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625038557.095900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "c9c3cc6a-e783-40d6-b046-3bdb476d46cc",
+        "type": "message",
+        "text": "少し遅れます",
+        "user": "U01KC41PR9C",
+        "ts": "1625039917.097400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kt7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "少し遅れます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625038557.095900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4012915a-0cb8-444b-9be3-d182af9db72b",
+        "type": "message",
+        "text": "<@U01KC41PR9C> <@U01EL0SAUTF> フロントエンド覚え書き：\n• カラム別は意外と便利そう。\n• ツイートにRT数を表示させる。\n• 振る舞い微調整\n    ◦ カラム間のツイートリストの同期をさせない。\n    ◦ 最初のカラムの検索ワードのデフォ値を\"Covid-19\"。2カラム目以降は空欄。\n    ◦ カラムごとに削除ボタン\n    ◦ ツイートをスレッドごと表示しない。\n• デザイン微調整\n    ◦ カラムを幅を固定（例えば600pxくらい？）\n    ◦ その他",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625041736.098000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1625044040.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " フロントエンド覚え書き：\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "カラム別は意外と便利そう。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ツイートにRT数を表示させる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "振る舞い微調整"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "カラム間のツイートリストの同期をさせない。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "最初のカラムの検索ワードのデフォ値を\"Covid-19\"。2カラム目以降は空欄。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "カラムごとに削除ボタン"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ツイートをスレッドごと表示しない。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "デザイン微調整"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "カラムを幅を固定（例えば600pxくらい？）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "その他"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c64d727-b43f-4cf0-a76b-fb905b6ae839",
+        "type": "message",
+        "text": "<@UPSPAP97D> 申し訳ないです。少し長引いていて、18:30にお願いできますか。申し訳ない。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625043305.098600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1625043317.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U\/pq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 申し訳ないです。少し長引いていて、18:30にお願いできますか。申し訳ない。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624856839.095300",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b840698-eed6-4873-aa06-cdc789e2c3e4",
+        "type": "message",
+        "text": "<@UPSPAP97D> 18:30からこちらで：<https:\/\/us06web.zoom.us\/j\/85201922448?pwd=SUhLMlNaVWZSWjdlakVtMVNFYjdLdz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625044234.099100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m9yd5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 18:30からこちらで："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/85201922448?pwd=SUhLMlNaVWZSWjdlakVtMVNFYjdLdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624856839.095300",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "スレッド元ツイートの非表示が成功しました。\nembedのソースコードと公式リファレンスのお蔭です。\n(右下が本日問題のツイート)",
+        "files": [
+            {
+                "id": "F026KA7MRQD",
+                "created": 1625054191,
+                "timestamp": 1625054191,
+                "name": "スクリーンショット 2021-06-30 205506.png",
+                "title": "スクリーンショット 2021-06-30 205506.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01KC41PR9C",
+                "editable": false,
+                "size": 89029,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026KA7MRQD\/____________________________2021-06-30_205506.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026KA7MRQD\/download\/____________________________2021-06-30_205506.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026KA7MRQD-b47e3ae12e\/____________________________2021-06-30_205506_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026KA7MRQD-b47e3ae12e\/____________________________2021-06-30_205506_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026KA7MRQD-b47e3ae12e\/____________________________2021-06-30_205506_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026KA7MRQD-b47e3ae12e\/____________________________2021-06-30_205506_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026KA7MRQD-b47e3ae12e\/____________________________2021-06-30_205506_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026KA7MRQD-b47e3ae12e\/____________________________2021-06-30_205506_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026KA7MRQD-b47e3ae12e\/____________________________2021-06-30_205506_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026KA7MRQD-b47e3ae12e\/____________________________2021-06-30_205506_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026KA7MRQD-b47e3ae12e\/____________________________2021-06-30_205506_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCs1wrY3QRnH1FN82P\/AJ4J\/wB9H\/GmADuCfpSnABG059aYhgJHQ0E560UUxBSjqKSigDass\/ZY8elLe5+xy59KhtHYW0YB7Ut27G1kBPakUZNFFFMkKKKKAP\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01KC41PR9C\/F026KA7MRQD\/____________________________2021-06-30_205506.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F026KA7MRQD-7542fe5de9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2rq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スレッド元ツイートの非表示が成功しました。\nembedのソースコードと公式リファレンスのお蔭です。\n(右下が本日問題のツイート)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01KC41PR9C",
+        "display_as_bot": false,
+        "ts": "1625054310.101600",
+        "thread_ts": "1625054310.101600",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1625061867.103500",
+        "reply_users": [
+            "U01KC41PR9C",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1625054404.101900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625057520.102500"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1625060235.102700"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1625060426.103300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625061867.103500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625061867.103500",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Before:",
+        "files": [
+            {
+                "id": "F027C25NF9N",
+                "created": 1625054394,
+                "timestamp": 1625054394,
+                "name": "スクリーンショット 2021-06-30 205903.png",
+                "title": "スクリーンショット 2021-06-30 205903.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01KC41PR9C",
+                "editable": false,
+                "size": 89983,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027C25NF9N\/____________________________2021-06-30_205903.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027C25NF9N\/download\/____________________________2021-06-30_205903.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027C25NF9N-5bd8a7f05c\/____________________________2021-06-30_205903_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027C25NF9N-5bd8a7f05c\/____________________________2021-06-30_205903_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027C25NF9N-5bd8a7f05c\/____________________________2021-06-30_205903_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027C25NF9N-5bd8a7f05c\/____________________________2021-06-30_205903_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027C25NF9N-5bd8a7f05c\/____________________________2021-06-30_205903_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027C25NF9N-5bd8a7f05c\/____________________________2021-06-30_205903_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027C25NF9N-5bd8a7f05c\/____________________________2021-06-30_205903_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027C25NF9N-5bd8a7f05c\/____________________________2021-06-30_205903_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027C25NF9N-5bd8a7f05c\/____________________________2021-06-30_205903_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCs00TYzbr+DYpvmQ\/88P8Ax80wbe+c+1HygEc5piGgkdDQST1oopiClHUUlFAGzZqDaxHA+7S3qgWknA6Uln\/x6w\/Slvf+PSX\/AHakoxaKKKokKKKKAP\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01KC41PR9C\/F027C25NF9N\/____________________________2021-06-30_205903.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F027C25NF9N-ca1a8231f4",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F027116U3QR",
+                "created": 1625054397,
+                "timestamp": 1625054397,
+                "name": "スクリーンショット 2021-06-30 205920.png",
+                "title": "スクリーンショット 2021-06-30 205920.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01KC41PR9C",
+                "editable": false,
+                "size": 115348,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027116U3QR\/____________________________2021-06-30_205920.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027116U3QR\/download\/____________________________2021-06-30_205920.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027116U3QR-6e0725c0bf\/____________________________2021-06-30_205920_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027116U3QR-6e0725c0bf\/____________________________2021-06-30_205920_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027116U3QR-6e0725c0bf\/____________________________2021-06-30_205920_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027116U3QR-6e0725c0bf\/____________________________2021-06-30_205920_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027116U3QR-6e0725c0bf\/____________________________2021-06-30_205920_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027116U3QR-6e0725c0bf\/____________________________2021-06-30_205920_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027116U3QR-6e0725c0bf\/____________________________2021-06-30_205920_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027116U3QR-6e0725c0bf\/____________________________2021-06-30_205920_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027116U3QR-6e0725c0bf\/____________________________2021-06-30_205920_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCS1tYXt43ZMsRknmlurSFLeR1jwwGc5NS2X\/HpFg\/w0t7n7HLz2pgYlFFFMkKB1oo70AbVkP8ARIvpS3oxZy\/SksVBtY8jtS3qgWcuB2qSjEoooqiQooooA\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01KC41PR9C\/F027116U3QR\/____________________________2021-06-30_205920.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F027116U3QR-4a40ae33d3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bgL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Before:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01KC41PR9C",
+        "ts": "1625054404.101900",
+        "thread_ts": "1625054310.101600",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "457bf987-de46-4061-9bde-ca0fa2a95712",
+        "type": "message",
+        "text": "<@U01KC41PR9C> おー、ナイスゥゥ",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625057520.102500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FYps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おー、ナイスゥゥ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625054310.101600",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "type": "message",
+        "text": "追加情報です。\n• tweet-embed 内のAPI はretweet数を保持していない\n• #Covid-19 を持つツイートのみパラメータ \"news_action_type\" が変化する\n→その結果、\"<https:\/\/twitter.com\/explore\/tabs\/covid-19?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1236668531644612608%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FInterior2Fstatus2F463440424141459456widget%3DTweet|See the latest COVID-19 information on Twitter>\" の表記が出る\n\n画像は、通常時と#Covid-19 のあるツイートのものです。",
+        "files": [
+            {
+                "id": "F026NV87ADR",
+                "created": 1625060218,
+                "timestamp": 1625060218,
+                "name": "図1.png",
+                "title": "図1.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01KC41PR9C",
+                "editable": false,
+                "size": 299447,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026NV87ADR\/___1.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026NV87ADR\/download\/___1.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV87ADR-18f3641d22\/___1_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV87ADR-18f3641d22\/___1_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV87ADR-18f3641d22\/___1_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 347,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV87ADR-18f3641d22\/___1_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 463,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV87ADR-18f3641d22\/___1_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV87ADR-18f3641d22\/___1_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 695,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV87ADR-18f3641d22\/___1_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 772,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV87ADR-18f3641d22\/___1_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 927,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV87ADR-18f3641d22\/___1_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 988,
+                "original_w": 1122,
+                "original_h": 1083,
+                "thumb_tiny": "AwAuADDR6dqX8KDkGjn3oAWiiigApMClooAQnmlFNbrSDnt+tAx9FNx\/nNGP85oEOopu3\/OaXH+c0AITz3oGPelwKNooAPzpcfWkwBS0AGKKKKAP\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01KC41PR9C\/F026NV87ADR\/___1.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F026NV87ADR-c937669ddb",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F026NV8F2BV",
+                "created": 1625060221,
+                "timestamp": 1625060221,
+                "name": "図2.png",
+                "title": "図2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01KC41PR9C",
+                "editable": false,
+                "size": 239641,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026NV8F2BV\/___2.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026NV8F2BV\/download\/___2.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV8F2BV-fd5d0821f7\/___2_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV8F2BV-fd5d0821f7\/___2_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV8F2BV-fd5d0821f7\/___2_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 314,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV8F2BV-fd5d0821f7\/___2_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 419,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV8F2BV-fd5d0821f7\/___2_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV8F2BV-fd5d0821f7\/___2_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 629,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV8F2BV-fd5d0821f7\/___2_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 916,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV8F2BV-fd5d0821f7\/___2_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 838,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NV8F2BV-fd5d0821f7\/___2_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 894,
+                "thumb_1024_h": 1024,
+                "original_w": 948,
+                "original_h": 1086,
+                "thumb_tiny": "AwAwACnS\/ClpCOaMUALRRRQAYFGBRRQAh5pcUhoAHrQAtFGB6UYHpQAUUUUANPWjNIWBPWnZH96mFwyaMmjI9aMj1pAKKKTI9aMj1oA\/\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01KC41PR9C\/F026NV8F2BV\/___2.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F026NV8F2BV-ed860f6f8b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DmCUm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "追加情報です。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "tweet-embed 内のAPI はretweet数を保持していない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "#Covid-19 を持つツイートのみパラメータ \"news_action_type\" が変化する"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "→その結果、\""
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/explore\/tabs\/covid-19?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1236668531644612608%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FInterior2Fstatus2F463440424141459456widget%3DTweet",
+                                "text": "See the latest COVID-19 information on Twitter"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" の表記が出る\n\n画像は、通常時と#Covid-19 のあるツイートのものです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01KC41PR9C",
+        "ts": "1625060235.102700",
+        "thread_ts": "1625054310.101600",
+        "parent_user_id": "U01KC41PR9C",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "634bf833-a71e-450f-a1c2-173c2a6aa296",
+        "type": "message",
+        "text": "Twitterでは別のAPI (Twitter社以外が使用する際はリクエスト制限あり) が叩かれていました。\nその為、リアルタイムのretweet数は取得できなさそうです。\n\n今保持しているデータを重ねて描画する方向で進めます。",
+        "user": "U01KC41PR9C",
+        "ts": "1625060426.103300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P=j6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Twitterでは別のAPI (Twitter社以外が使用する際はリクエスト制限あり) が叩かれていました。\nその為、リアルタイムのretweet数は取得できなさそうです。\n\n今保持しているデータを重ねて描画する方向で進めます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625054310.101600",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "a98442d9-d7b1-4577-a477-3d79e4f2283d",
+        "type": "message",
+        "text": "<@U01KC41PR9C> サーベイThanks。なるほどー。その方向で。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625061867.103500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "poDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " サーベイThanks。なるほどー。その方向で。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625054310.101600",
+        "parent_user_id": "U01KC41PR9C"
+    }
+]

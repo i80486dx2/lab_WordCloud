@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593844142.036400",
+        "user": "U016X0FK7FB",
+        "text": "<@U016X0FK7FB> has joined the channel"
+    },
+    {
+        "bot_id": "B0163K2E5NK",
+        "type": "message",
+        "text": "This content can't be displayed.",
+        "user": "U016X0FK7FB",
+        "ts": "1593844142.036500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B0163K2E5NK",
+            "deleted": false,
+            "name": "BirthdayBot",
+            "updated": 1593844121,
+            "app_id": "A0QAZV90X",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "S7X",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "Hey, Team!\n\nMy name is BirthdayBot and I’ve been appointed to the best position in the company … Chief Executive in-charge of birthday wishes!\nI keep everyone informed about upcoming birthdays and when the special day arrives, I share a fun birthday wish through this channel. I look forward to sharing many happy days!\n",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "fU54F",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "set_birthday",
+                        "text": {
+                            "type": "plain_text",
+                            "text": ":birthday: Add birthday",
+                            "emoji": true
+                        },
+                        "value": "channel"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B0163K2E5NK",
+        "type": "message",
+        "text": "Since it's the day when a BirthdayBot has been added to this team, let's start the first of the greetings and congratulate everyone with the birthday of BirthdayBot, who will do his best to make sure you don't miss a teammate b-day!\n\nThe next congratulation will be posted on the day of your real teammate birthday - you can always send me Direct Message `show bdays` to see upcoming bdays :)",
+        "user": "U016X0FK7FB",
+        "ts": "1593844743.036800",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B0163K2E5NK",
+            "deleted": false,
+            "name": "BirthdayBot",
+            "updated": 1593844121,
+            "app_id": "A0QAZV90X",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "attachments": [
+            {
+                "fallback": "Congratulations!",
+                "image_url": "https:\/\/d31h9pijuvf29u.cloudfront.net\/static\/gif\/congrats\/birthday_magic.gif",
+                "image_width": 252,
+                "image_height": 166,
+                "image_bytes": 509625,
+                "is_animated": true,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a26eae2-7eee-49a4-a49d-4af121c6621d",
+        "type": "message",
+        "text": "BirthdayBotというのを入れてみたけどこのgifはうざいｗ",
+        "user": "UKS1Q2KTQ",
+        "ts": "1593844791.037200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p=1J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BirthdayBotというのを入れてみたけどこのgifはうざいｗ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UPSPAP97D",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

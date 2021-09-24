@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "232586d8-fbde-45c4-a29d-c1a7c924d1cb",
+        "type": "message",
+        "text": "<!channel> 研究室会は定例だと今週ですが、先週面談もしたので、来週10\/21(水)にしたいと思います。授業の関係もあるので、午前にするか夕方遅めにするかはまた追って。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1602462396.003000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "suj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 研究室会は定例だと今週ですが、先週面談もしたので、来週10\/21(水)にしたいと思います。授業の関係もあるので、午前にするか夕方遅めにするかはまた追って。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "UKUKA65GU",
+                    "UKH07E67M",
+                    "UQ63J44BZ"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

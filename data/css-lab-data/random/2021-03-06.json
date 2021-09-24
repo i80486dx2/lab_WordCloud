@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "27755cde-1902-4846-a261-39bf8741a59f",
+        "type": "message",
+        "text": "最近ミーティング出てないので勝手に進捗報告します\n\n```- OpenCVForUnity(中身はほぼOpenCV Java)で画像処理始めました\n- UnityでJoy-Conを取得できたので遊べそうです\n <https:\/\/youtu.be\/QBo8vZNxGRk> \n- 5年ぶりくらいにスマホ買い換えたのでサクサクで嬉しい！```",
+        "user": "U01EPKVACEN",
+        "ts": "1615040684.077600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cBHu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最近ミーティング出てないので勝手に進捗報告します\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "- OpenCVForUnity(中身はほぼOpenCV Java)で画像処理始めました\n- UnityでJoy-Conを取得できたので遊べそうです\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/QBo8vZNxGRk"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n- 5年ぶりくらいにスマホ買い換えたのでサクサクで嬉しい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615040684.077600",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1615104568.078700",
+        "reply_users": [
+            "UPSPAMY7M",
+            "U01EPKVACEN",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1615101892.077900"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1615102581.078200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1615104166.078500"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1615104568.078700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1615104568.078700",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UKUKA65GU",
+                    "UPSPAMY7M",
+                    "UKS1Q2KTQ",
+                    "UKH07E67M",
+                    "U01F42ZFA73"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5b95d80-01ce-4f7f-9785-83d5a2a5aded",
+        "type": "message",
+        "text": "存在は知りつつもノータッチだったんですが、UnityでOpenCVというとARアプリとかで使うような趣が強いんでしょうか？",
+        "user": "UPSPAMY7M",
+        "ts": "1615101892.077900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iLCO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "存在は知りつつもノータッチだったんですが、UnityでOpenCVというとARアプリとかで使うような趣が強いんでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615040684.077600",
+        "parent_user_id": "U01EPKVACEN"
+    },
+    {
+        "client_msg_id": "5a856e50-08c0-4fb2-8149-deba8149b66f",
+        "type": "message",
+        "text": "これ自体はopenCVの機能を提供するだけのものです。ARのために使うか、単なる画像処理のために使うかは自由ですね。",
+        "user": "U01EPKVACEN",
+        "ts": "1615102581.078200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kS5R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これ自体はopenCVの機能を提供するだけのものです。ARのために使うか、単なる画像処理のために使うかは自由ですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615040684.077600",
+        "parent_user_id": "U01EPKVACEN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAMY7M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,195 @@
+[
+    {
+        "client_msg_id": "47729dd1-7b4e-412f-8545-f608545e5ef3",
+        "type": "message",
+        "text": "こちらです：<https:\/\/zoom.us\/j\/98586412553?pwd=NGRPNGJjVVlrcWEvbWY1RGRtRHFIQT09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595836459.164300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxGx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらです："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/98586412553?pwd=NGRPNGJjVVlrcWEvbWY1RGRtRHFIQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595822918.162400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "type": "message",
+        "text": "篠田さんが気になられていた、『ある日の最大移動距離に対し、該当するしきい値に入る人数』のcsvです。\n\n末尾に 19 がつく方が2019の総計、末尾に 20 が 2020の総計です。\n\ndayのカラム: 各行の値に対する日付\n数字のカラム: 一つ前のカラム値以上、今のカラム値未満の範囲\n\ndayに一致する行と しきい値(数字カラム)で、それぞれの該当するしきい値に 最大移動距離が含まれている人数を表してます。",
+        "files": [
+            {
+                "id": "F017BJG7L7R",
+                "created": 1595846556,
+                "timestamp": 1595846556,
+                "name": "max_threshold_count_per_day19.csv",
+                "title": "max_threshold_count_per_day19.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UPSPAP97D",
+                "editable": true,
+                "size": 341,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F017BJG7L7R\/max_threshold_count_per_day19.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F017BJG7L7R\/download\/max_threshold_count_per_day19.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F017BJG7L7R\/max_threshold_count_per_day19.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F017BJG7L7R-4a2af29a59",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F017BJG7L7R\/max_threshold_count_per_day19.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F017SAWELGJ",
+                "created": 1595846564,
+                "timestamp": 1595846564,
+                "name": "max_threshold_count_per_day20.csv",
+                "title": "max_threshold_count_per_day20.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UPSPAP97D",
+                "editable": true,
+                "size": 350,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F017SAWELGJ\/max_threshold_count_per_day20.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F017SAWELGJ\/download\/max_threshold_count_per_day20.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F017SAWELGJ\/max_threshold_count_per_day20.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F017SAWELGJ-5ae8d0e82f",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F017SAWELGJ\/max_threshold_count_per_day20.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rFUiy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "篠田さんが気になられていた、『ある日の最大移動距離に対し、該当するしきい値に入る人数』のcsvです。\n\n末尾に 19 がつく方が2019の総計、末尾に 20 が 2020の総計です。\n\ndayのカラム: 各行の値に対する日付\n数字のカラム: 一つ前のカラム値以上、今のカラム値未満の範囲\n\ndayに一致する行と しきい値(数字カラム)で、それぞれの該当するしきい値に 最大移動距離が含まれている人数を表してます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAP97D",
+        "ts": "1595846689.174400",
+        "thread_ts": "1595846689.174400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1595846837.174900",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1595846837.174900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595846837.174900"
+    },
+    {
+        "client_msg_id": "89259529-df13-4447-9886-d578e0b326d4",
+        "type": "message",
+        "text": "<@UPSPAP97D> サンキュー。よさそうです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595846837.174900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " サンキュー。よさそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595846689.174400",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

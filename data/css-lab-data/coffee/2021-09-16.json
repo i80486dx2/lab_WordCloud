@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1631837947.000200",
+        "user": "UPRE1RSJW",
+        "text": "<@UPRE1RSJW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1631837947.000300",
+        "user": "UPRE1RSJW",
+        "text": "set the channel description: コーヒーの購買履歴、精算を行います。",
+        "purpose": "コーヒーの購買履歴、精算を行います。"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1631838224.000400",
+        "user": "UPRE1RSJW",
+        "text": "set the channel description: コーヒーの購買履歴、精算を行います。\nお会計お願いしまーす　→　コーヒーを飲んだ人の支払い額を表示\nコーヒー豆をセット　→　コーヒー豆の金額を入力　→　コーヒー豆セット完了",
+        "purpose": "コーヒーの購買履歴、精算を行います。\nお会計お願いしまーす　→　コーヒーを飲んだ人の支払い額を表示\nコーヒー豆をセット　→　コーヒー豆の金額を入力　→　コーヒー豆セット完了"
+    }
+]

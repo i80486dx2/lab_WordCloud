@@ -1,0 +1,217 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "4月1日のラボセミナーですが16時からS12教室を予約しました。初回なので、全員に5分から10分程度で自己紹介と最近の活動について話してもらおうと思います。その際、パワポかkeynoteで1〜2枚のプレゼン資料を用意して話してください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1585125439.000100",
+        "thread_ts": "1584951591.030700",
+        "root": {
+            "client_msg_id": "ae750e2f-ccdf-4ab1-9e81-9db849cb45c7",
+            "type": "message",
+            "text": "<!channel> <@UQ63J44BZ> くんから聞いたのですが、4\/1は履修追加日で混み具合によっては13:30に間に合わないかもしれないとのことなので、研究室会の開始を16時に変更しようと思いますが、いかがでしょうか？",
+            "user": "UKS1Q2KTQ",
+            "ts": "1584951591.030700",
+            "team": "TKS1Q2JUE",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JpI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "UQ63J44BZ"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " くんから聞いたのですが、4\/1は履修追加日で混み具合によっては13:30に間に合わないかもしれないとのことなので、研究室会の開始を16時に変更しようと思いますが、いかがでしょうか？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1584951591.030700",
+            "reply_count": 3,
+            "reply_users_count": 1,
+            "latest_reply": "1585134501.000700",
+            "reply_users": [
+                "UKS1Q2KTQ"
+            ],
+            "replies": [
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1585022970.031500"
+                },
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1585125439.000100"
+                },
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1585134501.000700"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1585134501.000700"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2IVnB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4月1日のラボセミナーですが16時からS12教室を予約しました。初回なので、全員に5分から10分程度で自己紹介と最近の活動について話してもらおうと思います。その際、パワポかkeynoteで1〜2枚のプレゼン資料を用意して話してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f1913aff-a416-47fd-9593-7b8a35e0a887",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M",
+                    "UKUKA65GU",
+                    "UPRE1RSJW",
+                    "UPSPAP97D",
+                    "UQ47R82RW"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d247c95f-f265-461b-ba2e-550d111b4e69",
+        "type": "message",
+        "text": "資料は（フォーマット等、完全自由なので真似する必要ないですが）こんな感じで大丈夫。<https:\/\/www.dropbox.com\/s\/jb2yupwb3l6jsj2\/20200401_%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.pdf?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1585134501.000700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "Eox",
+                        "external_id": "1-None-2ffd47fde36da0ae04c2d66fd3a1a429cf1669c2e8f687f57712720796a1ca8c",
+                        "source": "remote",
+                        "file_id": "F010R11SU5N",
+                        "file": {
+                            "id": "F010R11SU5N",
+                            "created": 1585134502,
+                            "timestamp": 1585134502,
+                            "name": "20200401__________________________pdf",
+                            "title": "20200401_自己紹介サンプル.pdf",
+                            "mimetype": "application\/pdf",
+                            "filetype": "pdf",
+                            "pretty_type": "PDF",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 0,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/jb2yupwb3l6jsj2\/20200401_%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.pdf?dl=0",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F010R11SU5N-20437a8909\/20200401__________________________pdf_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F010R11SU5N-20437a8909\/20200401__________________________pdf_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F010R11SU5N-20437a8909\/20200401__________________________pdf_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 180,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F010R11SU5N-20437a8909\/20200401__________________________pdf_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_480_w": 480,
+                            "thumb_480_h": 240,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F010R11SU5N-20437a8909\/20200401__________________________pdf_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F010R11SU5N-20437a8909\/20200401__________________________pdf_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720_w": 720,
+                            "thumb_720_h": 360,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F010R11SU5N-20437a8909\/20200401__________________________pdf_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 400,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F010R11SU5N-20437a8909\/20200401__________________________pdf_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_960_w": 960,
+                            "thumb_960_h": 480,
+                            "image_exif_rotation": 1,
+                            "original_w": 1000,
+                            "original_h": 500,
+                            "thumb_tiny": "AwAYADDMHWujycH61zg610CmQffVce1NK4EgbjoaXPtUe4+g\/KlDH0FFhXH568VzR610TOQO1c73pDAda6JwABXOjrXRSfeT8aAYgFFFB70mCEbkVz9b56fhWB3qugkf\/9k=",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F010R11SU5N\/20200401__________________________pdf",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-None-2ffd47fde36da0ae04c2d66fd3a1a429cf1669c2e8f687f57712720796a1ca8c",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/jb2yupwb3l6jsj2\/20200401_%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.pdf?dl=0",
+                            "has_rich_preview": true
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/jb2yupwb3l6jsj2\/20200401_%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.pdf?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cxJS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "資料は（フォーマット等、完全自由なので真似する必要ないですが）こんな感じで大丈夫。"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/jb2yupwb3l6jsj2\/20200401_%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.pdf?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584951591.030700",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

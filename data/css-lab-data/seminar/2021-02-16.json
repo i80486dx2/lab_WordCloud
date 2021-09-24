@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "ba87b882-516d-48f4-8ad0-9a31c9df0a3d",
+        "type": "message",
+        "text": "<!channel> 本日の研究室会のリマインダーです：\n2月17日（水）17:00～\n<https:\/\/zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09>\n\n<@UPSPAP97D> くん、この前読んだt-SNEとUMAPの初期化の論文、簡単に紹介できますか？\n他に話題提供できる人がいればどうぞ。私からも一つ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1613534772.013000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ziO6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 本日の研究室会のリマインダーです：\n2月17日（水）17:00～\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " くん、この前読んだt-SNEとUMAPの初期化の論文、簡単に紹介できますか？\n他に話題提供できる人がいればどうぞ。私からも一つ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613534772.013000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1613536149.013200",
+        "reply_users": [
+            "UQ63J44BZ"
+        ],
+        "replies": [
+            {
+                "user": "UQ63J44BZ",
+                "ts": "1613536149.013200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1613536149.013200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPRE1RSJW",
+                    "UPSPAP97D",
+                    "UPSPAMY7M",
+                    "UQ47R82RW"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f03dce4-166d-4973-8f7d-7906aaa4cf21",
+        "type": "message",
+        "text": "すみません。インターンの時間を勘違いしていて、18時までかかってしまうそうなので、遅れて参加します。",
+        "user": "UQ63J44BZ",
+        "ts": "1613536149.013200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ga9b63d7dd65",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a9b63d7dd659a49eab0c736a1f46dfa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "蜂谷亜里珠",
+            "real_name": "蜂谷亜里珠",
+            "display_name": "alice",
+            "team": "TKS1Q2JUE",
+            "name": "s1260245",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFDH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません。インターンの時間を勘違いしていて、18時までかかってしまうそうなので、遅れて参加します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613534772.013000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

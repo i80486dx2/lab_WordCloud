@@ -1,0 +1,765 @@
+[
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "この谷の者は、昨夜そなた達の船を救わんと必死に働いた（ユパ\/風の谷のナウシカ） \/ Last night, these villagers toiled desperately to save one of your ships.",
+        "user": "U01UMQH4W4B",
+        "ts": "1618817519.196300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1618817519.196300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1618842097.197600",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618842097.197600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618842097.197600"
+    },
+    {
+        "client_msg_id": "5a14d4cf-5d5b-45d7-9407-e42fd0ae2ea4",
+        "type": "message",
+        "text": "I joined conf of US and Japan, because I walked near white house.",
+        "user": "UKH07E67M",
+        "ts": "1618823837.196400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2pg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I joined conf of US and Japan, because I walked near white house."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618657880.180700"
+    },
+    {
+        "client_msg_id": "ddab925b-84fe-4cba-97da-8dbb27a87edb",
+        "type": "message",
+        "text": "`I joined conf of US and Japan, because I walked near white house.`\n• たまたま　happened to でたまたま~\n• の近くを通った　pass by ~\n• conference を思い出せなくてconf。しかもsummitの存在を忘れて思い出せなかった\n• on the spot 飛び入り、その場で",
+        "user": "UKH07E67M",
+        "ts": "1618824051.196600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XTt\/P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I joined conf of US and Japan, because I walked near white house.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "たまたま　happened to でたまたま~"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "の近くを通った　pass by ~"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "conference を思い出せなくてconf。しかもsummitの存在を忘れて思い出せなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "on the spot 飛び入り、その場で"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618660454.182500",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "da5ad59e-b7f7-4d36-b1a9-24596dd5a8b7",
+        "type": "message",
+        "text": "最初にやったはず",
+        "user": "UKH07E67M",
+        "ts": "1618824152.196800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9NEFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最初にやったはず"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618716422.189200"
+    },
+    {
+        "client_msg_id": "cd423153-d203-4a46-aef3-d58a8ff90c39",
+        "type": "message",
+        "text": "でも書けなかったなあtoo toが文から判断できない",
+        "user": "UKH07E67M",
+        "ts": "1618824187.197000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rWTs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "でも書けなかったなあtoo toが文から判断できない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618716422.189200"
+    },
+    {
+        "client_msg_id": "57d6eb3b-0c43-4d8b-bde9-fe95059da809",
+        "type": "message",
+        "text": "Finally, the north wind and the sun couldn’t change mind of the young youtuber. Because he couldn’t go his school.",
+        "user": "UKH07E67M",
+        "ts": "1618824477.197200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VeQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Finally, the north wind and the sun couldn’t change mind of the young youtuber. Because he couldn’t go his school."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618802265.193300"
+    },
+    {
+        "client_msg_id": "b9880cde-6cc6-4eca-9183-c2fee2b87885",
+        "type": "message",
+        "text": "`Finally, the north wind and the sun couldn't change mind of the young youtuber. Because he couldn't go his school.`\ndeepl:\n北風が吹いても太陽が出ても、若きユーチューバーの心は変わらなかった。なぜなら、彼は学校に行くことができなかったからだ。\n• make ~ で何々に何をさせるを忘れていた。そのため文の構造がサンプル回答と大きくかけ離れた\n• In the endは忘れていた(上の反省を参照)\n•  bothあああ\n• go to忘れていた。goは自動詞だったああ\n• young よりboy。性別消える",
+        "user": "UKH07E67M",
+        "ts": "1618824737.197400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ujk2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Finally, the north wind and the sun couldn't change mind of the young youtuber. Because he couldn't go his school.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ndeepl:\n北風が吹いても太陽が出ても、若きユーチューバーの心は変わらなかった。なぜなら、彼は学校に行くことができなかったからだ。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "make ~ で何々に何をさせるを忘れていた。そのため文の構造がサンプル回答と大きくかけ離れた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "In the endは忘れていた(上の反省を参照)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " bothあああ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "go to忘れていた。goは自動詞だったああ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "young よりboy。性別消える"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618803918.194900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "9481624c-87dc-4e2a-8585-643fd0381a07",
+        "type": "message",
+        "text": "`People of this valley worked desperately to rescue your ship last night.`\nDeepL「この谷の人々は昨夜、必死になってあなたの船を救出しました。」\n\n• 「toil = ハードワークする」いや知ってるんだけど work desperately でええやん…。\n• these villagers って…谷はどこに行ったの？\n• one of your ships って…船団の中の一隻なんて日本語訳にないですやん。\n• save or rescue? これはもうほぼ同義語ということでよいでしょう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618842097.197600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "People of this valley worked desperately to rescue your ship last night.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「この谷の人々は昨夜、必死になってあなたの船を救出しました。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「toil = ハードワークする」いや知ってるんだけど work desperately でええやん…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "these villagers って…谷はどこに行ったの？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "one of your ships って…船団の中の一隻なんて日本語訳にないですやん。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "save or rescue? これはもうほぼ同義語ということでよいでしょう。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618817519.196300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1618887637.198000",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1618887637.198000",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1631241806.044900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UQ47R82RW",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618895275.198100"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618901273.198500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618929638.206000"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1631241806.044900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631241806.044900",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「あんた、バカぁ？」シンジさんが退出しました。\n\n#エヴァ <https:\/\/pbs.twimg.com\/media\/EzYq3U8UYAQEbWw.jpg>",
+                "ts": 1618887631,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1384341180855377922",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1384341180855377922>",
+                "text": "「あんた、バカぁ？」シンジさんが退出しました。\n\n#エヴァ <https:\/\/pbs.twimg.com\/media\/EzYq3U8UYAQEbWw.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1384341180855377922",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EzYq3U8UYAQEbWw.jpg",
+                "image_width": 400,
+                "image_height": 550,
+                "image_bytes": 66113,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "177bc413-9ca5-4df8-9a43-204e6762e189",
+        "type": "message",
+        "text": "\"Are you stupid?\" Shinji exited.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618895275.198100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5z4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Are you stupid?\" Shinji exited."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618887637.198000"
+    },
+    {
+        "client_msg_id": "329da8b8-1568-4f40-a1d7-5a4adc20ad2f",
+        "type": "message",
+        "text": "“Are you stupid?” Shinji is leaved.",
+        "user": "UKH07E67M",
+        "ts": "1618901273.198500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6H7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“Are you stupid?” Shinji is leaved."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618887637.198000"
+    },
+    {
+        "client_msg_id": "fd266d18-4b41-4596-848c-e62711379d3c",
+        "type": "message",
+        "text": "反省会「「あんた、バカぁ？」シンジさんが退出しました。」",
+        "user": "UKH07E67M",
+        "ts": "1618901377.198900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cqn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「「あんた、バカぁ？」シンジさんが退出しました。」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618901377.198900",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1618930650.207700",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1618901565.199000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618903236.199200"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618930253.206300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618930501.207500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618930650.207700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618930650.207700"
+    },
+    {
+        "client_msg_id": "09d2c2e8-d728-46bf-9abc-b742f852dce9",
+        "type": "message",
+        "text": "`\"Are you stupid?\" Shinji is leaved.`\n• leaveの過去形忘れてるってマジですかleft\n• shinji leaveで意味できるのに受身にしたら意味変わるじゃんなんで受身にしたんんだ\n• the meeting納得 ",
+        "user": "UKH07E67M",
+        "ts": "1618901565.199000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FFwzh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Are you stupid?\" Shinji is leaved.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "leaveの過去形忘れてるってマジですかleft"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "shinji leaveで意味できるのに受身にしたら意味変わるじゃんなんで受身にしたんんだ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the meeting納得 "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618901377.198900",
+        "parent_user_id": "UKH07E67M"
+    }
+]

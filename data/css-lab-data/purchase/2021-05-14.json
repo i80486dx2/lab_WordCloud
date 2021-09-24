@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "32712000-4dbe-41a9-99c3-953b68c237f5",
+        "type": "message",
+        "text": "発売結構先ですがこの本読みたいです。\n<https:\/\/www.amazon.co.jp\/E3-83-97-E3-83-AD-E3-82-B0-E3-83-A9-E3-83-9F-E3-83-B3-E3-82-B0C-E7-AC-AC8-E7-89-88-Ian-Griffiths\/dp\/4873119367\/ref=dp_ob_title_bk|https:\/\/www.amazon.co.jp\/E3-83-97-E3-83-AD-E3-82-B0-E3-83-A9-E3-83-9F-E3-83-B3-E3-82-[…]-AC8-E7-89-88-Ian-Griffiths\/dp\/4873119367\/ref=dp_ob_title_bk>",
+        "user": "U01EPKVACEN",
+        "ts": "1620983268.007000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N=hs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "発売結構先ですがこの本読みたいです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/E3-83-97-E3-83-AD-E3-82-B0-E3-83-A9-E3-83-9F-E3-83-B3-E3-82-B0C-E7-AC-AC8-E7-89-88-Ian-Griffiths\/dp\/4873119367\/ref=dp_ob_title_bk",
+                                "text": "https:\/\/www.amazon.co.jp\/E3-83-97-E3-83-AD-E3-82-B0-E3-83-A9-E3-83-9F-E3-83-B3-E3-82-[…]-AC8-E7-89-88-Ian-Griffiths\/dp\/4873119367\/ref=dp_ob_title_bk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "591afc63-a5e9-40ff-9387-47f627fd7be8",
+        "type": "message",
+        "text": "<@U01EPKVACEN> もう届いてます。PC机の上。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620987761.007200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sqmVA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もう届いてます。PC机の上。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620639224.006100",
+        "parent_user_id": "U01EPKVACEN",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U01EPKVACEN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

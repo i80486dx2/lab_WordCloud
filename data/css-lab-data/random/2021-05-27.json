@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "bf81b987-726f-4c00-a913-48cd8390a546",
+        "type": "message",
+        "text": "<https:\/\/englishtest.duolingo.com\/home|Duolingo English Test>受けてみました。\n\n主な問題としては、実在の単語の選択(スペルと発音両方)、文章穴埋め、写真の説明、ディクテーション、スピーキングと色々あり、結構面倒です。\n\n受けてみた感想としては、単語が全然わからなくて、やばいという感じです。多分結果は散々な感じだと思います。\nまた、受験英語は通じなさそうな感じがしました。\n\n文章問題は穴埋めしかないので、単語力、ヒアリング力に自身がある人にとっては簡単かもしれないです。\n\n費用は49$で、結果は２日後なので、もし興味があれば受けてみるといいかもしれないです。",
+        "user": "UQ47R82RW",
+        "ts": "1622178132.016500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Duolingo English Test",
+                "title_link": "https:\/\/englishtest.duolingo.com\/home",
+                "text": "Affordable and convenient language certification from Duolingo.",
+                "fallback": "Duolingo English Test",
+                "image_url": "https:\/\/d23cwzsbkjbm45.cloudfront.net\/static\/images\/testcenter\/splash\/test_takers\/universities.png",
+                "from_url": "https:\/\/englishtest.duolingo.com\/home",
+                "image_width": 370,
+                "image_height": 250,
+                "image_bytes": 50388,
+                "service_icon": "https:\/\/d23cwzsbkjbm45.cloudfront.net\/static\/images\/testcenter\/favicon.ico",
+                "service_name": "englishtest.duolingo.com",
+                "id": 1,
+                "original_url": "https:\/\/englishtest.duolingo.com\/home"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sw3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/englishtest.duolingo.com\/home",
+                                "text": "Duolingo English Test"
+                            },
+                            {
+                                "type": "text",
+                                "text": "受けてみました。\n\n主な問題としては、実在の単語の選択(スペルと発音両方)、文章穴埋め、写真の説明、ディクテーション、スピーキングと色々あり、結構面倒です。\n\n受けてみた感想としては、単語が全然わからなくて、やばいという感じです。多分結果は散々な感じだと思います。\nまた、受験英語は通じなさそうな感じがしました。\n\n文章問題は穴埋めしかないので、単語力、ヒアリング力に自身がある人にとっては簡単かもしれないです。\n\n費用は49$で、結果は２日後なので、もし興味があれば受けてみるといいかもしれないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU",
+                    "UKH07E67M",
+                    "UPSPAP97D",
+                    "UKS1Q2KTQ"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "0e7bd3ab-72c4-4deb-a612-e424632f0e83",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 医療コミュニティに対して、Infomapを再実行してみました。\n結果は、想像してない部分で分断されて、あまりよろしくない気がします。\n\n<https:\/\/www.notion.so\/Infomap-3e2cdbcc390e461996ef3dd1ae6593e8#167d12b5523a4265ba1f97f5b4253e71>",
+        "user": "UPSPAP97D",
+        "ts": "1623290838.067200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Murakami's Notion on Notion",
+                "title": "Infomapの解像度",
+                "title_link": "https:\/\/www.notion.so\/Infomap-3e2cdbcc390e461996ef3dd1ae6593e8#167d12b5523a4265ba1f97f5b4253e71",
+                "text": "関連リンク:",
+                "fallback": "Murakami's Notion on Notion: Infomapの解像度",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2495e2e6-6d43-4574-bfca-55383065a09e%2Fmedical_subgraph_info.png?table=block&id=91096a8f-f591-4fd6-a4e8-3a286034cdcf&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/Infomap-3e2cdbcc390e461996ef3dd1ae6593e8#167d12b5523a4265ba1f97f5b4253e71",
+                "image_width": 1089,
+                "image_height": 163,
+                "image_bytes": 11002,
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/Infomap-3e2cdbcc390e461996ef3dd1ae6593e8#167d12b5523a4265ba1f97f5b4253e71"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5QR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 医療コミュニティに対して、Infomapを再実行してみました。\n結果は、想像してない部分で分断されて、あまりよろしくない気がします。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Infomap-3e2cdbcc390e461996ef3dd1ae6593e8#167d12b5523a4265ba1f97f5b4253e71"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623206352.066100",
+        "parent_user_id": "UPSPAP97D"
+    }
+]

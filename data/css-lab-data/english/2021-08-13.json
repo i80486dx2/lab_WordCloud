@@ -1,0 +1,928 @@
+[
+    {
+        "client_msg_id": "c43a2fc9-e293-41af-84c7-cfe26945e230",
+        "type": "message",
+        "text": "I'm excited to like opening a present!",
+        "user": "UKH07E67M",
+        "ts": "1628838037.052300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G8R7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm excited to like opening a present!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628782377.051800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "8a1589ae-cf7c-415e-960e-a3d2adc17ba2",
+        "type": "message",
+        "text": "`I'm excited to like opening a present!`\nプレゼントを開けるようにワクワクしています。\n• birthday限定ではないと思います ",
+        "user": "UKH07E67M",
+        "ts": "1628838213.052500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zUTj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm excited to like opening a present!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nプレゼントを開けるようにワクワクしています。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "birthday限定ではないと思います "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628782377.051900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f40efb90-b93c-4566-adb8-5ec2553c2999",
+        "type": "message",
+        "text": "When the hero whose head is a form of square bread came here, a lot of pigeons attacked him very fast.",
+        "user": "UKH07E67M",
+        "ts": "1628840361.052700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BV9G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When the hero whose head is a form of square bread came here, a lot of pigeons attacked him very fast."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628825868.052200"
+    },
+    {
+        "client_msg_id": "50ab44ec-7f7f-40aa-b7b6-39eac9b65007",
+        "type": "message",
+        "text": "反省会：その頭部が食パンの形をしたヒーローが登場した途端、ハトの大群が猛然と襲いかかった。",
+        "user": "UKH07E67M",
+        "ts": "1628840372.053000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBKMK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：その頭部が食パンの形をしたヒーローが登場した途端、ハトの大群が猛然と襲いかかった。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628840372.053000",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1631869758.072000",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "U01F42ZFA73",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1628840767.053200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1628846821.054400"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629020325.058300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1631869758.072000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631869758.072000"
+    },
+    {
+        "client_msg_id": "2bcc2161-4f4b-4d47-83f9-f014b778535b",
+        "type": "message",
+        "text": "`When the hero whose head is a form of square bread came here, a lot of pigeons attacked him very fast.`\n頭が四角いパンの形をしている主人公がここに来たとき、たくさんのハトがあっという間に襲ってきました。\n• as soon as 形容詞ならできるだけ早くだけど、as soon as 文なら文するとすぐに、という表現ができる。意識したことなかった\n• 食パン white bread　思い出せなかったから代わりにいつも通りのスクエア。学習しない\n• 現れる　appear, come in sight, become visible。appendしか頭に出てこなくて仕方なくcome\n•  a large flock of ~ ~の大群　思い出せなかった。flockは群れ\n• swoop 急降下。swoop down 襲いかかる。飛びかかる\n• ferociously 猛然と。*覚えられねえええええええ。覚えようとしてねえええええ*",
+        "user": "UKH07E67M",
+        "ts": "1628840767.053200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5iH7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When the hero whose head is a form of square bread came here, a lot of pigeons attacked him very fast.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n頭が四角いパンの形をしている主人公がここに来たとき、たくさんのハトがあっという間に襲ってきました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "as soon as 形容詞ならできるだけ早くだけど、as soon as 文なら文するとすぐに、という表現ができる。意識したことなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "食パン white bread　思い出せなかったから代わりにいつも通りのスクエア。学習しない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "現れる　appear, come in sight, become visible。appendしか頭に出てこなくて仕方なくcome"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " a large flock of ~ ~の大群　思い出せなかった。flockは群れ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "swoop 急降下。swoop down 襲いかかる。飛びかかる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ferociously 猛然と。"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "覚えられねえええええええ。覚えようとしてねえええええ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628840372.053000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "6f325708-fdc8-4359-a489-2082fa885c85",
+        "type": "message",
+        "text": "a lot of pigeon attack him vigorously, once the hero having head of bread shape appear to them.",
+        "user": "U01F42ZFA73",
+        "ts": "1628842148.053400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=I1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a lot of pigeon attack him vigorously, once the hero having head of bread shape appear to them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628825868.052200"
+    },
+    {
+        "client_msg_id": "13689549-0da6-4950-97c2-e01ad3cf39bf",
+        "type": "message",
+        "text": "He used Force instead of board to prevent infection",
+        "user": "U01F42ZFA73",
+        "ts": "1628842724.053600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SkEat",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He used Force instead of board to prevent infection"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620123898.290500"
+    },
+    {
+        "client_msg_id": "960eb5b6-0271-4e5e-aa37-6761b670a128",
+        "type": "message",
+        "text": "I'm excited as if I'm opening a box of a gift for me.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628846304.053800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jKt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm excited as if I'm opening a box of a gift for me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628782377.051800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "288e3130-ccd6-448b-831e-4d86049c4b89",
+        "type": "message",
+        "text": "`I'm excited as if I'm opening a box of a gift for me.`\nDeepL：自分へのプレゼントの箱を開けているようなワクワク感があります。\n\n• 意訳過ぎやん。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628846357.054000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fWt6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm excited as if I'm opening a box of a gift for me.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：自分へのプレゼントの箱を開けているようなワクワク感があります。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "意訳過ぎやん。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628782377.051900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "57b6794d-7556-4cba-8a89-dd65a0bbf5a0",
+        "type": "message",
+        "text": "As soon as the hero, whose head has a shape of white bread, appeared, a large flock of doves swooped down to him fiercely.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628846678.054200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Goh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As soon as the hero, whose head has a shape of white bread, appeared, a large flock of doves swooped down to him fiercely."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628825868.052200"
+    },
+    {
+        "client_msg_id": "403f012d-3117-43b7-97eb-296a13f9c25f",
+        "type": "message",
+        "text": "`As soon as the hero, whose head has a shape of white bread, appeared, a large flock of doves swooped down to him fiercely.`\nDeepL：頭が白パンのような形をした主人公が現れると、鳩の大群が猛烈な勢いで舞い降りてきました。\n\n• いろいろ惜しい。\n• the white-bread-headed hero\n• swoop down on\n• ferociously",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628846821.054400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vq4F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As soon as the hero, whose head has a shape of white bread, appeared, a large flock of doves swooped down to him fiercely.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：頭が白パンのような形をした主人公が現れると、鳩の大群が猛烈な勢いで舞い降りてきました。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "いろいろ惜しい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the white-bread-headed hero"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "swoop down on"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ferociously"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628840372.053000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "私を騙せると思うのかい？追うんだ！（ドーラ\/天空の城ラピュタ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1628868778.054600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1628868778.054600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1632052060.074500",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1628874979.055000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1628927960.056100"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1632052060.074500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1632052060.074500"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：私を騙せると思うのかい？追うんだ！",
+        "user": "U01UMQH4W4B",
+        "ts": "1628868778.054700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1628868778.054700",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1632052344.074800",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1628868778.054800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1628875044.055200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1628928318.056300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1632052344.074800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1632052344.074800"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Think you can fool me? After them!",
+        "user": "U01UMQH4W4B",
+        "ts": "1628868778.054800",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1628868778.054700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "c4130ae9-f6af-43c5-bc3e-87f090a376b6",
+        "type": "message",
+        "text": "Did you think if you could deceive me? After them!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628874979.055000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5bo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you think if you could deceive me? After them!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628868778.054600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "513abac3-4764-43dc-8d66-f3a593fa95bb",
+        "type": "message",
+        "text": "`Did you think if you could deceive me? After them!`\nDeepL：私を騙せるとでも思ったのか？お先にどうぞ！\n\n• お先にどうぞ！ってなんやねん…",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628875044.055200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G7H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you think if you could deceive me? After them!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：私を騙せるとでも思ったのか？お先にどうぞ！\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "お先にどうぞ！ってなんやねん…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628868778.054700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1628909787.055400",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1628909787.055400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1632052491.075000",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "U01F42ZFA73",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1628925884.055500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1628929078.056500"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1628951921.056900"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1632052491.075000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1632052491.075000",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「ストップ！2メートル離れて」彼はフォースを使った。\n\n#ソーシャルディスタンス #スターウォーズ <https:\/\/pbs.twimg.com\/media\/E8t91FQVgAM9Kxq.jpg>",
+                "ts": 1628909781,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1426377120570253320",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1426377120570253320>",
+                "text": "「ストップ！2メートル離れて」彼はフォースを使った。\n\n#ソーシャルディスタンス #スターウォーズ <https:\/\/pbs.twimg.com\/media\/E8t91FQVgAM9Kxq.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1426377120570253320",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E8t91FQVgAM9Kxq.jpg",
+                "image_width": 400,
+                "image_height": 510,
+                "image_bytes": 74182,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

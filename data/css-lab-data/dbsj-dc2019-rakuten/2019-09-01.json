@@ -1,0 +1,223 @@
+[
+    {
+        "type": "message",
+        "text": "昨日載せた、イニング、チーム別の得点率をword文書にしたものです（トークがごちゃごちゃしないために）",
+        "files": [
+            {
+                "id": "FMQPGC95X",
+                "created": 1567340973,
+                "timestamp": 1567340973,
+                "name": "Inning data.docx",
+                "title": "Inning data.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 16179,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FMQPGC95X\/inning_data.docx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FMQPGC95X\/download\/inning_data.docx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMQPGC95X-694649a4bd\/inning_data_converted.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMQPGC95X-694649a4bd\/inning_data_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/FMQPGC95X\/inning_data.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-FMQPGC95X-87c6d3da14",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UKUKA65GU",
+        "display_as_bot": false,
+        "ts": "1567340974.006300",
+        "client_msg_id": "bd04bea3-d487-4628-91d7-fbde4dcb15c8"
+    },
+    {
+        "client_msg_id": "44b899fc-eed5-48d8-b831-03df391b8736",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/4m1t0\/items\/76b0033edb545a78cef5>",
+        "user": "UKUKA65GU",
+        "ts": "1567343536.006700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "グラフ作成のためのチートシートとPythonによる各種グラフの実装 - Qiita",
+                "title_link": "https:\/\/qiita.com\/4m1t0\/items\/76b0033edb545a78cef5",
+                "text": "# 1. はじめに グラフによって得意とする表現は異なり，扱えるデータの型も異なる． したがってデータと目的によって利用するグラフをある程度絞ることができる． 例えば[グラフをつくる前に読む本](<http:\/\/gihyo.jp\/bo>...",
+                "fallback": "Qiita: グラフ作成のためのチートシートとPythonによる各種グラフの実装 - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/4m1t0\/items\/76b0033edb545a78cef5",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/4m1t0\/items\/76b0033edb545a78cef5"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b29cc46-cb0f-4e70-a6c1-817331a9b3a8",
+        "type": "message",
+        "text": "こういう、グラフを作成するコードをコピぺって感じで、どのグラフを書くか考察していけば良いのでしょうか。",
+        "user": "UKUKA65GU",
+        "ts": "1567343578.007500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8ecc02e5-8867-4f2f-883d-e889e2b4d158",
+        "type": "message",
+        "text": "そうですね。研究では多くの場合は使うグラフのパターンは決まってますが、私のオフィスで見たような書籍やウェブにあるビジュアルパターンのコレクションからイメージを膨らませることもあります。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1567394560.009500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "df39b88a-e706-469d-9c04-a3c49e1ecc7b",
+        "type": "message",
+        "text": "このサイト↑もよくできてるね。JavaScriptだとd3jsというフレームワークが有名\n<https:\/\/github.com\/d3\/d3\/wiki\/Gallery>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1567394635.010200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "d3\/d3",
+                "title_link": "https:\/\/github.com\/d3\/d3\/wiki\/Gallery",
+                "text": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: - d3\/d3",
+                "fallback": "GitHub: d3\/d3",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/1562726?s=400&v=4",
+                "from_url": "https:\/\/github.com\/d3\/d3\/wiki\/Gallery",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/d3\/d3\/wiki\/Gallery"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35B3A555-DF36-454C-A2CD-8BEDB679C79C",
+        "type": "message",
+        "text": "なるほど、ありがとうございます",
+        "user": "UKUKA65GU",
+        "ts": "1567394662.010600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0C686C1E-4DB9-4568-805D-9FF999711797",
+        "type": "message",
+        "text": "データもまとまってきたので、試行錯誤しながら色々作ってみたいと思います。",
+        "user": "UKUKA65GU",
+        "ts": "1567394677.011200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3AEC077D-8C74-46E7-93A7-9019872AD70A",
+        "type": "message",
+        "text": "そちらのサイトも、すごく色々ありますね...",
+        "user": "UKUKA65GU",
+        "ts": "1567394718.011600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "82ac7e1e-b8dc-46de-a592-6a85b4901a2c",
+        "type": "message",
+        "text": "先日ちょっと話した「Mouse Dictionary」\n<https:\/\/qiita.com\/wtetsu\/items\/c43232c6c44918e977c9>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1562605316.003000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "Chrome拡張の高速な英語辞書ツールをつくりました(Mouse Dictionary) - Qiita",
+                "title_link": "https:\/\/qiita.com\/wtetsu\/items\/c43232c6c44918e977c9",
+                "text": "# Mouse Dictionary Chrome拡張の高速な英語辞書ツールです。 <https:\/\/chrome.google.com\/webstore\/detail\/mouse-dictionary\/dnclbikcihnpjo>...",
+                "fallback": "Qiita: Chrome拡張の高速な英語辞書ツールをつくりました(Mouse Dictionary) - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/wtetsu\/items\/c43232c6c44918e977c9",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/wtetsu\/items\/c43232c6c44918e977c9"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35350DEC-11E0-423A-83A9-DEDC18AC336D",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "UKUKA65GU",
+        "ts": "1562647052.003500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

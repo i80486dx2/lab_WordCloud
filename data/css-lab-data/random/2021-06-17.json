@@ -1,0 +1,129 @@
+[
+    {
+        "client_msg_id": "35153ebd-04cc-49a2-806a-f0c8e4aa330b",
+        "type": "message",
+        "text": "<https:\/\/www.pixiv.co.jp\/summer_bootcamp_2021#deta>\npixivみたいなとこでもインターンにデータ分析部門とかあるんですねー",
+        "user": "U01EPKVACEN",
+        "ts": "1623927317.038200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ピクシブ株式会社",
+                "title": "pixiv SUMMER BOOT CAMP2021 - ピクシブ株式会社",
+                "title_link": "https:\/\/www.pixiv.co.jp\/summer_bootcamp_2021#deta",
+                "text": "ピクシブ技術職向け夏インターンシップ「PIXIV SUMMER BOOT CAMP 2021」参加者募集中！",
+                "fallback": "ピクシブ株式会社: pixiv SUMMER BOOT CAMP2021 - ピクシブ株式会社",
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/p\/pixiv_corp\/20210603\/20210603124113.png",
+                "ts": 1622453461,
+                "from_url": "https:\/\/www.pixiv.co.jp\/summer_bootcamp_2021#deta",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 640879,
+                "service_icon": "https:\/\/www.pixiv.co.jp\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/www.pixiv.co.jp\/summer_bootcamp_2021#deta"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kcq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pixiv.co.jp\/summer_bootcamp_2021#deta"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npixivみたいなとこでもインターンにデータ分析部門とかあるんですねー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623927317.038200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1623928572.038500",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1623928572.038500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1623928572.038500",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5b83eb0-1f55-4c54-9a17-49cabd5d7218",
+        "type": "message",
+        "text": "pixivのオフィスはroomclipの近くなんだよね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623928572.038500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uWELG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pixivのオフィスはroomclipの近くなんだよね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623927317.038200",
+        "parent_user_id": "U01EPKVACEN"
+    }
+]

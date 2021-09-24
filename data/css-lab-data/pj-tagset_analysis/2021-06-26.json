@@ -1,0 +1,276 @@
+[
+    {
+        "client_msg_id": "38877D71-003B-4CFC-A47F-B562D3AE3200",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>\nはい、よろしくお願いします:bow:",
+        "user": "UKUKA65GU",
+        "ts": "1624691703.025800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bk0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nはい、よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "NT(t) New-Tagグラフ\n時刻tでのネットワークの最新タグ番号の期待値のグラフです\n昔に出したものと近い形をしているかも...?",
+        "files": [
+            {
+                "id": "F026NNCE8F3",
+                "created": 1624718827,
+                "timestamp": 1624718827,
+                "name": "スクリーンショット 2021-06-26 23.47.05.png",
+                "title": "スクリーンショット 2021-06-26 23.47.05.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 165284,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026NNCE8F3\/____________________________2021-06-26_23.47.05.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026NNCE8F3\/download\/____________________________2021-06-26_23.47.05.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NNCE8F3-bae6a7cc47\/____________________________2021-06-26_23.47.05_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NNCE8F3-bae6a7cc47\/____________________________2021-06-26_23.47.05_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NNCE8F3-bae6a7cc47\/____________________________2021-06-26_23.47.05_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 252,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NNCE8F3-bae6a7cc47\/____________________________2021-06-26_23.47.05_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 336,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NNCE8F3-bae6a7cc47\/____________________________2021-06-26_23.47.05_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026NNCE8F3-bae6a7cc47\/____________________________2021-06-26_23.47.05_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 503,
+                "original_w": 758,
+                "original_h": 530,
+                "thumb_tiny": "AwAhADDS5z2pefWkXGTgYpaAG7f9o0bf9o0ufTmjGepoATOOM5peaXpQaAEHU5OaOvXpSHr0pdwHWgBaKTcAcUbhnHegBaDSbhnHegkZx3oAU0h6ilNIeooAD1FB+8KD1FB+8KAA\/eFJ\/HSn7wpP46AP\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F026NNCE8F3\/____________________________2021-06-26_23.47.05.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F026NNCE8F3-1432636b12",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F026ZPCB0QY",
+                "created": 1624718840,
+                "timestamp": 1624718840,
+                "name": "スクリーンショット 2021-06-26 23.47.18.png",
+                "title": "スクリーンショット 2021-06-26 23.47.18.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 154671,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026ZPCB0QY\/____________________________2021-06-26_23.47.18.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026ZPCB0QY\/download\/____________________________2021-06-26_23.47.18.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026ZPCB0QY-fa74c6366a\/____________________________2021-06-26_23.47.18_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026ZPCB0QY-fa74c6366a\/____________________________2021-06-26_23.47.18_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026ZPCB0QY-fa74c6366a\/____________________________2021-06-26_23.47.18_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 257,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026ZPCB0QY-fa74c6366a\/____________________________2021-06-26_23.47.18_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 343,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026ZPCB0QY-fa74c6366a\/____________________________2021-06-26_23.47.18_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026ZPCB0QY-fa74c6366a\/____________________________2021-06-26_23.47.18_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 514,
+                "original_w": 742,
+                "original_h": 530,
+                "thumb_tiny": "AwAiADDS70vPrSAYPFLQA3b7n86Nvufzp1JnPT86ADoOv50ZP4UAdzyaU9KAEGc80pOKTPPpSA9zQAuM9fypaTIoyKAFoPSkyKCRQAHqKG6UHqKD0oAWkXpS0g6UAA6mj+IUDqaO9AH\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F026ZPCB0QY\/____________________________2021-06-26_23.47.18.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F026ZPCB0QY-df507cc30f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CIkaY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NT(t) New-Tagグラフ\n時刻tでのネットワークの最新タグ番号の期待値のグラフです\n昔に出したものと近い形をしているかも...?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKUKA65GU",
+        "ts": "1624719245.026900",
+        "thread_ts": "1624719245.026900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1624719884.027600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624719349.027400"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1624719884.027600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624719884.027600"
+    },
+    {
+        "client_msg_id": "41ba2de5-f4ab-4e9a-a5f2-1e93f8b21527",
+        "type": "message",
+        "text": "<@UKUKA65GU> 今回は理論解（数式から求まる解。解析解。）で前のは数値解（プログラムから計算した値）ということであってますか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624719349.027400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s7w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今回は理論解（数式から求まる解。解析解。）で前のは数値解（プログラムから計算した値）ということであってますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624719245.026900",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "1b53530a-3733-461a-b796-635c028fcc51",
+        "type": "message",
+        "text": "そうですね。\n前回は数値シミュレーションで書いていたので一回一回出るグラフが異なっていましたが、今回は前日あげた確率Treeから\nその点の確率*その時のNの総和\nを、T毎にとっているもので、NewとExistの関数さえ定まっていれば一意に定まるため、解析解と考えてもらえると良いかと思います。",
+        "user": "UKUKA65GU",
+        "ts": "1624719884.027600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKUKA65GU",
+            "ts": "1624720201.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJCY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね。\n前回は数値シミュレーションで書いていたので一回一回出るグラフが異なっていましたが、今回は前日あげた確率Treeから\nその点の確率*その時のNの総和\nを、T毎にとっているもので、NewとExistの関数さえ定まっていれば一意に定まるため、解析解と考えてもらえると良いかと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624719245.026900",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

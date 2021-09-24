@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "6acb97ea-245c-4541-85d5-11ed3fa4e2aa",
+        "type": "message",
+        "text": "<https:\/\/atcoder.jp\/contests\/abc136\/tasks\/abc136_d>\n問題を解くにあたって段階的に障害が出てくるいい問題。\n各エージェントの移動はどこに落ち着くか？→全エージェントの移動をどう表現するか？→全エージェントの移動回数の削減はどうするか？",
+        "user": "U01F42ZFA73",
+        "ts": "1627009727.153500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1627009902.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "AtCoder",
+                "title": "D - Gathering Children",
+                "title_link": "https:\/\/atcoder.jp\/contests\/abc136\/tasks\/abc136_d",
+                "text": "AtCoder is a programming contest site for anyone from beginners to experts. We hold weekly programming contests online.",
+                "fallback": "AtCoder: D - Gathering Children",
+                "thumb_url": "https:\/\/img.atcoder.jp\/assets\/atcoder.png",
+                "from_url": "https:\/\/atcoder.jp\/contests\/abc136\/tasks\/abc136_d",
+                "thumb_width": 280,
+                "thumb_height": 280,
+                "service_icon": "http:\/\/img.atcoder.jp\/assets\/atcoder.png",
+                "id": 1,
+                "original_url": "https:\/\/atcoder.jp\/contests\/abc136\/tasks\/abc136_d"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UosQk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atcoder.jp\/contests\/abc136\/tasks\/abc136_d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n問題を解くにあたって段階的に障害が出てくるいい問題。\n各エージェントの移動はどこに落ち着くか？→全エージェントの移動をどう表現するか？→全エージェントの移動回数の削減はどうするか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

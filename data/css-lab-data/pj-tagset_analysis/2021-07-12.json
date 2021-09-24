@@ -1,0 +1,183 @@
+[
+    {
+        "client_msg_id": "a368bea2-02a7-4cb7-b36a-039c6d5752e6",
+        "type": "message",
+        "text": "<@UKUKA65GU> この前のゼミで使った資料、シェアしてもらっていいですか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626155299.028800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cFEZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " この前のゼミで使った資料、シェアしてもらっていいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> お疲れ様です、遅くなりました。\n前回のはその2の方です。念の為初回の方も載せておきます（大幅に改善した部分があるのでその1の方はあまり参考にならないかと思います。）",
+        "files": [
+            {
+                "id": "F027VLGEF35",
+                "created": 1626157657,
+                "timestamp": 1626157657,
+                "name": "ゼミプレゼンその2.pptx",
+                "title": "ゼミプレゼンその2.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 2395018,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027VLGEF35\/_________________________________2.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027VLGEF35\/download\/_________________________________2.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VLGEF35-263b89e15f\/_________________________________2_converted.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VLGEF35-263b89e15f\/_________________________________2_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F027VLGEF35\/_________________________________2.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F027VLGEF35-3bafa45bed",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F028K5CKBDW",
+                "created": 1626157682,
+                "timestamp": 1626157682,
+                "name": "ゼミプレゼンその1.pptx",
+                "title": "ゼミプレゼンその1.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 5001012,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F028K5CKBDW\/_________________________________1.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F028K5CKBDW\/download\/_________________________________1.pptx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F028K5CKBDW-b15e149e29\/_________________________________1_converted.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F028K5CKBDW-b15e149e29\/_________________________________1_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F028K5CKBDW\/_________________________________1.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F028K5CKBDW-1b2494e53d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mY8J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です、遅くなりました。\n前回のはその2の方です。念の為初回の方も載せておきます（大幅に改善した部分があるのでその1の方はあまり参考にならないかと思います。）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKUKA65GU",
+        "ts": "1626157712.029800",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d12398db-6592-436d-9528-0fbb7323ff9b",
+        "type": "message",
+        "text": "また、追加情報として\n（X,Y）を（投稿t回目時点での最新タグ番号の期待値、投稿t回目時点でのNR）というグラフを作りました。まとまり次第そちらの方もシェアします。",
+        "user": "UKUKA65GU",
+        "ts": "1626157875.031600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tC94",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "また、追加情報として\n（X,Y）を（投稿t回目時点での最新タグ番号の期待値、投稿t回目時点でのNR）というグラフを作りました。まとまり次第そちらの方もシェアします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

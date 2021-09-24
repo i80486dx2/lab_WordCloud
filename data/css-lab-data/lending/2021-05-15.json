@@ -1,0 +1,147 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621138852.000200",
+        "user": "U01EPKVACEN",
+        "text": "<@U01EPKVACEN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1621138853.000300",
+        "user": "U01EPKVACEN",
+        "text": "set the channel description: 物品貸し出し管理",
+        "purpose": "物品貸し出し管理"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621138897.000500",
+        "user": "UKS1Q2KTQ",
+        "text": "<@UKS1Q2KTQ> has joined the channel",
+        "inviter": "U01EPKVACEN"
+    },
+    {
+        "client_msg_id": "94b4239f-e736-4960-8910-108f63a622ba",
+        "type": "message",
+        "text": "作るだけ作りました",
+        "user": "U01EPKVACEN",
+        "ts": "1621138911.000800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0O+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作るだけ作りました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0997f8e6-254e-45c4-bc4b-9aa58c5baa8e",
+        "type": "message",
+        "text": "Oculus Quest2借ります。",
+        "user": "U01EPKVACEN",
+        "ts": "1621139331.001400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X6HjL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oculus Quest2借ります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621139443.001600",
+        "user": "UQ47R82RW",
+        "text": "<@UQ47R82RW> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621139465.001800",
+        "user": "UPSPAP97D",
+        "text": "<@UPSPAP97D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621140330.002100",
+        "user": "U01EL0SAUTF",
+        "text": "<@U01EL0SAUTF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1621143375.002300",
+        "user": "U01EVRBP38C",
+        "text": "<@U01EVRBP38C> has joined the channel"
+    }
+]

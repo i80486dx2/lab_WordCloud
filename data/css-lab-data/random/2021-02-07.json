@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "bf0dc818-f91f-4838-9b26-d2024ac3c2fb",
+        "type": "message",
+        "text": "<https:\/\/cruel.org\/econthought\/profiles\/auxfiles\/schelling\/>\n黒人、白人のエージェントと二次元格子を用意した時、エージェントの住み分けが生じるのかどうかをシミュレートするコードがあるらしい。なぜそうなっているのかは分からないが、C言語のコードリーディングとして面白そう。",
+        "user": "U01F42ZFA73",
+        "ts": "1612700016.037500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1612700199.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Gk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cruel.org\/econthought\/profiles\/auxfiles\/schelling\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n黒人、白人のエージェントと二次元格子を用意した時、エージェントの住み分けが生じるのかどうかをシミュレートするコードがあるらしい。なぜそうなっているのかは分からないが、C言語のコードリーディングとして面白そう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c500941-3388-4d34-968e-562f447c35fd",
+        "type": "message",
+        "text": "\"プログラミングコンテストチャレンジブック\"を使った、テスト輪講2を下記の日程で行います。\n興味があったらきてください。\n\n（確定）\n日時、場所:\n2\/10(水)\n17:00~18:00\nS1教室(2階,北ラウンジ付近)\n\n内容:\n貪欲法は、どのように扱うのか？\n（今回、コードは書かない）\n\n本格的な活動(4月以降)でしたいこと:\n研究室内で活動するつもりなので、メンバーの利益になるようなことがしたい。\nEX)\nmain:質問する力、話す力をつける\nsub1:c++,pythonを使ったアルゴリズム実装入門\nsub2:javascriptを使ったアルゴリズム可視化の入門",
+        "user": "U01F42ZFA73",
+        "ts": "1612764370.044400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1612944404.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/xSoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"プログラミングコンテストチャレンジブック\"を使った、テスト輪講2を下記の日程で行います。\n興味があったらきてください。\n\n（確定）\n日時、場所:\n2\/10(水)\n17:00~18:00\nS1教室(2階,北ラウンジ付近)\n\n内容:\n貪欲法は、どのように扱うのか？\n（今回、コードは書かない）\n\n本格的な活動(4月以降)でしたいこと:\n研究室内で活動するつもりなので、メンバーの利益になるようなことがしたい。\nEX)\nmain:質問する力、話す力をつける\nsub1:c++,pythonを使ったアルゴリズム実装入門\nsub2:javascriptを使ったアルゴリズム可視化の入門"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

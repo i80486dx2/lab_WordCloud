@@ -1,0 +1,1601 @@
+[
+    {
+        "client_msg_id": "54a4ecb3-515c-4122-9a88-a9ebb7cd7f25",
+        "type": "message",
+        "text": "We should finish playing Mario cart, and let's restart the operation.",
+        "user": "UKH07E67M",
+        "ts": "1624950636.231900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oqR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We should finish playing Mario cart, and let's restart the operation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624886665.227900"
+    },
+    {
+        "client_msg_id": "587ed913-fab6-421b-860d-d355905837d4",
+        "type": "message",
+        "text": "`We should finish playing Mario cart, and let's restart the operation.`\nマリオカートのプレイを終えて、操作を再開しよう。\n• これくらいにして→十分だ。なるほど\n• 手術　surgery\n• 再開する、履歴書　resume 初めて知った動詞\n•  kart まじ？\n• operationを使うならsurgical operation　手術",
+        "user": "UKH07E67M",
+        "ts": "1624950841.232100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "65D=\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We should finish playing Mario cart, and let's restart the operation.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nマリオカートのプレイを終えて、操作を再開しよう。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "これくらいにして→十分だ。なるほど"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "手術　surgery"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "再開する、履歴書　resume 初めて知った動詞"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " kart まじ？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "operationを使うならsurgical operation　手術"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624927673.229800",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "8b0b8869-5cde-4416-876b-4451e7b73e42",
+        "type": "message",
+        "text": "Fuck! I don't like that woman who show me with her elegant.",
+        "user": "UKH07E67M",
+        "ts": "1624951205.232300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KF4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fuck! I don't like that woman who show me with her elegant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624894378.228000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "03a8b224-938e-41f6-8c50-45d676115905",
+        "type": "message",
+        "text": "`Fuck! I don't like that woman who show me with her elegant.`\nくっそー あんなに上品に見せてくれる女は嫌だ。\n• まじわからなかった。\n• Fuck! I don't like that woman who shows me with her elegance.\n• elegant 形容詞 elegance 名詞\n• arrogant arrogance知らなかった\n• snob 便利かも\n•  彼女はなんて〜だ！シンプルだぁ",
+        "user": "UKH07E67M",
+        "ts": "1624951370.232500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VriAf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fuck! I don't like that woman who show me with her elegant.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nくっそー あんなに上品に見せてくれる女は嫌だ。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "まじわからなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fuck! I don't like that woman who shows me with her elegance."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "elegant 形容詞 elegance 名詞"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "arrogant arrogance知らなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "snob 便利かも"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 彼女はなんて〜だ！シンプルだぁ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624894378.228100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7172d053-0071-4806-8517-b72eb9ed057c",
+        "type": "message",
+        "text": "A nose hock expert's morning is early.",
+        "user": "UKH07E67M",
+        "ts": "1624951452.232700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qel+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A nose hock expert's morning is early."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624936194.231300"
+    },
+    {
+        "client_msg_id": "191c560e-2fc0-4a74-9abb-e8a30ad3ffe7",
+        "type": "message",
+        "text": "反省会：鼻フック職人の朝は早い。",
+        "user": "UKH07E67M",
+        "ts": "1624951473.233100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FJVbR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：鼻フック職人の朝は早い。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624951473.233100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1625028617.237300",
+        "reply_users": [
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1624951644.233200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624956742.233600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625019048.236400"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1625028617.237300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625028617.237300"
+    },
+    {
+        "client_msg_id": "e7c3bdd0-ecdc-4d07-8039-f6ca63a70c72",
+        "type": "message",
+        "text": "`A nose hock expert's morning is early.`\n鼻ホジの専門家の朝は早い。\n• hook フック、留め金\n• hock *(犬・馬などの後ろ足の)ひざ、飛節、(特に豚の)足肉* 知らねかった\n•  craftsmen 名匠、技術家、職人\n• 自分の誤字除いたら割とあってると思う誤字除いたら",
+        "user": "UKH07E67M",
+        "ts": "1624951644.233200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A nose hock expert's morning is early.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n鼻ホジの専門家の朝は早い。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "hook フック、留め金"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "hock "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(犬・馬などの後ろ足の)ひざ、飛節、(特に豚の)足肉 ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "知らねかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " craftsmen 名匠、技術家、職人"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "自分の誤字除いたら割とあってると思う誤字除いたら"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624951473.233100",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "ec799135-5d8f-40e3-bed6-121771402d85",
+        "type": "message",
+        "text": "The nose fook craftperson works early morning.",
+        "user": "UPSPAP97D",
+        "ts": "1624955929.233400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+21h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The nose fook craftperson works early morning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624936194.231300"
+    },
+    {
+        "client_msg_id": "9812258f-9b39-4291-b623-614ab238bc39",
+        "type": "message",
+        "text": "`The nose fook craftperson works early morning.`\nDeepL「鼻くそ職人が早朝から働いている。」\n\n• 「フック」の綴りわからなかった…『hook』\n• 上の文、『craftsperson』の『s』 がなかった…\n• 一般の「鼻フック職人」を表しているから、複数形+『the』なし?\n• 「特定しない朝」を表すには、今回の文章も間違いではない？(『early in the morning』にしなくても良い?)\n<https:\/\/oshiete.goo.ne.jp\/qa\/9126039.html>",
+        "user": "UPSPAP97D",
+        "ts": "1624956742.233600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "教えて！goo",
+                "title": "「early in the morning」と「early morning」使い方",
+                "title_link": "https:\/\/oshiete.goo.ne.jp\/qa\/9126039.html",
+                "text": "先日、「early 　in the morning」は、その日の朝早く（具体的に特定している朝）、「early morning」特定していない朝と、教えていただきました。この言い方を使いたいのは、具体的に、下記の文章になのですが、... - TOEFL・TOEIC・英語検定 [解決済 - 2015\/12\/10] | 教えて！goo",
+                "fallback": "教えて！goo: 「early in the morning」と「early morning」使い方",
+                "thumb_url": "https:\/\/oshiete.xgoo.jp\/images\/sp\/qa_recommend\/2108_3.jpg",
+                "from_url": "https:\/\/oshiete.goo.ne.jp\/qa\/9126039.html",
+                "thumb_width": 160,
+                "thumb_height": 160,
+                "service_icon": "http:\/\/oshiete.goo.ne.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/oshiete.goo.ne.jp\/qa\/9126039.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Hv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The nose fook craftperson works early morning.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「鼻くそ職人が早朝から働いている。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「フック」の綴りわからなかった…『hook』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "上の文、『craftsperson』の『s』 がなかった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "一般の「鼻フック職人」を表しているから、複数形+『the』なし?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「特定しない朝」を表すには、今回の文章も間違いではない？(『early in the morning』にしなくても良い?)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/oshiete.goo.ne.jp\/qa\/9126039.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624951473.233100",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "342cb018-d249-4b75-a0b5-a5bcf4392ddb",
+        "type": "message",
+        "text": "Do not worry, you are not infected with corona virus. you only miss someone.",
+        "user": "U01F42ZFA73",
+        "ts": "1624964303.233900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GWqE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do not worry, you are not infected with corona virus. you only miss someone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624444777.202800"
+    },
+    {
+        "client_msg_id": "cdef29cf-bdd1-4dad-b7f6-53a039fa821e",
+        "type": "message",
+        "text": "`Do not worry, you are not infected with corona virus. you only miss someone.`\nDeepL: あなたはコロナ・ウィルスに感染していませんので、ご安心ください。誰かに会いたいだけなのです。\nonlyとjustの違い:\nonly 「この人しかいない」とか「これしかいない」というニュアンス\njust　別に深い意味や理由はない「ただそれだけ」っていうニュアンス\nそう考えると、onlyの方がオシャレ感ありそう。\n恋煩い=lovesickness",
+        "user": "U01F42ZFA73",
+        "ts": "1624965218.234100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/qoe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do not worry, you are not infected with corona virus. you only miss someone.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: あなたはコロナ・ウィルスに感染していませんので、ご安心ください。誰かに会いたいだけなのです。\nonlyとjustの違い:\nonly 「この人しかいない」とか「これしかいない」というニュアンス\njust　別に深い意味や理由はない「ただそれだけ」っていうニュアンス\nそう考えると、onlyの方がオシャレ感ありそう。\n恋煩い=lovesickness"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624458195.203400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "戻ろうよ、お父さん！（千尋\/千と千尋の神隠し）",
+        "user": "U01UMQH4W4B",
+        "ts": "1624980778.234300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624980778.234300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1625042809.238300",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1625015094.234700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625019112.236600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625042809.238300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625042809.238300"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：戻ろうよ、お父さん！",
+        "user": "U01UMQH4W4B",
+        "ts": "1624980778.234400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624980778.234400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1625043059.238500",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1624980778.234500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1625015565.234900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625019201.236800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625043059.238500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625043059.238500"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Daddy, let’s go back.",
+        "user": "U01UMQH4W4B",
+        "ts": "1624980778.234500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624980778.234400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b4a1c9a7-3bf9-449c-a980-6af3dae94176",
+        "type": "message",
+        "text": "We have to return now, please!",
+        "user": "UPSPAP97D",
+        "ts": "1625015094.234700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+V=vy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have to return now, please!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624980778.234300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "caa6e996-ee83-49d8-8b72-3185a7ff638f",
+        "type": "message",
+        "text": "`We have to return now, please!`\nDeepL「今すぐ戻らなければなりません、お願いします」\n\n• 「お父さん」は後ろにつけるのに違和感があったからつけなかったが、前につけるのか。\n• 何故か『should』の綴りをど忘れしてしまった…。\n• 『please』で帰りたさを強調してみたつもりだが、アリなのかはわからぬ。",
+        "user": "UPSPAP97D",
+        "ts": "1625015565.234900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nQq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have to return now, please!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「今すぐ戻らなければなりません、お願いします」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「お父さん」は後ろにつけるのに違和感があったからつけなかったが、前につけるのか。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "何故か『should』の綴りをど忘れしてしまった…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『please』で帰りたさを強調してみたつもりだが、アリなのかはわからぬ。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624980778.234400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e0a629ea-10d7-42c0-8069-bfdd9f36a27b",
+        "type": "message",
+        "text": "Let's quit playing Mario-Kart and resume the surgery.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625016804.235100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z==",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's quit playing Mario-Kart and resume the surgery."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624886665.227900"
+    },
+    {
+        "client_msg_id": "6e241fc0-6f5a-4c2c-aa56-b1b4a4fca238",
+        "type": "message",
+        "text": "`Let's quit playing Mario-Kart and resume the surgery.`\nDeepL: マリオカートをやめて、手術を再開しましょう。\n\n• 「手術を再開」の手術は冠詞不要？\n• 「これくらいにして」はせめて so much for にすればよかった。模範解答は enough だが。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625017020.235300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1625017033.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u3TkD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's quit playing Mario-Kart and resume the surgery.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: マリオカートをやめて、手術を再開しましょう。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「手術を再開」の手術は冠詞不要？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「これくらいにして」はせめて so much for にすればよかった。模範解答は enough だが。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624927673.229800",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "7fe8612f-8a18-4d6f-9c20-1d3a44795b16",
+        "type": "message",
+        "text": "Gee... What a snob (pretentious?) girl!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625017152.235600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJl\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gee... What a snob (pretentious?) girl!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624894378.228000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "8759c6e5-caa1-4acb-8290-1ce85e1d2a73",
+        "type": "message",
+        "text": "`Gee... What a snob (pretentious?) girl!`\nDeepL: ジー...。俗物の女だな。\n\n• snob に形容詞用法はなかった。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625017279.235800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1625017347.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u=l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gee... What a snob (pretentious?) girl!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: ジー...。俗物の女だな。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "snob に形容詞用法はなかった。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624894378.228100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b7ca9abd-6466-444f-bc20-9349d35dd3ea",
+        "type": "message",
+        "text": "Nose-hook craftsmen begin to work in early morning.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625017559.236200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fih",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nose-hook craftsmen begin to work in early morning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624936194.231300"
+    },
+    {
+        "client_msg_id": "798c2383-801f-4207-b300-861dcfb278ec",
+        "type": "message",
+        "text": "`Nose-hook craftsmen begin to work in early morning.`\nDeepL：早朝から作業を始めるノーズフックの職人たち。\n\n• start working と begin to work は interchangeable？\n• ↑習慣的な場合は begin ...ing、個別事例は begin to らしい。start と begin には大きな違いはない。\n• early in the morning と in the early morning は interchangeable（前者が自然）らしい。in early morning は？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625019048.236400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TpT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nose-hook craftsmen begin to work in early morning.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：早朝から作業を始めるノーズフックの職人たち。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "start working と begin to work は interchangeable？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "↑習慣的な場合は begin ...ing、個別事例は begin to らしい。start と begin には大きな違いはない。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "early in the morning と in the early morning は interchangeable（前者が自然）らしい。in early morning は？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624951473.233100",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "3c64229a-db11-454c-9948-0375c7f15243",
+        "type": "message",
+        "text": "Let's get back, daddy!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625019112.236600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NG=Bu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's get back, daddy!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624980778.234300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "c1e2875b-ea76-4667-92ba-9f391bb41089",
+        "type": "message",
+        "text": "`Let's get back, daddy!`\nDeepL：戻ろうよ、パパ\n\n• get back と go back を迷ったが… interchangeable？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625019201.236800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uoI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's get back, daddy!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：戻ろうよ、パパ\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "get back と go back を迷ったが… interchangeable？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624980778.234400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "064a3362-86c3-4b4a-89e5-4e7f376cc2e3",
+        "type": "message",
+        "text": "nose hook professional start work early morning.",
+        "user": "U01F42ZFA73",
+        "ts": "1625028069.237100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dorpB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nose hook professional start work early morning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624936194.231300"
+    },
+    {
+        "client_msg_id": "bdcdbe57-7f0c-48e8-932f-827e46b417e8",
+        "type": "message",
+        "text": "`nose hook professional start work early morning.`\nDeepL: 鼻フックのプロは早朝から仕事を始めます。\n\ncraftsmen:someone:who is very skilled at a particular craft.\nprofessional:relating to a job that needs special education and training\nの違いがあるらしい。正直、どっちでも許される気がするが。",
+        "user": "U01F42ZFA73",
+        "ts": "1625028617.237300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ls+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nose hook professional start work early morning.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 鼻フックのプロは早朝から仕事を始めます。\n\ncraftsmen:someone:who is very skilled at a particular craft.\nprofessional:relating to a job that needs special education and training\nの違いがあるらしい。正直、どっちでも許される気がするが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624951473.233100",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "1ca739d5-61af-423f-b42d-3acc94dbf782",
+        "type": "message",
+        "text": "your organs are exposed. insert it in your body.",
+        "user": "U01F42ZFA73",
+        "ts": "1625030260.237500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "your organs are exposed. insert it in your body."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624352065.198400"
+    },
+    {
+        "client_msg_id": "f6d07ba4-9c1b-41cf-905e-c7119b28e841",
+        "type": "message",
+        "text": "`your organs are exposed. insert it in your body.`\nDeepL: 臓器が露出しているので、体に挿入してください。\n\nbowel~=intestine\n熟語でtuck inとあったが、名詞の置き方にルールがあるらしい。\ninのような単語が前置詞である場合、verb+preposition+noun\n副詞である場合、(verb+adverb+noun) OR (verb+noun+adverb)となる。\nなお副詞である時、nounが代名詞(itやmeなど)であれば、ORの後者を必ず選ばないといけない。",
+        "user": "U01F42ZFA73",
+        "ts": "1625031614.237700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1625031747.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XmI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "your organs are exposed. insert it in your body.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 臓器が露出しているので、体に挿入してください。\n\nbowel~=intestine\n熟語でtuck inとあったが、名詞の置き方にルールがあるらしい。\ninのような単語が前置詞である場合、verb+preposition+noun\n副詞である場合、(verb+adverb+noun) OR (verb+noun+adverb)となる。\nなお副詞である時、nounが代名詞(itやmeなど)であれば、ORの後者を必ず選ばないといけない。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624352285.198800",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

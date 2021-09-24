@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "4171175e-7e42-4eb1-b341-6a1da8f9d26c",
+        "type": "message",
+        "text": "<!channel> アナウンス忘れてましたが、来年度、課プロを申請しました（社会生態学的思考を身に付けるためのワークショップ）。研究室のテーマにも関連するので、できるだけ受講してください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1583149098.002000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m=G\/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " アナウンス忘れてましたが、来年度、課プロを申請しました（社会生態学的思考を身に付けるためのワークショップ）。研究室のテーマにも関連するので、できるだけ受講してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UPSPAP97D",
+                    "UPRE1RSJW"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

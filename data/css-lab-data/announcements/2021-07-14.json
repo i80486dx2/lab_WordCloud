@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "86cbc025-a59d-49e9-a912-8ae7df72869d",
+        "type": "message",
+        "text": "<!channel> 大学広報から「THE世界大学ランキング日本版に係る「学生調査」アンケートへの協力について（依頼）」という案内がいってるかと思います。協力をよろしくお願いします。\n<https:\/\/ull.secure.force.com\/studentsurvey\/survey?id=a067F0000105N14QAE>\n• 大学のメアドを使う。\n• 7分程度らしい。\n• 回答後にメールが届くのでそこから回答完了する。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626319561.030000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 大学広報から「THE世界大学ランキング日本版に係る「学生調査」アンケートへの協力について（依頼）」という案内がいってるかと思います。協力をよろしくお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ull.secure.force.com\/studentsurvey\/survey?id=a067F0000105N14QAE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "大学のメアドを使う。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "7分程度らしい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "回答後にメールが届くのでそこから回答完了する。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D",
+                    "UKH07E67M",
+                    "U01EL0SAUTF",
+                    "UPRE1RSJW",
+                    "UQ47R82RW",
+                    "UKUKA65GU",
+                    "U01EVRBP38C"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

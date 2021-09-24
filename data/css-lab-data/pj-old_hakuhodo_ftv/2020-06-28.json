@@ -1,0 +1,618 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593407214.000200",
+        "user": "UKS1Q2KTQ",
+        "text": "<@UKS1Q2KTQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593407246.000400",
+        "user": "UPSPAMY7M",
+        "text": "<@UPSPAMY7M> has joined the channel",
+        "inviter": "UKS1Q2KTQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593407246.000600",
+        "user": "UPSPAP97D",
+        "text": "<@UPSPAP97D> has joined the channel",
+        "inviter": "UKS1Q2KTQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593407246.000800",
+        "user": "UQ47R82RW",
+        "text": "<@UQ47R82RW> has joined the channel",
+        "inviter": "UKS1Q2KTQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593407246.001000",
+        "user": "UKH07E67M",
+        "text": "<@UKH07E67M> has joined the channel",
+        "inviter": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "dc2728bd-b0b8-4b08-86dc-15ee2637b47b",
+        "type": "message",
+        "text": "<!channel> 博報堂で今回のプロジェクトを率いている篠田さんからの情報を共有します。\nデータ（2GB程度）もダウンロードしてUSBメモリに入れてあります。\n週明けに進捗の共有をすることになってますので、\n今週、早めに打ち合わせをしましょう。\n\n&gt; *（注意点）*\n&gt; ・本データはブログウォッチャー社から購入した有料のデータとなります。\n&gt; ・本データは本プロジェクト（福島テレビ番組活用）のみで使用いただき、それ以外の用途での利用は不可でお願いします。\n&gt; 　※今後、同様のデータで別の分析\/研究を行いたい場合は、別途ご相談くださいませ。\n&gt; ・本データの配布先の学生は管理いただき、学生から他の人に再配布あるいはデータ漏洩などないようご注意くださいませ。\n&gt; 　※弊社では、通常、誓約書などとともに管理しますが、管理方法はお任せします。\n&gt; \n&gt; *（データ概要）*\n&gt; ・ブログウォッチャー社の契約する数百のスマホアプリ経由で取得したGPSによる移動データとなります。\n&gt; ・取得しているデータは情報規約に許諾を得たユーザのみとなります。\n&gt; ・ブログウォッチャー社自体のサービスの伸びなどがあり、絶対数は補正の必要があると思います。\n&gt; 　※篠田が補正した数値は、先日送付したファイルを参照くださいませ。\n&gt; ・データ取得期間は下記となります。\n&gt; 　2019年5月2〜5日（GW）\n&gt; 　2019年5月24〜28日（通常期、平日土日含む）\n&gt; 　2020年5月2〜5日（GW、緊急事態宣言中）\n&gt; 　2020年5月22〜26日（通常期、平日土日含む、緊急事態宣言解除後）\n&gt; ・主なデータカラムは下記となります。\n&gt; 　accuracy：GPS取得精度となります。（最大何mずれるかを表すもので、おかしな値となったときのチェックに使用しています。）\n&gt; 　city_name：推定居住都市です。\n&gt; 　city_name：推定居住都道府県です。\n&gt; 　area：会津若松市民、福島県民（会津若松市民以外）、県外の3区分です。\n&gt; 　lat_mesh：会津市内を200mメッシュで区切ったときの緯度方向のナンバリングです\n&gt; 　longi_mesh：会津市内を200mメッシュで区切ったときの経度方向のナンバリングです\n&gt; 　stay_time：その時点での当該メッシュ内の滞在時間です\n&gt; 　diff_time：直前のログからの経過時間です。\n&gt; 　diff_m：直前のログからの移動距離です。\n&gt; 　velocity：diff_time、diff_mから計算した移動速度です。\n&gt; 　その他、year\/day\/hour\/minはdatetimeカラムから取得したそれぞれの時刻に関する値です。\n&gt; \n&gt; *（今後の分析内容）*\n&gt; 1)・コロナ後も今も訪問人数の多いスポットの集計\n&gt; 2)・上記スポットの時間帯別の滞在人数推移\n&gt; 3)・各スポット\/エリアのコロナ以前・以後の訪問時間帯の変化(飲食店含む)\n&gt; 4)・県外の人がいっていない地元民が知る意外なスポット（あるいはその逆）※先日のワークショップの内容\n&gt; 5)・n=1に注目した1日の行動（特に可能ならコロナ以前・以後での変化）\n&gt; \n&gt; 上記パラレルで進行できればと思いますが、特に5つめの項目は、\n&gt; 着目する人が異なると分析できる行動も異なると思いますので、それぞれが取り組めればと思います。\n&gt; それ以外の分析項目のうち、4)あたりも併走できればと思っております。\n&gt; 1)、2)、3)は比較的単純な集計のため、こちらでやってしまおうと思います。\n&gt; \n&gt; ご不明な点がございましたらご連絡くださいませ。\n&gt; もし分科会などで学生含めてデータの概要などご説明したほうがよろしければセッティングしますので\n&gt; おっしゃってくださいませ。\n&gt; また、来週頭あたりに一度進捗を共有できればと思っております。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1593407789.004100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uJf88",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 博報堂で今回のプロジェクトを率いている篠田さんからの情報を共有します。\nデータ（2GB程度）もダウンロードしてUSBメモリに入れてあります。\n週明けに進捗の共有をすることになってますので、\n今週、早めに打ち合わせをしましょう。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "（注意点）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n・本データはブログウォッチャー社から購入した有料のデータとなります。\n・本データは本プロジェクト（福島テレビ番組活用）のみで使用いただき、それ以外の用途での利用は不可でお願いします。\n　※今後、同様のデータで別の分析\/研究を行いたい場合は、別途ご相談くださいませ。\n・本データの配布先の学生は管理いただき、学生から他の人に再配布あるいはデータ漏洩などないようご注意くださいませ。\n　※弊社では、通常、誓約書などとともに管理しますが、管理方法はお任せします。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（データ概要）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n・ブログウォッチャー社の契約する数百のスマホアプリ経由で取得したGPSによる移動データとなります。\n・取得しているデータは情報規約に許諾を得たユーザのみとなります。\n・ブログウォッチャー社自体のサービスの伸びなどがあり、絶対数は補正の必要があると思います。\n　※篠田が補正した数値は、先日送付したファイルを参照くださいませ。\n・データ取得期間は下記となります。\n　2019年5月2〜5日（GW）\n　2019年5月24〜28日（通常期、平日土日含む）\n　2020年5月2〜5日（GW、緊急事態宣言中）\n　2020年5月22〜26日（通常期、平日土日含む、緊急事態宣言解除後）\n・主なデータカラムは下記となります。\n　accuracy：GPS取得精度となります。（最大何mずれるかを表すもので、おかしな値となったときのチェックに使用しています。）\n　city_name：推定居住都市です。\n　city_name：推定居住都道府県です。\n　area：会津若松市民、福島県民（会津若松市民以外）、県外の3区分です。\n　lat_mesh：会津市内を200mメッシュで区切ったときの緯度方向のナンバリングです\n　longi_mesh：会津市内を200mメッシュで区切ったときの経度方向のナンバリングです\n　stay_time：その時点での当該メッシュ内の滞在時間です\n　diff_time：直前のログからの経過時間です。\n　diff_m：直前のログからの移動距離です。\n　velocity：diff_time、diff_mから計算した移動速度です。\n　その他、year\/day\/hour\/minはdatetimeカラムから取得したそれぞれの時刻に関する値です。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（今後の分析内容）",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n1)・コロナ後も今も訪問人数の多いスポットの集計\n2)・上記スポットの時間帯別の滞在人数推移\n3)・各スポット\/エリアのコロナ以前・以後の訪問時間帯の変化(飲食店含む)\n4)・県外の人がいっていない地元民が知る意外なスポット（あるいはその逆）※先日のワークショップの内容\n5)・n=1に注目した1日の行動（特に可能ならコロナ以前・以後での変化）\n\n上記パラレルで進行できればと思いますが、特に5つめの項目は、\n着目する人が異なると分析できる行動も異なると思いますので、それぞれが取り組めればと思います。\nそれ以外の分析項目のうち、4)あたりも併走できればと思っております。\n1)、2)、3)は比較的単純な集計のため、こちらでやってしまおうと思います。\n\nご不明な点がございましたらご連絡くださいませ。\nもし分科会などで学生含めてデータの概要などご説明したほうがよろしければセッティングしますので\nおっしゃってくださいませ。\nまた、来週頭あたりに一度進捗を共有できればと思っております。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593407789.004100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1593408074.006100",
+        "reply_users": [
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1593408074.006100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1593408074.006100",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UPSPAP97D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "886b82d1-f018-4334-92a6-c1ac3d89ff70",
+        "type": "message",
+        "text": "<!channel> 以下の資料は、篠田さんが現時点で簡単にまとめられた分析例で、先日の打ち合わせの際に共有いただいたものです。参考までに。\n<https:\/\/www.dropbox.com\/s\/zcff3eikn3e8s2z\/%28%E5%B1%95%E9%96%8B%29%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BEGPS%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90.xlsx?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1593407973.005500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "cjyjl",
+                        "external_id": "1-None-fac00bc6434e2ed27e363fb103c1a52190cce627b13a34958d2a0ae11393bcaa",
+                        "source": "remote",
+                        "file_id": "F016KFPHXBK",
+                        "file": {
+                            "id": "F016KFPHXBK",
+                            "created": 1593407977,
+                            "timestamp": 1593407977,
+                            "name": "____________________GPS________________xlsx",
+                            "title": "(展開)会津若松GPSデータ分析.xlsx",
+                            "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                            "filetype": "xlsx",
+                            "pretty_type": "Excel Spreadsheet",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 0,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/zcff3eikn3e8s2z\/%28%E5%B1%95%E9%96%8B%29%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BEGPS%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90.xlsx?dl=0",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016KFPHXBK-a4efb221cb\/____________________gps________________xlsx_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016KFPHXBK-a4efb221cb\/____________________gps________________xlsx_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016KFPHXBK-a4efb221cb\/____________________gps________________xlsx_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 180,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016KFPHXBK-a4efb221cb\/____________________gps________________xlsx_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_480_w": 480,
+                            "thumb_480_h": 240,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016KFPHXBK-a4efb221cb\/____________________gps________________xlsx_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016KFPHXBK-a4efb221cb\/____________________gps________________xlsx_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720_w": 720,
+                            "thumb_720_h": 360,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016KFPHXBK-a4efb221cb\/____________________gps________________xlsx_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 400,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016KFPHXBK-a4efb221cb\/____________________gps________________xlsx_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_960_w": 960,
+                            "thumb_960_h": 480,
+                            "image_exif_rotation": 1,
+                            "original_w": 1000,
+                            "original_h": 500,
+                            "thumb_tiny": "AwAYADCW9W7MoMDEJt5wQOar7NR\/vN\/30K1G6GkbqKAM3y9R\/vN\/30KNmoc\/O3H+0K0j2+tB6NQBm+XqOfvt\/wB9CjZqH99v++hWl\/F+FHYfWgBW6GkbqKVuhpG6igAPb60Ho1Ke31pP71AB\/EPpQe31pf4h9KQ9R9aAP\/\/Z",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F016KFPHXBK\/____________________gps________________xlsx",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-None-fac00bc6434e2ed27e363fb103c1a52190cce627b13a34958d2a0ae11393bcaa",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/zcff3eikn3e8s2z\/%28%E5%B1%95%E9%96%8B%29%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BEGPS%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90.xlsx?dl=0",
+                            "has_rich_preview": true
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/zcff3eikn3e8s2z\/%28%E5%B1%95%E9%96%8B%29%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BEGPS%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90.xlsx?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E02Em",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 以下の資料は、篠田さんが現時点で簡単にまとめられた分析例で、先日の打ち合わせの際に共有いただいたものです。参考までに。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/zcff3eikn3e8s2z\/%28%E5%B1%95%E9%96%8B%29%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BEGPS%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90.xlsx?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UPSPAP97D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eed2132c-7268-478b-b769-c140b6ee7d86",
+        "type": "message",
+        "text": "打ち合わせするなら私事で今日このあと4時間ほど予定があるので、明日明後日がいいです。",
+        "user": "UQ47R82RW",
+        "ts": "1593408074.006100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KyY2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "打ち合わせするなら私事で今日このあと4時間ほど予定があるので、明日明後日がいいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593407789.004100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c71b8db-b16f-45ff-9168-1ba85a7f1f1f",
+        "type": "message",
+        "text": "<!channel> 初回打ち合わせですが、明日火曜は皆さん都合はいかがでしょうか？私は16～18時の学生面談以外は空いています。データのシェアも含めて例えば14:30～15:30、あるいは18:00～19:00などは？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1593408763.008400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "clW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 初回打ち合わせですが、明日火曜は皆さん都合はいかがでしょうか？私は16～18時の学生面談以外は空いています。データのシェアも含めて例えば14:30～15:30、あるいは18:00～19:00などは？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593408763.008400",
+        "reply_count": 11,
+        "reply_users_count": 5,
+        "latest_reply": "1593504680.014500",
+        "reply_users": [
+            "UQ47R82RW",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UPSPAMY7M",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1593408843.008500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1593409229.008900"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1593411530.009300"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1593413403.009700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1593417880.009900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1593417920.010200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1593417996.011700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1593430451.012000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1593495088.012700"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1593496699.013100"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1593504680.014500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1593504680.014500"
+    },
+    {
+        "client_msg_id": "8bb025fc-588f-4ec5-bb0a-d0b797490774",
+        "type": "message",
+        "text": "自分は14:30～15:30でも18:00～19:00でも大丈夫です。",
+        "user": "UQ47R82RW",
+        "ts": "1593408843.008500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1593408862.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iV4J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分は14:30～15:30でも18:00～19:00でも大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593408763.008400",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13f9f0f3-85ec-45d9-afc6-6bc9ce9ec77b",
+        "type": "message",
+        "text": "上に同じです。",
+        "user": "UKH07E67M",
+        "ts": "1593409229.008900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YLChQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上に同じです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593408763.008400",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5580f63-b044-415e-b624-822b281bf05a",
+        "type": "message",
+        "text": "僕も何時でも大丈夫です。",
+        "user": "UPSPAP97D",
+        "ts": "1593411530.009300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cws",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕も何時でも大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593408763.008400",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1296b8f2-d772-4b4b-b458-665a82a36253",
+        "type": "message",
+        "text": "私も両時間帯大丈夫です。参加いたします。",
+        "user": "UPSPAMY7M",
+        "ts": "1593413403.009700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ReqBp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私も両時間帯大丈夫です。参加いたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593408763.008400",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

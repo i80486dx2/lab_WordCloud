@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "f5a7375c-b2f4-4c6c-b844-8c92f53b120c",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01EP8BUKQT> <@U01EV766AH2> <@U01F31EEVNV> <@U01EPKVACEN>\n次回のVR輪講の論文はリンクの通りです。\n\n<https:\/\/www.dropbox.com\/s\/ib6t1km6gdtnsgb\/MR360-%20Mixed%20Reality%20Rendering%20for%20360%C2%B0%20Panoramic%20Videos.pdf?dl=0>\n\n割り当ては\n1 Introduction →　各自読んでおく\n\n<@U01F31EEVNV> →　2 RELATED WORK\n<@U01EP8BUKQT> →　3 REAL-TIME IBL USING 360-VIDEO\n<@U01EV766AH2> →　4 REAL-TIME IBS USING 360-VIDEO\n<@UPSPAP97D> →　5 DIFFERENTIAL RENDERING FOR 360-VIDEOと6 MR360 IMPLEMENTATION（２セクション分で５は短いのですが、発表は２スライドでも大丈夫です）\n<@U01EPKVACEN> → 7 RESULTS\n\n8 Conclusion →　私が解説\n\n次回は\n*６月２９日（火）16:30〜　オンライン開催予定*\nよろしくお願いします。\n\n※今回も各自スライド１枚で説明でお願いします\n※VR輪講メンバーに割当たっていない学生も参加OKです",
+        "user": "UPSPAMY7M",
+        "ts": "1623916032.044400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Nxnq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n次回のVR輪講の論文はリンクの通りです。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/ib6t1km6gdtnsgb\/MR360-%20Mixed%20Reality%20Rendering%20for%20360%C2%B0%20Panoramic%20Videos.pdf?dl=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n割り当ては\n1 Introduction →　各自読んでおく\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " →　2 RELATED WORK\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " →　3 REAL-TIME IBL USING 360-VIDEO\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " →　4 REAL-TIME IBS USING 360-VIDEO\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " →　5 DIFFERENTIAL RENDERING FOR 360-VIDEOと6 MR360 IMPLEMENTATION（２セクション分で５は短いのですが、発表は２スライドでも大丈夫です）\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " → 7 RESULTS\n\n8 Conclusion →　私が解説\n\n次回は\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "６月２９日（火）16:30〜　オンライン開催予定",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いします。\n\n※今回も各自スライド１枚で説明でお願いします\n※VR輪講メンバーに割当たっていない学生も参加OKです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623916032.044400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624940973.058500",
+        "reply_users": [
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1624940973.058500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "U01EP8BUKQT",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

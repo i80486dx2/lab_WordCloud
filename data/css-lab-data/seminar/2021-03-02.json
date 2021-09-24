@@ -1,0 +1,199 @@
+[
+    {
+        "client_msg_id": "c5dc2936-1feb-4491-af8b-ad6c6305a2d2",
+        "type": "message",
+        "text": "*<!channel>* 本日の研究室会のリマインダーです：\n3月3日（水）17:00～\n<https:\/\/zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09>\n今日話題提供できる方はいますか？\n先に伝えておくと、研究室会は3月いっぱい春休みでお休みにしようと思います。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1614736948.002000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x0l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 本日の研究室会のリマインダーです：\n3月3日（水）17:00～\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日話題提供できる方はいますか？\n先に伝えておくと、研究室会は3月いっぱい春休みでお休みにしようと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614736948.002000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1614738171.002400",
+        "reply_users": [
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1614738171.002400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1614738171.002400"
+    },
+    {
+        "client_msg_id": "4ffbc982-aecc-4bd6-9ef4-d672dcfa4338",
+        "type": "message",
+        "text": "本日の研究室会のリマインダーです",
+        "user": "UPRE1RSJW",
+        "ts": "1614737059.002200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iwrnG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日の研究室会のリマインダーです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "今日のQucik Updateの発表順は、alice aoshi sukegawa sota kota hiromu Takahashi Kento ren azuma TAKUMI sakurai naoya ryosuke daiki です。　※本日MTGに参加していないメンバーはスキップしてください。",
+        "user": "U01NA9N25GE",
+        "ts": "1614737062.002300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU",
+                    "UPSPAP97D",
+                    "UQ63J44BZ",
+                    "UQ47R82RW"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab7c3b12-14d0-44a5-8eb1-8c12f1fa8c95",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>\nrandomで話してる分析の内容で良ければ、簡単になると思いますがやりたいです。\n(5~10分くらい？)\n追記:もしかしたら、もう少し話す時間が伸びるかもしれないです。",
+        "user": "UQ47R82RW",
+        "ts": "1614738171.002400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1614745430.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pdg8s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nrandomで話してる分析の内容で良ければ、簡単になると思いますがやりたいです。\n(5~10分くらい？)\n追記:もしかしたら、もう少し話す時間が伸びるかもしれないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614736948.002000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

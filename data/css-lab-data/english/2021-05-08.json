@@ -1,0 +1,798 @@
+[
+    {
+        "client_msg_id": "9008ace8-1f69-41e1-b6f6-c7c706364c0d",
+        "type": "message",
+        "text": "<@UQ47R82RW> clan は本来は血縁でつながれた家族的な一族（その比喩として、志でつながったものも含む。例えばヤクザとかマフィアの family）、tribe は同じエリアに住む複数の family からなるような「部族」らしい。なので少しニュアンスが違う。分かりやすいのは、平氏とか源氏とかは clan、アフリカとかのある地域の集団とかは tribe。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620460897.318500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1620460970.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2x8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " clan は本来は血縁でつながれた家族的な一族（その比喩として、志でつながったものも含む。例えばヤクザとかマフィアの family）、tribe は同じエリアに住む複数の family からなるような「部族」らしい。なので少しニュアンスが違う。分かりやすいのは、平氏とか源氏とかは clan、アフリカとかのある地域の集団とかは tribe。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620401577.316000",
+        "parent_user_id": "U01UMQH4W4B",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "137FED37-7602-4B3F-8A42-D8D2D4BCC5D1",
+        "type": "message",
+        "text": "I decide the suspicion is innocent, because I am afraid that ever relationship may be broken by telling my true feeling.",
+        "user": "U01EVRBP38C",
+        "ts": "1620463586.325200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CUA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I decide the suspicion is innocent, because I am afraid that ever relationship may be broken by telling my true feeling."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620355787.314000"
+    },
+    {
+        "client_msg_id": "65A179DE-E777-43B8-8831-F1B427DB1288",
+        "type": "message",
+        "text": "`I decide the suspicion is innocent, because I am afraid that ever relationship may be broken by telling my true feeling.`\nDeepl: 本音を言ってしまうと、これまでの関係が壊れてしまうかもしれないと思い、疑われても仕方がないと判断します。\n\n• suspicionは無理かぁ笑笑\n• にしてもdeeplの訳が綺麗",
+        "user": "U01EVRBP38C",
+        "ts": "1620464034.327700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x8ng",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I decide the suspicion is innocent, because I am afraid that ever relationship may be broken by telling my true feeling.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Deepl: 本音を言ってしまうと、これまでの関係が壊れてしまうかもしれないと思い、疑われても仕方がないと判断します。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "suspicionは無理かぁ笑笑"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "にしてもdeeplの訳が綺麗"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620365085.314400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "68f931eb-6637-4f35-ab78-a049c630ec86",
+        "type": "message",
+        "text": "If my family will be died, humans will know our revenge.",
+        "user": "UKH07E67M",
+        "ts": "1620469695.328000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dG8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If my family will be died, humans will know our revenge."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620401577.315900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "8d261605-0015-4fd9-a022-f5e0e8afb8e8",
+        "type": "message",
+        "text": "`If my family will be died, humans will know our revenge.`\n私の家族が死ねば、人間は私たちの復讐を知ることになる。\n• even if たとえ　完全に気づけなかった\n• clan 一族　前にやったじゃん！\n• annihilated 絶滅させる　初めて知った。でもextinct と exterminateは知ってた気づけなかった思い出せなかった\n• completely 尽く\/完璧に　なるほど\n• 後悔させてやる = 復讐してやる = have our vengeance on 　vengeance 復讐\n• the humans <https:\/\/canteenenglish.com\/nuance-of-people\/#toc_id_1_8>\n畜生から見た人間は、人間ではなく生物的な違いといういみでヒトってことかなぁ。ジブリとかで非人間はたまに「ニンゲン」とか「ヒト」とかカタカナ表示で人間を表すから\n• 後半文は主語をweにしたかったけど、いい動詞が思いつかなかったから主語を人間にした\n• be died は文法的にぺけ。使うならbe deadとかかな。\n• それと、前半分のニュアンスは「どんなことをしても」に対し、「殺されたら」になってるから、構成がそもそも間違い",
+        "user": "UKH07E67M",
+        "ts": "1620470349.328200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1620470733.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "カモンベイビーアメリカ",
+                "title": "英語で「人々」を意味する単語のニュアンスの違い、使い分けは？（People・Folks・Gang・Those・Person(s)・Humanity・Human beings・Humans） | カモンベイビーアメリカ",
+                "title_link": "https:\/\/canteenenglish.com\/nuance-of-people\/#toc_id_1_8",
+                "text": "Canteenです。 「人々」を意味する英単語はかなりたくさんあります。日本語でも、人々、人間、皆さん、みんな、人類などいろいろな表現があるように英語でも、People, Fol...",
+                "fallback": "カモンベイビーアメリカ: 英語で「人々」を意味する単語のニュアンスの違い、使い分けは？（People・Folks・Gang・Those・Person(s)・Humanity・Human beings・Humans） | カモンベイビーアメリカ",
+                "image_url": "https:\/\/canteenenglish.com\/wp-content\/uploads\/2020\/07\/synonyms-of-people.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1589065510,
+                "from_url": "https:\/\/canteenenglish.com\/nuance-of-people\/#toc_id_1_8",
+                "image_bytes": 266011,
+                "service_icon": "https:\/\/canteenenglish.com\/wp-content\/uploads\/2020\/04\/cropped-us-cup-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/canteenenglish.com\/nuance-of-people\/#toc_id_1_8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mZFaw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If my family will be died, humans will know our revenge.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n私の家族が死ねば、人間は私たちの復讐を知ることになる。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "even if たとえ　完全に気づけなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "clan 一族　前にやったじゃん！"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "annihilated 絶滅させる　初めて知った。でもextinct と exterminateは知ってた気づけなかった思い出せなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "completely 尽く\/完璧に　なるほど"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "後悔させてやる = 復讐してやる = have our vengeance on 　vengeance 復讐"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "the humans "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/canteenenglish.com\/nuance-of-people\/#toc_id_1_8"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "畜生から見た人間は、人間ではなく生物的な違いといういみでヒトってことかなぁ。ジブリとかで非人間はたまに「ニンゲン」とか「ヒト」とかカタカナ表示で人間を表すから\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "後半文は主語をweにしたかったけど、いい動詞が思いつかなかったから主語を人間にした"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "be died は文法的にぺけ。使うならbe deadとかかな。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "それと、前半分のニュアンスは「どんなことをしても」に対し、「殺されたら」になってるから、構成がそもそも間違い"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620401577.316000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "ジジ、今夜に決めたわ。出発よ！（キキ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1620487977.328600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1620487977.328600",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1620623263.338200",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620488473.329000"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1620497058.330000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620613184.336800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1620623263.338200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620623263.338200"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：ジジ、今夜に決めたわ。出発よ！",
+        "user": "U01UMQH4W4B",
+        "ts": "1620487977.328700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1620487977.328700",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1620623656.338400",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1620487978.328800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620488789.329200"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1620497280.330200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620527822.330400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620613764.337000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1620623656.338400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620623656.338400"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Jiji, I’ve decided! I’m gonna do it tonight!",
+        "user": "U01UMQH4W4B",
+        "ts": "1620487978.328800",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1620487977.328700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "5caa18a3-d854-47f7-82ee-363d017b473a",
+        "type": "message",
+        "text": "Zizi, I decided it will be tonight. Departure!\n（I decided ... のくだりはシンプルに It's tonight. でもよいかも）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620488473.329000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "flY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zizi, I decided it will be tonight. Departure!\n（I decided ... のくだりはシンプルに It's tonight. でもよいかも）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487977.328600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "71ea22f7-2e9c-44dd-a528-f9551222faae",
+        "type": "message",
+        "text": "`Zizi, I decided it will be tonight. Departure!`\nDeepL「Ziziさん、今夜と決めました。出発！！（笑」\n\n• DeepL訳の「笑」ってなんやねんw\n• 模範解答が和文と違い過ぎる…。\n• 「（心を）決めたわ！」ってニュアンスは I decided ではなくて I've decided.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620488789.329200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A2U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zizi, I decided it will be tonight. Departure!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「Ziziさん、今夜と決めました。出発！！（笑」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "DeepL訳の「笑」ってなんやねんw"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "模範解答が和文と違い過ぎる…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「（心を）決めたわ！」ってニュアンスは I decided ではなくて I've decided."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487977.328700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "d974a8a7-6812-47c4-ad34-031fa05319ce",
+        "type": "message",
+        "text": "Zizi I decide to tonight. Let's go!",
+        "user": "UQ47R82RW",
+        "ts": "1620497058.330000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WEr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zizi I decide to tonight. Let's go!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487977.328600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "0121731c-1931-4aa5-b76f-bb8e293127db",
+        "type": "message",
+        "text": "`Zizi, I decide to tonight. Let's go!`\n決めたのは過去完了なのかなぁ&gt;I've decided.\ngonna do it -&gt; するつもりって意味だろうけど、どこに出発っていう意味があるんだろ...\nやっぱ難しいな",
+        "user": "UQ47R82RW",
+        "ts": "1620497280.330200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+3LRj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zizi, I decide to tonight. Let's go!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n決めたのは過去完了なのかなぁ>I've decided.\ngonna do it -> するつもりって意味だろうけど、どこに出発っていう意味があるんだろ...\nやっぱ難しいな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487977.328700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "871034de-9f4f-42e3-8ef9-7a375017a515",
+        "type": "message",
+        "text": "<@UQ47R82RW>\n&gt; gonna do it -&gt; するつもりって意味だろうけど、どこに出発っていう意味があるんだろ...\nいや、そんな意味ないからw",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620527822.330400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4m7l\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gonna do it -> するつもりって意味だろうけど、どこに出発っていう意味があるんだろ..."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや、そんな意味ないからw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487977.328700",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

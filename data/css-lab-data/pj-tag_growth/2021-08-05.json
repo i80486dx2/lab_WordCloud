@@ -1,0 +1,243 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628227053.000200",
+        "user": "UKS1Q2KTQ",
+        "text": "<@UKS1Q2KTQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628227059.000400",
+        "user": "UQ47R82RW",
+        "text": "<@UQ47R82RW> has joined the channel",
+        "inviter": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "02d1cd84-39b5-43d4-8cd4-1ab6226bf543",
+        "type": "message",
+        "text": "<@UQ47R82RW> 資料とデータをシェアします。\n<https:\/\/www.dropbox.com\/s\/es90cf9zmq9qfsu\/20210713_%E6%B1%A0%E4%B8%8A%E7%A0%94%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC.pptx?dl=0>\n<https:\/\/www.dropbox.com\/s\/19j8p4gf64pyr2n\/tid2name.roomclip-20191219.tsv?dl=0>\n<https:\/\/www.dropbox.com\/s\/urcwyxed7zm90ky\/time_series_of_tag_set.roomclip-20191219.tsv?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628227190.001100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "0p+fO",
+                        "external_id": "1-99d42443adc46735c2114b69297302bb60a02472b44d44ca9017ed1b7a682db6",
+                        "source": "remote",
+                        "file_id": "F02AAFK361K",
+                        "file": {
+                            "id": "F02AAFK361K",
+                            "created": 1628227198,
+                            "timestamp": 1628227198,
+                            "name": "20210713_______________________pptx",
+                            "title": "20210713_池上研セミナー.pptx",
+                            "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                            "filetype": "pptx",
+                            "pretty_type": "PowerPoint Presentation",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 72004,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/es90cf9zmq9qfsu\/20210713_%E6%B1%A0%E4%B8%8A%E7%A0%94%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC.pptx?dl=0",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AAFK361K-c469bfcc25\/20210713_______________________pptx_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AAFK361K-c469bfcc25\/20210713_______________________pptx_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AAFK361K-c469bfcc25\/20210713_______________________pptx_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 180,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AAFK361K-c469bfcc25\/20210713_______________________pptx_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_480_w": 480,
+                            "thumb_480_h": 240,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AAFK361K-c469bfcc25\/20210713_______________________pptx_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AAFK361K-c469bfcc25\/20210713_______________________pptx_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720_w": 720,
+                            "thumb_720_h": 360,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AAFK361K-c469bfcc25\/20210713_______________________pptx_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 400,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AAFK361K-c469bfcc25\/20210713_______________________pptx_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_960_w": 960,
+                            "thumb_960_h": 480,
+                            "original_w": 1000,
+                            "original_h": 500,
+                            "thumb_tiny": "AwAYADDRoprvtxwTn0FIJQRna35UAPopgkBGdrD8Kcrbs4BGPUUALRRRQAjHGOCfoKQAEZ5\/GnikoATaKTYPf8zTqKAEChSSO9LRRQB\/\/9k=",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F02AAFK361K\/20210713_______________________pptx",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-99d42443adc46735c2114b69297302bb60a02472b44d44ca9017ed1b7a682db6",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/es90cf9zmq9qfsu\/20210713_%E6%B1%A0%E4%B8%8A%E7%A0%94%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC.pptx?dl=0",
+                            "has_rich_preview": true
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/es90cf9zmq9qfsu\/20210713_%E6%B1%A0%E4%B8%8A%E7%A0%94%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC.pptx?dl=0",
+                "is_app_unfurl": true
+            },
+            {
+                "id": 2,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "UZtkY",
+                        "external_id": "1-6972d8b972fc18b2c7fce49044a3db37a26d7647c516159bf5041b23e7e79199",
+                        "source": "remote",
+                        "file_id": "F01TEM2L213",
+                        "file": {
+                            "id": "F01TEM2L213",
+                            "created": 1617795060,
+                            "timestamp": 1617795060,
+                            "name": "tid2name_roomclip-20191219_tsv",
+                            "title": "tid2name.roomclip-20191219.tsv",
+                            "mimetype": "text\/tab-separated-values",
+                            "filetype": "tsv",
+                            "pretty_type": "TSV",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 0,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/19j8p4gf64pyr2n\/tid2name.roomclip-20191219.tsv?dl=0",
+                            "media_display_type": "unknown",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F01TEM2L213\/tid2name_roomclip-20191219_tsv",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-6972d8b972fc18b2c7fce49044a3db37a26d7647c516159bf5041b23e7e79199",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/19j8p4gf64pyr2n\/tid2name.roomclip-20191219.tsv?dl=0",
+                            "has_rich_preview": false
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/19j8p4gf64pyr2n\/tid2name.roomclip-20191219.tsv?dl=0",
+                "is_app_unfurl": true
+            },
+            {
+                "id": 3,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "tklpT",
+                        "external_id": "1-7052602d88ddce205131a1826a8f4f50639869215c0ee8fb9906256580a6d8a7",
+                        "source": "remote",
+                        "file_id": "F021RQE8DD5",
+                        "file": {
+                            "id": "F021RQE8DD5",
+                            "created": 1621299520,
+                            "timestamp": 1621299520,
+                            "name": "time_series_of_tag_set_roomclip-20191219_tsv",
+                            "title": "time_series_of_tag_set.roomclip-20191219.tsv",
+                            "mimetype": "text\/tab-separated-values",
+                            "filetype": "tsv",
+                            "pretty_type": "TSV",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 0,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/urcwyxed7zm90ky\/time_series_of_tag_set.roomclip-20191219.tsv?dl=0",
+                            "media_display_type": "unknown",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F021RQE8DD5\/time_series_of_tag_set_roomclip-20191219_tsv",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-7052602d88ddce205131a1826a8f4f50639869215c0ee8fb9906256580a6d8a7",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/urcwyxed7zm90ky\/time_series_of_tag_set.roomclip-20191219.tsv?dl=0",
+                            "has_rich_preview": false
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/urcwyxed7zm90ky\/time_series_of_tag_set.roomclip-20191219.tsv?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3yf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 資料とデータをシェアします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/es90cf9zmq9qfsu\/20210713_%E6%B1%A0%E4%B8%8A%E7%A0%94%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC.pptx?dl=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/19j8p4gf64pyr2n\/tid2name.roomclip-20191219.tsv?dl=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/urcwyxed7zm90ky\/time_series_of_tag_set.roomclip-20191219.tsv?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

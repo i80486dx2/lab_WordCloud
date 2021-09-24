@@ -1,0 +1,825 @@
+[
+    {
+        "client_msg_id": "4ae24953-f526-4566-bd23-93c0e093ed1e",
+        "type": "message",
+        "text": "<!channel> 今日17時からの研究室会はこちらで：\n<https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617779611.011200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XKQ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日17時からの研究室会はこちらで：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "U01EL0SAUTF",
+                    "UPSPAP97D"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "329e5c61-1f7c-48b2-b176-0f09ccb1d3d0",
+        "type": "message",
+        "text": "本日の研究室会のリマインダーです",
+        "user": "UPRE1RSJW",
+        "ts": "1617779634.011400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ocoQB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日の研究室会のリマインダーです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "今日のQucik Updateの発表順は、sukegawa hiromu alice sota kota aoshi TAKUMI ren daiki Kento sakurai azuma ryosuke Takahashi naoya です。　※本日MTGに参加していないメンバーはスキップしてください。",
+        "user": "U01NA9N25GE",
+        "ts": "1617779635.011500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "client_msg_id": "e17525b6-8a6b-4d6a-b2cb-45d16983a0e5",
+        "type": "message",
+        "text": "↑これ普通に \"show members randomly\" とかで表示するようにすればよいのでは。バリエーションとして \"show members in ascending order\" とか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617779753.012600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑これ普通に \"show members randomly\" とかで表示するようにすればよいのでは。バリエーションとして \"show members in ascending order\" とか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "830235df-0dfb-4ce3-8963-2a3cc78e0668",
+        "type": "message",
+        "text": "show members randomly",
+        "user": "UPRE1RSJW",
+        "ts": "1617780040.013100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2VwNi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "show members randomly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "今日のQucik Updateの発表順は、hiromu alice aoshi sota sukegawa kota Kento ren ryosuke azuma daiki Takahashi TAKUMI naoya sakurai です。　※本日MTGに参加していないメンバーはスキップしてください。",
+        "user": "U01NA9N25GE",
+        "ts": "1617780042.013200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "client_msg_id": "e0e157e1-b160-4c8a-a0c3-62740c8387ce",
+        "type": "message",
+        "text": "改良しました。",
+        "user": "UPRE1RSJW",
+        "ts": "1617780060.013800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GR0mi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "改良しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "runner",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8fda4230-e596-4c80-bf16-a1b06b4488e4",
+        "type": "message",
+        "text": "Thank you. It's wonderful!\nあと「今日Quick Update...」はなくして単に名前のリストを表示するだけでいいと思う。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617780229.015600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B6Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you. It's wonderful!\nあと「今日Quick Update...」はなくして単に名前のリストを表示するだけでいいと思う。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41ba73a1-ca76-47bd-9528-abdcadeeafb7",
+        "type": "message",
+        "text": "show members randomly",
+        "user": "UPRE1RSJW",
+        "ts": "1617780481.015900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njrmV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "show members randomly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617780481.015900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1617781576.016100",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617781576.016100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617781576.016100"
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "sota hiromu alice kota sukegawa aoshi Kento ryosuke Takahashi daiki naoya TAKUMI ren sakurai azuma ",
+        "user": "U01NA9N25GE",
+        "ts": "1617780484.016000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "client_msg_id": "a1aa2a94-4f0e-47c5-90ce-dc937c736809",
+        "type": "message",
+        "text": "<@UPRE1RSJW> 単にクイックアップデートの順番を出すだけという意味不明な低機能さが面白かったわけだけど、それを踏襲するならトリガーワードは \"quick update\" とかがよい気もする。アカウント名も語感が変なので、例えば QuickUpdateBot にするとか？\n\nあるいは、便利な汎用ボットにするなら、トリガーを \"bot: \" とかにして、パラメータでメンバーのランダム表示や学年別表示なんかができると発展性があると思う。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617781576.016100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7wG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 単にクイックアップデートの順番を出すだけという意味不明な低機能さが面白かったわけだけど、それを踏襲するならトリガーワードは \"quick update\" とかがよい気もする。アカウント名も語感が変なので、例えば QuickUpdateBot にするとか？\n\nあるいは、便利な汎用ボットにするなら、トリガーを \"bot: \" とかにして、パラメータでメンバーのランダム表示や学年別表示なんかができると発展性があると思う。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617780481.015900",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9057f134-8c0c-41e3-8199-4814cb9253e2",
+        "type": "message",
+        "text": "<!channel> 研究室ガイダンスの資料を共有します：\n<https:\/\/www.dropbox.com\/s\/rtp8ou4nmmtgti0\/%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%82%AC%E3%82%A4%E3%83%80%E3%83%B3%E3%82%B9.pdf?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617789311.016800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "dwF",
+                        "external_id": "1-d91491c0f868876b9c3a39c724be36b9a0d1eaa5edb54fc12f58527940b250dc",
+                        "source": "remote",
+                        "file_id": "F01THEJ81A6",
+                        "file": {
+                            "id": "F01THEJ81A6",
+                            "created": 1617789319,
+                            "timestamp": 1617789319,
+                            "name": "_________________________pdf",
+                            "title": "研究室ガイダンス.pdf",
+                            "mimetype": "application\/pdf",
+                            "filetype": "pdf",
+                            "pretty_type": "PDF",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 43993,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/rtp8ou4nmmtgti0\/%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%82%AC%E3%82%A4%E3%83%80%E3%83%B3%E3%82%B9.pdf?dl=0",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01THEJ81A6-dff80f600a\/_________________________pdf_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01THEJ81A6-dff80f600a\/_________________________pdf_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01THEJ81A6-dff80f600a\/_________________________pdf_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 180,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01THEJ81A6-dff80f600a\/_________________________pdf_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_480_w": 480,
+                            "thumb_480_h": 240,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01THEJ81A6-dff80f600a\/_________________________pdf_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01THEJ81A6-dff80f600a\/_________________________pdf_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720_w": 720,
+                            "thumb_720_h": 360,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01THEJ81A6-dff80f600a\/_________________________pdf_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 400,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01THEJ81A6-dff80f600a\/_________________________pdf_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_960_w": 960,
+                            "thumb_960_h": 480,
+                            "original_w": 1000,
+                            "original_h": 500,
+                            "thumb_tiny": "AwAYADDToooJAGScUAFFR+cP7p\/MUeaf7jZ+ooAkooBz0ooAKRkVxhhkUtFAEXlwg9BnpS4izjAyajf7zfWkH+tWgCwAFGAMUtFFAH\/\/2Q==",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F01THEJ81A6\/_________________________pdf",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-d91491c0f868876b9c3a39c724be36b9a0d1eaa5edb54fc12f58527940b250dc",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/rtp8ou4nmmtgti0\/%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%82%AC%E3%82%A4%E3%83%80%E3%83%B3%E3%82%B9.pdf?dl=0",
+                            "has_rich_preview": true
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/rtp8ou4nmmtgti0\/%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%82%AC%E3%82%A4%E3%83%80%E3%83%B3%E3%82%B9.pdf?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NSfn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 研究室ガイダンスの資料を共有します：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/rtp8ou4nmmtgti0\/%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%82%AC%E3%82%A4%E3%83%80%E3%83%B3%E3%82%B9.pdf?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "U01EVRBP38C",
+                    "U01FP2RDV44",
+                    "U01EL0SAUTF"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59ed3586-a882-4664-8efa-b25ee633cbfd",
+        "type": "message",
+        "text": "<@U01EP8BUKQT> <@U01EPKVACEN>  <@U01EV766AH2> <@U01F31EEVNV> <@UPSPAP97D>\nすみません、ちょっと時間をずらして火曜の17:00〜からいかがでしょうか？\n完全オンラインで行う予定です。",
+        "user": "UPSPAMY7M",
+        "ts": "1617842210.017800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a3g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません、ちょっと時間をずらして火曜の17:00〜からいかがでしょうか？\n完全オンラインで行う予定です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617669991.005100",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "96BC2547-E346-4205-B193-80FFB02AD17E",
+        "type": "message",
+        "text": "<@UPSPAMY7M> つまらない質問ですが、火曜の17:00〜というのは、来週火曜の話で合っていますか？（このスレッドの中ほどの予定変更連絡と時間のズレが無いような気がしたので念のため…）",
+        "user": "UPSPAP97D",
+        "ts": "1617843244.023100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " つまらない質問ですが、火曜の17:00〜というのは、来週火曜の話で合っていますか？（このスレッドの中ほどの予定変更連絡と時間のズレが無いような気がしたので念のため…）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617669991.005100",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "40e4a8dc-3be8-41f7-83d4-687b93eb4452",
+        "type": "message",
+        "text": "<@U01EP8BUKQT> <@U01EPKVACEN>  <@U01EV766AH2> <@U01F31EEVNV> <@UPSPAP97D>\nすみません、間違えました！来週火曜の16:30〜に変更ですがご都合いかがでしょうか？\n<@UPSPAP97D> ありがとうございます。そのままコピペしただけでした:pray:",
+        "user": "UPSPAMY7M",
+        "ts": "1617843366.023300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z1u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nすみません、間違えました！来週火曜の16:30〜に変更ですがご都合いかがでしょうか？\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ありがとうございます。そのままコピペしただけでした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617669991.005100",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U01EPKVACEN",
+                    "UPSPAP97D",
+                    "U01EV766AH2"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80ED090C-FA1F-4754-BD76-4303C4CCABC2",
+        "type": "message",
+        "text": "<@UPSPAMY7M> なるほどです!（コピペの変更忘れは、たまに僕もしちゃいますw）\n僕はその時間でも問題ないです！",
+        "user": "UPSPAP97D",
+        "ts": "1617843562.026500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1617843756.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なるほどです!（コピペの変更忘れは、たまに僕もしちゃいますw）\n僕はその時間でも問題ないです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617669991.005100",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

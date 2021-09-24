@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "f9e37232-d3a7-420a-a561-fe36fdf6ec55",
+        "type": "message",
+        "text": "<!channel> 今日のmtgですが、吉野君は参加できそうですか？\n\nURLはこちらです：\n<https:\/\/us06web.zoom.us\/j\/99266177893?pwd=OWJOeHAzaW1mQmhVWEpmNitaamVwdz09>\n2021年4月12日17時～",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618189572.021000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yGKyu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日のmtgですが、吉野君は参加できそうですか？\n\nURLはこちらです：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/99266177893?pwd=OWJOeHAzaW1mQmhVWEpmNitaamVwdz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n2021年4月12日17時～"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8ccaa69-c148-409d-8509-4de15542d6ec",
+        "type": "message",
+        "text": "オンラインで参加します( ･ω･) _ _))ﾍﾟｺﾘ",
+        "user": "U01KC41PR9C",
+        "ts": "1618189593.021200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OUk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "オンラインで参加します( ･ω･) _ _))ﾍﾟｺﾘ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

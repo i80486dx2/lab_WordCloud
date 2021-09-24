@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "text": "chapter18の解説PDFを貼っておきます。",
+        "files": [
+            {
+                "id": "F01QN1TEV09",
+                "created": 1614918535,
+                "timestamp": 1614918535,
+                "name": "Population_dynamics.pdf",
+                "title": "Population_dynamics.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 86893,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01QN1TEV09\/population_dynamics.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01QN1TEV09\/download\/population_dynamics.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01QN1TEV09-730b519882\/population_dynamics_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F01QN1TEV09\/population_dynamics.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01QN1TEV09-c010259484",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YJ+w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "chapter18の解説PDFを貼っておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01F42ZFA73",
+        "display_as_bot": false,
+        "ts": "1614918551.005200",
+        "thread_ts": "1613730120.021100",
+        "parent_user_id": "UQ47R82RW"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "1aa6483f-1b91-4d88-a5fc-bb0e47313a1d",
+        "type": "message",
+        "text": "<!channel> 学生課からアナウンスがあったかと思いますが、明日4月21日（火）から連休最終日の5月6日（水）まで、学生は大学への立ち入りが原則禁止になります。研究室への出入りも禁止になりますので、忘れ物等に気を付けてください。ご安全に！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1587358774.002500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WiNwB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 学生課からアナウンスがあったかと思いますが、明日4月21日（火）から連休最終日の5月6日（水）まで、学生は大学への立ち入りが原則禁止になります。研究室への出入りも禁止になりますので、忘れ物等に気を付けてください。ご安全に！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UKH07E67M",
+                    "UKUKA65GU",
+                    "UQ47R82RW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UPRE1RSJW",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

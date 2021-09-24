@@ -1,0 +1,926 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1621084689.402000",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1621084689.402000",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1627267494.369800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "UQ47R82RW",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621095295.402500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1621146100.404100"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1621235465.406300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621394938.005500"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1627267494.369800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627267494.369800",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「ステファニー、鎖かたびらが伝線してるよ」\n「やだ、今日夜襲があるのに!」 <https:\/\/pbs.twimg.com\/media\/E1boCDtVUAgcWCo.jpg>",
+                "ts": 1621084683,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1393556283064668163",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1393556283064668163>",
+                "text": "「ステファニー、鎖かたびらが伝線してるよ」\n「やだ、今日夜襲があるのに!」 <https:\/\/pbs.twimg.com\/media\/E1boCDtVUAgcWCo.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1393556283064668163",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E1boCDtVUAgcWCo.jpg",
+                "image_width": 400,
+                "image_height": 480,
+                "image_bytes": 37516,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "あとりんごが一個に飴玉がふたつ（パズー\/天空の城ラピュタ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1621092777.402100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1621092777.402100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1621395373.006400",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621096823.403700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1621148079.405000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1621235846.406800"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621395373.006400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621395373.006400"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：あとりんごが一個に飴玉がふたつ",
+        "user": "U01UMQH4W4B",
+        "ts": "1621092777.402200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1621092777.402200",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1621395505.006600",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1621092778.402300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621096954.403900"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1621148832.405200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1621235964.407000"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621395505.006600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621395505.006600"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "I’ve still got an apple and some candy.",
+        "user": "U01UMQH4W4B",
+        "ts": "1621092778.402300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1621092777.402200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "6b0ea15a-4c2f-4318-8bd7-3e89c906208d",
+        "type": "message",
+        "text": "\"Stephany, your chain male has gotten unlacing.\" \"Really!? That's too bad because I have a raid tonight!\"",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621095295.402500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhaDF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Stephany, your chain male has gotten unlacing.\" \"Really!? That's too bad because I have a raid tonight!\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621084689.402000"
+    },
+    {
+        "client_msg_id": "c9946c6e-9794-43c7-ae3c-e487e87cb3da",
+        "type": "message",
+        "text": "反省会「ステファニー、鎖かたびらが伝線してるよ」「やだ、今日夜襲があるのに!」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621095328.402900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gb48",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「ステファニー、鎖かたびらが伝線してるよ」「やだ、今日夜襲があるのに!」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621095328.402900",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1627267986.370000",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "UQ47R82RW",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621095664.403000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1621147615.404300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1621235760.406500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621395325.005700"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1627267986.370000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627267986.370000"
+    },
+    {
+        "client_msg_id": "a97a8dec-8c16-4305-8730-327958c00e2c",
+        "type": "message",
+        "text": "`\"Stephany, your chain male has gotten unlacing.\" \"Really!? That's too bad because I have a raid tonight!\"`\nDeepL：「ステファニー、君のチェーンオスの紐が解けてしまったよ」「\"本当！？それは残念！今夜はレイドがあるからね！」\n\n• これはひどい…。\n• 「チェインメイル = a chain mail」了。チェーンオスになってしまった…。\n• 「伝線する = get a run in」了。これは当てたかった。悔しい。\n• has gotten（受け取り）としたが、この場合は has got（所有）がよさそう。\n• 「夜襲 = a night raid」了。tonight があれば夜襲になると思った。敗北。\n• 「やだ、... なのに！」のニュアンスは Oh my, ... で済ますのか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621095664.403000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1621095775.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pr8n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Stephany, your chain male has gotten unlacing.\" \"Really!? That's too bad because I have a raid tonight!\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：「ステファニー、君のチェーンオスの紐が解けてしまったよ」「\"本当！？それは残念！今夜はレイドがあるからね！」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "これはひどい…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「チェインメイル = a chain mail」了。チェーンオスになってしまった…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「伝線する = get a run in」了。これは当てたかった。悔しい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "has gotten（受け取り）としたが、この場合は has got（所有）がよさそう。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「夜襲 = a night raid」了。tonight があれば夜襲になると思った。敗北。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「やだ、... なのに！」のニュアンスは Oh my, ... で済ますのか。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621095328.402900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "3176fbda-2a1f-4bac-8294-28a6ae073454",
+        "type": "message",
+        "text": "Fire turns forests into ash in a single day. Water and wind grow forests through a hundred years.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621096028.403300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9Sjo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fire turns forests into ash in a single day. Water and wind grow forests through a hundred years."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621006404.397000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "5153b94e-3ad4-4c75-9bfe-ed4e31bf6999",
+        "type": "message",
+        "text": "`Fire turns forests into ash in a single day. Water and wind grow forests through a hundred years.`\nDeepL：火は一日で森を灰にしてしまう。水と風は100年かけて森を育てる。\n\n• 最初の文の森は the forest で 後の文の森は a forest なのか…。なぜだ…。`←　前者はすべての森を灰にして、後者は一つの森を育てる（育てることは大変）というニュアンスかな？`\n• ash は複数にすべきだった。敗北。\n• 「育てる」って書いてあるんだから sustain（維持する）にはならないだろう…。\n• 「100年かけて」のコツコツさを表すために through としたが普通に for だった。敗北。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621096643.403500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QI4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fire turns forests into ash in a single day. Water and wind grow forests through a hundred years.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：火は一日で森を灰にしてしまう。水と風は100年かけて森を育てる。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "最初の文の森は the forest で 後の文の森は a forest なのか…。なぜだ…。"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "←　前者はすべての森を灰にして、後者は一つの森を育てる（育てることは大変）というニュアンスかな？",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ash は複数にすべきだった。敗北。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「育てる」って書いてあるんだから sustain（維持する）にはならないだろう…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「100年かけて」のコツコツさを表すために through としたが普通に for だった。敗北。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621006404.397100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "fc39f71e-b81a-4405-a31e-387f5cec8b26",
+        "type": "message",
+        "text": "In addition, an apple and two candies.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621096823.403700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ooU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In addition, an apple and two candies."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621092777.402100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "38ca7f84-af65-45b3-babc-47ab0169b99b",
+        "type": "message",
+        "text": "`In addition, an apple and two candies.`\nDeepL：さらに、リンゴとキャンディ2個。\n\n• 「あと ... もあるよ」感を出すための have still got なのか。これは難しい。\n• 「飴玉がふたつ」って言ってるんだから two candies だろうが。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621096954.403900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In addition, an apple and two candies.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：さらに、リンゴとキャンディ2個。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「あと ... もあるよ」感を出すための have still got なのか。これは難しい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「飴玉がふたつ」って言ってるんだから two candies だろうが。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621092777.402200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "43eccc0e-1b78-46bb-805f-110bcfb21e64",
+        "type": "message",
+        "text": "“Stephany, your chain metal close is caused a teared line.”\n“Oh, no… I have a unexpected fight at the night”",
+        "user": "UPSPAP97D",
+        "ts": "1621146100.404100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“Stephany, your chain metal close is caused a teared line.”\n“Oh, no… I have a unexpected fight at the night”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621084689.402000"
+    },
+    {
+        "client_msg_id": "d81e4634-9622-4d59-91e7-256fc3526888",
+        "type": "message",
+        "text": "`\"Stephany, your chain metal close is caused a teared line.\"`\n`\"Oh, no… I have a unexpected fight at the night\"`\nDeepL「“ステファニー、あなたのチェーン・メタル・クローズが涙線を引き起こしています。”\n“ああ、いや...夜に思いがけない喧嘩をしてしまって“」\n\n• 『鎖かたびら』は「chain mail」。そういえば、「メイル」って鎧みたいな意味があったな (ドラOエ知識)。そして、分からず名詞を並べただけはよろしくなかった…\n• 「衣服」は『close』ではなく、『clothes』。（複数形なのは『cloth』布 を複数使うかららしい… なるほど）\n• 「〜が伝線する」は『get a (run) in 〜』。\n• 「夜襲」は『night raid』。\n• 『line』前に in があれば、「線上に」という意味がわかりやくすなった…\n• 「(相手が)予測してない」感を出そうと思ったが、作成した文での『unexpected』だと自分自身に降りかかったモノっぽいな…\n• 『have got\/ have gotten』は考えもしなかった…\n• 『the night』で「今夜」を表そうとしたが、『tonight』の方が明確。\n• 『Oh my』は『Oh my god』が変化したものなのかな？\n<http:\/\/littlekids-english.net\/2019\/04\/17\/oh-my-god\/|Oh_my_godはよろしくない理由>",
+        "user": "UPSPAP97D",
+        "ts": "1621147615.404300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1621147865.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "LITTLE KIDS ENGLISH OFFICIAL WEBSITE |",
+                "title": "Oh my godは言ってはいけない！？その理由と言い換え表現【音声お手本付】 | LITTLE KIDS ENGLISH OFFICIAL WEBSITE",
+                "title_link": "http:\/\/littlekids-english.net\/2019\/04\/17\/oh-my-god\/",
+                "text": "海外の映画やドラマでよく耳にする\"Oh my god!\".ネイティブらしいフレーズだという印象がある人も多いと思いますが、実は時と場合を選んだ方が良いフレーズなのです。今回は\"Oh my god\"を使わない方が良いのか、また他に言い換えられる表現をお教えします。",
+                "fallback": "LITTLE KIDS ENGLISH OFFICIAL WEBSITE |: Oh my godは言ってはいけない！？その理由と言い換え表現【音声お手本付】 | LITTLE KIDS ENGLISH OFFICIAL WEBSITE",
+                "ts": 1555488573,
+                "from_url": "http:\/\/littlekids-english.net\/2019\/04\/17\/oh-my-god\/",
+                "service_icon": "http:\/\/littlekids-english.net\/wp-content\/uploads\/2020\/05\/IMG_20200511_235849.jpg",
+                "id": 1,
+                "original_url": "http:\/\/littlekids-english.net\/2019\/04\/17\/oh-my-god\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qq7Pq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Stephany, your chain metal close is caused a teared line.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Oh, no… I have a unexpected fight at the night\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「“ステファニー、あなたのチェーン・メタル・クローズが涙線を引き起こしています。”\n“ああ、いや...夜に思いがけない喧嘩をしてしまって“」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『鎖かたびら』は「chain mail」。そういえば、「メイル」って鎧みたいな意味があったな (ドラOエ知識)。そして、分からず名詞を並べただけはよろしくなかった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「衣服」は『close』ではなく、『clothes』。（複数形なのは『cloth』布 を複数使うかららしい… なるほど）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「〜が伝線する」は『get a (run) in 〜』。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「夜襲」は『night raid』。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『line』前に in があれば、「線上に」という意味がわかりやくすなった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「(相手が)予測してない」感を出そうと思ったが、作成した文での『unexpected』だと自分自身に降りかかったモノっぽいな…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『have got\/ have gotten』は考えもしなかった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『the night』で「今夜」を表そうとしたが、『tonight』の方が明確。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『Oh my』は『Oh my god』が変化したものなのかな？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/littlekids-english.net\/2019\/04\/17\/oh-my-god\/",
+                                "text": "Oh_my_godはよろしくない理由"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621095328.402900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "7e8e89ac-ee8f-417a-866b-09eccfaa122d",
+        "type": "message",
+        "text": "Moreover, one apple and two candies.",
+        "user": "UPSPAP97D",
+        "ts": "1621148079.405000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GrP0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moreover, one apple and two candies."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621092777.402100",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

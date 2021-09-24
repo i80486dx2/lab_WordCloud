@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "0d9bf03b-533b-430b-a764-872ddbcd0e7a",
+        "type": "message",
+        "text": "matplotlibで図を作る人には超便利だと思う。\n<https:\/\/www.machinelearningplus.com\/plots\/top-50-matplotlib-visualizations-the-master-plots-python\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1615433472.080400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1615433484.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "ML+",
+                "title": "Top 50 matplotlib Visualizations - The Master Plots (w\/ Full Python Code) | ML+",
+                "title_link": "https:\/\/www.machinelearningplus.com\/plots\/top-50-matplotlib-visualizations-the-master-plots-python\/",
+                "text": "A compilation of the Top 50 matplotlib plots most useful in data analysis and visualization. This list helps you to choose what visualization to show for what type of problem using python's matplotlib and seaborn library.",
+                "fallback": "ML+: Top 50 matplotlib Visualizations - The Master Plots (w\/ Full Python Code) | ML+",
+                "thumb_url": "https:\/\/www.machinelearningplus.com\/wp-content\/uploads\/2018\/11\/top_50_matplotlib_feature_2.png",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Selva Prabhakaran",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "50 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1543430575,
+                "from_url": "https:\/\/www.machinelearningplus.com\/plots\/top-50-matplotlib-visualizations-the-master-plots-python\/",
+                "thumb_width": 560,
+                "thumb_height": 315,
+                "service_icon": "https:\/\/www.machinelearningplus.com\/wp-content\/uploads\/2017\/04\/cropped-apple-icon-152x152-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.machinelearningplus.com\/plots\/top-50-matplotlib-visualizations-the-master-plots-python\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nIN79",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "matplotlibで図を作る人には超便利だと思う。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.machinelearningplus.com\/plots\/top-50-matplotlib-visualizations-the-master-plots-python\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW",
+                    "U01EL0SAUTF",
+                    "UPSPAP97D",
+                    "UKUKA65GU"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

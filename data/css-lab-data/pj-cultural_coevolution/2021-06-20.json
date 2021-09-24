@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "7a49c16f-e14b-4fdb-9c2a-1a854fdbffe1",
+        "type": "message",
+        "text": "エージェントベースドモデル（ABM）の入門的読み物\n<https:\/\/blog.albert2005.co.jp\/2021\/06\/14\/abm-spread-covid-19\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624222161.008600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ALBERT Official Blog",
+                "title": "ABMsの入門と「An Agent-Based Model of the Local Spread of SARS-CoV-2: Modeling Study」の紹介 | ALBERT Official Blog",
+                "title_link": "https:\/\/blog.albert2005.co.jp\/2021\/06\/14\/abm-spread-covid-19\/",
+                "text": "こんにちは、プロジェクト推進部のStaffiniです。去年10月から、東京大学の大学院工学系研究科バイオエンジニアリング専攻で客員研究員として、計算疫学やヘルスケアのためのAIアプリケーション等を研究しています。 今回は … Continue reading ABMsの入門と「An Agent-Based Model of the Local Spread of SARS-CoV-2: Modeling Study」の紹介 →",
+                "fallback": "ALBERT Official Blog: ABMsの入門と「An Agent-Based Model of the Local Spread of SARS-CoV-2: Modeling Study」の紹介 | ALBERT Official Blog",
+                "thumb_url": "https:\/\/blog.albert2005.co.jp\/wp-content\/uploads\/2021\/06\/画像3.jpg",
+                "ts": 1623657600,
+                "from_url": "https:\/\/blog.albert2005.co.jp\/2021\/06\/14\/abm-spread-covid-19\/",
+                "thumb_width": 709,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/www.albert2005.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/blog.albert2005.co.jp\/2021\/06\/14\/abm-spread-covid-19\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B0J2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "エージェントベースドモデル（ABM）の入門的読み物\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.albert2005.co.jp\/2021\/06\/14\/abm-spread-covid-19\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624222161.008600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624250388.008800",
+        "reply_users": [
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1624250388.008800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624250388.008800"
+    },
+    {
+        "client_msg_id": "822d2ae1-f365-4cc1-a2bb-86f895acbf23",
+        "type": "message",
+        "text": "みます",
+        "user": "UKH07E67M",
+        "ts": "1624250388.008800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "od+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624222161.008600",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

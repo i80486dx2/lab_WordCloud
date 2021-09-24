@@ -1,0 +1,161 @@
+[
+    {
+        "client_msg_id": "0b452749-fd39-417e-8e7e-24352f675c9b",
+        "type": "message",
+        "text": "<!channel> 学生の皆さん\nロボット工学講座の成瀬先生からのご案内です。\nトヨタテクニカルデベロップメント株式会社（トヨタグループの知財事業と計測制御事業の会社）が会津大学内で特別インターンシップを予定しているとのことです。まだ内容はいただいておりませんが学内で開催とのことです。\n今年就職に関わりのない学生でもいいので一人でも多く参加していただきたいとのことです。\n\n現在は日程案が示されている段階で\n# 日程案，所要時間は3時間ほど\n- 2\/26(水)午前\n- 2\/26(水)午後\n- 2\/29(土)午前\n- 2\/29(土)午後\n\nの予定となっております。ある程度皆さんの予定を反映できる段階なので、この日じゃないと行けないorこの日は絶対に行けないなどありましたらご連絡ください。詳細が決まりましたらまた連絡させていただきます。",
+        "user": "UPSPAMY7M",
+        "ts": "1578541714.004500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "63yd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 学生の皆さん\nロボット工学講座の成瀬先生からのご案内です。\nトヨタテクニカルデベロップメント株式会社（トヨタグループの知財事業と計測制御事業の会社）が会津大学内で特別インターンシップを予定しているとのことです。まだ内容はいただいておりませんが学内で開催とのことです。\n今年就職に関わりのない学生でもいいので一人でも多く参加していただきたいとのことです。\n\n現在は日程案が示されている段階で\n# 日程案，所要時間は3時間ほど\n- 2\/26(水)午前\n- 2\/26(水)午後\n- 2\/29(土)午前\n- 2\/29(土)午後\n\nの予定となっております。ある程度皆さんの予定を反映できる段階なので、この日じゃないと行けないorこの日は絶対に行けないなどありましたらご連絡ください。詳細が決まりましたらまた連絡させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578541714.004500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1578549824.005500",
+        "reply_users": [
+            "UPRE1RSJW",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1578544083.005200"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1578549824.005500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UQ47R82RW",
+                    "UPRE1RSJW",
+                    "UKUKA65GU",
+                    "UPSPAP97D"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78F05B3B-2935-4ABB-96A7-28AAE7737CAA",
+        "type": "message",
+        "text": "26日希望です！",
+        "user": "UPRE1RSJW",
+        "ts": "1578544083.005200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3G=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "26"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日希望です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578541714.004500",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "ee74daac-b354-4998-997a-87a1331d90fb",
+        "type": "message",
+        "text": "了解です。希望日伝えておきます。",
+        "user": "UPSPAMY7M",
+        "ts": "1578549824.005500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVKL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。希望日伝えておきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578541714.004500",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

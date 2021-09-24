@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "41d71893-d3c4-4754-9cb1-67bff0345f2e",
+        "type": "message",
+        "text": "<https:\/\/medium.com\/@PepsRyuu\/why-i-no-longer-use-d3-js-b8288f306c9a>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1615180232.004900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Why I no longer use D3.js",
+                "title_link": "https:\/\/medium.com\/@PepsRyuu\/why-i-no-longer-use-d3-js-b8288f306c9a",
+                "text": "Every time I work on a project with visualisations, project managers usually react in horror when I say I’m not using D3. Why is there…",
+                "fallback": "Medium: Why I no longer use D3.js",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/0*38QEtCF7nDf1VJCs",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "9 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1548596298,
+                "from_url": "https:\/\/medium.com\/@PepsRyuu\/why-i-no-longer-use-d3-js-b8288f306c9a",
+                "image_width": 286,
+                "image_height": 250,
+                "image_bytes": 203463,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@PepsRyuu\/why-i-no-longer-use-d3-js-b8288f306c9a"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XRg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@PepsRyuu\/why-i-no-longer-use-d3-js-b8288f306c9a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

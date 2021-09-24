@@ -1,0 +1,383 @@
+[
+    {
+        "client_msg_id": "e65ffdd6-6da1-433f-b79d-be939cd86237",
+        "type": "message",
+        "text": "Population Dynamicsの輪講のスレッド、こちらに移しましょう：\n<https:\/\/compu-soceco.slack.com\/archives\/CL7A4B596\/p1607232062013700?thread_ts=1606196181.006900&amp;cid=CL7A4B596>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1607232293.047400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/compu-soceco.slack.com\/archives\/CL7A4B596\/p1607232062013700?thread_ts=1606196181.006900&amp;cid=CL7A4B596",
+                "fallback": "[December 5th, 2020 9:21 PM] yasuhirohashimoto: 輪講の曜日と時間の調整しましょう。\n\n<@U01F42ZFA73> 君と<@U01EP839LHH> 君が17時以降だとよいとのことですが、それよりも早い時間で都合がよい曜日はありますか？<@UQ47R82RW> 君と<@UQ63J44BZ> 君は早い時間で空きそうな曜日はありますか？\n\n早い時間が難しそうなら17～19時にして曜日を決めましょう。水か金？",
+                "ts": "1607232062.013700",
+                "author_id": "UKS1Q2KTQ",
+                "author_subname": "Yasuhiro Hashimoto",
+                "channel_id": "CL7A4B596",
+                "channel_name": "articles",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "輪講の曜日と時間の調整しましょう。\n\n<@U01F42ZFA73> 君と<@U01EP839LHH> 君が17時以降だとよいとのことですが、それよりも早い時間で都合がよい曜日はありますか？<@UQ47R82RW> 君と<@UQ63J44BZ> 君は早い時間で空きそうな曜日はありますか？\n\n早い時間が難しそうなら17～19時にして曜日を決めましょう。水か金？",
+                "author_name": "Yasuhiro Hashimoto",
+                "author_link": "https:\/\/compu-soceco.slack.com\/team\/UKS1Q2KTQ",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/compu-soceco.slack.com\/archives\/CL7A4B596\/p1607232062013700?thread_ts=1606196181.006900&amp;cid=CL7A4B596",
+                "footer": "From a thread in #articles"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T7Yo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Population Dynamicsの輪講のスレッド、こちらに移しましょう：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/compu-soceco.slack.com\/archives\/CL7A4B596\/p1607232062013700?thread_ts=1606196181.006900&cid=CL7A4B596"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607232293.047400",
+        "reply_count": 13,
+        "reply_users_count": 6,
+        "latest_reply": "1607673706.071400",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01EP8BUKQT",
+            "U01EVRBP38C",
+            "UQ47R82RW",
+            "U01F42ZFA73",
+            "U01EP839LHH"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1607239409.060600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1607258961.066000"
+            },
+            {
+                "user": "U01EP8BUKQT",
+                "ts": "1607260709.066400"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1607260757.067400"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1607406472.068600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1607406792.068900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1607660216.069300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1607660296.069500"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1607660390.069900"
+            },
+            {
+                "user": "U01EP839LHH",
+                "ts": "1607660981.070100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1607661032.070300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1607671092.071000"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1607673706.071400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1607673706.071400"
+    },
+    {
+        "client_msg_id": "8146730d-bc3b-4e46-ad80-cb7fec1c0e1f",
+        "type": "message",
+        "text": "<@UPSPAP97D> 可視化の勉強会の調整もこちらでやりましょう。来週いつがよいですか？次回の資料はこれ↓でしたっけ？\n<https:\/\/distill.pub\/2016\/misread-tsne\/>\nその後はこれをやりましょう：\n<https:\/\/pair-code.github.io\/understanding-umap\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1607232515.049200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Distill",
+                "title": "How to Use t-SNE Effectively",
+                "title_link": "https:\/\/distill.pub\/2016\/misread-tsne\/",
+                "text": "Although extremely useful for visualizing high-dimensional data, t-SNE plots can sometimes be mysterious or misleading.",
+                "fallback": "Distill: How to Use t-SNE Effectively",
+                "image_url": "http:\/\/distill.pub\/2016\/misread-tsne\/thumbnail.jpg",
+                "image_width": 475,
+                "image_height": 250,
+                "from_url": "https:\/\/distill.pub\/2016\/misread-tsne\/",
+                "image_bytes": 79465,
+                "service_icon": "https:\/\/distill.pub\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/distill.pub\/2016\/misread-tsne\/"
+            },
+            {
+                "title": "Understanding UMAP",
+                "title_link": "https:\/\/pair-code.github.io\/understanding-umap\/",
+                "text": "UMAP is a new dimensionality reduction technique that offers increased speed and better preservation of global structure.",
+                "fallback": "Understanding UMAP",
+                "image_url": "https:\/\/pair-code.github.io\/understanding-umap\/share.png",
+                "from_url": "https:\/\/pair-code.github.io\/understanding-umap\/",
+                "image_width": 372,
+                "image_height": 250,
+                "image_bytes": 1889314,
+                "service_name": "pair-code.github.io",
+                "id": 2,
+                "original_url": "https:\/\/pair-code.github.io\/understanding-umap\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k6I7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 可視化の勉強会の調整もこちらでやりましょう。来週いつがよいですか？次回の資料はこれ↓でしたっけ？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/distill.pub\/2016\/misread-tsne\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nその後はこれをやりましょう：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pair-code.github.io\/understanding-umap\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607232515.049200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1607858296.073100",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1607237621.060200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1607239037.060400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1607858296.073100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1607858296.073100"
+    },
+    {
+        "client_msg_id": "DD1D5AFA-8763-4919-B307-A0469A60437B",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 了解です。資料もそれで合ってます。\n\n\n四学期については\n\n月曜: いつでも\n火曜: 16:10〜\n水曜: いつでも\n木曜: 午前〜16:50\n金曜: 16:10〜\n\nの時間帯なら基本的に問題ないので、この中で先生(+ 他に参加する方？) の都合の良い時間を選んでいただきたいです。",
+        "user": "UPSPAP97D",
+        "ts": "1607237621.060200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9cNKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です。資料もそれで合ってます。\n\n\n四学期については\n\n月曜: いつでも\n火曜: 16:10〜\n水曜: いつでも\n木曜: 午前〜16:50\n金曜: 16:10〜\n\nの時間帯なら基本的に問題ないので、この中で先生(+ 他に参加する方？) の都合の良い時間を選んでいただきたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607232515.049200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "bf80d4d0-b824-4989-a94f-34a4e3b9e01d",
+        "type": "message",
+        "text": "<@UPSPAP97D> OK。では4Qの間は水曜13:00ということにしておきましょうか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1607239037.060400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MrM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " OK。では4Qの間は水曜13:00ということにしておきましょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607232515.049200",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c8531b6-6fe7-4515-8d2b-d9c5a9eda61b",
+        "type": "message",
+        "text": "@here 金曜17:00～19:00がよさそうですね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1607239409.060600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5pViE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@here 金曜17:00～19:00がよさそうですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607232293.047400",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

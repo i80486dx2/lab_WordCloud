@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "45fa1208-0ec9-4db1-987f-d0d23a0654b8",
+        "type": "message",
+        "text": "<!channel> 学生居室のドア脇にプリンタがありますが、確認したところains-wifiに接続されていました。Global IPが付与されているので、所定の設定をすればネットワークから印刷できるはずです。おそらく付属のDVDからドライバーのインストールが必要（WindowsとMacのみ？）ですが、使いたい方はマニュアルを読んで試してみてください。マニュアルとDVDはプリンタの上に置いてあります。\n\n研究室でもプリンタを買おうとしてますが、品切れが続いていて、導入はだいぶ先になりそうです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631067168.007100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1631067216.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LRn6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 学生居室のドア脇にプリンタがありますが、確認したところains-wifiに接続されていました。Global IPが付与されているので、所定の設定をすればネットワークから印刷できるはずです。おそらく付属のDVDからドライバーのインストールが必要（WindowsとMacのみ？）ですが、使いたい方はマニュアルを読んで試してみてください。マニュアルとDVDはプリンタの上に置いてあります。\n\n研究室でもプリンタを買おうとしてますが、品切れが続いていて、導入はだいぶ先になりそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631067168.007100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1631093240.008100",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1631093240.008100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631093240.008100",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EP8BUKQT",
+                    "UKH07E67M",
+                    "UKUKA65GU",
+                    "UQ47R82RW",
+                    "U01EL0SAUTF",
+                    "UPSPAMY7M"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

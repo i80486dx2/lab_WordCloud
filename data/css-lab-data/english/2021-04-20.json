@@ -1,0 +1,1931 @@
+[
+    {
+        "client_msg_id": "1a6c8e96-c16b-4346-be09-199843748b1f",
+        "type": "message",
+        "text": "`\"Are you stupid?\" Shinji exited.`\n\n• Zoomミーティングオマージュで leave the meeting かな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618903236.199200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CVl86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Are you stupid?\" Shinji exited.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Zoomミーティングオマージュで leave the meeting かな。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618901377.198900",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "わたしは電気は嫌いです（バーサ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1618903920.199400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1618903920.199400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1618930288.206700",
+        "reply_users": [
+            "UKH07E67M",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1618904097.199500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618930288.206700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "14783605-0891-4382-95f2-52065034871e",
+        "type": "message",
+        "text": "I don’t like electricity.",
+        "user": "UKH07E67M",
+        "ts": "1618904097.199500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2YY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t like electricity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618903920.199400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "a8a1528b-e903-49f5-b614-f44daba9b7d7",
+        "type": "message",
+        "text": "<!channel> GhibliEnglishBotをアップデートしました。１日１回、午前0～1時くらいに和文を投稿し、即座に~スレッド上で模範解答となる英文を返信します。スレッドには答えが既に出ているので、チャレンジする人は注意。反省会は別スレッドを立ててやりましょう。~`修正：模範解答を別スレッドに投稿するようにしました。タイムラインに解答が見えないように、解答スレッドのトップは「反省会」として、スレッド内で返信をする形で解答を掲載します。`",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618910952.204700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1618967203.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wu2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " GhibliEnglishBotをアップデートしました。１日１回、午前0～1時くらいに和文を投稿し、即座に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "スレッド上で模範解答となる英文を返信します。スレッドには答えが既に出ているので、チャレンジする人は注意。反省会は別スレッドを立ててやりましょう。",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "修正：模範解答を別スレッドに投稿するようにしました。タイムラインに解答が見えないように、解答スレッドのトップは「反省会」として、スレッド内で返信をする形で解答を掲載します。",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M",
+                    "UPSPAP97D",
+                    "UKUKA65GU",
+                    "UQ47R82RW"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1618924246.205000",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1618924246.205000",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1631241587.044700",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618929446.205200"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618930453.206900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618970223.211200"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1631241587.044700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631241587.044700",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「あと、それでもきのこの山より、たけのこの里の方が美味しい」ガリレオは付け足した。 <https:\/\/pbs.twimg.com\/media\/Eza2kLKVgAAR4mX.jpg>",
+                "ts": 1618924241,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1384494731766374405",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1384494731766374405>",
+                "text": "「あと、それでもきのこの山より、たけのこの里の方が美味しい」ガリレオは付け足した。 <https:\/\/pbs.twimg.com\/media\/Eza2kLKVgAAR4mX.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1384494731766374405",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Eza2kLKVgAAR4mX.jpg",
+                "image_width": 400,
+                "image_height": 550,
+                "image_bytes": 78232,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee71dc9f-9020-4bb5-941c-401280453798",
+        "type": "message",
+        "text": "\"And yet Takenoko-no-sato is more delicious than Kinoko-no-yama.\" Galileo added.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618929446.205200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFgV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"And yet Takenoko-no-sato is more delicious than Kinoko-no-yama.\" Galileo added."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618924246.205000"
+    },
+    {
+        "client_msg_id": "d43c4f91-b278-4ce4-866e-0af1d6cc825a",
+        "type": "message",
+        "text": "\"a u fool?\"\nSinnzi got out.",
+        "user": "UQ47R82RW",
+        "ts": "1618929638.206000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SjYMx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"a u fool?\"\nSinnzi got out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618887637.198000"
+    },
+    {
+        "client_msg_id": "af0e80d9-248c-4992-b350-fdd274b6c0df",
+        "type": "message",
+        "text": "`\"a u fool?\"`\n`Sinnzi got out.`\nareのネットでの短縮はaじゃなくてrらしい。\nR u fool?が実際に書きたかったこと。\n場面見ないで文面だけで、ネットの掲示板が思いついてしまったので書いた。\n今回はzoomっぽいので短縮じゃない。\n\nsinziじゃなくてshinji.\n\nfoolの方が柔らかい感じらしい。\nが、シンジくんは傷ついているっぽいので、stupidのが適?\n<https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q10107607080>\n\nzoomなのでleft the meeting.\n\n掲示板ならleftかな。\n\ngot outはgot outで外に出るという意味なので不適",
+        "user": "UQ47R82RW",
+        "ts": "1618930253.206300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Yahoo!知恵袋",
+                "title": "Stupid,idiot,foolこの３つのニュアンスの違いを教えてください(なんならjackassも)。 - 【stu... - Yahoo!知恵袋",
+                "title_link": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q10107607080",
+                "text": "Stupid,idiot,foolこの３つのニュアンスの違いを教えてください(なんならjackassも)。 【stupid】ストゥーピッドは知性が低く、物事の判断力や理解力にかける物事や人間の様子を表す\"形容詞\"。ニュアンス的には結構キツメ。「IQの低さや愚かな行動を責めるようなニュアンスがある」と思う。一応、「超えちゃいけないライン考えろよ」って感じの単語なので、使わない方が無難。【失礼な質問...",
+                "fallback": "Yahoo!知恵袋: Stupid,idiot,foolこの３つのニュアンスの違いを教えてください(なんならjackassも)。 - 【stu... - Yahoo!知恵袋",
+                "thumb_url": "https:\/\/s.yimg.jp\/images\/ks\/official\/nt\/ogp_1200.png",
+                "from_url": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q10107607080",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/s.yimg.jp\/c\/icon\/s\/bsc\/2.0\/favicon.ico ",
+                "id": 1,
+                "original_url": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q10107607080"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G70D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"a u fool?\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sinnzi got out.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nareのネットでの短縮はaじゃなくてrらしい。\nR u fool?が実際に書きたかったこと。\n場面見ないで文面だけで、ネットの掲示板が思いついてしまったので書いた。\n今回はzoomっぽいので短縮じゃない。\n\nsinziじゃなくてshinji.\n\nfoolの方が柔らかい感じらしい。\nが、シンジくんは傷ついているっぽいので、stupidのが適?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q10107607080"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nzoomなのでleft the meeting.\n\n掲示板ならleftかな。\n\ngot outはgot outで外に出るという意味なので不適"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618901377.198900",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "1ffb4e55-5d73-42de-be26-c3c96c40071e",
+        "type": "message",
+        "text": "I hate electricity.",
+        "user": "UQ47R82RW",
+        "ts": "1618930288.206700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lc9XV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hate electricity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618903920.199400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "9cc0f0b2-2501-4291-b5a6-86a4ed2f7af2",
+        "type": "message",
+        "text": "Galileo added \"And yet site of child of bamboo is more delicious than mountain of mushrooms. \"",
+        "user": "UQ47R82RW",
+        "ts": "1618930453.206900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nXyR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Galileo added \"And yet site of child of bamboo is more delicious than mountain of mushrooms. \""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618924246.205000"
+    },
+    {
+        "client_msg_id": "374e5fe3-d6b1-4c65-b318-039bc18a1e1c",
+        "type": "message",
+        "text": "反省\n「あと、それでもきのこの山より、たけのこの里の方が美味しい」ガリレオは付け足した。",
+        "user": "UQ47R82RW",
+        "ts": "1618930474.207400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "elk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省\n「あと、それでもきのこの山より、たけのこの里の方が美味しい」ガリレオは付け足した。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618930474.207400",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1618973055.212600",
+        "reply_users": [
+            "UQ47R82RW",
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618930729.207900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618930893.208300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618971679.211400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618972038.211900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618972836.212100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618973004.212400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1618973055.212600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618973055.212600"
+    },
+    {
+        "client_msg_id": "1eca9045-43a5-4a6f-b1f0-892dd42c0d22",
+        "type": "message",
+        "text": "<@UQ47R82RW> これはアスカオマージュだろうね。だとすると stupid か an idiot かな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618930501.207500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1618931055.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nC8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これはアスカオマージュだろうね。だとすると stupid か an idiot かな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618901377.198900",
+        "parent_user_id": "UKH07E67M",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5925b6de-4066-4014-b781-d0a63eef3d90",
+        "type": "message",
+        "text": "「もぉ…バカ…:two_hearts:」だとどうなるんだろう…？\"A silly boy...:two_hearts:\" って感じかな…。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618930650.207700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RmZ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「もぉ…バカ…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts"
+                            },
+                            {
+                                "type": "text",
+                                "text": "」だとどうなるんだろう…？\"A silly boy..."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two_hearts"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" って感じかな…。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618901377.198900",
+        "parent_user_id": "UKH07E67M",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4127c60-8a7a-413e-b5bd-8f4b76a53267",
+        "type": "message",
+        "text": "`Galileo added \"And yet site of child of bamboo is more delicious than mountain of mushrooms. \"`\n\"~~\" S added,か。\n\nAnd yetは覚えてた。\n\n商品名はわからんわ。\nChococones と Chocoroomsか。\nroomsはmashroomsから来てるんだろうけどcones?\n\n下の記事によると円錐から来てるらしい。たけのこは確かに外国だとなんやねんってなるか...\n<https:\/\/www.rokutanjuku.com\/kinokotakenokoeigo#:~:text=%E3%81%9F%E3%81%91%E3%81%AE%E3%81%93%E3%81%AE%E9%87%8C%E3%81%AE%E8%8B%B1%E8%AA%9E%E5%90%8D%E3%81%AFCHOCOCONES%E3%81%A7%E3%81%99,%E3%81%AF%E3%80%8C%E3%83%81%E3%83%A7%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82|https:\/\/www.rokutanjuku.com\/kinokotakenokoeigo#:~:text=%E3%81%9F%E3%81%91%E3%81%AE%E3%81%93%E3%8[…]3%B3%E3%82%BA%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82>\n\nS1 V better than S2の形か",
+        "user": "UQ47R82RW",
+        "ts": "1618930729.207900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "英語塾 六単塾",
+                "title": "きのこの山・たけのこの里の英語名とは？語源まとめ",
+                "title_link": "https:\/\/www.rokutanjuku.com\/kinokotakenokoeigo#:~:text=%E3%81%9F%E3%81%91%E3%81%AE%E3%81%93%E3%81%AE%E9%87%8C%E3%81%AE%E8%8B%B1%E8%AA%9E%E5%90%8D%E3%81%AFCHOCOCONES%E3%81%A7%E3%81%99,%E3%81%AF%E3%80%8C%E3%83%81%E3%83%A7%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82",
+                "text": "きのこのやあ・たけのこの里の英語名をご存知ですか？実はちゃんと正式名称はあるのです。そこで今回はきのこの山とたけのこの里の英語表現の語源をまとめました。",
+                "fallback": "英語塾 六単塾: きのこの山・たけのこの里の英語名とは？語源まとめ",
+                "image_url": "https:\/\/www.rokutanjuku.com\/_p\/1957\/images\/pc\/ed5184e8.png",
+                "from_url": "https:\/\/www.rokutanjuku.com\/kinokotakenokoeigo#:~:text=%E3%81%9F%E3%81%91%E3%81%AE%E3%81%93%E3%81%AE%E9%87%8C%E3%81%AE%E8%8B%B1%E8%AA%9E%E5%90%8D%E3%81%AFCHOCOCONES%E3%81%A7%E3%81%99,%E3%81%AF%E3%80%8C%E3%83%81%E3%83%A7%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82",
+                "image_width": 497,
+                "image_height": 250,
+                "image_bytes": 358147,
+                "service_icon": "https:\/\/www.rokutanjuku.com\/_p\/1957\/documents\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.rokutanjuku.com\/kinokotakenokoeigo#:~:text=%E3%81%9F%E3%81%91%E3%81%AE%E3%81%93%E3%81%AE%E9%87%8C%E3%81%AE%E8%8B%B1%E8%AA%9E%E5%90%8D%E3%81%AFCHOCOCONES%E3%81%A7%E3%81%99,%E3%81%AF%E3%80%8C%E3%83%81%E3%83%A7%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DY6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Galileo added \"And yet site of child of bamboo is more delicious than mountain of mushrooms. \"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\"~~\" S added,か。\n\nAnd yetは覚えてた。\n\n商品名はわからんわ。\nChococones と Chocoroomsか。\nroomsはmashroomsから来てるんだろうけどcones?\n\n下の記事によると円錐から来てるらしい。たけのこは確かに外国だとなんやねんってなるか...\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rokutanjuku.com\/kinokotakenokoeigo#:~:text=%E3%81%9F%E3%81%91%E3%81%AE%E3%81%93%E3%81%AE%E9%87%8C%E3%81%AE%E8%8B%B1%E8%AA%9E%E5%90%8D%E3%81%AFCHOCOCONES%E3%81%A7%E3%81%99,%E3%81%AF%E3%80%8C%E3%83%81%E3%83%A7%E3%82%B3%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%BA%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82",
+                                "text": "https:\/\/www.rokutanjuku.com\/kinokotakenokoeigo#:~:text=%E3%81%9F%E3%81%91%E3%81%AE%E3%81%93%E3%8[…]3%B3%E3%82%BA%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nS1 V better than S2の形か"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618930474.207400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "c695ec40-5b0c-44b0-86d6-746187457408",
+        "type": "message",
+        "text": "`\"And yet Takenoko-no-sato is more delicious than Kinoko-no-yama.\" Galileo added.`\nDeepL「\"それにしても、きのこの山よりもたけのこの里の方が美味しいですね。\" ガリレオはこう付け加えた。」\n\n• \"be more delicious\" を \"taste better\" にするか迷ったんだよな…。敗北。\n• たけのこの里ときのこの山の英語版は把握していたが、まさかここで使ってくるとは…。敗北。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618930893.208300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KPDaP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"And yet Takenoko-no-sato is more delicious than Kinoko-no-yama.\" Galileo added.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「\"それにしても、きのこの山よりもたけのこの里の方が美味しいですね。\" ガリレオはこう付け加えた。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"be more delicious\" を \"taste better\" にするか迷ったんだよな…。敗北。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "たけのこの里ときのこの山の英語版は把握していたが、まさかここで使ってくるとは…。敗北。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618930474.207400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "わたしは電気は嫌いです（バーサ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1618935957.209800",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1618935957.209800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1618935989.210200",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618935989.210200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618935989.210200"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会: わたしは電気は嫌いです",
+        "user": "U01UMQH4W4B",
+        "ts": "1618935957.209900",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1618935957.209900",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1618938911.210900",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1618935957.210000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618936175.210400"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618938911.210900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618938911.210900"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Never did like electricity.",
+        "user": "U01UMQH4W4B",
+        "ts": "1618935957.210000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1618935957.209900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b543bfc3-a68d-4294-8cf1-917031d3e6ad",
+        "type": "message",
+        "text": "I don't like electricity.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618935989.210200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sT2c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't like electricity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618935957.209800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "df035a6e-20a1-49db-bb87-b493efc4db55",
+        "type": "message",
+        "text": "`I don't like electricity.`\n\n• この never did like が「～は嫌いです」になるニュアンスわかんないなぁ…。直訳は「電気を好きだったことは決してなかった」になると思うが。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618936175.210400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+fw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't like electricity.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "この never did like が「～は嫌いです」になるニュアンスわかんないなぁ…。直訳は「電気を好きだったことは決してなかった」になると思うが。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618935957.209900",
+        "parent_user_id": "U01UMQH4W4B",
+        "reactions": [
+            {
+                "name": "me_too",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90ef62d2-8e06-4a2b-be92-5f09cb87772f",
+        "type": "message",
+        "text": "`I hate electricity.`\n言われればわかりはするけど、出てこない表現だな。",
+        "user": "UQ47R82RW",
+        "ts": "1618938911.210900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U9D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hate electricity.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n言われればわかりはするけど、出てこない表現だな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618935957.209900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "a678c273-d5df-4a8f-8b26-2acf59cbe8fe",
+        "type": "message",
+        "text": "“And yet, TAKENOKO village more delicious than mashroom mountain” Galileo added.",
+        "user": "UKH07E67M",
+        "ts": "1618970223.211200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f=LZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“And yet, TAKENOKO village more delicious than mashroom mountain” Galileo added."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618924246.205000"
+    },
+    {
+        "client_msg_id": "64f982fb-89cc-430d-83f2-f9ca28d600ec",
+        "type": "message",
+        "text": "`\"And yet, TAKENOKO village more delicious than mashroom mountain\" Galileo added.`\n• and yetは覚えていた\n• 竹の子きのこの里山英語版あるんだ\n• 意味は伝わるからおけ？\n• mashroom no mushroom!!! ",
+        "user": "UKH07E67M",
+        "ts": "1618971679.211400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A42Iq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"And yet, TAKENOKO village more delicious than mashroom mountain\" Galileo added.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "and yetは覚えていた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "竹の子きのこの里山英語版あるんだ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "意味は伝わるからおけ？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "mashroom no mushroom!!! "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618930474.207400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "c96c3b88-9541-4f4b-a0c3-7962c28da3a1",
+        "type": "message",
+        "text": "<@UKH07E67M> 動詞は？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618972038.211900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yRa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 動詞は？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618930474.207400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "a9e27114-6091-4ea7-b50b-ee572ef1952c",
+        "type": "message",
+        "text": "あ\n完全に忘れてました",
+        "user": "UKH07E67M",
+        "ts": "1618972836.212100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1618972860.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VfC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ\n完全に忘れてました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618930474.207400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "9a1d3b4b-ab15-462b-86af-2fa014abf59a",
+        "type": "message",
+        "text": "<@UKH07E67M> 適当に単語を並べてなんとなく伝わることで、それ以上上達しないというのは英会話あるある。きちんと文章を作ることを常に心がけること。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618973004.212400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y38i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 適当に単語を並べてなんとなく伝わることで、それ以上上達しないというのは英会話あるある。きちんと文章を作ることを常に心がけること。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618930474.207400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "8879747c-6b0e-4e5b-8754-1538ce4abb9c",
+        "type": "message",
+        "text": "はい。\n構成を第一に注意します。",
+        "user": "UKH07E67M",
+        "ts": "1618973055.212600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lH10y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい。\n構成を第一に注意します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618930474.207400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1618976648.212800",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1618976648.212800",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1630722077.027200",
+        "reply_users": [
+            "UKH07E67M",
+            "UKUKA65GU",
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1618977553.212900"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1618977887.213800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618982134.217100"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1619012327.220000"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1630722077.027200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630722077.027200",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 吾輩は進次郎である。名前はまだない。 <https:\/\/pbs.twimg.com\/media\/Ezd-eBQVIAMoWON.jpg>",
+                "ts": 1618976643,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1384714520384344068",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1384714520384344068>",
+                "text": "吾輩は進次郎である。名前はまだない。 <https:\/\/pbs.twimg.com\/media\/Ezd-eBQVIAMoWON.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1384714520384344068",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Ezd-eBQVIAMoWON.jpg",
+                "image_width": 400,
+                "image_height": 530,
+                "image_bytes": 65851,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a87c624f-7a42-4a62-b97d-01dd64b7773a",
+        "type": "message",
+        "text": "I am Shinjiro. I don’t have name yet.",
+        "user": "UKH07E67M",
+        "ts": "1618977553.212900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Czfjh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am Shinjiro. I don’t have name yet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618976648.212800"
+    },
+    {
+        "client_msg_id": "c5eb3556-6eb4-4170-83c7-72a48f3c9c5f",
+        "type": "message",
+        "text": "反省会：吾輩は進次郎である。名前はまだない。",
+        "user": "UKH07E67M",
+        "ts": "1618977828.213300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ytJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：吾輩は進次郎である。名前はまだない。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618977828.213300",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1619012820.220200",
+        "reply_users": [
+            "UKH07E67M",
+            "UKUKA65GU",
+            "UKS1Q2KTQ",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1618977964.214100"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1618978118.216900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618983095.217300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1619012820.220200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1619012820.220200"
+    },
+    {
+        "client_msg_id": "5F61ED5F-E83E-4332-B76E-D760D7CB331E",
+        "type": "message",
+        "text": "My name is Shinziro. I have no name.",
+        "user": "UKUKA65GU",
+        "ts": "1618977887.213800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My name is Shinziro. I have no name."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618976648.212800"
+    },
+    {
+        "client_msg_id": "cbf4a2d3-960f-4ed4-a1b5-1f3f632ae70b",
+        "type": "message",
+        "text": "`I am Shinjiro. I don't have name yet.`\n• 冠詞、name…\n• as yet とyetの違い→<https:\/\/reibunpo.com\/yet\/yet-as-yet.shtml#:~:text=%E3%80%8Cas%20yet%E3%80%8D%E3%81%AF%E3%80%8C%E4%BB%8A,has%20not%20as%20yet%20arrived>. \n• a nameでよかったはず",
+        "user": "UKH07E67M",
+        "ts": "1618977964.214100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1618978001.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "例文で覚える英文法",
+                "title": "as yet",
+                "title_link": "https:\/\/reibunpo.com\/yet\/yet-as-yet.shtml#:~:text=%E3%80%8Cas%20yet%E3%80%8D%E3%81%AF%E3%80%8C%E4%BB%8A,has%20not%20as%20yet%20arrived",
+                "text": "「as yet」は「今のところまだ」という意味です。yet のみで用いる場合と違い、「先のことはまだわからないが」という含みを持ちます。He has not as yet arrived.彼はいまのところまだ到着していない。We aren&amp;",
+                "fallback": "例文で覚える英文法: as yet",
+                "image_url": "https:\/\/reibunpo.com\/wp-content\/uploads\/2020\/08\/reibun-yet-eye-0.jpg",
+                "ts": 1524027371,
+                "from_url": "https:\/\/reibunpo.com\/yet\/yet-as-yet.shtml#:~:text=%E3%80%8Cas%20yet%E3%80%8D%E3%81%AF%E3%80%8C%E4%BB%8A,has%20not%20as%20yet%20arrived",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 220875,
+                "service_icon": "https:\/\/reibunpo.com\/wp-content\/uploads\/2018\/04\/cropped-ame-007-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/reibunpo.com\/yet\/yet-as-yet.shtml#:~:text=%E3%80%8Cas%20yet%E3%80%8D%E3%81%AF%E3%80%8C%E4%BB%8A,has%20not%20as%20yet%20arrived"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tLEK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am Shinjiro. I don't have name yet.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "冠詞、name…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "as yet とyetの違い→"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/reibunpo.com\/yet\/yet-as-yet.shtml#:~:text=%E3%80%8Cas%20yet%E3%80%8D%E3%81%AF%E3%80%8C%E4%BB%8A,has%20not%20as%20yet%20arrived"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a nameでよかったはず"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618977828.213300",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "8C2E300B-1A93-44D9-B55F-99A412793125",
+        "type": "message",
+        "text": "吾輩は猫である → I am a cat\nってこともあって、「私は」とちゃんと表すならI amとシンプルなままでよかったなぁ\n「まだない」のニュアンスが抜けてました。 As yetって使うんだァ...(๑¯ㅁ¯๑)ﾍｰ",
+        "user": "UKUKA65GU",
+        "ts": "1618978118.216900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WDd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "吾輩は猫である → I am a cat\nってこともあって、「私は」とちゃんと表すならI amとシンプルなままでよかったなぁ\n「まだない」のニュアンスが抜けてました。 As yetって使うんだァ...(๑¯ㅁ¯๑)ﾍｰ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618977828.213300",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "dbb6539e-229f-433b-9742-260f40299586",
+        "type": "message",
+        "text": "I am a shinjiro. I don't have my name yet.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618982134.217100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4OT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am a shinjiro. I don't have my name yet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618976648.212800"
+    },
+    {
+        "client_msg_id": "a012c356-d0b7-4263-bcd1-4cf1c17178f2",
+        "type": "message",
+        "text": "`I am a shinjiro. I don't have my name yet.`\n\n• I am a cat にかけてあえて I am a shinjiro にしたのだが…。I am Shinjiro だと名前になっちゃてるじゃないか…。\n• 「as yet = 今のところまだ」了。使ったことなかった。\n• don't have or have no? とくに違いはないというネイティブの意見が多いようだ。<https:\/\/www.quora.com\/I-dont-have-a-name-Vs-I-have-no-name-Which-is-correct>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618983095.217300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "'I don't have a name' Vs 'I have no name' Which is correct? - Quora",
+                "title_link": "https:\/\/www.quora.com\/I-dont-have-a-name-Vs-I-have-no-name-Which-is-correct",
+                "text": "Either. “I have no name” is a little more formal or antiquated; that might have some implications as to the intent. The verb “to have” is unusual in English, in that it can be questioned directly by inversion, or negated by the simple insertion of...",
+                "fallback": "'I don't have a name' Vs 'I have no name' Which is correct? - Quora",
+                "from_url": "https:\/\/www.quora.com\/I-dont-have-a-name-Vs-I-have-no-name-Which-is-correct",
+                "service_icon": "https:\/\/www.quora.com\/favicon.ico",
+                "service_name": "quora.com",
+                "id": 1,
+                "original_url": "https:\/\/www.quora.com\/I-dont-have-a-name-Vs-I-have-no-name-Which-is-correct"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e2RO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am a shinjiro. I don't have my name yet.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I am a cat にかけてあえて I am a shinjiro にしたのだが…。I am Shinjiro だと名前になっちゃてるじゃないか…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「as yet = 今のところまだ」了。使ったことなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "don't have or have no? とくに違いはないというネイティブの意見が多いようだ。"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.quora.com\/I-dont-have-a-name-Vs-I-have-no-name-Which-is-correct"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618977828.213300",
+        "parent_user_id": "UKH07E67M"
+    }
+]

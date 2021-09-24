@@ -1,0 +1,185 @@
+[
+    {
+        "client_msg_id": "d44e4891-a644-4c7f-b204-971b484fe2c0",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> \n場所は先生の研究室で大丈夫ですか？",
+        "user": "UQ47R82RW",
+        "ts": "1619510019.044700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ma9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n場所は先生の研究室で大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619497416.042600",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ead3572-8384-4504-8657-4367a7239c10",
+        "type": "message",
+        "text": "<@UQ47R82RW> <@U01F42ZFA73> <@U01EP839LHH> 今後こちらで：\n<https:\/\/us06web.zoom.us\/j\/81420063689?pwd=Tm95WStlYW1mWDVIQ0Y4c04xSTlPQT09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619510565.045000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xGr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP839LHH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今後こちらで：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/81420063689?pwd=Tm95WStlYW1mWDVIQ0Y4c04xSTlPQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619497416.042600",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "7a201095-9e27-4524-8576-c59ec6b4d9ef",
+        "type": "message",
+        "text": "*<!channel>*\npopulation dynamics(<https:\/\/www.dropbox.com\/s\/6jl4permide50vs\/Bacaer%202011.pdf?dl=0>)\n12回目 　5\/11:17:00~\nChap19(途中から)\nChap20(途中から)\n\nscrapbox\n<https:\/\/scrapbox.io\/cse-lab\/%E8%BC%AA%E8%AC%9B>",
+        "user": "UQ47R82RW",
+        "ts": "1619518688.045700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mITgm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npopulation dynamics("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/6jl4permide50vs\/Bacaer%202011.pdf?dl=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n12回目 　5\/11:17:00~\nChap19(途中から)\nChap20(途中から)\n\nscrapbox\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scrapbox.io\/cse-lab\/%E8%BC%AA%E8%AC%9B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

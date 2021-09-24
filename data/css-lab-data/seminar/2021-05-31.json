@@ -1,0 +1,186 @@
+[
+    {
+        "client_msg_id": "04ca817e-6e9e-4c5e-80b7-3426ef91ae56",
+        "type": "message",
+        "text": "<@UQ47R82RW> <@U01F42ZFA73> <@U01EP839LHH> 急ですみませんが、今日の輪講の時間が聞いておきたいカンファレンスのキーノートと被ってしまって、リスケしてもらえませんか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622527203.014200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jxf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP839LHH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 急ですみませんが、今日の輪講の時間が聞いておきたいカンファレンスのキーノートと被ってしまって、リスケしてもらえませんか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621947607.013700",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "3cdf43b4-91de-44e9-8f38-75ab7e2f1a0f",
+        "type": "message",
+        "text": "わかりました。\n自分は金土以外であれば都合つくと思います。",
+        "user": "UQ47R82RW",
+        "ts": "1622527303.014400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1622527313.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xn9n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました。\n自分は金土以外であれば都合つくと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621947607.013700",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "768cf545-7b8b-42ce-8e8b-d40a45be8776",
+        "type": "message",
+        "text": "6\/1から6\/8:　17時以降は空いている(6\/7は例外)\n6\/8以降:　月、火、木、土、日曜日に17時以降は空いている(水、金曜日は例外)",
+        "user": "U01F42ZFA73",
+        "ts": "1622527370.014700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "khY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6\/1から6\/8:　17時以降は空いている(6\/7は例外)\n6\/8以降:　月、火、木、土、日曜日に17時以降は空いている(水、金曜日は例外)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621947607.013700",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "4679AC10-5799-4C74-86E0-F598F588C199",
+        "type": "message",
+        "text": "了解です。\n\n今週の場合\n金の17:00-19:00以外ならば、17時以降は空いています。\n\nそれ以降の週は\n木金の17:00-19:00以外なら、17時以降は空いています。",
+        "user": "U01EP839LHH",
+        "ts": "1622529229.018300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "10f8072a6377",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1728126443014_10f8072a637710127d26_72.png",
+            "first_name": "平川　令祐",
+            "real_name": "平川　令祐",
+            "display_name": "ryosuke",
+            "team": "TKS1Q2JUE",
+            "name": "s1270080",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。\n\n今週の場合\n金の17:00-19:00以外ならば、17時以降は空いています。\n\nそれ以降の週は\n木金の17:00-19:00以外なら、17時以降は空いています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621947607.013700",
+        "parent_user_id": "UQ47R82RW"
+    }
+]

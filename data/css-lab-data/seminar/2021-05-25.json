@@ -1,0 +1,373 @@
+[
+    {
+        "client_msg_id": "16c07180-b4aa-49bd-a41a-d3d008df268b",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 今日の輪講のzoomURLもらえませんか？",
+        "user": "UQ47R82RW",
+        "ts": "1621929329.010600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Zfg=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日の輪講のzoomURLもらえませんか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621333442.002400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "65c9bbe3-4f3a-4577-8fc7-15dce30a897f",
+        "type": "message",
+        "text": "<@UQ47R82RW> こちらでよろしく：\n<https:\/\/us06web.zoom.us\/j\/86167937845?pwd=MnN6ZzBtd0VuWHhtWXpVSTVadDVNQT09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621929462.010800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6lJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらでよろしく：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/86167937845?pwd=MnN6ZzBtd0VuWHhtWXpVSTVadDVNQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621333442.002400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "0a2edeef-9bf5-4cbf-b635-5abd1fa352ff",
+        "type": "message",
+        "text": "<!channel> 明日5月26日（水）17:00～の研究室会のリマインダーです：\n<https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09>\n\n発表は誰になりますか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621940942.012100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9KlVh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日5月26日（水）17:00～の研究室会のリマインダーです：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n発表は誰になりますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621940942.012100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1621947528.013200",
+        "reply_users": [
+            "UPSPAP97D",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1621946722.012200"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1621947528.013200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621947528.013200"
+    },
+    {
+        "client_msg_id": "d79c920c-183f-4c90-9ac3-9aae112af85b",
+        "type": "message",
+        "text": "twitter分析の経過を発表したいです。",
+        "user": "UPSPAP97D",
+        "ts": "1621946722.012200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/TDph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "twitter分析の経過を発表したいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621940942.012100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B38F4AD4-7F05-49C8-A35C-E31547B188CE",
+        "type": "message",
+        "text": "シェアカーの話をしたいと思います。",
+        "user": "UPRE1RSJW",
+        "ts": "1621947528.013200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fdH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "シェアカーの話をしたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621940942.012100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28a2a08c-0bbf-4942-9908-8c09f9b71cfb",
+        "type": "message",
+        "text": "population dynamics(<https:\/\/www.dropbox.com\/s\/6jl4permide50vs\/Bacaer%202011.pdf?dl=0>)\n次回 15回目 　6\/1:17:00~\nChap24\nChap25\n\nscrapbox\n<https:\/\/scrapbox.io\/cse-lab\/%E8%BC%AA%E8%AC%9B>",
+        "user": "UQ47R82RW",
+        "ts": "1621947607.013700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rdeft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "population dynamics("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/6jl4permide50vs\/Bacaer%202011.pdf?dl=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n次回 15回目 　6\/1:17:00~\nChap24\nChap25\n\nscrapbox\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scrapbox.io\/cse-lab\/%E8%BC%AA%E8%AC%9B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621947607.013700",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1622707208.019500",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "U01F42ZFA73",
+            "U01EP839LHH"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622527203.014200"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622527303.014400"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1622527370.014700"
+            },
+            {
+                "user": "U01EP839LHH",
+                "ts": "1622529229.018300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622535847.018500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622535914.018700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622707171.019100"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622707198.019300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622707208.019500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622707208.019500",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

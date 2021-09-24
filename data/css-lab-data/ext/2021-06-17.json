@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "67cd911c-5ac0-4216-a28e-3c9cde7d483e",
+        "type": "message",
+        "text": "<@U01EVRBP38C> 藤井風いいねっ。YouTube見まくって今更ながらはまった。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623951523.010100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rt7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EVRBP38C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 藤井風いいねっ。YouTube見まくって今更ながらはまった。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623951523.010100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1623989192.012300",
+        "reply_users": [
+            "U01EVRBP38C"
+        ],
+        "replies": [
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1623989192.012300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1623989192.012300",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U01FP2RDV44",
+                    "U01EVRBP38C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99870472-7A6E-4CE5-8F4E-7204C0C6F560",
+        "type": "message",
+        "text": "よかったです！！\n藤井風さんの曲にはどこか懐かしい、昭和っぽい？感じの曲もあるので惹かれちゃいます笑笑",
+        "user": "U01EVRBP38C",
+        "ts": "1623989192.012300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よかったです！！\n藤井風さんの曲にはどこか懐かしい、昭和っぽい？感じの曲もあるので惹かれちゃいます笑笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623951523.010100",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

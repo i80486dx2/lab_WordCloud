@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "2F8DF385-5B28-418F-807D-B722052BC6F5",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>これ欲しいです。\n\n<https:\/\/www.amazon.co.jp\/%E7%99%BD%E5%85%89-HAKKO-No-250-1-%E3%82%B9%E3%83%81%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC\/dp\/B000AQQFLC?psc%3D1%26SubscriptionId%3DAKIAJBJ6HJ4EEZO3BCLA%26tag%3Da0997-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000AQQFLC|https:\/\/www.amazon.co.jp\/白光-HAKKO-No-250-1-スチロールカッター\/dp\/B000AQQFLC?psc=1&amp;SubscriptionId=AKIAJBJ6HJ4EEZO3BCLA&amp;tag=a0997-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000AQQFLC>",
+        "user": "UPRE1RSJW",
+        "ts": "1605254302.003300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pzvno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "これ欲しいです。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/%E7%99%BD%E5%85%89-HAKKO-No-250-1-%E3%82%B9%E3%83%81%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%83%E3%82%BF%E3%83%BC\/dp\/B000AQQFLC?psc%3D1%26SubscriptionId%3DAKIAJBJ6HJ4EEZO3BCLA%26tag%3Da0997-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000AQQFLC",
+                                "text": "https:\/\/www.amazon.co.jp\/白光-HAKKO-No-250-1-スチロールカッター\/dp\/B000AQQFLC?psc=1&SubscriptionId=AKIAJBJ6HJ4EEZO3BCLA&tag=a0997-22&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B000AQQFLC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605254302.003300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1605590913.000100",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1605254665.004100"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1605255255.004500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1605590913.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1605590913.000100"
+    }
+]

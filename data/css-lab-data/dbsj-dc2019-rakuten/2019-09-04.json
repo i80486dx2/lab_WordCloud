@@ -1,0 +1,136 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FMNMRB62X",
+                "created": 1567592265,
+                "timestamp": 1567592265,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 802583,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FMNMRB62X\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FMNMRB62X\/download\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMNMRB62X-72a4305a2f\/ios___________64.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMNMRB62X-72a4305a2f\/ios___________80.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMNMRB62X-72a4305a2f\/ios___________360.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMNMRB62X-72a4305a2f\/ios___________480.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMNMRB62X-72a4305a2f\/ios___________160.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMNMRB62X-72a4305a2f\/ios___________720.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMNMRB62X-72a4305a2f\/ios___________800.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMNMRB62X-72a4305a2f\/ios___________960.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FMNMRB62X-72a4305a2f\/ios___________1024.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/FMNMRB62X\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-FMNMRB62X-a9af073884",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UKUKA65GU",
+        "display_as_bot": false,
+        "ts": "1567592270.013700",
+        "client_msg_id": "EBE75468-60E5-472E-B7CD-5B2FBA90D967"
+    },
+    {
+        "client_msg_id": "8a395990-90f5-4e5e-9129-d8f2b3f85f57",
+        "type": "message",
+        "text": "[0, 0, 0, 0, 0, 0, 3, 0, 2, 0, 0, 0]\n[0, 0, 1, 4, 2, 2, 0, 0, 0, 0, 0, 0]\n[0, 1, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0]\n[0, 0, 0, 8, 1, 0, 0, 1, 0, 0, 0, 0]\n[0, 3, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]\n[0, 0, 0, 2, 1, 0, 2, 2, 0, 0, 0, 0]\n[0, 0, 0, 1, 1, 3, 3, 0, 0, 0, 0, 0]\n[0, 0, 1, 0, 2, 0, 4, 0, 0, 0, 0, 0]\n[0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 1, 0, 1, 0, 4, 0, 0, 0]\n[0, 1, 0, 1, 4, 2, 0, 0, 0, 0, 0, 0]\n[0, 1, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0]\n[2, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]\n[0, 1, 0, 1, 0, 1, 3, 0, 0, 0, 0, 0]\n[0, 0, 0, 1, 1, 2, 0, 2, 0, 0, 0, 0]\n[1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0]\n[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]\n[2, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]\n[2, 0, 3, 0, 0, 0, 2, 0, 0, 0, 0, 0]\n[1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 5, 2, 0, 0, 0, 0, 0]\n[1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0]\n[0, 1, 0, 3, 2, 0, 0, 0, 0, 0, 0, 0]\n[0, 2, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 2, 5, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]\n[0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]\n[1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]\n[2, 0, 1, 0, 2, 0, 1, 0, 0, 0, 0, 0]\n[0, 4, 0, 0, 3, 0, 0, 2, 0, 1, 0, 0]\n[0, 1, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0]\n[1, 0, 0, 2, 3, 0, 1, 1, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n[0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n[0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]\n[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0]\n[0, 1, 0, 0, 0, 1, 3, 1, 0, 0, 0, 0]\n[0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]\n[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]\n[0, 1, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0]\n[3, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]\n[0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0]\n[1, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0, 0]\n[1, 0, 1, 0, 0, 4, 0, 2, 0, 0, 0, 0]\n[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n[0, 0, 0, 3, 0, 1, 1, 0, 0, 0, 0, 0]\n[3, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]\n[2, 0, 1, 2, 0, 3, 2, 0, 0, 0, 0, 0]\n[1, 0, 0, 0, 1, 1, 1, 0, 3, 0, 0, 0]\n[4, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]\n[0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0]\n[0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]\n[0, 1, 0, 1, 0, 1, 1, 1, 3, 0, 0, 0]\n[0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]\n[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n[0, 2, 0, 0, 4, 0, 2, 0, 0, 0, 0, 0]\n[0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]\n[0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0]\n[0, 3, 0, 2, 1, 1, 0, 0, 0, 0, 0, 0]\n[2, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]\n[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",
+        "user": "UKUKA65GU",
+        "ts": "1567619174.014100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "01d7224a-c60a-4b19-b15d-4f9400db50b4",
+        "type": "message",
+        "text": "やっと、やりたいことができました。\n原因は、pythonにおける二次元配列の初期化の仕方だったみたいです。",
+        "user": "UKUKA65GU",
+        "ts": "1567619195.014600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79a2ed50-c846-4103-8dc5-99fc82852b74",
+        "type": "message",
+        "text": "全イニングの出力が無事終わりました。",
+        "user": "UKUKA65GU",
+        "ts": "1567628095.015000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

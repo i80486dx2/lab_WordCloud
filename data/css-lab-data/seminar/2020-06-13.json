@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "皆さん、回答どうもありがとうございます。来週水曜の研究室会は17時開始でお願いします。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1592044129.067400",
+        "thread_ts": "1591778456.065700",
+        "root": {
+            "client_msg_id": "b48b818a-1fa6-4f4f-9818-5b37032af114",
+            "type": "message",
+            "text": "<!channel> 来週の研究室会ですが、14時開始予定だったものを17時開始に変更して大丈夫でしょうか？（もしよければ:+1:で回答してください）内容は、私から情報理論の基礎的な話と複雑系科学へのつながりについて1時間程度レビューしようと思っています。",
+            "user": "UKS1Q2KTQ",
+            "ts": "1591778456.065700",
+            "team": "TKS1Q2JUE",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8zKb",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 来週の研究室会ですが、14時開始予定だったものを17時開始に変更して大丈夫でしょうか？（もしよければ"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "+1"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "で回答してください）内容は、私から情報理論の基礎的な話と複雑系科学へのつながりについて1時間程度レビューしようと思っています。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1591778456.065700",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1592044129.067400",
+            "reply_users": [
+                "UKS1Q2KTQ"
+            ],
+            "replies": [
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1592044129.067400"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1592044129.067400"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1AC5n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さん、回答どうもありがとうございます。来週水曜の研究室会は17時開始でお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e3df59b0-06cd-4beb-b04e-3c59cb4d295e",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UQ63J44BZ",
+                    "UPSPAMY7M",
+                    "UPSPAP97D"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

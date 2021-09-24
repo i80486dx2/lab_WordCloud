@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "609D2BB5-3A07-4644-9147-FF926AF5FDB5",
+        "type": "message",
+        "text": "<https:\/\/www.joinclubhouse.com\/event\/xjYyDEjg|https:\/\/www.joinclubhouse.com\/event\/xjYyDEjg>\nまだ始めれてないって人いたら招待枠余ってるんで是非:man-raising-hand:",
+        "user": "U01EL0SAUTF",
+        "ts": "1612965789.050200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Clubhouse",
+                "title": "【学生エンジニア】早起きもくもく会",
+                "title_link": "https:\/\/www.joinclubhouse.com\/event\/xjYyDEjg",
+                "text": "Thursday, February 11 at 8:30am JST with Daiki Honda, tom naka, Banri Yasui, Kai Yamada. なるべく毎朝早起きしてもくもく会します",
+                "fallback": "Clubhouse: 【学生エンジニア】早起きもくもく会",
+                "thumb_url": "https:\/\/www.joinclubhouse.com\/static\/img\/full_tn.2c52415a6353.png",
+                "from_url": "https:\/\/www.joinclubhouse.com\/event\/xjYyDEjg",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "id": 1,
+                "original_url": "https:\/\/www.joinclubhouse.com\/event\/xjYyDEjg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vcdiF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.joinclubhouse.com\/event\/xjYyDEjg",
+                                "text": "https:\/\/www.joinclubhouse.com\/event\/xjYyDEjg"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまだ始めれてないって人いたら招待枠余ってるんで是非"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-raising-hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612883260.048500",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "type": "message",
+        "text": "\"プログラミングコンテストチャレンジブック\"を使った輪講を、4月から本格的に行います。\n参加したい人は、ren（林　蓮）に連絡をください。\n概要はPDFにあります。",
+        "files": [
+            {
+                "id": "F01N45D0SN5",
+                "created": 1613011852,
+                "timestamp": 1613011852,
+                "name": "Recruitment.pdf",
+                "title": "Recruitment.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 96392,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01N45D0SN5\/recruitment.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01N45D0SN5\/download\/recruitment.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01N45D0SN5-50fae3f462\/recruitment_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F01N45D0SN5\/recruitment.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01N45D0SN5-c02483791f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V9\/Pf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"プログラミングコンテストチャレンジブック\"を使った輪講を、4月から本格的に行います。\n参加したい人は、ren（林　蓮）に連絡をください。\n概要はPDFにあります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01F42ZFA73",
+        "display_as_bot": false,
+        "ts": "1613011872.052000",
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1613012048.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU",
+                    "U01EL0SAUTF"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

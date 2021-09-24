@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "96c6da2a-8abf-41f1-ba8b-13754e91175a",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01EL0SAUTF> こちらで：\n<https:\/\/us06web.zoom.us\/j\/88108634703?pwd=QVByWmJpRElhOWxoaVgwVCtyVVZKdz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620896479.007700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1620896484.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fC6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらで：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/88108634703?pwd=QVByWmJpRElhOWxoaVgwVCtyVVZKdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620798759.001000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

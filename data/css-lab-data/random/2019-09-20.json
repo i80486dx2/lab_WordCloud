@@ -1,0 +1,150 @@
+[
+    {
+        "type": "message",
+        "text": "Twitterで「ラノベ作家の生存曲線」なるnet memeを見つけて、ちょっと面白そうだったのでデータ（<https:\/\/ranobe-mori.net\/db\/> ）をダウンロードしました。興味と時間があれば分析してみても面白いかも。",
+        "files": [
+            {
+                "id": "FNNJN9R1C",
+                "created": 1569046376,
+                "timestamp": 1569046376,
+                "name": "ラノベ作家の生存曲線.jpg",
+                "title": "ラノベ作家の生存曲線.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UKS1Q2KTQ",
+                "editable": false,
+                "size": 98061,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FNNJN9R1C\/______________________________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FNNJN9R1C\/download\/______________________________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FNNJN9R1C-f00bbe3568\/_______________________________64.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FNNJN9R1C-f00bbe3568\/_______________________________80.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FNNJN9R1C-f00bbe3568\/_______________________________360.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FNNJN9R1C-f00bbe3568\/_______________________________480.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FNNJN9R1C-f00bbe3568\/_______________________________160.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-FNNJN9R1C-f00bbe3568\/_______________________________720.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "image_exif_rotation": 1,
+                "original_w": 768,
+                "original_h": 576,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKS1Q2KTQ\/FNNJN9R1C\/______________________________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-FNNJN9R1C-697ed34fd9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UKS1Q2KTQ",
+        "display_as_bot": false,
+        "ts": "1569046382.001600",
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1569046425.000000"
+        },
+        "client_msg_id": "2b9a7770-986f-4931-af2f-f9e6cc740788"
+    },
+    {
+        "client_msg_id": "f04b271d-aadd-4448-bc1f-7c3e4908c761",
+        "type": "message",
+        "text": "データはここ\n<https:\/\/www.dropbox.com\/sh\/xam61k6lzemghes\/AAD4RA9eY3c6AByOBn3yf4y9a?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1569046394.002000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "mq5mm",
+                        "external_id": "https:\/\/www.dropbox.com\/sh\/xam61k6lzemghes\/AAD4RA9eY3c6AByOBn3yf4y9a?dl=0",
+                        "source": "remote",
+                        "file_id": "FN7K80PHQ",
+                        "file": {
+                            "id": "FN7K80PHQ",
+                            "created": 1569046403,
+                            "timestamp": 1569046403,
+                            "name": "data",
+                            "title": "data",
+                            "mimetype": "application\/vnd.slack-remote-directory",
+                            "filetype": "directory",
+                            "pretty_type": "Remote Directory",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 0,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/sh\/xam61k6lzemghes\/AAD4RA9eY3c6AByOBn3yf4y9a?dl=0",
+                            "media_display_type": "unknown",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/FN7K80PHQ\/data",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "https:\/\/www.dropbox.com\/sh\/xam61k6lzemghes\/AAD4RA9eY3c6AByOBn3yf4y9a?dl=0",
+                            "external_url": "https:\/\/www.dropbox.com\/sh\/xam61k6lzemghes\/AAD4RA9eY3c6AByOBn3yf4y9a?dl=0",
+                            "has_rich_preview": false
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/sh\/xam61k6lzemghes\/AAD4RA9eY3c6AByOBn3yf4y9a?dl=0",
+                "is_app_unfurl": true
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6e4eece-1aa6-4e2a-9845-1e8cee8f134e",
+        "type": "message",
+        "text": "tsvというのはTab Separated Valueの略で、ただのタブ区切りのテキストファイルです。（ちなみにcsvはComma Separated Valueの略）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1569046561.003700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

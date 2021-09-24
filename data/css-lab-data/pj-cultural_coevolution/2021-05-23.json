@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "text": "それぞれのプロットの最大最小値を出してみました。おかしいですね。manipulatedの計算を見直してきます",
+        "files": [
+            {
+                "id": "F023FUMHR1N",
+                "created": 1621759323,
+                "timestamp": 1621759323,
+                "name": "hist20210523.png",
+                "title": "hist20210523.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 106064,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F023FUMHR1N\/hist20210523.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F023FUMHR1N\/download\/hist20210523.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023FUMHR1N-e5a1ff8861\/hist20210523_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023FUMHR1N-e5a1ff8861\/hist20210523_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023FUMHR1N-e5a1ff8861\/hist20210523_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023FUMHR1N-e5a1ff8861\/hist20210523_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023FUMHR1N-e5a1ff8861\/hist20210523_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023FUMHR1N-e5a1ff8861\/hist20210523_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023FUMHR1N-e5a1ff8861\/hist20210523_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023FUMHR1N-e5a1ff8861\/hist20210523_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023FUMHR1N-e5a1ff8861\/hist20210523_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 2880,
+                "original_h": 2160,
+                "thumb_tiny": "AwAkADDTpAwLEdxS1Gp\/ev8AJgcc460AEkyRfePJFEU6Skhc5HtUdxu3LtiEgx3GcUW+7cd0ITjqBiqtoTfUnZgqlj0FLUbcyBSuUI544zUgqSgqNARLJls8jj0qSokCec+AQ3c5PNMRHdAErmXZx+dFqoV2xLv45FF0UDLujL8dqLYoXOyMpx370+hPUlm42tu2hTk+9SVFNtOxWGQx5qRQFAA6CkULRRRSGFFFFABRRRQB\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F023FUMHR1N\/hist20210523.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F023FUMHR1N-f8ab4abbe4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oe8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それぞれのプロットの最大最小値を出してみました。おかしいですね。manipulatedの計算を見直してきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKH07E67M",
+        "display_as_bot": false,
+        "ts": "1621759397.003300",
+        "thread_ts": "1621595307.002800",
+        "parent_user_id": "UKH07E67M"
+    }
+]

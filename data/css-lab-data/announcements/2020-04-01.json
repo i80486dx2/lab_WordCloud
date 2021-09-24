@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "976a15f9-891b-48b2-93f2-c9564c8172e6",
+        "type": "message",
+        "text": "<https:\/\/zoom.us\/j\/445273974?pwd=WGx2YlYvQk1LdmpINzlXc3UrNmR5dz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1585725247.010700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oT2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/445273974?pwd=WGx2YlYvQk1LdmpINzlXc3UrNmR5dz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585656030.008300",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "254f4ffd-c34a-4888-b3b6-05a2c92423fe",
+        "type": "message",
+        "text": "こちらでお願いします！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1585725255.010900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OqC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらでお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585656030.008300",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UPRE1RSJW",
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ed1c68b-96b0-421f-a564-9d17554596de",
+        "type": "message",
+        "text": "クレームの件、了解しました。\n反省して今後このようなことのないようにします。",
+        "user": "UKH07E67M",
+        "ts": "1585810537.012000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "クレームの件、了解しました。\n反省して今後このようなことのないようにします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585810537.012000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585825101.012100",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1585825101.012100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1585825101.012100"
+    }
+]

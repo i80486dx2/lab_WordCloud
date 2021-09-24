@@ -1,0 +1,206 @@
+[
+    {
+        "client_msg_id": "ab7fe242-b45a-468c-9e99-8f1959c4d13d",
+        "type": "message",
+        "text": "<!channel> 9\/9（木）～9\/11（土）に可視化情報シンポジウム（オンライン）があり <@UPSPAP97D> 君が発表しますが、\n最終日13:30からの東工大の小池英樹先生の特別講演が<@UPSPAMY7M> 先生のテーマにも関係ありそうです：\n`「スポーツ技能獲得支援のためのVR\/AR視覚的トレーニングシステム」`\n小池先生は昔から面白い研究をしてるので、期待できるかも。\n\n参加料が結構高いですが、ひろむ君が研究室から参加するならパブリックビューイングができるかも？w",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630049516.004300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=MoW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 9\/9（木）～9\/11（土）に可視化情報シンポジウム（オンライン）があり "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君が発表しますが、\n最終日13:30からの東工大の小池英樹先生の特別講演が"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 先生のテーマにも関係ありそうです：\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「スポーツ技能獲得支援のためのVR\/AR視覚的トレーニングシステム」",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n小池先生は昔から面白い研究をしてるので、期待できるかも。\n\n参加料が結構高いですが、ひろむ君が研究室から参加するならパブリックビューイングができるかも？w"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630049516.004300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1630050622.004600",
+        "reply_users": [
+            "UPSPAMY7M",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1630049783.004400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1630050622.004600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630050622.004600",
+        "reactions": [
+            {
+                "name": "confetti_ball",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac9fd156-a4d6-4c5b-a129-cb04d02ac5fc",
+        "type": "message",
+        "text": "共有ありがとうございます！<@UPSPAP97D> 君の発表から是非見ます！",
+        "user": "UPSPAMY7M",
+        "ts": "1630049783.004400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yxmHl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "共有ありがとうございます！"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君の発表から是非見ます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630049516.004300",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "9ac28fca-6846-4866-b511-37d9ae9e4a7e",
+        "type": "message",
+        "text": "URL貼り忘れました。\n<https:\/\/www.vsj.jp\/symp2021\/program.html>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630050622.004600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "プログラム",
+                "title_link": "https:\/\/www.vsj.jp\/symp2021\/program.html",
+                "text": "可視化情報シンポジウム 2021 in 神奈川, 開催日：2021年9月9日（木），10日（金），11日（土）, 主催：（社）可視化情報学会",
+                "fallback": "プログラム",
+                "from_url": "https:\/\/www.vsj.jp\/symp2021\/program.html",
+                "service_icon": "https:\/\/www.vsj.jp\/favicon.ico",
+                "service_name": "vsj.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.vsj.jp\/symp2021\/program.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JZIrl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "URL貼り忘れました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.vsj.jp\/symp2021\/program.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630049516.004300",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

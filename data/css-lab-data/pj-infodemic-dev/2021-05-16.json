@@ -1,0 +1,455 @@
+[
+    {
+        "client_msg_id": "b2f64ac7-1f0c-4fbc-b2de-88e66d7ef3b9",
+        "type": "message",
+        "text": "お疲れ様です。ツイートの最新版での変更点を共有します。\n以下の5項目が追加されました。\n```\"quoted_status_created_at\": 引用ツイート元の作成日\n\"quoted_status_id_str\": 引用ツイート元のユーザーID\n\"quoted_status_screen_name\": 引用ツイート元の@hogehoge\n\"retweet_count\": リツイート数\n\"favorite_count\": いいね数```\n他に変更点があれば、再度共有します。\n\n2021\/05\/17 追記\n```user_description: ツイートした人の紹介文```",
+        "user": "U01KC41PR9C",
+        "ts": "1621150180.092500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01KC41PR9C",
+            "ts": "1621213316.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wf9d9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。ツイートの最新版での変更点を共有します。\n以下の5項目が追加されました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"quoted_status_created_at\": 引用ツイート元の作成日\n\"quoted_status_id_str\": 引用ツイート元のユーザーID\n\"quoted_status_screen_name\": 引用ツイート元の@hogehoge\n\"retweet_count\": リツイート数\n\"favorite_count\": いいね数"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他に変更点があれば、再度共有します。\n\n2021\/05\/17 追記\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "user_description: ツイートした人の紹介文"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621150180.092500",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1621213368.094800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01KC41PR9C"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621150401.092700"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1621150591.093100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621150628.093300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621150687.093500"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1621150934.093700"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1621213368.094800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621213368.094800",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EL0SAUTF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d77b6800-8f3d-400b-8da3-4d2d512be888",
+        "type": "message",
+        "text": "<@U01KC41PR9C> 「ツイートの最新版での変更点」というのは先日共有した新しいデータで追加されている項目という意味ですか？今年以降のデータだけではなくて全部に？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621150401.092700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TIwZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 「ツイートの最新版での変更点」というのは先日共有した新しいデータで追加されている項目という意味ですか？今年以降のデータだけではなくて全部に？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621150180.092500",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "e41716c4-c5ac-4ece-b4cd-d6ed0f923f75",
+        "type": "message",
+        "text": "<@U01KC41PR9C> なるほどぉ。Thank you! BigQuery試してみて何かわかったらまた教えてください！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621150450.092900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iZh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なるほどぉ。Thank you! BigQuery試してみて何かわかったらまた教えてください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620996830.084200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "1915b5ab-20d0-4da5-8d82-df4a0f39905c",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>　恐らく全てかと。\n20200220.pkl.xz〜20200228.pkl.xzを確認しました。",
+        "user": "U01KC41PR9C",
+        "ts": "1621150591.093100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z2Yx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　恐らく全てかと。\n20200220.pkl.xz〜20200228.pkl.xzを確認しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621150180.092500",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "dccf4635-7759-46a0-96d2-1f8c44b351a2",
+        "type": "message",
+        "text": "Oh. それは Nice.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621150628.093300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rmZv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh. それは Nice."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621150180.092500",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "5e54ae72-42d7-4834-8862-dd6ea54b4f57",
+        "type": "message",
+        "text": "でも retweet_count といってもデータを取得した日がわからないとダメだよね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621150687.093500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G215",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "でも retweet_count といってもデータを取得した日がわからないとダメだよね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621150180.092500",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "617b986e-93f3-4ff2-8afb-afd92f130876",
+        "type": "message",
+        "text": "確かに。サイトに取得日時が無いと、データの信頼性が薄くなりますね。",
+        "user": "U01KC41PR9C",
+        "ts": "1621150934.093700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2fY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確かに。サイトに取得日時が無いと、データの信頼性が薄くなりますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621150180.092500",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "type": "message",
+        "text": "2021\/05\/17 追記-例\n赤枠の箇所です。",
+        "files": [
+            {
+                "id": "F022EM3HSPK",
+                "created": 1621213364,
+                "timestamp": 1621213364,
+                "name": "グループ 1.png",
+                "title": "グループ 1.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01KC41PR9C",
+                "editable": false,
+                "size": 532069,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F022EM3HSPK\/_____________1.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F022EM3HSPK\/download\/_____________1.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F022EM3HSPK-01ee638eb5\/_____________1_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F022EM3HSPK-01ee638eb5\/_____________1_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F022EM3HSPK-01ee638eb5\/_____________1_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 232,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F022EM3HSPK-01ee638eb5\/_____________1_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 309,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F022EM3HSPK-01ee638eb5\/_____________1_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F022EM3HSPK-01ee638eb5\/_____________1_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 464,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F022EM3HSPK-01ee638eb5\/_____________1_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 516,
+                "thumb_800_h": 800,
+                "original_w": 542,
+                "original_h": 841,
+                "thumb_tiny": "AwAwAB5vknrhqQR4PIYntVx1la4QIFEa8ZI5x3qT7LF\/tf8AfRpWFYpBAp4BpRnPQ1c+zR\/7X50ot4\/Q\/nSsFh+KAPek3nJ4PBxzS7h1J\/WqGLgUuKjM8QPMij6kU5XVj8rA\/Q0AMmdUxuYDPrUL5boeCPzp15C82wKAQOvOKiEM4C8D35pO\/QaIQMMWI+8McipbHiUr6L\/WpBDIWG5Qcd80+KNxNvZQBtx196LBc\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01KC41PR9C\/F022EM3HSPK\/_____________1.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F022EM3HSPK-b631e39af1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mD12",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2021\/05\/17 追記-例\n赤枠の箇所です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01KC41PR9C",
+        "display_as_bot": false,
+        "ts": "1621213368.094800",
+        "thread_ts": "1621150180.092500",
+        "parent_user_id": "U01KC41PR9C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UKS1Q2KTQ",
+                    "U01EL0SAUTF"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "6981bd59-20a5-4a96-812f-0a6778440d3a",
+        "type": "message",
+        "text": "iMacとMacBookProが揃ったのでそれぞれ管理してもらえますか。鈴木君は自前のMacBookが使えてるようなので、主にiMacの方を、千葉君はMacBookの方でいいでしょうか？置き場所はiMacは学生居室、MacBookは持ち帰りOK（大学に置く場合は私のオフィスで）。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1563329560.047000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2ffb066f-f45f-4649-b3d2-fb235913733c",
+        "type": "message",
+        "text": "ひとまず基本的な開発環境として、jupyter-labとgcc、好みでR辺りを使えるようにしておけばいいと思います。MacはHomebrewという管理ツールを使うのが最近はメジャーなようなので、まずそれをインストールしましょう。\n\njupyter-labのインストールはHomebrewを入れた後で以下を参照：\n<https:\/\/github.com\/jupyterlab\/jupyterlab\/issues\/6075>\n\ngccは最初から入ってますが、バージョンを新しくした方がいいので以下を参照：\n<https:\/\/qiita.com\/wawawa\/items\/50c2c612b0937f28d92b>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1563329750.049500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "[Feature request] Install JupyterLab via Homebrew · Issue #6075 · jupyterlab\/jupyterlab",
+                "title_link": "https:\/\/github.com\/jupyterlab\/jupyterlab\/issues\/6075",
+                "text": "Homebrew is an extremely popular package manager for macOS (and Linux), and already supports installing jupyter using brew install jupyter. Because a lot of data scientists rely on Homebrew to inst...",
+                "fallback": "GitHub: [Feature request] Install JupyterLab via Homebrew · Issue #6075 · jupyterlab\/jupyterlab",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/22800682?s=400&v=4",
+                "from_url": "https:\/\/github.com\/jupyterlab\/jupyterlab\/issues\/6075",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/jupyterlab\/jupyterlab\/issues\/6075"
+            },
+            {
+                "service_name": "Qiita",
+                "title": "Macのgcc, g++をHomebrewを使って最新版にする - Qiita",
+                "title_link": "https:\/\/qiita.com\/wawawa\/items\/50c2c612b0937f28d92b",
+                "text": "# モチベーション 私はデスクトップはUbuntu、ノートPCはMacを利用しているのですが、 全く同じC++のコードを両者で同じようにコンパイルした際に、MacでだけWarningが出たりします。 Command Line Tool...",
+                "fallback": "Qiita: Macのgcc, g++をHomebrewを使って最新版にする - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/wawawa\/items\/50c2c612b0937f28d92b",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 2,
+                "original_url": "https:\/\/qiita.com\/wawawa\/items\/50c2c612b0937f28d92b"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B61247D0-B5DC-4AB4-8615-CCCD94C78D8E",
+        "type": "message",
+        "text": "承知しました、ありがとうございます",
+        "user": "UKUKA65GU",
+        "ts": "1563341295.049900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "75405B98-0018-4206-AF5E-E5093DC57226",
+        "type": "message",
+        "text": "ゼミ以外の時間に伺って作業する形で、大丈夫ですか？",
+        "user": "UKUKA65GU",
+        "ts": "1563341380.050700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0f2c6d05-ffbe-46f9-a047-187460f69be0",
+        "type": "message",
+        "text": "いつでもどうぞ。週末は金曜から東京に出張に行ってるので留守です。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1563345758.051300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

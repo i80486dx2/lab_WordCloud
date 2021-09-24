@@ -1,0 +1,418 @@
+[
+    {
+        "client_msg_id": "3fb11044-1f0e-4d26-9a07-d5c28c506057",
+        "type": "message",
+        "text": "いろいろあって撮影したので稽古のウチの“ボクシング“の動画。こんなことしてます。\n<https:\/\/www.dropbox.com\/s\/xpln5u4do89f7rx\/IMG_6122.mov?dl=0>",
+        "user": "UKH07E67M",
+        "ts": "1608895276.182600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LCP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いろいろあって撮影したので稽古のウチの“ボクシング“の動画。こんなことしてます。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/xpln5u4do89f7rx\/IMG_6122.mov?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608895276.182600",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1608911620.192300",
+        "reply_users": [
+            "UKUKA65GU",
+            "UKH07E67M",
+            "U01FP2RDV44"
+        ],
+        "replies": [
+            {
+                "user": "UKUKA65GU",
+                "ts": "1608896094.183600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1608898997.187300"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1608899157.188300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1608902979.189800"
+            },
+            {
+                "user": "U01FP2RDV44",
+                "ts": "1608906032.190300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1608909835.190900"
+            },
+            {
+                "user": "U01FP2RDV44",
+                "ts": "1608911620.192300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "boxing_glove",
+                "users": [
+                    "UKUKA65GU",
+                    "U01FP2RDV44",
+                    "UPSPAP97D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "gorilla",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "U01EVRBP38C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A91D22F4-838A-4F6C-BB05-A9F8A8F660D9",
+        "type": "message",
+        "text": "すっごい力強いですね:facepunch:\nいつかこれが昇竜拳になりそう((꜆꜄ ˙꒳˙)꜆꜄꜆",
+        "user": "UKUKA65GU",
+        "ts": "1608896094.183600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aSjRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すっごい力強いですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "facepunch"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いつかこれが昇竜拳になりそう((꜆꜄ ˙꒳˙)꜆꜄꜆"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608895276.182600",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "3FD73A4B-1B54-4219-BA28-19E49F2A5DB8",
+        "type": "message",
+        "text": "彼らは人を倒せます。とても簡単に。\nしかしそれは、彼らが特別というわけではなく、後天的に会得したものです。\nもし興味がある方はサブスクをお願いします。冗談です。",
+        "user": "UKH07E67M",
+        "ts": "1608898997.187300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xxy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "彼らは人を倒せます。とても簡単に。\nしかしそれは、彼らが特別というわけではなく、後天的に会得したものです。\nもし興味がある方はサブスクをお願いします。冗談です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608895276.182600",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "60D650DC-80E5-43EE-9B0F-9D803B5E503E",
+        "type": "message",
+        "text": "なんで時々あおしくんの文章って、Google翻訳の日本語みたいな倒置法なんだろう。笑",
+        "user": "UKUKA65GU",
+        "ts": "1608899157.188300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O6pQN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんで時々あおしくんの文章って、Google翻訳の日本語みたいな倒置法なんだろう。笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608895276.182600",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "F98E90AF-EE9D-49BD-AE4E-2AD7EA1465B9",
+        "type": "message",
+        "text": "それは勿論、ジャパニーズジョークです。",
+        "user": "UKH07E67M",
+        "ts": "1608902979.189800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HVtRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それは勿論、ジャパニーズジョークです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608895276.182600",
+        "parent_user_id": "UKH07E67M",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3EC3E53E-0AC8-4AB3-98A4-10D7D0F7AE14",
+        "type": "message",
+        "text": "カッコ良いですね！！",
+        "user": "U01FP2RDV44",
+        "ts": "1608906032.190300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6\/E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カッコ良いですね！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608895276.182600",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "A36BE6AE-1ED8-46E9-A9AE-7EE6DE55016D",
+        "type": "message",
+        "text": "……煽りか？",
+        "user": "UKH07E67M",
+        "ts": "1608909835.190900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/1a=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "……煽りか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608895276.182600",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "92F044DF-B702-4402-8D77-543A5A58F1C0",
+        "type": "message",
+        "text": "<@UKH07E67M>  違いますよ！笑\n僕が先輩を煽るなんて100年早いですよ笑",
+        "user": "U01FP2RDV44",
+        "ts": "1608911620.192300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "014",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  違いますよ！笑\n僕が先輩を煽るなんて100年早いですよ笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608895276.182600",
+        "parent_user_id": "UKH07E67M",
+        "reactions": [
+            {
+                "name": "arrow_right",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

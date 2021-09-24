@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "3a42291e-d106-4f65-8f37-8d666cee0e8f",
+        "type": "message",
+        "text": "お疲れ様です。ビルドエラーやバンドルサイズなどの対応が終わり、ひとまずベータ版として公開しました。\nURLはこちらです(<https:\/\/infodemic-downloader.pages.dev\/>)\n\nサーバーはCloudflare Pagesを使用しています。\n今後もデザインやUIの改修を重ねます:man-bowing:",
+        "user": "U01KC41PR9C",
+        "ts": "1630783717.012900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kK60",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。ビルドエラーやバンドルサイズなどの対応が終わり、ひとまずベータ版として公開しました。\nURLはこちらです("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/infodemic-downloader.pages.dev\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nサーバーはCloudflare Pagesを使用しています。\n今後もデザインやUIの改修を重ねます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

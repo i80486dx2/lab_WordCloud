@@ -1,0 +1,418 @@
+[
+    {
+        "client_msg_id": "86366c69-3620-4137-814d-f9f7b1bc52c8",
+        "type": "message",
+        "text": "聞いて見た感想を共有します。\n話の内容自体は、進化生物学的な話で知らない部分が多かったんですが、その中で安定的な中間構造という話が出てきました。\n自分的には、今まで多様性があることで、コアが形成されると思っていたのですが、この中間構造の話を考えると、コアがあって、多様性が生まれるという印象をうけました。\nたしかに、共起回数を月毎に正規化してプロットしたとき、コアを形成するワードは変更されることが少なく、どちらかというと中間構造になるという話に近いと思いました。",
+        "user": "UQ47R82RW",
+        "ts": "1624867343.053200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kOgkz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "聞いて見た感想を共有します。\n話の内容自体は、進化生物学的な話で知らない部分が多かったんですが、その中で安定的な中間構造という話が出てきました。\n自分的には、今まで多様性があることで、コアが形成されると思っていたのですが、この中間構造の話を考えると、コアがあって、多様性が生まれるという印象をうけました。\nたしかに、共起回数を月毎に正規化してプロットしたとき、コアを形成するワードは変更されることが少なく、どちらかというと中間構造になるという話に近いと思いました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624440105.047100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4de9761c-6245-4fed-a9c8-2bf266453a72",
+        "type": "message",
+        "text": "僕も軽く感想を共有します。\n生物的な話がメインだったこともあって、単に確率的なモデルを考えている訳ではなく、結果論から考えるような内容でしたが、その中で出てきた中間構造の話は確率モデルでも現れる想像はできるのですが、モデルで考えた時に確率的に収束するイメージと生物的な話の結果論は結構違いが生じるなぁというイメージでした。（生物的な知識がないため、生物学的に見たら収束している様子なのかもしれませんが...）",
+        "user": "UKUKA65GU",
+        "ts": "1624867677.053500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=eCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕も軽く感想を共有します。\n生物的な話がメインだったこともあって、単に確率的なモデルを考えている訳ではなく、結果論から考えるような内容でしたが、その中で出てきた中間構造の話は確率モデルでも現れる想像はできるのですが、モデルで考えた時に確率的に収束するイメージと生物的な話の結果論は結構違いが生じるなぁというイメージでした。（生物的な知識がないため、生物学的に見たら収束している様子なのかもしれませんが...）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624440105.047100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62e69678-09b0-4cca-a3dd-48edbcf57c73",
+        "type": "message",
+        "text": "なにか1つに収束とかはしないんじゃないかなぁ。\nただ途中であった表現系は13通りあって組み合わせは1024あるけど、実際は数十しか使われてないってあったから数十通りに収束するとかっていう意味で収束してるのかもね。",
+        "user": "UQ47R82RW",
+        "ts": "1624868043.053800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1624868132.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7yvGd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なにか1つに収束とかはしないんじゃないかなぁ。\nただ途中であった表現系は13通りあって組み合わせは1024あるけど、実際は数十しか使われてないってあったから数十通りに収束するとかっていう意味で収束してるのかもね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624440105.047100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d129d7b-f504-4ea8-8893-d7f68cbc3d7a",
+        "type": "message",
+        "text": "前半は蝶の羽の模様や色について、どのような進化を経てそうなったのか。後半は羽の模様をパーツに分けて組み立てて現存する蝶の羽の模様を構成できるのかについて。\n羽の模様の見分けかたは目力、深層学習もできるかもしれないとのこと。\n\nメインは蝶の羽の模様についての話だったが、所々進化についてや分類の仕方、その問題点と方法、結果といったとてもわかりやすい講義だった。知らない言葉がたくさん出てきた。\n興味深いと感じたのは二点で、一点目は進化の、系統の情報を保存したまま、より複雑で情報を内包できるシステムを考えた時、複雑になった故に処理できる範囲を全体から部分にしなければならなくなってしまったところをステップを二つに分けて処理したこと。複雑で大きなループで困難になった時は小さく部分に分けた処理を考えられるようにしたい。\n二つ目は羽の模様をパーツに分けて組み立てることができるという考え方。逆の「これにはパーツがあって組み立てて現存種を表すことができる」という考え方は教科書読んでA→Bとなるのか。であれば当然知っていれば自分でも考えることができるだろうが、（この、知っている、はとても大きいことはわかる）これを分解してみたらパーツになり、別の種も表すことができるのではないか。という考え方はしたことがなかった。というより、この考え方自体はしたことがあったが、（何らかのパクリ、オマージュ、代替的なこと）それを環境そのものに当てはめたことはなかった。\n\nそして聞いててとてもわかりやすい構成で目指すべき発表の一つになりました。",
+        "user": "UKH07E67M",
+        "ts": "1624868513.056100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ewg9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前半は蝶の羽の模様や色について、どのような進化を経てそうなったのか。後半は羽の模様をパーツに分けて組み立てて現存する蝶の羽の模様を構成できるのかについて。\n羽の模様の見分けかたは目力、深層学習もできるかもしれないとのこと。\n\nメインは蝶の羽の模様についての話だったが、所々進化についてや分類の仕方、その問題点と方法、結果といったとてもわかりやすい講義だった。知らない言葉がたくさん出てきた。\n興味深いと感じたのは二点で、一点目は進化の、系統の情報を保存したまま、より複雑で情報を内包できるシステムを考えた時、複雑になった故に処理できる範囲を全体から部分にしなければならなくなってしまったところをステップを二つに分けて処理したこと。複雑で大きなループで困難になった時は小さく部分に分けた処理を考えられるようにしたい。\n二つ目は羽の模様をパーツに分けて組み立てることができるという考え方。逆の「これにはパーツがあって組み立てて現存種を表すことができる」という考え方は教科書読んでA→Bとなるのか。であれば当然知っていれば自分でも考えることができるだろうが、（この、知っている、はとても大きいことはわかる）これを分解してみたらパーツになり、別の種も表すことができるのではないか。という考え方はしたことがなかった。というより、この考え方自体はしたことがあったが、（何らかのパクリ、オマージュ、代替的なこと）それを環境そのものに当てはめたことはなかった。\n\nそして聞いててとてもわかりやすい構成で目指すべき発表の一つになりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624440105.047100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6E28BACA-EA6F-4FF0-BB19-9095AB1B91E4",
+        "type": "message",
+        "text": "言いたかったのはそういう感じのことです:pleading_face:\nタグセットの成長もそうで、莫大な組み合わせがあっても使われる組み合わせは限られるのと一緒で、値として収束するよりかは排他的に収束する感じな所が、数値的なモデルよりも実現的な事象に近いなぁってイメージですね、ありがとう:man-gesturing-ok:",
+        "user": "UKUKA65GU",
+        "ts": "1624868646.057900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "clEl+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "言いたかったのはそういう感じのことです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nタグセットの成長もそうで、莫大な組み合わせがあっても使われる組み合わせは限られるのと一緒で、値として収束するよりかは排他的に収束する感じな所が、数値的なモデルよりも実現的な事象に近いなぁってイメージですね、ありがとう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-gesturing-ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624440105.047100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c0c9099-5bcf-4548-8566-6f70bcc8ac18",
+        "type": "message",
+        "text": "<@UQ47R82RW> <@UKUKA65GU> <@UKH07E67M> いろいろ感想ありがとう。あとで考えてみます！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624872069.058200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mOR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " いろいろ感想ありがとう。あとで考えてみます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624440105.047100",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "9a718bd5-0499-4128-9ffb-84139a38ca98",
+        "type": "message",
+        "text": "<@U01F31EEVNV> <@U01EP8BUKQT> <@U01EV766AH2> <@UPSPAP97D> <@U01EPKVACEN>\n\n本日の輪講は以下のリンクで行います\n<https:\/\/us06web.zoom.us\/j\/83948017990?pwd=QWxkUExPdjJvMnRZMWxzNDNyT3EyUT09>\n\nミーティングID: 839 4801 7990\nパスコード: 548186",
+        "user": "UPSPAMY7M",
+        "ts": "1624940973.058500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vPAqG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n本日の輪講は以下のリンクで行います\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/83948017990?pwd=QWxkUExPdjJvMnRZMWxzNDNyT3EyUT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nミーティングID: 839 4801 7990\nパスコード: 548186"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623916032.044400",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EP8BUKQT"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

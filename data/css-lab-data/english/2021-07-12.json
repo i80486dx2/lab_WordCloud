@@ -1,0 +1,1185 @@
+[
+    {
+        "client_msg_id": "bfc67867-a372-4727-80bf-60fc9433ca01",
+        "type": "message",
+        "text": "I know that. Leave it to me.",
+        "user": "UPSPAP97D",
+        "ts": "1626073919.305900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "64wZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know that. Leave it to me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625931177.303600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "4e99fead-ce56-4948-ab45-b5e90022ce0b",
+        "type": "message",
+        "text": "`I know that. Leave it to me.`\nDeepL「それはわかっています。私に任せてください。」\n\n• 「心のほうは」は日本語の文脈も・英語の繋げ方も分からなく、諦めてしまった…",
+        "user": "UPSPAP97D",
+        "ts": "1626074290.306100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LWu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know that. Leave it to me.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「それはわかっています。私に任せてください。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「心のほうは」は日本語の文脈も・英語の繋げ方も分からなく、諦めてしまった…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625931177.303700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f3f90286-f1dc-4975-8337-51f3e75bf34b",
+        "type": "message",
+        "text": "He fired a bread factory because he had given his face to a anti social group.",
+        "user": "UPSPAP97D",
+        "ts": "1626074419.306300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/BCp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He fired a bread factory because he had given his face to a anti social group."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626007086.305200"
+    },
+    {
+        "client_msg_id": "ff2e018b-9103-43bd-bf31-66f09422cb8c",
+        "type": "message",
+        "text": "反省会: 彼は反社会的勢力に顔を与えたため、パン工場を解雇された。",
+        "user": "UPSPAP97D",
+        "ts": "1626074457.306600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+VK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会: 彼は反社会的勢力に顔を与えたため、パン工場を解雇された。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626074457.306600",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626176991.312900",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626074897.306700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1626081880.308100"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626092989.309200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626176991.312900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626176991.312900"
+    },
+    {
+        "client_msg_id": "1d6846e8-772d-48f9-ab7a-23f8995b5826",
+        "type": "message",
+        "text": "`He fired a bread factory because he had given his face to a anti social group.`\nDeepL「パン工場を解雇したのは、反社会的な団体に顔を出したからだ。」\n\n• 「反社会的勢力」は『antisocial force』\n• 「〜を解雇する」は『dismiss』もOK\n• 「パン工場が解雇する」で表せる、英語の無生物主語に慣れない…\n• 『fire』は受け身にしないとダメだった(受け身ミスが多い気がする…)\n• 『an anti』だった。(冠詞ミス)",
+        "user": "UPSPAP97D",
+        "ts": "1626074897.306700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1626074945.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S12ZJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He fired a bread factory because he had given his face to a anti social group.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「パン工場を解雇したのは、反社会的な団体に顔を出したからだ。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「反社会的勢力」は『antisocial force』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「〜を解雇する」は『dismiss』もOK"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「パン工場が解雇する」で表せる、英語の無生物主語に慣れない…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『fire』は受け身にしないとダメだった(受け身ミスが多い気がする…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『an anti』だった。(冠詞ミス)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626074457.306600",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "28446af3-e21b-4399-be3d-4ef44f1d8085",
+        "type": "message",
+        "text": "Now, I’m making the genuine! I’m sure I find out Raputa!",
+        "user": "UPSPAP97D",
+        "ts": "1626075116.307100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u9Ab",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now, I’m making the genuine! I’m sure I find out Raputa!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626017577.305300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "65f69663-a0dc-466a-a936-b627c8041295",
+        "type": "message",
+        "text": "`Now, I'm making the genuine! I'm sure I find out Raputa!`\nDeepL「今、本物を作っています! ラピュタのことがわかると思いますよ。」\n\n• 『genuine』は「本物の、誠実な」(形容詞)\n• 「ラピュタ」は『Laputa』(前は正解した気がするが…)\n• 作っているのは「飛行機」か！\n• 「(飛行機)を作る」は『build (a plane)』が一般的。知らなかった。",
+        "user": "UPSPAP97D",
+        "ts": "1626075469.307300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A5W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now, I'm making the genuine! I'm sure I find out Raputa!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「今、本物を作っています! ラピュタのことがわかると思いますよ。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『genuine』は「本物の、誠実な」(形容詞)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「ラピュタ」は『Laputa』(前は正解した気がするが…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "作っているのは「飛行機」か！"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「(飛行機)を作る」は『build (a plane)』が一般的。知らなかった。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626017577.305400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "2c960328-abbf-48f2-9619-5a143750ad3d",
+        "type": "message",
+        "text": "I know. I'll do the thing that part of the heart.",
+        "user": "UKH07E67M",
+        "ts": "1626080308.307500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nwv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know. I'll do the thing that part of the heart."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625931177.303600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "ccba87d2-cd17-4344-a19a-32a01117ee6c",
+        "type": "message",
+        "text": "`I know. I'll do the thing that part of the heart.`\n私は知っている。心の部分のことは、私がやります。\n• 普通にこのセリフ忘れていた\n• 任せて leave it to me　前にやって忘れていた。trust　思いつかなかった ",
+        "user": "UKH07E67M",
+        "ts": "1626080447.307700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2GN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know. I'll do the thing that part of the heart.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n私は知っている。心の部分のことは、私がやります。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "普通にこのセリフ忘れていた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "任せて leave it to me　前にやって忘れていた。trust　思いつかなかった "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625931177.303700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e8458410-686c-4a75-8fd6-0a3f8803673f",
+        "type": "message",
+        "text": "He was fired from a bread factory, because he gave anti-society members his face.",
+        "user": "UKH07E67M",
+        "ts": "1626081499.307900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cS2D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He was fired from a bread factory, because he gave anti-society members his face."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626007086.305200"
+    },
+    {
+        "client_msg_id": "8b4fb4d7-2c67-4f42-aebc-559e2d89de85",
+        "type": "message",
+        "text": "`He was fired from a bread factory, because he gave anti-society members his face.`\n反社会的勢力に顔を売ったために、パン工場を解雇されたのだ。\n• 反社会的勢力　antisocial forces\n• <https:\/\/eitangotsukaiwake.suntomi.com\/index.php?fire%2C%20lay%20off%2C%20dismiss#c6b4fc57> fireでおけ\n• from でもいいっぽい　<https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59930\/>　というか自分の解釈ではfrom ~から。by ~によってなので、ここでbyが使われるのが納得いかない ",
+        "user": "UKH07E67M",
+        "ts": "1626081880.308100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "fire, lay off, dismiss - 英単語の正しい使い分けを勉強してすっきり英会話！",
+                "title_link": "https:\/\/eitangotsukaiwake.suntomi.com\/index.php?fire%2C%20lay%20off%2C%20dismiss#c6b4fc57",
+                "text": "英単語をたくさん覚えてくると、同じ意味を表す単語がいくつもあることに気づくようになります。それらを正しく使い分けることが英会話力のアップに繋がるため、当サイトではよく使う同意語、類義語をターゲットに、ニュアンスの違いや使い分けについて説明しています。",
+                "fallback": "fire, lay off, dismiss - 英単語の正しい使い分けを勉強してすっきり英会話！",
+                "from_url": "https:\/\/eitangotsukaiwake.suntomi.com\/index.php?fire%2C%20lay%20off%2C%20dismiss#c6b4fc57",
+                "service_icon": "https:\/\/eitangotsukaiwake.suntomi.com\/favicon.ico",
+                "service_name": "eitangotsukaiwake.suntomi.com",
+                "id": 1,
+                "original_url": "https:\/\/eitangotsukaiwake.suntomi.com\/index.php?fire%2C%20lay%20off%2C%20dismiss#c6b4fc57"
+            },
+            {
+                "service_name": "DMM英会話なんてuKnow?",
+                "title": "解雇って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "title_link": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59930\/",
+                "text": "雇い主が従業員をやめさせることを「解雇」といいます。規則を破ったり何か問題があったりすると解雇させられます。",
+                "fallback": "DMM英会話なんてuKnow?: 解雇って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "image_url": "https:\/\/img.eikaiwa.dmm.com\/assets\/uknow\/fb_ogp.png",
+                "from_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59930\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 28296,
+                "service_icon": "https:\/\/eikaiwa.dmm.com\/fav-apple-touch-icon-57x57-precomposed.png",
+                "id": 2,
+                "original_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59930\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6S4V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He was fired from a bread factory, because he gave anti-society members his face.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n反社会的勢力に顔を売ったために、パン工場を解雇されたのだ。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "反社会的勢力　antisocial forces"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eitangotsukaiwake.suntomi.com\/index.php?fire%2C%20lay%20off%2C%20dismiss#c6b4fc57"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " fireでおけ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "from でもいいっぽい　"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/59930\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "　というか自分の解釈ではfrom ~から。by ~によってなので、ここでbyが使われるのが納得いかない "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626074457.306600",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "d549ce2c-3141-49a5-99d5-8df69b305483",
+        "type": "message",
+        "text": "I'm making the real sky ship now! I wanna find the Raputa!",
+        "user": "UKH07E67M",
+        "ts": "1626082021.308400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y9Ap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm making the real sky ship now! I wanna find the Raputa!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626017577.305300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "462d7901-7042-4e33-a99d-b55456c85591",
+        "type": "message",
+        "text": "`I'm making the real sky ship now! I wanna find the Raputa!`\n今、本物のスカイシップを作っています。ラピュタを見つけたい!\n• L\n• sky ship -&gt; plane 飛行機\n• あー。buildだなあ<https:\/\/eitangotsukaiwake.suntomi.com\/index.php?make%2C%20build%2C%20create>\n• ↑飛行機を作るはbuild a planeそなのか\n•  アブソリュートリーのスペル思い出せなかった。absolutely\n• やってみせるは I will do it.でいいらしい",
+        "user": "UKH07E67M",
+        "ts": "1626082223.308600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "make, build, create - 英単語の正しい使い分けを勉強してすっきり英会話！",
+                "title_link": "https:\/\/eitangotsukaiwake.suntomi.com\/index.php?make%2C%20build%2C%20create",
+                "text": "英単語をたくさん覚えてくると、同じ意味を表す単語がいくつもあることに気づくようになります。それらを正しく使い分けることが英会話力のアップに繋がるため、当サイトではよく使う同意語、類義語をターゲットに、ニュアンスの違いや使い分けについて説明しています。",
+                "fallback": "make, build, create - 英単語の正しい使い分けを勉強してすっきり英会話！",
+                "from_url": "https:\/\/eitangotsukaiwake.suntomi.com\/index.php?make%2C%20build%2C%20create",
+                "service_icon": "https:\/\/eitangotsukaiwake.suntomi.com\/favicon.ico",
+                "service_name": "eitangotsukaiwake.suntomi.com",
+                "id": 1,
+                "original_url": "https:\/\/eitangotsukaiwake.suntomi.com\/index.php?make%2C%20build%2C%20create"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "12F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm making the real sky ship now! I wanna find the Raputa!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今、本物のスカイシップを作っています。ラピュタを見つけたい!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "L"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "sky ship -> plane 飛行機"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "あー。buildだなあ"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eitangotsukaiwake.suntomi.com\/index.php?make%2C%20build%2C%20create"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "↑飛行機を作るはbuild a planeそなのか"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " アブソリュートリーのスペル思い出せなかった。absolutely"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "やってみせるは I will do it.でいいらしい"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626017577.305400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "dcde57eb-a91b-4fe3-9894-9e26bc59e953",
+        "type": "message",
+        "text": "He was fired from bread factory due to giving his face anti social power.",
+        "user": "U01F42ZFA73",
+        "ts": "1626092321.308900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3cDiP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He was fired from bread factory due to giving his face anti social power."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626007086.305200"
+    },
+    {
+        "client_msg_id": "fd6d3b0a-5449-4396-be35-4a20838127e4",
+        "type": "message",
+        "text": "`He was fired from bread factory due to giving his face anti social power.`\nDeepL: 顔に反社会的な力を持たせたため、パン工場を解雇された。\n• force= 押したりする力の強さ, power=内側に秘めた力の違いがあるらしい。そうなると、今回の英文はpowerでもいい気がする。しかし、forceの方が正しいらしい。\n• fire=従業員側に勤務態度が悪い、能力が低い、問題を起こしたなどの問題があり、解雇される場合、dismiss=何かの理由で力をもっている雇い主が、レベル下の誰かを解雇\/解任するというような場合。このことから、dismissの方が一般的なのか？",
+        "user": "U01F42ZFA73",
+        "ts": "1626092989.309200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1626093139.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kn2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He was fired from bread factory due to giving his face anti social power.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 顔に反社会的な力を持たせたため、パン工場を解雇された。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "force= 押したりする力の強さ, power=内側に秘めた力の違いがあるらしい。そうなると、今回の英文はpowerでもいい気がする。しかし、forceの方が正しいらしい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "fire=従業員側に勤務態度が悪い、能力が低い、問題を起こしたなどの問題があり、解雇される場合、dismiss=何かの理由で力をもっている雇い主が、レベル下の誰かを解雇\/解任するというような場合。このことから、dismissの方が一般的なのか？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626074457.306600",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "湖も川も、人間が毒水にしてしまったのを腐海の木々が綺麗にしてくれているのよ（ナウシカ\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1626103977.309500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1626103977.309500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1626177506.313500",
+        "reply_users": [
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1626160875.310000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626164912.311900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626177506.313500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626177506.313500"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：湖も川も、人間が毒水にしてしまったのを腐海の木々が綺麗にしてくれているのよ",
+        "user": "U01UMQH4W4B",
+        "ts": "1626103978.309600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1626103978.309600",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626177919.313700",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1626103978.309700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1626161102.310600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626165555.312100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626177919.313700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626177919.313700"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "The trees in the Sea of Decay cleanse all the lakes and rivers that humans polluted!",
+        "user": "U01UMQH4W4B",
+        "ts": "1626103978.309700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1626103978.309600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1626146189.309900",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1626146189.309900",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1626263568.323400",
+        "reply_users": [
+            "U01F42ZFA73",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "U01EVRBP38C"
+        ],
+        "replies": [
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626160942.310200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1626161264.310800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626165784.312300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626178334.314200"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1626263568.323400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626263568.323400",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: クララは意気地なしですが、アルプスで一番の強肩です。 <https:\/\/pbs.twimg.com\/media\/E6JUJIOVoAsqWa3.jpg>",
+                "ts": 1626146183,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1414785753792450563",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1414785753792450563>",
+                "text": "クララは意気地なしですが、アルプスで一番の強肩です。 <https:\/\/pbs.twimg.com\/media\/E6JUJIOVoAsqWa3.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1414785753792450563",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E6JUJIOVoAsqWa3.jpg",
+                "image_width": 400,
+                "image_height": 510,
+                "image_bytes": 28897,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

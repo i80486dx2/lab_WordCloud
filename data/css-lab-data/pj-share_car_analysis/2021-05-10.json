@@ -1,0 +1,162 @@
+[
+    {
+        "client_msg_id": "697cf4ae-f8c6-4c87-9d41-cc26886451d5",
+        "type": "message",
+        "text": "了解です。ここから動作パターンとかと目的地に紐付けに繋がりそうですね。ちなみに今週って研究室に来る日ありますか？明日、外付けSSDが届きます。",
+        "user": "UPSPAMY7M",
+        "ts": "1620693119.040200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vAFZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。ここから動作パターンとかと目的地に紐付けに繋がりそうですね。ちなみに今週って研究室に来る日ありますか？明日、外付けSSDが届きます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620466409.039500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "E183EC11-CCCA-4D05-A143-4D6F6CFADF66",
+        "type": "message",
+        "text": "明日行きます",
+        "user": "UPRE1RSJW",
+        "ts": "1620698930.040500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wMtF0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日行きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620466409.039500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "c2bc23dd-2f45-41af-82ac-7581bc507c82",
+        "type": "message",
+        "text": "了解です。明日は大学に出たり入ったりしているので、１３時半〜１４時半くらいに研究室行きます",
+        "user": "UPSPAMY7M",
+        "ts": "1620703343.040700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3P3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。明日は大学に出たり入ったりしているので、１３時半〜１４時半くらいに研究室行きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620466409.039500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "B4812353-6E36-48A3-B665-94BB18A4616B",
+        "type": "message",
+        "text": "分かりました",
+        "user": "UPRE1RSJW",
+        "ts": "1620705329.041000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svvJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "分かりました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620466409.039500",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "7c21e1b7-75ac-4cf9-9a8d-f606f5a5b96e",
+        "type": "message",
+        "text": "カラーレーザープリンター（A4、両面印刷・両面スキャン可）が入りました。\n研究室のwifiにつながってるので、使う際にはネットワークからPCにインストールしてください。\nコピーやスキャンした画像のUSBメモリへの保存もできる優れもの：\n<https:\/\/www.amazon.co.jp\/gp\/product\/B07RMD5873\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1632216872.006400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1632216898.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FfJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カラーレーザープリンター（A4、両面印刷・両面スキャン可）が入りました。\n研究室のwifiにつながってるので、使う際にはネットワークからPCにインストールしてください。\nコピーやスキャンした画像のUSBメモリへの保存もできる優れもの：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/gp\/product\/B07RMD5873\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "UKUKA65GU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M",
+                    "UPSPAP97D",
+                    "UKUKA65GU"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

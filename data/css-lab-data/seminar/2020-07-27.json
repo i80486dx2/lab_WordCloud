@@ -1,0 +1,307 @@
+[
+    {
+        "client_msg_id": "e7ef23ee-c091-47e4-bccf-6b9997fb6ebf",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>\n今日の輪講はオンサイトですか？オンラインですか？",
+        "user": "UQ47R82RW",
+        "ts": "1595909874.097300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S=v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日の輪講はオンサイトですか？オンラインですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595403224.095300",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "8238489d-4d27-4d5e-9d31-aeab0a625981",
+        "type": "message",
+        "text": "<@UQ47R82RW> どちらも可",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595909901.097500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "InIsd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " どちらも可"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595403224.095300",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a07ea9e9-b89a-42d8-a08a-76a9ebb741ac",
+        "type": "message",
+        "text": "今日打ち上げって可能性ありますか…?",
+        "user": "UKUKA65GU",
+        "ts": "1595909921.097800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J4=GU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日打ち上げって可能性ありますか…?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595403224.095300",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "bd92757c-9a4f-4071-b59c-4b35bea36dad",
+        "type": "message",
+        "text": "<@UKUKA65GU> いつってのはあまり考えてなかったです（中身も）。希望を聞きましょう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595909976.098000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PSk+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " いつってのはあまり考えてなかったです（中身も）。希望を聞きましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595403224.095300",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "2f499c47-d6f7-49f6-935a-27e27b086cc1",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> もしかしたら突然で参加できない人もいるかとも思うので、別日でもいい気がします。\n軽い外食程度（前回行ったシタールとか...?）かなぁと個人的には考えていました笑",
+        "user": "UKUKA65GU",
+        "ts": "1595916212.098200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hjw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もしかしたら突然で参加できない人もいるかとも思うので、別日でもいい気がします。\n軽い外食程度（前回行ったシタールとか...?）かなぁと個人的には考えていました笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595403224.095300",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "89ffe9bc-5a45-4805-ab57-52555f6de683",
+        "type": "message",
+        "text": "自分もできれば別日がいいです…",
+        "user": "UQ47R82RW",
+        "ts": "1595916271.098400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ovDgm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分もできれば別日がいいです…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595403224.095300",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "DAD1CCAC-9CF4-4174-8577-95AEDFB02173",
+        "type": "message",
+        "text": "僕も別日がいいです。（とても私的な理由ですが、雨の日にあまり外に出たくないので）",
+        "user": "UPSPAP97D",
+        "ts": "1595916452.100400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕も別日がいいです。（とても私的な理由ですが、雨の日にあまり外に出たくないので）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595403224.095300",
+        "parent_user_id": "UKUKA65GU"
+    }
+]

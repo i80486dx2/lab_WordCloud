@@ -1,0 +1,71 @@
+[
+    {
+        "type": "message",
+        "text": "新規タグの生成レートを、一様乱数によるシミュレーションによるグラフと期待値を用いた（理論値って言えるのかな...?）グラフで表してみました。\nタグセットは最大3個まで、で生成されています。\n\n\n赤線→ シミュレーションでの値\n青線→ 期待値を用いた値\n横軸→新たに用いられるタグの番号\n縦軸→新たなタグが含まれたタグセットを選択できる初回のタイミングでの、選択確率",
+        "files": [
+            {
+                "id": "F02002RB458",
+                "created": 1619425889,
+                "timestamp": 1619425889,
+                "name": "スクリーンショット 2021-04-26 17.31.27.png",
+                "title": "スクリーンショット 2021-04-26 17.31.27.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 144905,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02002RB458\/____________________________2021-04-26_17.31.27.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02002RB458\/download\/____________________________2021-04-26_17.31.27.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02002RB458-ba431cce52\/____________________________2021-04-26_17.31.27_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02002RB458-ba431cce52\/____________________________2021-04-26_17.31.27_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02002RB458-ba431cce52\/____________________________2021-04-26_17.31.27_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 238,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02002RB458-ba431cce52\/____________________________2021-04-26_17.31.27_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 318,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02002RB458-ba431cce52\/____________________________2021-04-26_17.31.27_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02002RB458-ba431cce52\/____________________________2021-04-26_17.31.27_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 477,
+                "original_w": 740,
+                "original_h": 490,
+                "thumb_tiny": "AwAfADDRGMjnNOwPSmNnGT25p9ABgelGB6UUUAGB6UhApaDQAgxz3pAdvB6djS85oyc4oAXr0opuAT0FGOcc\/nQA6g03nOMmgZzg0Af\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F02002RB458\/____________________________2021-04-26_17.31.27.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02002RB458-73d78c64ad",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pcFs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新規タグの生成レートを、一様乱数によるシミュレーションによるグラフと期待値を用いた（理論値って言えるのかな...?）グラフで表してみました。\nタグセットは最大3個まで、で生成されています。\n\n\n赤線→ シミュレーションでの値\n青線→ 期待値を用いた値\n横軸→新たに用いられるタグの番号\n縦軸→新たなタグが含まれたタグセットを選択できる初回のタイミングでの、選択確率"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKUKA65GU",
+        "display_as_bot": false,
+        "ts": "1619425988.012000"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "e4ed5edd-01e6-4cd3-b8b6-9ff8bfee089d",
+        "type": "message",
+        "text": "今日の輪講は以下で。\n<https:\/\/zoom.us\/j\/92390823928?pwd=emRKM2JPWmlhZGtpMlM4RlZZUzk3UT09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1587015967.004400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RIE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の輪講は以下で。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/92390823928?pwd=emRKM2JPWmlhZGtpMlM4RlZZUzk3UT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586328661.018000",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPSPAP97D",
+                    "UKUKA65GU",
+                    "UQ47R82RW"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

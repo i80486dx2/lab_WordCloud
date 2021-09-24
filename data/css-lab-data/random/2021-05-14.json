@@ -1,0 +1,764 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> 「サービスVRセミナー」とかいう案内メールがきたので皆さんに転送しました。",
+        "files": [
+            {
+                "id": "F022M00V7DW",
+                "created": 1620980498,
+                "timestamp": 1620980498,
+                "name": "No.11.サービスVRセミナー-20210519.pdf",
+                "title": "No.11.サービスVRセミナー-20210519.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UKS1Q2KTQ",
+                "editable": false,
+                "size": 592429,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F022M00V7DW\/no.11.____________vr____________-20210519.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F022M00V7DW\/download\/no.11.____________vr____________-20210519.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F022M00V7DW-073c4f5edf\/no.11.____________vr____________-20210519_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1312,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKS1Q2KTQ\/F022M00V7DW\/no.11.____________vr____________-20210519.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F022M00V7DW-befe2a2f52",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qI8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 「サービスVRセミナー」とかいう案内メールがきたので皆さんに転送しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKS1Q2KTQ",
+        "display_as_bot": false,
+        "ts": "1620980506.073500",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EPKVACEN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Sleeping beautiesという物がroomclipの男前というタグにあるように、小説家になろうにも実際にあるのか見てみた。\nSleeping beautiesは、過去に投稿された物が時間を経て注目されるというもの。\n\n一時期、流行った悪役令嬢のタグの使用回数を週ごとにプロットした。\nx軸:週\ny軸:その週に登場した悪役令嬢タグの使用回数\n\nみてみると、初期の方に週に1、2回登場していた。\n\n100000週後期くらいになって、どんどん登場回数が増加する。\nその後は増加傾向になっている。\n\nうーん、これをSBといっていいのだろうか...",
+        "files": [
+            {
+                "id": "F0226H2QBHS",
+                "created": 1621056674,
+                "timestamp": 1621056674,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 47822,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0226H2QBHS\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0226H2QBHS\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0226H2QBHS-a32b7b655c\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0226H2QBHS-a32b7b655c\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0226H2QBHS-a32b7b655c\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 247,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0226H2QBHS-a32b7b655c\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 329,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0226H2QBHS-a32b7b655c\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0226H2QBHS-a32b7b655c\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 493,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0226H2QBHS-a32b7b655c\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 548,
+                "original_w": 832,
+                "original_h": 570,
+                "thumb_tiny": "AwAgADDSJOaXmkzk96WgBMH+8aTaf7xp1FACdMDNAOTTJHCugJxnP8qbbMXTcepJp2Fcl6HrS0hz2pDv7YpDB5FQHJ6DNQvdIFbaeR0pj2rOxZnJJ9qQWef4j+VVoTqQSyGWTcePSrdl\/qvxNR\/Yz\/e\/Sp4IzEu3ORnOabasCTuf\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F0226H2QBHS\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0226H2QBHS-b352652494",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+\/XzQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sleeping beautiesという物がroomclipの男前というタグにあるように、小説家になろうにも実際にあるのか見てみた。\nSleeping beautiesは、過去に投稿された物が時間を経て注目されるというもの。\n\n一時期、流行った悪役令嬢のタグの使用回数を週ごとにプロットした。\nx軸:週\ny軸:その週に登場した悪役令嬢タグの使用回数\n\nみてみると、初期の方に週に1、2回登場していた。\n\n100000週後期くらいになって、どんどん登場回数が増加する。\nその後は増加傾向になっている。\n\nうーん、これをSBといっていいのだろうか..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1621057129.079400",
+        "thread_ts": "1621057129.079400",
+        "reply_count": 12,
+        "reply_users_count": 2,
+        "latest_reply": "1621059652.082200",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621058152.079700"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621058183.079900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621058258.080100"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621058507.080300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621058598.080500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621058711.080700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621058820.080900"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621059060.081100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621059118.081300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621059176.081600"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621059216.081900"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1621059652.082200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621059652.082200"
+    },
+    {
+        "client_msg_id": "5bb0cc1c-b08a-4fd6-a88f-2e7e50ede5b7",
+        "type": "message",
+        "text": "<@UQ47R82RW>\n&gt; うーん、これをSBといっていいのだろうか...\n100,000週？100,000時間とかではなくて？（それでも10年以上だけど…）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621058152.079700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "urgB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うーん、これをSBといっていいのだろうか..."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100,000週？100,000時間とかではなくて？（それでも10年以上だけど…）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "7e9f8d2f-7587-4225-bbda-0609ed8ac598",
+        "type": "message",
+        "text": "2004年から2020年のデータなので16年分くらいです。",
+        "user": "UQ47R82RW",
+        "ts": "1621058183.079900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OOQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2004年から2020年のデータなので16年分くらいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "734cfa10-6bc2-4a00-a9b7-a753e6b05a1c",
+        "type": "message",
+        "text": "つまり10万時間ということ？初期というのは具体的に何日くらい？SBかどうかの判断は何か定義が必要だけど（Ferarraの論文とか参照するといいかも）数日だとSBという感じはあまりしないね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621058258.080100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "つまり10万時間ということ？初期というのは具体的に何日くらい？SBかどうかの判断は何か定義が必要だけど（Ferarraの論文とか参照するといいかも）数日だとSBという感じはあまりしないね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "50bd501c-fd6b-4467-81ba-9cec656af9ec",
+        "type": "message",
+        "text": "言われて気づきましたが、確かにweekがおかしい値でした。\nちょっとプログラムを見直してみます。",
+        "user": "UQ47R82RW",
+        "ts": "1621058507.080300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SOAUa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "言われて気づきましたが、確かにweekがおかしい値でした。\nちょっとプログラムを見直してみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "4582cfac-43cd-4bca-80b9-1fde9e45d293",
+        "type": "message",
+        "text": "weekをカウントする部分のプログラムのミスでした。\n実際のweekは0~900くらいです。",
+        "user": "UQ47R82RW",
+        "ts": "1621058598.080500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MRH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "weekをカウントする部分のプログラムのミスでした。\n実際のweekは0~900くらいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "cf10e880-2603-401a-a440-75e8c513218f",
+        "type": "message",
+        "text": "論文だと年単位でみてますね。",
+        "user": "UQ47R82RW",
+        "ts": "1621058711.080700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VxTdC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "論文だと年単位でみてますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "18f78ef1-2fc5-45d6-9373-3d4c204f1ad4",
+        "type": "message",
+        "text": "そうすると、200週目（4年目）くらいから立ち上がってる感じかな。初出が50週目くらいだとすると、3年くらいは low profile だったということですね。ただの印象だけど SB っぽい。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621058820.080900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "avq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうすると、200週目（4年目）くらいから立ち上がってる感じかな。初出が50週目くらいだとすると、3年くらいは low profile だったということですね。ただの印象だけど SB っぽい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "08516806-6b8b-4fed-9015-ae89049868dc",
+        "type": "message",
+        "text": "一応、研究計画書に書くために実際にあるのか見た目で判断しようと思ってやってみたので、\n\n見た目状、そのように見えるタグが存在している。だがしかし、サービスの発展などを加味していない。そういった部分を検証し、Ferarraらの研究をタグの発展に応用できないか探る。\n\nみたいな感じで計画書に書いてみます。",
+        "user": "UQ47R82RW",
+        "ts": "1621059060.081100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CKQoL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応、研究計画書に書くために実際にあるのか見た目で判断しようと思ってやってみたので、\n\n見た目状、そのように見えるタグが存在している。だがしかし、サービスの発展などを加味していない。そういった部分を検証し、Ferarraらの研究をタグの発展に応用できないか探る。\n\nみたいな感じで計画書に書いてみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29db19d2-b37c-416d-94c8-cd009b18e37b",
+        "type": "message",
+        "text": "問題は、例えば生物遺伝や技術革新の意味での SB（突然のpopulationが増加）であれば、他の変異との組み合わせの結果、何かよい効果が生まれたという機構的な説明ができるけど、「悪役令嬢」や「男前」は単にそのときの人の気分の問題ではないか？となる可能性がある点だね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621059118.081300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KO6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "問題は、例えば生物遺伝や技術革新の意味での SB（突然のpopulationが増加）であれば、他の変異との組み合わせの結果、何かよい効果が生まれたという機構的な説明ができるけど、「悪役令嬢」や「男前」は単にそのときの人の気分の問題ではないか？となる可能性がある点だね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "9a2b3a82-8a29-4c86-973a-7c8a35a8ddc7",
+        "type": "message",
+        "text": "もちろん、そのときの人の気分というのも時代・環境要因なので、説明によっては SB という言い方もできる。人を「そういう気分にさせた」何かの機構があるはずだ、というね。それは他の何らかのタグかもしれない。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1621059176.081600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1621059218.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Ej4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もちろん、そのときの人の気分というのも時代・環境要因なので、説明によっては SB という言い方もできる。人を「そういう気分にさせた」何かの機構があるはずだ、というね。それは他の何らかのタグかもしれない。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "5666c53f-49d4-42b5-ab13-ed4e221badb6",
+        "type": "message",
+        "text": "なるほど。そこまで、計画書にかいた方が良さそうですね...",
+        "user": "UQ47R82RW",
+        "ts": "1621059216.081900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q9Bj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど。そこまで、計画書にかいた方が良さそうですね..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "text": "プロットしなおしました。\n300週目くらいに最初使用され、500週目くらいまで使用数はすくなかった。\n500週目初めくらいから増加し、550~600くらいに急上昇。\n\nこれなら一応SBっぽいですね。",
+        "files": [
+            {
+                "id": "F0220KDR51R",
+                "created": 1621059471,
+                "timestamp": 1621059471,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 46786,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0220KDR51R\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0220KDR51R\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0220KDR51R-e9564c57bf\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0220KDR51R-e9564c57bf\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0220KDR51R-e9564c57bf\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 247,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0220KDR51R-e9564c57bf\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 329,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0220KDR51R-e9564c57bf\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0220KDR51R-e9564c57bf\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 493,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0220KDR51R-e9564c57bf\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 548,
+                "original_w": 832,
+                "original_h": 570,
+                "thumb_tiny": "AwAgADDSP0paTOT3paAEwf71JtP9406igBMYHWgHmhzhGPoKZE24sff+goAf0PXrS0Gk+bHTn0oAWmtIq5BPIoO\/tj646VXa1MjFjJ174pqwmNuLgMu1OQRyafZf6o\/71M+xf7f6VPBF5SYznnNN2toJXuf\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F0220KDR51R\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0220KDR51R-37f77cd53c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VT7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロットしなおしました。\n300週目くらいに最初使用され、500週目くらいまで使用数はすくなかった。\n500週目初めくらいから増加し、550~600くらいに急上昇。\n\nこれなら一応SBっぽいですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1621059652.082200",
+        "thread_ts": "1621057129.079400",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

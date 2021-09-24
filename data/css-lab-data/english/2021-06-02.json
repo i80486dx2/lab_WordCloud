@@ -1,0 +1,1326 @@
+[
+    {
+        "client_msg_id": "e2566525-edc0-4905-a64d-fd274a96fe16",
+        "type": "message",
+        "text": "`\"Excuse me. May I borrow a washlet?\"`\n`\"Sure.\"`\nDeepL「“Excuse me. ウォッシュレットをお借りできますか？”\n“もちろん“」\n\n• 「コンビニでわざわさ店員に、ウォシュレットを使っていいか(トイレ使っていいか) を聞く」(他人の家に行った時のマナー?) の考えだったが、「トイレを借りる」のは『use』だった… (橋本先生の文より)\n• 『Excuse me,』はコンマで良い。(ピリオドだと思ってた)\n• 『Sure』だけだと不十分だった。(「行っておいで」的な『go ahead』があると丁寧?)",
+        "user": "UPSPAP97D",
+        "ts": "1622621637.117000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ho8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Excuse me. May I borrow a washlet?\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Sure.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「“Excuse me. ウォッシュレットをお借りできますか？”\n“もちろん“」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「コンビニでわざわさ店員に、ウォシュレットを使っていいか(トイレ使っていいか) を聞く」(他人の家に行った時のマナー?) の考えだったが、「トイレを借りる」のは『use』だった… (橋本先生の文より)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『Excuse me,』はコンマで良い。(ピリオドだと思ってた)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『Sure』だけだと不十分だった。(「行っておいで」的な『go ahead』があると丁寧?)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622562957.112900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "7a3daf8b-926a-4b23-93bd-fdb30628cbf8",
+        "type": "message",
+        "text": "Burn out!",
+        "user": "UPSPAP97D",
+        "ts": "1622621695.117200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MXYOD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Burn out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561577.111900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "fe8f64cf-73e4-414a-9164-b0801303b51e",
+        "type": "message",
+        "text": "`Burn out!`\nDeepL「燃え尽きろ」\n\n• 「燃やし尽くせ！」的な気持ちだと思ったが、そこまで言ってなかった?\n• 僕が考えていた文だと『burn up』の方が良いのかな? (『burn out』の自動詞は上の訳はなさそう…)",
+        "user": "UPSPAP97D",
+        "ts": "1622622303.117500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iUty",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Burn out!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「燃え尽きろ」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「燃やし尽くせ！」的な気持ちだと思ったが、そこまで言ってなかった?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "僕が考えていた文だと『burn up』の方が良いのかな? (『burn out』の自動詞は上の訳はなさそう…)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622561578.112000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1622633551.117700",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1622633551.117700",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626403563.331400",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622635804.117800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622684196.119200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622704644.122000"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626403563.331400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626403563.331400",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「オリンピックの魔物です。開催するかどうか、いつくらいに分かりますかね？」 <https:\/\/pbs.twimg.com\/media\/E238YuoVEAE-Hrg.jpg>",
+                "ts": 1622633546,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1400052683327688711",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1400052683327688711>",
+                "text": "「オリンピックの魔物です。開催するかどうか、いつくらいに分かりますかね？」 <https:\/\/pbs.twimg.com\/media\/E238YuoVEAE-Hrg.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1400052683327688711",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E238YuoVEAE-Hrg.jpg",
+                "image_width": 400,
+                "image_height": 530,
+                "image_bytes": 71837,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3b98c55-03d9-41a9-aad8-1a4ae6b625d2",
+        "type": "message",
+        "text": "\"This is the demon of Olympic. When do you know whether Olympic games will be held?\"",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622635804.117800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5AtYt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"This is the demon of Olympic. When do you know whether Olympic games will be held?\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622633551.117700"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "また村がひとつ死んだ（ユパ\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1622647977.118000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622647977.118000",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1622705097.122500",
+        "reply_users": [
+            "UKUKA65GU",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKUKA65GU",
+                "ts": "1622648058.118400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622648708.118800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622685908.120400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622705097.122500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622705097.122500"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：また村がひとつ死んだ",
+        "user": "U01UMQH4W4B",
+        "ts": "1622647977.118100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622647977.118100",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1622705253.122700",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKUKA65GU",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1622647978.118200"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1622648117.118600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622648882.119000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622686429.120600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622705253.122700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622705253.122700"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Another village destroyed.",
+        "user": "U01UMQH4W4B",
+        "ts": "1622647978.118200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622647977.118100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "63b94604-909c-4370-a146-f005d83da79e",
+        "type": "message",
+        "text": "One more village was dead.",
+        "user": "UKUKA65GU",
+        "ts": "1622648058.118400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xa8J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One more village was dead."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622647977.118000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "a6e393c2-9637-4f89-afb9-c5452ea2880d",
+        "type": "message",
+        "text": "Anotherかぁぁぁ...複数あるうちの1つならAnotherですなぁぁぁ...\n生命的な死んだより、シーン的には殺されたとかの方がニュアンス近いからdestroyedですね...やられた。",
+        "user": "UKUKA65GU",
+        "ts": "1622648117.118600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "evI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anotherかぁぁぁ...複数あるうちの1つならAnotherですなぁぁぁ...\n生命的な死んだより、シーン的には殺されたとかの方がニュアンス近いからdestroyedですね...やられた。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622647977.118100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7f5d4980-bcbe-492e-8423-70019e667a4f",
+        "type": "message",
+        "text": "Another village died.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622648708.118800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j6n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another village died."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622647977.118000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "4738bb51-00e7-42e7-a2f4-6b1d5831ca34",
+        "type": "message",
+        "text": "`Another village died.`\n\n腐海にのまれて死ぬのを destroyed と表現するかなぁ…。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622648882.119000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "49peV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another village died.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n腐海にのまれて死ぬのを destroyed と表現するかなぁ…。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622647977.118100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b80c7a28-e63c-4617-b5e1-8ac053d88b20",
+        "type": "message",
+        "text": "“This is a monster of Olimpic. When can I know whether Olimpic held or not?”",
+        "user": "UPSPAP97D",
+        "ts": "1622684196.119200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zvTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“This is a monster of Olimpic. When can I know whether Olimpic held or not?”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622633551.117700"
+    },
+    {
+        "client_msg_id": "d9f8c82c-e7cd-4da2-871f-e76eb616b92e",
+        "type": "message",
+        "text": "反省会: 「オリンピックの魔物です。開催するかどうか、いつくらいに分かりますかね？」",
+        "user": "UPSPAP97D",
+        "ts": "1622684253.120000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8nR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会: 「オリンピックの魔物です。開催するかどうか、いつくらいに分かりますかね？」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622684253.120000",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626404063.331600",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622685674.120100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622687811.121000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622705036.122200"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626404063.331600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626404063.331600"
+    },
+    {
+        "client_msg_id": "b0efd831-2f1e-4d20-8e0a-aab5e70b4d49",
+        "type": "message",
+        "text": "`\"This is a monster of Olimpic. When can I know whether Olimpic held or not?\"`\nDeepL「“これはオリンピックの怪物だ。オリムピックが開催されたかどうかは、いつわかるの？“」\n\n• 「魔物」訳は『monster』しか思いつかなかった…。そして『evil spirit』の熟語? が解答なのかよ (絶対思いつかない)。\n• オリンピックは (人によって)開催されるので受け身。そして「〜を開催する」の原形は『hold』。\n• 『Olympic』単体では 形容詞になりそうなので不適? 。また、綴りも違う。\n<https:\/\/eow.alc.co.jp\/search?q=olympic|Olympic英辞郎>\n• 電話なので『this is』の方が常套句だと思うが…",
+        "user": "UPSPAP97D",
+        "ts": "1622685674.120100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "olympicの意味・使い方",
+                "title_link": "https:\/\/eow.alc.co.jp\/search?q=olympic",
+                "text": "Olympic 【形】 《ギリシャ神話》オリュンポス［オリンポス］山の 〔古代ギリシャの〕オリンピアの オリン... - アルクがお届けするオンライン英和・和英辞書検索サービス。",
+                "fallback": "olympicの意味・使い方",
+                "image_url": "https:\/\/eow.alc.co.jp\/content\/579\/img\/PromoImage.png",
+                "from_url": "https:\/\/eow.alc.co.jp\/search?q=olympic",
+                "image_width": 512,
+                "image_height": 250,
+                "image_bytes": 126218,
+                "service_icon": "https:\/\/eow.alc.co.jp\/favicon.ico",
+                "service_name": "eow.alc.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/eow.alc.co.jp\/search?q=olympic"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cTZKn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"This is a monster of Olimpic. When can I know whether Olimpic held or not?\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「“これはオリンピックの怪物だ。オリムピックが開催されたかどうかは、いつわかるの？“」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「魔物」訳は『monster』しか思いつかなかった…。そして『evil spirit』の熟語? が解答なのかよ (絶対思いつかない)。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "オリンピックは (人によって)開催されるので受け身。そして「〜を開催する」の原形は『hold』。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『Olympic』単体では 形容詞になりそうなので不適? 。また、綴りも違う。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eow.alc.co.jp\/search?q=olympic",
+                                "text": "Olympic英辞郎"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "電話なので『this is』の方が常套句だと思うが…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622684253.120000",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "ce31f52e-9cdf-4b39-ac34-7f9c790d547a",
+        "type": "message",
+        "text": "Another village also spoiled.",
+        "user": "UPSPAP97D",
+        "ts": "1622685908.120400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sp+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another village also spoiled."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622647977.118000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7588b0f5-c5a1-489f-9e9d-b10e0e81d281",
+        "type": "message",
+        "text": "`Another village also spoiled.`\nDeepL「もう一つの村も台無しになった。」\n\n• 『also』は余分だったか…\n• 『spoil』の自動詞「(食べ物)が腐る」なので、不適だった。\n<https:\/\/dictionary.goo.ne.jp\/word\/en\/spoil\/|spoilについて>",
+        "user": "UPSPAP97D",
+        "ts": "1622686429.120600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1622686484.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "goo辞書",
+                "title": "spoilの意味 - goo辞書 英和和英",
+                "title_link": "https:\/\/dictionary.goo.ne.jp\/word\/en\/spoil\/",
+                "text": "spoilとは。意味や和訳。[動]（～ed，spoilt \/spɔ́ilt\/；～・ing）【よい物をだめにする】1 他〈食べ物・味などを〉だめにする，損なう，台なしにする，腐らせる，〈食欲などを〉そぐ；自〈食べ物が〉（鮮度が落ちて）だめになる，腐るSome foods spoil quickly if not kept refrigerated.冷やしておかないとすぐに腐る食べ物がある2 他〈状況などを〉台なしにする，こわす... - 80万項目以上収録、例文・コロケーションが豊富な無料英和和英辞典。",
+                "fallback": "goo辞書: spoilの意味 - goo辞書 英和和英",
+                "image_url": "https:\/\/u.xgoo.jp\/img\/sns\/dictionary.png",
+                "from_url": "https:\/\/dictionary.goo.ne.jp\/word\/en\/spoil\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7687,
+                "service_icon": "http:\/\/u.xgoo.jp\/img\/sns\/dictionary.png",
+                "id": 1,
+                "original_url": "https:\/\/dictionary.goo.ne.jp\/word\/en\/spoil\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qLz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another village also spoiled.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「もう一つの村も台無しになった。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『also』は余分だったか…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『spoil』の自動詞「(食べ物)が腐る」なので、不適だった。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dictionary.goo.ne.jp\/word\/en\/spoil\/",
+                                "text": "spoilについて"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622647977.118100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "d4bb7af9-b003-4a89-980d-0f534b733540",
+        "type": "message",
+        "text": "`\"This is the demon of Olympic. When do you know whether Olympic games will be held?\"`\nDeepL：「これはオリンピックの魔物だ。オリンピックが開催されるかどうかは、いつ頃わかりますか？\n\n• This is にするか I am にするか迷いつつ、This is の方が「っぽく」て面白いと思ったのだが。\n• 「...の魔物 = an evil spirit of ...」了。これは汎用性ありそう。\n• 「オリンピック = the Olympic Games」了。意外と知らなかった。\n• 「いつわかる？ = When will you\/I know?」了。will か。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622687811.121000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1622687844.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+v6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"This is the demon of Olympic. When do you know whether Olympic games will be held?\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：「これはオリンピックの魔物だ。オリンピックが開催されるかどうかは、いつ頃わかりますか？\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "This is にするか I am にするか迷いつつ、This is の方が「っぽく」て面白いと思ったのだが。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「...の魔物 = an evil spirit of ...」了。これは汎用性ありそう。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「オリンピック = the Olympic Games」了。意外と知らなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「いつわかる？ = When will you\/I know?」了。will か。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622684253.120000",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1622691244.121300",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1622691244.121300",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626235378.315000",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622693706.121400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622705548.123200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622768123.124000"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626235378.315000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626235378.315000",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「オリンピックやるの？やらないの？笑顔の作り方、忘れちゃったわよ！」勝利の女神が叫んだ。 <https:\/\/pbs.twimg.com\/media\/E27Yc_IUcAI1QR3.jpg>",
+                "ts": 1622691238,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1400294664108838914",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1400294664108838914>",
+                "text": "「オリンピックやるの？やらないの？笑顔の作り方、忘れちゃったわよ！」勝利の女神が叫んだ。 <https:\/\/pbs.twimg.com\/media\/E27Yc_IUcAI1QR3.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1400294664108838914",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E27Yc_IUcAI1QR3.jpg",
+                "image_width": 400,
+                "image_height": 550,
+                "image_bytes": 81910,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "789ca254-cc3e-457d-92dd-8b5c6dbbd02f",
+        "type": "message",
+        "text": "\"Will you hold the Olympic Games? Or won't do? I forgot how to make a smile!\" The Goddess of Victory shouted.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622693706.121400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "luV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Will you hold the Olympic Games? Or won't do? I forgot how to make a smile!\" The Goddess of Victory shouted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622691244.121300"
+    },
+    {
+        "client_msg_id": "c91a66d1-3e12-4647-ba97-9e812fa063b0",
+        "type": "message",
+        "text": "反省会「オリンピックやるの？やらないの？笑顔の作り方、忘れちゃったわよ！」勝利の女神が叫んだ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622693852.121700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XaZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「オリンピックやるの？やらないの？笑顔の作り方、忘れちゃったわよ！」勝利の女神が叫んだ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622693852.121700",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626236566.315200",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622694031.121800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622705903.123400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622769235.124200"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626236566.315200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626236566.315200"
+    },
+    {
+        "client_msg_id": "f4934de9-5177-44af-b2ca-c4a064d4de64",
+        "type": "message",
+        "text": "`\"Will you hold the Olympic Games? Or won't do? I forgot how to make a smile!\" The Goddess of Victory shouted.`\nDeepL：「オリンピックを開催しますか？それともやらない？笑顔の作り方を忘れた！？」勝利の女神が叫んだ。\n\n• 単純な過去形 forgot だと「忘れた（けど今思い出した）」になってしまうので、今も思い出せない文脈では have forgotten。これは痛恨。\n• まさに今やるかやらないかなので be going to。これも痛恨。\n• 「キーッと叫ぶ = squeal」了。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622694031.121800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SRbz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Will you hold the Olympic Games? Or won't do? I forgot how to make a smile!\" The Goddess of Victory shouted.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：「オリンピックを開催しますか？それともやらない？笑顔の作り方を忘れた！？」勝利の女神が叫んだ。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "単純な過去形 forgot だと「忘れた（けど今思い出した）」になってしまうので、今も思い出せない文脈では have forgotten。これは痛恨。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "まさに今やるかやらないかなので be going to。これも痛恨。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「キーッと叫ぶ = squeal」了。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622693852.121700",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

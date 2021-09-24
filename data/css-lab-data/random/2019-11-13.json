@@ -1,0 +1,198 @@
+[
+    {
+        "client_msg_id": "6e452efb-8132-4bd5-bd9c-89e9338d79ee",
+        "type": "message",
+        "text": "<@UKUKA65GU> <@UQ63J44BZ> 今日ラボのノートPCをどうするか中途半端に話しましたが、現状急いで全員がPCを持つ必要もないので、私のオフィスに置いておいて、週単位の貸し出しも含めて適宜使ってもらうことにしましょう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1573649099.004800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ63J44BZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30308900-093D-4852-8868-D8F7AEE348A7",
+        "type": "message",
+        "text": "了解です、明日は橋本先生いらっしゃいますか？",
+        "user": "UKUKA65GU",
+        "ts": "1573649206.005300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573649206.005300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1573649472.006800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1573649372.006000"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1573649472.006800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1573649472.006800"
+    },
+    {
+        "client_msg_id": "2a3e1e69-7a49-4a08-b1cf-3e800271f0a8",
+        "type": "message",
+        "text": "<@UKUKA65GU> 15:00～18:40は講義棟に行ってますが他はいると思います。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1573649372.006000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573649206.005300",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "ED6A11C2-FBA5-4F8F-AAFB-E27DB10ED67C",
+        "type": "message",
+        "text": "了解です。可能であれば明日お届けします。",
+        "user": "UKUKA65GU",
+        "ts": "1573649472.006800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573649206.005300",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a9908f3-2d26-42d5-9211-73267718d2a8",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 実はPC選定をしていましてタイムリーな話題でした。purchaseチャンネルで展開します。",
+        "user": "UPSPAMY7M",
+        "ts": "1573651078.008200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ceea18e-ebac-4248-a1c3-2e3e77d86723",
+        "type": "message",
+        "text": "TOEICの目標750と書いたけど、やっぱり目標にするなら850かな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1573677993.009100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "UKUKA65GU",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "UKH07E67M",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

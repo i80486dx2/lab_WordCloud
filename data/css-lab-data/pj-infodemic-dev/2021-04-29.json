@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "dbf68ff4-4d50-4405-9105-5f1d7382ed97",
+        "type": "message",
+        "text": "<@U01KC41PR9C> 連絡遅くなってすみません。やはり金曜までに出せないと振り込みが遅れるようで、取り付く島がない感じです。印刷して押印したものを携帯で撮って送ってもらえれば、明日私から提出できます。可能ならお願いします！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1619694637.043200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sq3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 連絡遅くなってすみません。やはり金曜までに出せないと振り込みが遅れるようで、取り付く島がない感じです。印刷して押印したものを携帯で撮って送ってもらえれば、明日私から提出できます。可能ならお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619503674.042200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "17493c07-195a-4275-92bf-98d4239075c1",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> わかりました！今からpdfを印刷してきます。出来次第先生に送りますので、お手数ですがよろしくお願いします:man-bowing:",
+        "user": "U01KC41PR9C",
+        "ts": "1619694803.043800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iq6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " わかりました！今からpdfを印刷してきます。出来次第先生に送りますので、お手数ですがよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1619503674.042200",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

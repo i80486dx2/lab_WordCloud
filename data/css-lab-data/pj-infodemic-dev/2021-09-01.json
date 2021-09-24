@@ -1,0 +1,128 @@
+[
+    {
+        "type": "message",
+        "text": "お疲れ様です。月が替わりましたので進捗の報告をいたします。\n\n現在、実働20時間でダウンローダーが動画のようになりました。\n技術スタックは、React+Typescript+Tailwind+MaterialUIです。\nまだデプロイはしていません（ビルド時、シンタックスハイライト用ライブラリでの問題があるため）\nコンポーネントを自作して対応予定です。\n\napiの修正は、8割がた終わっています。出来次第、v2としてHerokuへ公開予定です。\n残り2割はElasticsearchのクエリテンプレートと、ダウンローダ用エンドポイントです。\n\nまた進展があれば報告します。",
+        "files": [
+            {
+                "id": "F02D10VF24T",
+                "created": 1630480712,
+                "timestamp": 1630480712,
+                "name": "infodemic_downloader_2021-09-01.mp4",
+                "title": "infodemic_downloader_2021-09-01.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U01KC41PR9C",
+                "editable": false,
+                "size": 4199005,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02D10VF24T\/infodemic_downloader_2021-09-01.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02D10VF24T\/download\/infodemic_downloader_2021-09-01.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02D10VF24T-783b53f34b\/infodemic_downloader_2021-09-01_thumb_video.jpeg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_video_w": 1920,
+                "thumb_video_h": 1080,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01KC41PR9C\/F02D10VF24T\/infodemic_downloader_2021-09-01.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02D10VF24T-3d10821ccd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zAAP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。月が替わりましたので進捗の報告をいたします。\n\n現在、実働20時間でダウンローダーが動画のようになりました。\n技術スタックは、React+Typescript+Tailwind+MaterialUIです。\nまだデプロイはしていません（ビルド時、シンタックスハイライト用ライブラリでの問題があるため）\nコンポーネントを自作して対応予定です。\n\napiの修正は、8割がた終わっています。出来次第、v2としてHerokuへ公開予定です。\n残り2割はElasticsearchのクエリテンプレートと、ダウンローダ用エンドポイントです。\n\nまた進展があれば報告します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01KC41PR9C",
+        "display_as_bot": false,
+        "ts": "1630480840.009500",
+        "thread_ts": "1630480840.009500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1630481034.009800",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1630481034.009800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630481034.009800"
+    },
+    {
+        "client_msg_id": "8ac024a2-abd8-48be-a1f8-aaca47893c8d",
+        "type": "message",
+        "text": "<@U01KC41PR9C> なんだかすごいプロフェッショナル感あるUIですね！了解しました！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630481034.009800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "67P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なんだかすごいプロフェッショナル感あるUIですね！了解しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630480840.009500",
+        "parent_user_id": "U01KC41PR9C",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U01KC41PR9C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

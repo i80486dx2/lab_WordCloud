@@ -1,0 +1,235 @@
+[
+    {
+        "type": "message",
+        "text": "自分で作った仮想データに基づいてクラスタリングをしてみました。\n以下、グラフと簡単な説明資料",
+        "files": [
+            {
+                "id": "F01N34THRNW",
+                "created": 1613364734,
+                "timestamp": 1613364734,
+                "name": "network_sharecar.png",
+                "title": "network_sharecar.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 1120284,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01N34THRNW\/network_sharecar.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01N34THRNW\/download\/network_sharecar.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01N34THRNW-d3ede36dfb\/network_sharecar_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01N34THRNW-d3ede36dfb\/network_sharecar_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01N34THRNW-d3ede36dfb\/network_sharecar_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01N34THRNW-d3ede36dfb\/network_sharecar_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01N34THRNW-d3ede36dfb\/network_sharecar_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01N34THRNW-d3ede36dfb\/network_sharecar_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01N34THRNW-d3ede36dfb\/network_sharecar_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01N34THRNW-d3ede36dfb\/network_sharecar_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01N34THRNW-d3ede36dfb\/network_sharecar_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 2880,
+                "original_h": 2880,
+                "thumb_tiny": "AwAwADDOijaaQIgyx6VY\/s65\/uD\/AL6FJp3\/AB\/R\/j\/Kt2gDD\/s65\/uD\/voUf2dc\/wBwf99CtvvS0AYf9nXP9wf99CoZ4JIGCyDBIz1zXRVkav8A8fCf7v8AWgCHTv8Aj+j\/AB\/lW5WHp3\/H9H+P8q3TQBGzDoTilVuOetIw46ZNKBQA6snV\/wDj4T\/d\/rWvWRq\/\/Hwn+5\/WgCHTv+P6P8f5VumubjkaJw6HDDoan\/tC6\/56f+OigDcorD\/tC6\/56f8Ajoo\/tC6\/56f+OigDdrI1f\/j4T\/d\/rUP9oXX\/AD0\/8dFRTTyTsGkbcQMdKAP\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01N34THRNW\/network_sharecar.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01N34THRNW-139f4130f5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PoKuN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分で作った仮想データに基づいてクラスタリングをしてみました。\n以下、グラフと簡単な説明資料"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "display_as_bot": false,
+        "ts": "1613364785.007400",
+        "edited": {
+            "user": "UPRE1RSJW",
+            "ts": "1613370136.000000"
+        },
+        "thread_ts": "1613364785.007400",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1614302657.000900",
+        "reply_users": [
+            "UQ47R82RW",
+            "UPRE1RSJW",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1613370003.007700"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1613370094.007900"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1613722191.008500"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1613722831.008700"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1613725130.008900"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1614173259.000100"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1614227768.000300"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1614302388.000500"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1614302615.000700"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1614302657.000900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "41a0b7e5-e5d0-4c07-83d9-3b933f784ff4",
+        "type": "message",
+        "text": "共有設定変えてもらってもいい？\nurlから飛んでも閲覧許可もらうような形で見れない。",
+        "user": "UQ47R82RW",
+        "ts": "1613370003.007700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yuQ8n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "共有設定変えてもらってもいい？\nurlから飛んでも閲覧許可もらうような形で見れない。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613364785.007400",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb0a507c-064c-407d-b065-3ebadaf81647",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/presentation\/d\/1qwxP4oq2avL3epA6U4R-lZInjNU7MbNy4useF_vUScU\/edit?usp=sharing>",
+        "user": "UPRE1RSJW",
+        "ts": "1613370094.007900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b06he",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1qwxP4oq2avL3epA6U4R-lZInjNU7MbNy4useF_vUScU\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613364785.007400",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

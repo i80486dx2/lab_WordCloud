@@ -1,0 +1,174 @@
+[
+    {
+        "client_msg_id": "927bce02-9786-4cc4-b7db-c6f02f8b37df",
+        "type": "message",
+        "text": "<https:\/\/tokyochallenge.odpt.org\/>\n「第4回 東京公共交通オープンデータチャレンジ」面白そうだね。\n応募期間：2019年11月18日（月）～2020年10月15日（木）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1574244739.008600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1574244831.000000"
+        },
+        "thread_ts": "1574244739.008600",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1574339452.015600",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1574258439.010300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1574306560.010600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1574320735.012000"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1574339452.015600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1574339452.015600",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UKH07E67M",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36412E3D-4888-4240-8580-051B4368AAE4",
+        "type": "message",
+        "text": "面白そうです。これ毎年やってるんですね。てっきり今年だけかと思ってました",
+        "user": "UKH07E67M",
+        "ts": "1574258439.010300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574244739.008600",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "380f85d8-d6be-4bec-8c2b-d9ebc616063c",
+        "type": "message",
+        "text": "これがすごすぎる。\n<https:\/\/nagix.github.io\/mini-tokyo-3d\/#14\/35.6814\/139.767\/0\/60>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1574306560.010600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Mini Tokyo 3D",
+                "title_link": "https:\/\/nagix.github.io\/mini-tokyo-3d\/#14\/35.6814\/139.767\/0\/60",
+                "text": "A real-time 3D digital map of Tokyo's public transport system. This data visualization was produced by Akihiko Kusanagi.",
+                "fallback": "Mini Tokyo 3D",
+                "image_url": "https:\/\/nagix.github.io\/mini-tokyo-3d\/images\/screenshot1.jpg",
+                "from_url": "https:\/\/nagix.github.io\/mini-tokyo-3d\/#14\/35.6814\/139.767\/0\/60",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 976790,
+                "service_icon": "https:\/\/nagix.github.io\/favicon.ico",
+                "service_name": "nagix.github.io",
+                "id": 1,
+                "original_url": "https:\/\/nagix.github.io\/mini-tokyo-3d\/#14\/35.6814\/139.767\/0\/60"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EFXPE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これがすごすぎる。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nagix.github.io\/mini-tokyo-3d\/#14\/35.6814\/139.767\/0\/60"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1574244739.008600",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "12CC9E7B-F5FB-4631-B112-56A12A564EF1",
+        "type": "message",
+        "text": "え、これを作ったんですか……？\nグーグルマップより見やすいです。(用途は違いそう)",
+        "user": "UKH07E67M",
+        "ts": "1574320735.012000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1574244739.008600",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "7f29a9db-d2fa-4f21-87cb-28ccdc932129",
+        "type": "message",
+        "text": "<!channel> 一昨日のシェアカーについての取材の件ですが、テレビ放映は本日の１８：１４頃から福島テレビのテレポートプラスにて放映予定との連絡がありました。ちょっとした特集にするため編集に時間が掛かって延期になったとのことです。",
+        "user": "UPSPAMY7M",
+        "ts": "1576108514.017500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ko87",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 一昨日のシェアカーについての取材の件ですが、テレビ放映は本日の１８：１４頃から福島テレビのテレポートプラスにて放映予定との連絡がありました。ちょっとした特集にするため編集に時間が掛かって延期になったとのことです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

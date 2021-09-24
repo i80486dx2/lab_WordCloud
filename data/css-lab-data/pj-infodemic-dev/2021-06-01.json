@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "e1cd87bb-958c-4ca7-ae0e-1b8d07abf3fd",
+        "type": "message",
+        "text": "旧データのUMAP+infomap結果に対し、wind mapもどきの可視化をしてみました。\n[実際に wind mapみたいなものを作るとなると、データ整形方法がわからないので諦めた]\n\n<https:\/\/www.notion.so\/UMAP-wind-map-75fac1de65e84276b2d8fad2664c58d5>",
+        "user": "UPSPAP97D",
+        "ts": "1622611777.051800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Murakami's Notion on Notion",
+                "title": "一番古いデータでのUMAP位置 wind map",
+                "title_link": "https:\/\/www.notion.so\/UMAP-wind-map-75fac1de65e84276b2d8fad2664c58d5",
+                "text": "関連分析:",
+                "fallback": "Murakami's Notion on Notion: 一番古いデータでのUMAP位置 wind map",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd051be9e-751c-4cce-9883-5a559e1ef1fa%2Fv2.0_text.png?table=block&id=d82850a5-34eb-46b9-a5e7-5595251a1f7e&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/UMAP-wind-map-75fac1de65e84276b2d8fad2664c58d5",
+                "image_width": 485,
+                "image_height": 250,
+                "image_bytes": 52675,
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/UMAP-wind-map-75fac1de65e84276b2d8fad2664c58d5"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "73vY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "旧データのUMAP+infomap結果に対し、wind mapもどきの可視化をしてみました。\n[実際に wind mapみたいなものを作るとなると、データ整形方法がわからないので諦めた]\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/UMAP-wind-map-75fac1de65e84276b2d8fad2664c58d5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "6205c8f5-1dc1-4ae5-8ffe-0d1f7cfca774",
+        "type": "message",
+        "text": "<@UPSPAP97D> 笑った。面白いね！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622611957.052100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2la=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 笑った。面白いね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "85a0051e-f793-44ec-bccc-395619c49f7a",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 動いてると面白いですよね！\nけど、notionで書いてある部分を直しても、可視化として結局わからない結果になりそうですけどね…。(大規模データなので仕方がないとは思うが)",
+        "user": "UPSPAP97D",
+        "ts": "1622612694.052300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2XbW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 動いてると面白いですよね！\nけど、notionで書いてある部分を直しても、可視化として結局わからない結果になりそうですけどね…。(大規模データなので仕方がないとは思うが)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621414081.027300",
+        "parent_user_id": "UPSPAP97D"
+    }
+]

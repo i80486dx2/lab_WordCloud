@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "ee507a1f-6402-4d76-b61d-da743188d9d7",
+        "type": "message",
+        "text": "次回の輪講は3\/6(金曜)10:30~で行います\n以下が担当の輪講箇所になります。\n\n<@UKH07E67M>: 6-1~6-2のDegree Dynamicsの前まで\n<@UKUKA65GU>: 6-2のDegree Dynamics~6-2の最後まで\n<@UPSPAP97D>:6-3の始めから~6-3のThe Fitness of a Scientific Publicationの前まで\n<@UQ47R82RW> 6-3のThe Fitness of a Scientific Publicationから6-3の最後まで",
+        "user": "UQ47R82RW",
+        "ts": "1582961171.011400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E1l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次回の輪講は3\/6(金曜)10:30~で行います\n以下が担当の輪講箇所になります。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": 6-1~6-2のDegree Dynamicsの前まで\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": 6-2のDegree Dynamics~6-2の最後まで\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":6-3の始めから~6-3のThe Fitness of a Scientific Publicationの前まで\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 6-3のThe Fitness of a Scientific Publicationから6-3の最後まで"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UKUKA65GU",
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

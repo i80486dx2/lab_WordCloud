@@ -1,0 +1,215 @@
+[
+    {
+        "client_msg_id": "0d0c931f-ac65-49b4-97d3-a33b84f4b90f",
+        "type": "message",
+        "text": "単なる興味ですが、この前見せてくれた全文検索でヒットしたツイートを表示するAPIはないんでしたっけ？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618310416.028200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrH04",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "単なる興味ですが、この前見せてくれた全文検索でヒットしたツイートを表示するAPIはないんでしたっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220927.027100",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "c51fc3e5-388a-40d6-adfb-55834f3b3083",
+        "type": "message",
+        "text": "↑ハッシュタグではなく、という意味",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618310441.028400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+DaZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑ハッシュタグではなく、という意味"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220927.027100",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "4f688436-6fd1-4b3d-8e27-1b02a27190f2",
+        "type": "message",
+        "text": "ハッシュタグをパラメータとするAPIは全文検索を使用しています。\nその為、\"マスク\"と検索した場合、「マスク」だけでなく「マスク7000枚」等のハッシュタグしかないツイートもヒットしてしまいます。",
+        "user": "U01KC41PR9C",
+        "ts": "1618312440.028600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ハッシュタグをパラメータとするAPIは全文検索を使用しています。\nその為、\"マスク\"と検索した場合、「マスク」だけでなく「マスク7000枚」等のハッシュタグしかないツイートもヒットしてしまいます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220927.027100",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "2df65878-83c8-402d-bc49-5b0b2943bc93",
+        "type": "message",
+        "text": "ツイート本文のプロトタイプはありますが、まだHerokuにあげていないです。",
+        "user": "U01KC41PR9C",
+        "ts": "1618312551.028800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EWqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ツイート本文のプロトタイプはありますが、まだHerokuにあげていないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220927.027100",
+        "parent_user_id": "U01KC41PR9C"
+    },
+    {
+        "client_msg_id": "00b874ca-2c54-4b6e-b482-3dc9d462c231",
+        "type": "message",
+        "text": "<@U01KC41PR9C> あ、なるほど。いまのところハッシュタグに対する全文検索ということですね。大丈夫です。了解！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618313753.029000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QDmhI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " あ、なるほど。いまのところハッシュタグに対する全文検索ということですね。大丈夫です。了解！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618220927.027100",
+        "parent_user_id": "U01KC41PR9C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

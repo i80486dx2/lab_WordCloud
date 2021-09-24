@@ -1,0 +1,1465 @@
+[
+    {
+        "client_msg_id": "b7e5fa60-0b53-44e7-9e14-e1638b56693d",
+        "type": "message",
+        "text": "Seven luck god isn’t always together out of the ship.",
+        "user": "UKH07E67M",
+        "ts": "1620284446.310200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k4D+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seven luck god isn’t always together out of the ship."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620273881.307800"
+    },
+    {
+        "client_msg_id": "2e00fed1-2c9c-44bc-9241-9ce019364073",
+        "type": "message",
+        "text": "`Seven luck god isn't always together out of the ship.`\n七福神はいつも一緒に船の外にいるわけではない。\n• 翻訳かけてから　alwaysにnotかかっていることに気づいた。いつも副詞にnotとかかけてしまう癖がある。一度書いた文を見返す時に確認すべきものだ。\n• 常に別行動ならalwaysがいらなかっただけか\n• Seven luck god isn’t together out of the ship.\n• 七福神は一緒に船から出ていません。\n• out of だと外に、outside of だと外でで意味が異なるから、always抜いてもダメだった\n• <https:\/\/oshiete.goo.ne.jp\/qa\/4668853.html> \n• separateは完全に思いつかなかった",
+        "user": "UKH07E67M",
+        "ts": "1620284769.310400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1620284836.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "教えて！goo",
+                "title": "outsideとoutの違いは？",
+                "title_link": "https:\/\/oshiete.goo.ne.jp\/qa\/4668853.html",
+                "text": "outsideは前置詞の意味があるので単体でも「～の外で，～の外に」のような意味があると思います．The lion came out of the forest.「そのライオンは森から出てきた．」のように動きを表す動詞のときはout ofだと... - TOEFL・TOEIC・英語検定 解決済 | 教えて！goo",
+                "fallback": "教えて！goo: outsideとoutの違いは？",
+                "thumb_url": "https:\/\/oshiete.xgoo.jp\/images\/sp\/qa_recommend\/2108_3.jpg",
+                "from_url": "https:\/\/oshiete.goo.ne.jp\/qa\/4668853.html",
+                "thumb_width": 160,
+                "thumb_height": 160,
+                "service_icon": "http:\/\/oshiete.goo.ne.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/oshiete.goo.ne.jp\/qa\/4668853.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MGk9E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seven luck god isn't always together out of the ship.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n七福神はいつも一緒に船の外にいるわけではない。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "翻訳かけてから　alwaysにnotかかっていることに気づいた。いつも副詞にnotとかかけてしまう癖がある。一度書いた文を見返す時に確認すべきものだ。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "常に別行動ならalwaysがいらなかっただけか"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Seven luck god isn’t together out of the ship."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "七福神は一緒に船から出ていません。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "out of だと外に、outside of だと外でで意味が異なるから、always抜いてもダメだった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/oshiete.goo.ne.jp\/qa\/4668853.html"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "separateは完全に思いつかなかった"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620276593.308300",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "2814ae8d-7ce1-4202-8166-52968dbe8ae3",
+        "type": "message",
+        "text": "Kiki, Have you brought out my father’s radio?",
+        "user": "UPSPAP97D",
+        "ts": "1620306413.310800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gQpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kiki, Have you brought out my father’s radio?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620228778.301800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "cfb3a9a1-90d3-464c-b32f-3b4978cd41f4",
+        "type": "message",
+        "text": "`Kiki, Have you brought out my father's radio?`\n• 『again』忘れてた…\n• そういえば、主人公がキキだった。(なぜか、黒猫が器用にラジオ持ち出していると想像してしまった…)\n• 「今も持ち出している状態」を表せるかと思って 過去完了にしたけど、失敗だった。\n• 『have』は小文字でよかった…",
+        "user": "UPSPAP97D",
+        "ts": "1620307033.311000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1620307210.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cds",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kiki, Have you brought out my father's radio?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『again』忘れてた…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "そういえば、主人公がキキだった。(なぜか、黒猫が器用にラジオ持ち出していると想像してしまった…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「今も持ち出している状態」を表せるかと思って 過去完了にしたけど、失敗だった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『have』は小文字でよかった…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620228778.301900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "61a4abf9-d03e-488c-b73b-880976a35cfb",
+        "type": "message",
+        "text": "Shitifukujin are always solo activities out of a vessel.",
+        "user": "UPSPAP97D",
+        "ts": "1620307560.311400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4fL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shitifukujin are always solo activities out of a vessel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620273881.307800"
+    },
+    {
+        "client_msg_id": "0dd32078-ee57-4983-8942-b2ada89d63f4",
+        "type": "message",
+        "text": "`Shitifukujin are always solo activities out of a vessel.`\nDeepL「下福神はいつも器から出てソロ活動をしています。」\n\n• 『are』で繋げるのは誤解を生み出しそう… (「七福神」 自体が sole activies的な)\n• まさかの『ship』をど忘れした。代わりに (最近覚えた)「船舶」とも訳せる『vessel』にしたが… 規模がなぁ\n<https:\/\/www.pre-eikaiwa.com\/similar-64\/|船単語の規模感>\n• 「別行動」は『separate ways』。separate は考えつかなかった。\n• 船は（彼らの私物など）明確だったので、『a』ではない。\n• 「七福神」は日本の神だからそのままでいいと思ったが、ダメだった…『Seven Lucky Gods』\n• (気持ち 囲われてない板状の)乗り物だから「〜から外へ」は『off』が適切？\nそして、DeepL訳が一番ひどかった…",
+        "user": "UPSPAP97D",
+        "ts": "1620308755.311600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1620311116.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "英会話教材を買う前に",
+                "title": "「船」を表す boat, ship, vessel の違い",
+                "title_link": "https:\/\/www.pre-eikaiwa.com\/similar-64\/",
+                "text": "boat、ship、vesselは「船」を意味する英単語で、基本的に船の大きさや運行する場所などで使い方が変化します。",
+                "fallback": "英会話教材を買う前に: 「船」を表す boat, ship, vessel の違い",
+                "image_url": "https:\/\/www.pre-eikaiwa.com\/wp\/wp-content\/uploads\/2016\/02\/icon-84.jpg",
+                "ts": 1454911200,
+                "from_url": "https:\/\/www.pre-eikaiwa.com\/similar-64\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 22642,
+                "service_icon": "https:\/\/www.pre-eikaiwa.com\/wp\/wp-content\/themes\/cocoon-master\/images\/site-icon180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.pre-eikaiwa.com\/similar-64\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWAf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shitifukujin are always solo activities out of a vessel.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "DeepL「下福神はいつも器から出てソロ活動をしています。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『are』で繋げるのは誤解を生み出しそう… (「七福神」 自体が sole activies的な)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "まさかの『ship』をど忘れした。代わりに (最近覚えた)「船舶」とも訳せる『vessel』にしたが… 規模がなぁ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pre-eikaiwa.com\/similar-64\/",
+                                "text": "船単語の規模感"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「別行動」は『separate ways』。separate は考えつかなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "船は"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "（"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "彼らの私物な"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ど）"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "明確だった"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ので、『a』ではない。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「七福神」は日本の神だからそのままでいいと思ったが、ダメだった…『Seven Lucky Gods』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(気持ち 囲われてない板状の)乗り物だから「〜から外へ」は『off』が適切？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nそして、DeepL訳が一番ひどかった…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620276593.308300",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "ひげがビリビリする！（ジジ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1620315177.312500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1620315177.312500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1620607693.335200",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1620346197.312900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620350429.313600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620607693.335200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620607693.335200"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：ひげがビリビリする！",
+        "user": "U01UMQH4W4B",
+        "ts": "1620315178.312600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1620315178.312600",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1620608453.335400",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1620315178.312700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1620346351.313100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620350909.313800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1620368066.314700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620608453.335400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620608453.335400"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "My whiskers are tingling.",
+        "user": "U01UMQH4W4B",
+        "ts": "1620315178.312700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1620315178.312600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "41760739-5c29-4d27-9b73-3ea69e7c9d3b",
+        "type": "message",
+        "text": "My under hair is doing biribiri!",
+        "user": "UKH07E67M",
+        "ts": "1620346197.312900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XwN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My under hair is doing biribiri!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620315177.312500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "2f682aeb-8d85-40cd-85ec-1012457aab1a",
+        "type": "message",
+        "text": "`My under hair is doing biribiri!`\nアンダーヘアがビリビリになっている！？\n• 髭：whiskers\n•  ビリビリ：tingling\n• 髭は不可算名詞だろぉ…\n• <https:\/\/eow.alc.co.jp\/search?q=tingling>\n• ビリビリの表現はelectric shockとか\n• get electrocutedでも良いかも",
+        "user": "UKH07E67M",
+        "ts": "1620346351.313100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1620346492.000000"
+        },
+        "attachments": [
+            {
+                "title": "tinglingの意味・使い方",
+                "title_link": "https:\/\/eow.alc.co.jp\/search?q=tingling",
+                "text": "tingling 【名】うずき、チクチク［ヒリヒリ］する痛み、ヒリヒリ感、チクチク感・Numbness and tingling b... - アルクがお届けするオンライン英和・和英辞書検索サービス。",
+                "fallback": "tinglingの意味・使い方",
+                "image_url": "https:\/\/eow.alc.co.jp\/content\/579\/img\/PromoImage.png",
+                "from_url": "https:\/\/eow.alc.co.jp\/search?q=tingling",
+                "image_width": 512,
+                "image_height": 250,
+                "image_bytes": 126218,
+                "service_icon": "https:\/\/eow.alc.co.jp\/favicon.ico",
+                "service_name": "eow.alc.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/eow.alc.co.jp\/search?q=tingling"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My under hair is doing biribiri!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nアンダーヘアがビリビリになっている！？\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "髭：whiskers"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " ビリビリ：tingling"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "髭は不可算名詞だろぉ…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eow.alc.co.jp\/search?q=tingling"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ビリビリの表現はelectric shockとか"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "get electrocutedでも良いかも"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620315178.312600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "ed8797a4-ea08-45b0-88be-01f90819b6a4",
+        "type": "message",
+        "text": "My whiskers are electrolyzed!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620350429.313600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P6qY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My whiskers are electrolyzed!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620315177.312500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "5a02a63e-ab1b-4a73-a37d-e215eff2a2ec",
+        "type": "message",
+        "text": "`My whiskers are electrolyzed!`\nDeepL「私のヒゲは電解されています。」\n\n• 「ヒリヒリ、ピリピリ、ゾクゾク感 = tingling」了。\n• 「感電する」は (electrically) shocked。\n• <@UKH07E67M> electrocuted は「感電死する」という訳が多いが、どうなんだろう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620350909.313800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+x=cr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My whiskers are electrolyzed!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「私のヒゲは電解されています。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「ヒリヒリ、ピリピリ、ゾクゾク感 = tingling」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「感電する」は (electrically) shocked。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "UKH07E67M"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " electrocuted は「感電死する」という訳が多いが、どうなんだろう。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620315178.312600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1620355787.314000",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1620355787.314000",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1628664565.040900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "U01EP839LHH",
+            "U01EVRBP38C",
+            "UPSPAP97D",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620365045.314100"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1620368686.314900"
+            },
+            {
+                "user": "U01EP839LHH",
+                "ts": "1620386849.315400"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1620463586.325200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620609038.335800"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1628664565.040900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1628664565.040900",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「自分の本当の気持ちを伝えることで今までの関係が壊れてしまうのが怖いので、被告人を無罪とする」 <https:\/\/pbs.twimg.com\/media\/E0wK7a5VEAMoA8o.jpg>",
+                "ts": 1620355781,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1390499045156687872",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1390499045156687872>",
+                "text": "「自分の本当の気持ちを伝えることで今までの関係が壊れてしまうのが怖いので、被告人を無罪とする」 <https:\/\/pbs.twimg.com\/media\/E0wK7a5VEAMoA8o.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1390499045156687872",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E0wK7a5VEAMoA8o.jpg",
+                "image_width": 400,
+                "image_height": 600,
+                "image_bytes": 80338,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "71310092-546e-40f8-a139-38018c424e90",
+        "type": "message",
+        "text": "I'm afraid that our relationship would get broken by telling my true heart. So, I find the defendant innocent.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620365045.314100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W6+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm afraid that our relationship would get broken by telling my true heart. So, I find the defendant innocent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620355787.314000"
+    },
+    {
+        "client_msg_id": "0894e387-e29f-465b-ab3f-ea19798e9da7",
+        "type": "message",
+        "text": "反省会：自分の本当の気持ちを伝えることで今までの関係が壊れてしまうのが怖いので、被告人を無罪とする",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620365085.314400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d5xh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：自分の本当の気持ちを伝えることで今までの関係が壊れてしまうのが怖いので、被告人を無罪とする"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620365085.314400",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1628665367.041100",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "U01EP839LHH",
+            "U01EVRBP38C",
+            "UPSPAP97D",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620365415.314500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1620370219.315100"
+            },
+            {
+                "user": "U01EP839LHH",
+                "ts": "1620387284.315600"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1620464034.327700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620610950.336000"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1628665367.041100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1628665367.041100"
+    },
+    {
+        "client_msg_id": "109117bb-7a21-4b62-96ae-05c93d2b52c5",
+        "type": "message",
+        "text": "`I'm afraid that our relationship would get broken by telling my true heart. So, I find the defendant innocent.`\nDeepL「本音を言うことで二人の関係が壊れてしまうのが怖い。だから、私は被告人を無罪とします。」\n\n• 裁判での無罪宣告は一般に innocent ではなく not guilty らしい。なぜなら有罪を立証できない意味での無罪だからとのこと。\n• be afraid of confessing ... and ruining ... で「告白することで壊してしまうことを恐れる」という構文はナチュラルだなぁ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620365415.314500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A2c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm afraid that our relationship would get broken by telling my true heart. So, I find the defendant innocent.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「本音を言うことで二人の関係が壊れてしまうのが怖い。だから、私は被告人を無罪とします。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "裁判での無罪宣告は一般に innocent ではなく not guilty らしい。なぜなら有罪を立証できない意味での無罪だからとのこと。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "be afraid of confessing ... and ruining ... で「告白することで壊してしまうことを恐れる」という構文はナチュラルだなぁ。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620365085.314400",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01EVRBP38C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d59382c5-b3be-4a68-94f8-08a6a9f8d007",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> electrocutedはその通りでした。感電死に使われていました。",
+        "user": "UKH07E67M",
+        "ts": "1620368066.314700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oyNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " electrocutedはその通りでした。感電死に使われていました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620315178.312600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "94bcdc52-1f56-4f43-9581-d969ae0c47c7",
+        "type": "message",
+        "text": "I’m afraid possibility that I tell my true and my network is broken, I define you aren’t guilty.",
+        "user": "UKH07E67M",
+        "ts": "1620368686.314900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rp8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m afraid possibility that I tell my true and my network is broken, I define you aren’t guilty."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620355787.314000"
+    },
+    {
+        "client_msg_id": "c407cdfb-3330-43ef-b63f-89b49de45172",
+        "type": "message",
+        "text": "`I'm afraid possibility that I tell my true and my network is broken, I define you aren't guilty.`\n本当のことを言って、ネットワークが壊れる可能性が怖いので、無罪にします。\n• true -&gt; truth　文法：形容詞-&gt;名詞\n• 過去形なのこれ…\n• 日本語文考えた時にpossibility入れようと決めたけど、改めて文読んでみると間違ってる気がしないでもない\n• confess 告白　昔読んだ英単語長に書いてあった\n• 本心　true feelings\n• confess ~ to ~\n• ruin 破滅する　滅ぼす　名詞動詞\n• defendant思い出せなかった。\n• <https:\/\/ejje.weblio.jp\/content\/find+guilty> ",
+        "user": "UKH07E67M",
+        "ts": "1620370219.315100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "find guilty - Weblio 英和・和英辞典",
+                "title_link": "https:\/\/ejje.weblio.jp\/content\/find+guilty",
+                "text": "1173万語収録！weblio辞書で英語学習",
+                "fallback": "find guilty - Weblio 英和・和英辞典",
+                "from_url": "https:\/\/ejje.weblio.jp\/content\/find+guilty",
+                "service_icon": "https:\/\/weblio.hs.llnwd.net\/e7\/img\/favicon\/ejje\/safari\/apple-touch-icon.png",
+                "service_name": "ejje.weblio.jp",
+                "id": 1,
+                "original_url": "https:\/\/ejje.weblio.jp\/content\/find+guilty"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u5u=X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm afraid possibility that I tell my true and my network is broken, I define you aren't guilty.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n本当のことを言って、ネットワークが壊れる可能性が怖いので、無罪にします。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "true -> truth　文法：形容詞->名詞"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "過去形なのこれ…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "日本語文考えた時にpossibility入れようと決めたけど、改めて文読んでみると間違ってる気がしないでもない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "confess 告白　昔読んだ英単語長に書いてあった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "本心　true feelings"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "confess ~ to ~"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ruin 破滅する　滅ぼす　名詞動詞"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "defendant思い出せなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/ejje.weblio.jp\/content\/find+guilty"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620365085.314400",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

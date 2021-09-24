@@ -1,0 +1,152 @@
+[
+    {
+        "client_msg_id": "d6652dd8-281f-49db-a9f2-44faa035ad2c",
+        "type": "message",
+        "text": "唐突だけどキャッチボール好きな人いませんか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1585673397.000400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7BaR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "唐突だけどキャッチボール好きな人いませんか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D202943D-C9DA-4743-84AE-B1EB7D7B2CF7",
+        "type": "message",
+        "text": "下手ですが大好きです",
+        "user": "UKUKA65GU",
+        "ts": "1585673667.000800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tRc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "下手ですが大好きです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585673667.000800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586697931.000500",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1585675234.000900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1586696432.000100"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1586697931.000500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1586703368.000452"
+    },
+    {
+        "client_msg_id": "97bf9682-d32c-4030-a977-8626ccd6c0df",
+        "type": "message",
+        "text": "じゃあ今度グローブ買ってくるのでちょっとやってみよう。遠投がしたい。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1585675234.000900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDsy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃあ今度グローブ買ってくるのでちょっとやってみよう。遠投がしたい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585673667.000800",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

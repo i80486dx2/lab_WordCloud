@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "73d038a0-aea0-4f49-b95e-626fc0603a37",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01EV766AH2> <@U01F31EEVNV> <@U01EPKVACEN> <@U01EP8BUKQT>\n皆さんお疲れ様です。来週予定していた輪講ですが、夏休みは３年生でインターンシップもありますし、４年生は中間発表に向けて研究進捗させて欲しいので１０月まで延期とします。また近くなったら連絡するのでよろしくお願いします。",
+        "user": "UPSPAMY7M",
+        "ts": "1629181759.009600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAMY7M",
+            "ts": "1629209331.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jDQeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n皆さんお疲れ様です。来週予定していた輪講ですが、夏休みは３年生でインターンシップもありますし、４年生は中間発表に向けて研究進捗させて欲しいので１０月まで延期とします。また近くなったら連絡するのでよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628141060.003900",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EPKVACEN",
+                    "U01EP8BUKQT"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

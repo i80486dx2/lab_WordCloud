@@ -1,0 +1,377 @@
+[
+    {
+        "type": "message",
+        "text": "提案なんですけどGoogleフォームで管理するのはどうですか？QRコードで読み取って自分の名前を入力するだけで完了します。利用回数はスプレッドシート管理できます。ちなみにタイプスタンプがついてるので色々解析も出来るかもしれないです。",
+        "files": [
+            {
+                "id": "F02EW75AQKS",
+                "created": 1631516714,
+                "timestamp": 1631516714,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 1462590,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02EW75AQKS\/ios__________.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02EW75AQKS\/download\/ios__________.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02EW75AQKS-54060007ab\/ios___________64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02EW75AQKS-54060007ab\/ios___________80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02EW75AQKS-54060007ab\/ios___________360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02EW75AQKS-54060007ab\/ios___________480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02EW75AQKS-54060007ab\/ios___________160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02EW75AQKS-54060007ab\/ios___________720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02EW75AQKS-54060007ab\/ios___________800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02EW75AQKS-54060007ab\/ios___________960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02EW75AQKS-54060007ab\/ios___________1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "thumb_tiny": "AwAwABa8JlyQDk\/Q0huFBwWA\/A0gDAYAXHXvQ8byheQNpzS1GOSaNj8rA\/SneYKh8ood2FH0paAJV6Dg9Kd+B\/Omqy4AyucUu5fUUxDZPujio6kkIKjBqOkMaI1Dbgoz607Df3ak8pQOpxQNvZ\/pzQFyPBHUYoqUpnqTR5Q9TQB\/\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F02EW75AQKS\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02EW75AQKS-b72f04e641",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02DRSFC6B1",
+                "created": 1631516715,
+                "timestamp": 1631516715,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 441107,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02DRSFC6B1\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02DRSFC6B1\/download\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DRSFC6B1-285c14e897\/ios___________64.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DRSFC6B1-285c14e897\/ios___________80.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DRSFC6B1-285c14e897\/ios___________360.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DRSFC6B1-285c14e897\/ios___________480.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DRSFC6B1-285c14e897\/ios___________160.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DRSFC6B1-285c14e897\/ios___________720.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DRSFC6B1-285c14e897\/ios___________800.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DRSFC6B1-285c14e897\/ios___________960.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02DRSFC6B1-285c14e897\/ios___________1024.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACR90PlH1q0qIVHyr09KgmXcgxVgfLGPYUkMaIo1GAg\/Kqd4AJQAAOKtpLvzxjFU7s\/vvwFAEFFFFAzRc4XNSF8ADAxioLg4iNCsZYfmPJGOlBLHGTHQCqdxkyZqcBYYyN2fwqvMTxnHI7UAhlFMooGX5z+5akgOYV56MaSb\/Ut9KiinWOPBznPagCVwSpwAT2FQXJ5X6UrXWei\/magkkaQ5OKBCZozTaKBn\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F02DRSFC6B1\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02DRSFC6B1-ed3dca45b4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6=c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "提案なんですけどGoogleフォームで管理するのはどうですか？QRコードで読み取って自分の名前を入力するだけで完了します。利用回数はスプレッドシート管理できます。ちなみにタイプスタンプがついてるので色々解析も出来るかもしれないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1631516831.017600",
+        "edited": {
+            "user": "UPRE1RSJW",
+            "ts": "1631516965.000000"
+        },
+        "client_msg_id": "D4F57E24-A99D-43D6-B148-C74C4D0E8F75",
+        "thread_ts": "1631507047.014100",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "74763c07-74ef-4f7c-bfed-02c4333f6d9b",
+        "type": "message",
+        "text": "フォーム\n<https:\/\/docs.google.com\/forms\/d\/1QB2uKvznmG5KN55bWNHSWMpr_zxeIus5SD03J1cA7S4\/viewform?edit_requested=true>\nスプレッドシート\n<https:\/\/docs.google.com\/spreadsheets\/d\/1lNBkQBPSQ-PPONvPRYZ7rt-lPxyxDD5983DNYzcV0wc\/edit?resourcekey#gid=1602403458>",
+        "user": "UPRE1RSJW",
+        "ts": "1631516859.018200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPRE1RSJW",
+            "ts": "1631516947.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GUeeG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フォーム\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/1QB2uKvznmG5KN55bWNHSWMpr_zxeIus5SD03J1cA7S4\/viewform?edit_requested=true"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nスプレッドシート\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1lNBkQBPSQ-PPONvPRYZ7rt-lPxyxDD5983DNYzcV0wc\/edit?resourcekey#gid=1602403458"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631507047.014100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UKH07E67M",
+                    "UKS1Q2KTQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c8229d4-a5a2-43ef-9be0-0ef2cf92e60a",
+        "type": "message",
+        "text": "アプリ便利すぎ:gorilla:",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631522999.018900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/XFx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アプリ便利すぎ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "gorilla"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631507047.014100",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "ad186762-4e86-4484-9732-60f9bf66a4c4",
+        "type": "message",
+        "text": "データがたまったら、点過程（イベント時系列）として分析してみよう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631523285.019300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+\/Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "データがたまったら、点過程（イベント時系列）として分析してみよう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631507047.014100",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "type": "message",
+        "text": "ちなみに簡単なダッシュボードはグーグルフォームに標準装備です！",
+        "files": [
+            {
+                "id": "F02E70DPQN6",
+                "created": 1631523332,
+                "timestamp": 1631523332,
+                "name": "スクリーンショット 2021-09-13 17.55.29.png",
+                "title": "スクリーンショット 2021-09-13 17.55.29.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 138409,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02E70DPQN6\/____________________________2021-09-13_17.55.29.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02E70DPQN6\/download\/____________________________2021-09-13_17.55.29.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02E70DPQN6-a260e3b342\/____________________________2021-09-13_17.55.29_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02E70DPQN6-a260e3b342\/____________________________2021-09-13_17.55.29_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02E70DPQN6-a260e3b342\/____________________________2021-09-13_17.55.29_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 237,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02E70DPQN6-a260e3b342\/____________________________2021-09-13_17.55.29_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 316,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02E70DPQN6-a260e3b342\/____________________________2021-09-13_17.55.29_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02E70DPQN6-a260e3b342\/____________________________2021-09-13_17.55.29_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 474,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02E70DPQN6-a260e3b342\/____________________________2021-09-13_17.55.29_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 526,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02E70DPQN6-a260e3b342\/____________________________2021-09-13_17.55.29_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 632,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02E70DPQN6-a260e3b342\/____________________________2021-09-13_17.55.29_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 674,
+                "original_w": 1638,
+                "original_h": 1078,
+                "thumb_tiny": "AwAfADC+gyo5xTwuOpz+FMTO0YpwBoAdgegowPSkwfWjB9aADA9KQ\/Tr7dKXB9aQg460AEf3KjuZfKjyDgk4zTkcKuDSSeXKm1s4oQFaG4bzFBYsCcc1db7pqtFDFE2csxHTNT+YtN26DFT7tOPQ0wOoFBkXFIR\/\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F02E70DPQN6\/____________________________2021-09-13_17.55.29.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02E70DPQN6-a8072483f8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sx6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちなみに簡単なダッシュボードはグーグルフォームに標準装備です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "display_as_bot": false,
+        "ts": "1631523362.019500",
+        "thread_ts": "1631507047.014100",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

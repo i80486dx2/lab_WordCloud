@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "8963b724-2a3f-4d4d-af98-f83636456c0a",
+        "type": "message",
+        "text": "大学に来たら蒼紫君がいたのでキャッチボールしてみた。思ったより楽しいかも。30分で汗だくになった。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1586696432.000100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大学に来たら蒼紫君がいたのでキャッチボールしてみた。思ったより楽しいかも。30分で汗だくになった。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585673667.000800",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "B46016BA-11CE-4637-A17D-C4FE0EAF4954",
+        "type": "message",
+        "text": "いいですねー:kissing_closed_eyes:",
+        "user": "UKUKA65GU",
+        "ts": "1586697931.000500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nA+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いいですねー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kissing_closed_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585673667.000800",
+        "parent_user_id": "UKUKA65GU"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "11421688-5da9-45c9-97e3-a074efc39cdd",
+        "type": "message",
+        "text": "<!channel>\n取りまとめ遅くなり、すいません。\n\n研究室会\n日時:  6\/25 17:00~19:00\n発表者:\n<@UKUKA65GU>\n<@UKH07E67M>\n\nzoom(変更なし)\n<https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09|https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09>\n\n次回の取りまとめ役は<@UPSPAP97D> です。7\/9にあると思うので、その前あたりに調整お願いします。",
+        "user": "UQ47R82RW",
+        "ts": "1624522145.051700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1625622731.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n取りまとめ遅くなり、すいません。\n\n研究室会\n日時:  6\/25 17:00~19:00\n発表者:\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nzoom(変更なし)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09",
+                                "text": "https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n次回の取りまとめ役は"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " です。7\/9にあると思うので、その前あたりに調整お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "thankyou",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UKUKA65GU",
+                    "UPSPAP97D"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

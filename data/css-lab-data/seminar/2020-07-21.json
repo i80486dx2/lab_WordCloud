@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "98ec5dfc-4f12-468f-837e-d12f988858cf",
+        "type": "message",
+        "text": "今日の輪講はこちらで：<https:\/\/us02web.zoom.us\/j\/88193615946?pwd=SHNJcDlQQzhJLzRjc28xZ3Uyc01idz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595392140.093300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JtZlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の輪講はこちらで："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/88193615946?pwd=SHNJcDlQQzhJLzRjc28xZ3Uyc01idz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594793991.091900",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

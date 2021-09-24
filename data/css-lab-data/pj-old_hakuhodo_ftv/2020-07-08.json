@@ -1,0 +1,255 @@
+[
+    {
+        "client_msg_id": "a22cae33-f229-4943-a328-f98618ca20af",
+        "type": "message",
+        "text": "先日の篠田さんの資料を共有します。\n<https:\/\/www.dropbox.com\/s\/ebswtdajwwvwijp\/%28%E5%85%B1%E6%9C%89%E7%94%A8%29%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BEGPS%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90.xlsx?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594202145.030100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "846mN",
+                        "external_id": "1-None-c4369962a6e291f7f2e9e9cae3fdba3bc7930c4f761447bfc8b07f0b0f190b1a",
+                        "source": "remote",
+                        "file_id": "F016PFR9AUV",
+                        "file": {
+                            "id": "F016PFR9AUV",
+                            "created": 1594202148,
+                            "timestamp": 1594202148,
+                            "name": "_______________________GPS________________xlsx",
+                            "title": "(共有用)会津若松GPSデータ分析.xlsx",
+                            "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                            "filetype": "xlsx",
+                            "pretty_type": "Excel Spreadsheet",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 0,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/ebswtdajwwvwijp\/%28%E5%85%B1%E6%9C%89%E7%94%A8%29%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BEGPS%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90.xlsx?dl=0",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016PFR9AUV-2b72d7b699\/_______________________gps________________xlsx_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016PFR9AUV-2b72d7b699\/_______________________gps________________xlsx_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016PFR9AUV-2b72d7b699\/_______________________gps________________xlsx_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 180,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016PFR9AUV-2b72d7b699\/_______________________gps________________xlsx_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_480_w": 480,
+                            "thumb_480_h": 240,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016PFR9AUV-2b72d7b699\/_______________________gps________________xlsx_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016PFR9AUV-2b72d7b699\/_______________________gps________________xlsx_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720_w": 720,
+                            "thumb_720_h": 360,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016PFR9AUV-2b72d7b699\/_______________________gps________________xlsx_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 400,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016PFR9AUV-2b72d7b699\/_______________________gps________________xlsx_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_960_w": 960,
+                            "thumb_960_h": 480,
+                            "image_exif_rotation": 1,
+                            "original_w": 1000,
+                            "original_h": 500,
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F016PFR9AUV\/_______________________gps________________xlsx",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-None-c4369962a6e291f7f2e9e9cae3fdba3bc7930c4f761447bfc8b07f0b0f190b1a",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/ebswtdajwwvwijp\/%28%E5%85%B1%E6%9C%89%E7%94%A8%29%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BEGPS%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90.xlsx?dl=0",
+                            "has_rich_preview": true
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/ebswtdajwwvwijp\/%28%E5%85%B1%E6%9C%89%E7%94%A8%29%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BEGPS%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90.xlsx?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wp\/9P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先日の篠田さんの資料を共有します。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/ebswtdajwwvwijp\/%28%E5%85%B1%E6%9C%89%E7%94%A8%29%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BEGPS%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90.xlsx?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UKH07E67M",
+                    "UPRE1RSJW",
+                    "UQ47R82RW"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26cdbeaa-fad3-4271-aa3a-94b0ff8e9c71",
+        "type": "message",
+        "text": "<!channel> 博報堂とFTVを交えた打ち合わせは7月16日（木）11:00-12:30になりました。それに先立って、篠田さんとの事前打ち合わせを火曜か水曜に行います（日時は調整中）。もし何か分析を考えていたら、来週木曜を一つの目安に進めてみてください。篠田さんとの事前打ち合わせで途中経過を見せられれば、先方も段取りしやすいと思います。\n\n打ち合わせへの参加は自由です。もし見せたいものがあるのに都合がつかない場合は私から説明するので、事前に教えてください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594232200.036900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1594232217.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3C\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 博報堂とFTVを交えた打ち合わせは7月16日（木）11:00-12:30になりました。それに先立って、篠田さんとの事前打ち合わせを火曜か水曜に行います（日時は調整中）。もし何か分析を考えていたら、来週木曜を一つの目安に進めてみてください。篠田さんとの事前打ち合わせで途中経過を見せられれば、先方も段取りしやすいと思います。\n\n打ち合わせへの参加は自由です。もし見せたいものがあるのに都合がつかない場合は私から説明するので、事前に教えてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594232200.036900",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1594351357.048100",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594268365.037300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594351357.048100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1594351357.048100",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f77384b0-12da-48c1-bc2a-cadef830ecc4",
+        "type": "message",
+        "text": "篠田さんとの事前打ち合わせは7月14日（火）17:00～18:30に決まりました。参加する人はどうぞよろしく。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594268365.037300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mNdEV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "篠田さんとの事前打ち合わせは7月14日（火）17:00～18:30に決まりました。参加する人はどうぞよろしく。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594232200.036900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UPRE1RSJW",
+                    "UKH07E67M",
+                    "UPSPAP97D",
+                    "UPSPAMY7M",
+                    "UQ47R82RW"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

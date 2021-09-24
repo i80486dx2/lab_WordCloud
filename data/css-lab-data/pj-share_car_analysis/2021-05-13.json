@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "ffeef7c0-b504-486f-943b-d5b94099ec5d",
+        "type": "message",
+        "text": "<@U01EV766AH2> データ触ってみたりした？もし必要だったら役立つツールとか自分のソースコードもあげるけど。",
+        "user": "UPRE1RSJW",
+        "ts": "1620968390.042300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BUCm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " データ触ってみたりした？もし必要だったら役立つツールとか自分のソースコードもあげるけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620968390.042300",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1621054274.049800",
+        "reply_users": [
+            "U01EV766AH2",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "U01EV766AH2",
+                "ts": "1620983966.044400"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1621052686.044600"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1621052932.045200"
+            },
+            {
+                "user": "U01EV766AH2",
+                "ts": "1621053760.046200"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1621053830.046400"
+            },
+            {
+                "user": "U01EV766AH2",
+                "ts": "1621053894.047000"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1621054033.047200"
+            },
+            {
+                "user": "U01EV766AH2",
+                "ts": "1621054236.048800"
+            },
+            {
+                "user": "U01EV766AH2",
+                "ts": "1621054274.049800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

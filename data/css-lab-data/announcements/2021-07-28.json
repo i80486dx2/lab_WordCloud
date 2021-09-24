@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "0a1790c3-1afe-472b-8c17-67b066701ef3",
+        "type": "message",
+        "text": "予算の支払方法の関係で、資材をウェブで注文することにしました。来週には間に合わないので（8月下旬になりそう）、来週水曜は\n• カインズに行って、本棚の足、底上げDIY用の金具、その他道具等を調達\n• 本棚の組み立て\nをしようと思います。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627472870.041000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=QO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予算の支払方法の関係で、資材をウェブで注文することにしました。来週には間に合わないので（8月下旬になりそう）、来週水曜は\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "カインズに行って、本棚の足、底上げDIY用の金具、その他道具等を調達"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "本棚の組み立て"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "をしようと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627451944.040600",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

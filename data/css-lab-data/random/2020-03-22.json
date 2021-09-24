@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "db574a85-c85c-407c-a198-97c6634a717c",
+        "type": "message",
+        "text": "以前、翻訳の便利なサービスで「未来翻訳」というサイトを紹介しましたが、最近話題の翻訳サイト「DeepL」がすごい：<https:\/\/www.deepl.com\/ja\/translator>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1584939419.012500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "DeepL翻訳",
+                "title_link": "https:\/\/www.deepl.com\/ja\/translator",
+                "text": "DeepL翻訳（無料版）で翻訳しましょう。DeepL翻訳は、最先端のニューラルネットワーク技術を駆使して開発された、超高性能な機械翻訳システムです。 英語、ドイツ語、フランス語、スペイン語、ポルトガル語、イタリア語、オランダ語、ポーランド語、ロシア語、日本語、中国語に対応しています。",
+                "fallback": "DeepL翻訳",
+                "image_url": "https:\/\/www.DeepL.com\/img\/favicon\/deepl_logo_600_300.png",
+                "from_url": "https:\/\/www.deepl.com\/ja\/translator",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 13903,
+                "service_icon": "https:\/\/www.deepl.com\/img\/apple-touch-icon.png",
+                "service_name": "deepl.com",
+                "id": 1,
+                "original_url": "https:\/\/www.deepl.com\/ja\/translator"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l6f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "以前、翻訳の便利なサービスで「未来翻訳」というサイトを紹介しましたが、最近話題の翻訳サイト「DeepL」がすごい："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.deepl.com\/ja\/translator"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

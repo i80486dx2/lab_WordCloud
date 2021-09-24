@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "ca351f67-246b-44fc-8d86-445d7dd6e25e",
+        "type": "message",
+        "text": "<!channel> 本日のシェアカーについてのメディア発表ですが、明日１２月１０日（火）の１８：１４頃から福島テレビ（おそらくテレポートプラスの福島のニュースコーナー）で放映されるとのことです。私と助川君がインタビューを受けました。\n新聞は民友、民放と河北新報から取材を受けております。\n\n<@UPRE1RSJW> 思ったよりメディアが積極的に質問してきたところ、対応ありがとうございます。",
+        "user": "UPSPAMY7M",
+        "ts": "1575864237.011600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y3A6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 本日のシェアカーについてのメディア発表ですが、明日１２月１０日（火）の１８：１４頃から福島テレビ（おそらくテレポートプラスの福島のニュースコーナー）で放映されるとのことです。私と助川君がインタビューを受けました。\n新聞は民友、民放と河北新報から取材を受けております。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 思ったよりメディアが積極的に質問してきたところ、対応ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575864237.011600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1575932938.015700",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1575872212.011700"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1575932938.015700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1575948757.000143",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45aaffe1-8b46-4888-aee6-17da94d4a8d6",
+        "type": "message",
+        "text": "お疲れ様でした！学鳳高校に授業に行っていて生憎参加できず。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1575872212.011700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zzpRa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様でした！学鳳高校に授業に行っていて生憎参加できず。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575864237.011600",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

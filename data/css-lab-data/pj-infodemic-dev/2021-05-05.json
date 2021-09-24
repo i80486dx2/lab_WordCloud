@@ -1,0 +1,625 @@
+[
+    {
+        "type": "message",
+        "text": "なんかなかなかvue-chartがいうこと聞かなかったんですけどグラフはなんとか動的になりました:sob:\nツイートの方も動的に変更してUI揃えて今日中にdeployしようと思います:innocent:",
+        "files": [
+            {
+                "id": "F020Y3Y2B4J",
+                "created": 1620208024,
+                "timestamp": 1620208024,
+                "name": "Videotogif (4).gif",
+                "title": "Videotogif (4).gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U01EL0SAUTF",
+                "editable": false,
+                "size": 1492617,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F020Y3Y2B4J\/videotogif__4_.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F020Y3Y2B4J\/download\/videotogif__4_.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F020Y3Y2B4J-0c64d73b1c\/videotogif__4__64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F020Y3Y2B4J-0c64d73b1c\/videotogif__4__80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F020Y3Y2B4J-0c64d73b1c\/videotogif__4__360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F020Y3Y2B4J-0c64d73b1c\/videotogif__4__160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F020Y3Y2B4J-0c64d73b1c\/videotogif__4__360.gif?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 400,
+                "original_h": 200,
+                "deanimate": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F020Y3Y2B4J-0c64d73b1c\/videotogif__4__deanimate.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F020Y3Y2B4J-0c64d73b1c\/videotogif__4__deanimate_gif.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_tiny": "AwAYADCFL6Ut88mB7IDT1vGLkNMQo6HyxzVIHBpd3sDVCLou+Tm4bHb90KRLuVrlEEm5CwGSoFU93sKfb\/8AHzF\/vj+dIDd2\/T8qNlOopDOcoooqiQqS2\/4+Yv8AfH86jqS2\/wCPmL\/fH86AN+iiipKP\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01EL0SAUTF\/F020Y3Y2B4J\/videotogif__4_.gif",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F020Y3Y2B4J-e33aa16ae5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Q2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんかなかなかvue-chartがいうこと聞かなかったんですけどグラフはなんとか動的になりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nツイートの方も動的に変更してUI揃えて今日中にdeployしようと思います"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01EL0SAUTF",
+        "display_as_bot": false,
+        "ts": "1620208106.054400",
+        "thread_ts": "1620208106.054400",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1620214882.060000",
+        "reply_users": [
+            "U01KC41PR9C",
+            "U01EL0SAUTF"
+        ],
+        "replies": [
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1620208339.054700"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1620208423.054900"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1620208908.055100"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1620212657.055400"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1620213918.055700"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1620214039.055900"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1620214116.058000"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1620214247.058800"
+            },
+            {
+                "user": "U01KC41PR9C",
+                "ts": "1620214799.059000"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1620214882.060000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "215c01ce-fb5c-45dc-978e-0cfe1c426ab6",
+        "type": "message",
+        "text": "そのグラフの配色いいと思います！\n動作も早そうですし、実際に見るのが楽しみになりました。\n無理せず頑張ってください:hugging_face:",
+        "user": "U01KC41PR9C",
+        "ts": "1620208339.054700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L6n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そのグラフの配色いいと思います！\n動作も早そうですし、実際に見るのが楽しみになりました。\n無理せず頑張ってください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620208106.054400",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "bc6da731-c268-4eb4-8b66-cd4a3de722b8",
+        "type": "message",
+        "text": "今日中に間に合うかわからないのですが後々グラフごとにいい感じのランダムな色持たせたいです。\n今はそれぞれのtagが#14FFD4、totalが#FF7A6Bって感じです\n<@U01KC41PR9C> おかげさまでめちゃ早いです！\nタグの変更ごとに叩いてるのですが全くラグがないです！",
+        "user": "U01EL0SAUTF",
+        "ts": "1620208423.054900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YAG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日中に間に合うかわからないのですが後々グラフごとにいい感じのランダムな色持たせたいです。\n今はそれぞれのtagが#14FFD4、totalが#FF7A6Bって感じです\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おかげさまでめちゃ早いです！\nタグの変更ごとに叩いてるのですが全くラグがないです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620208106.054400",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "2ecf4489-4a90-43b0-be0e-3671ef986887",
+        "type": "message",
+        "text": "なるほど:thinking_face:\n配色は沼なので、普段使用する場合は配色に上限を設けたりグラデーションで対応しています(2色の等比計算にて)\n良いライブラリがあるといいのですが...応援しています！\n\n良かったです。アクセス数が増加した場合のレスポンスもこのぐらい早いことを願っています(笑)",
+        "user": "U01KC41PR9C",
+        "ts": "1620208908.055100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n配色は沼なので、普段使用する場合は配色に上限を設けたりグラデーションで対応しています(2色の等比計算にて)\n良いライブラリがあるといいのですが...応援しています！\n\n良かったです。アクセス数が増加した場合のレスポンスもこのぐらい早いことを願っています(笑)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620208106.054400",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1759059-b40b-4ce6-8aeb-4a41c87d9c36",
+        "type": "message",
+        "text": "<https:\/\/infodemicappv3.web.app\/>\ngraphの部分編集しといたやつデプロイしときました\n自分の方で確認したところちょー時々グラフの描写でいない時があります。",
+        "user": "U01EL0SAUTF",
+        "ts": "1620212657.055400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pYSd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/infodemicappv3.web.app\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ngraphの部分編集しといたやつデプロイしときました\n自分の方で確認したところちょー時々グラフの描写でいない時があります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620208106.054400",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C",
+                    "UKS1Q2KTQ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e3e86ff-7379-4105-9f62-deb89c5d4ed3",
+        "type": "message",
+        "text": "・FireFoxでは描画されないことが頻発しますが、Chromeではほとんど無いですね。明日のデモでは橋本先生にChromeを使用していただいたほうがいいかもしれないです。\n・ハッシュタグのBoxでは手入力でも検索できるのですね！いいと思います！\nこれはデモで見ていただきたい！",
+        "user": "U01KC41PR9C",
+        "ts": "1620213918.055700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・FireFoxでは描画されないことが頻発しますが、Chromeではほとんど無いですね。明日のデモでは橋本先生にChromeを使用していただいたほうがいいかもしれないです。\n・ハッシュタグのBoxでは手入力でも検索できるのですね！いいと思います！\nこれはデモで見ていただきたい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620208106.054400",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "b00dad87-49e7-4054-8f9e-c346c6f45cd5",
+        "type": "message",
+        "text": "グラフの描画は考えなければいけない箇所が多い為大変だったと思います。\nお疲れ様です！:smile:",
+        "user": "U01KC41PR9C",
+        "ts": "1620214039.055900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xsoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "グラフの描画は考えなければいけない箇所が多い為大変だったと思います。\nお疲れ様です！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620208106.054400",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "31F26D0D-5332-4101-897E-CA772743D162",
+        "type": "message",
+        "text": "なるほど、ブラウザによって結構変わるんですね。\napiのレスポンスとグラフの描写タイミングが合わないとエラーが起こってると思われるので遅延とか入れてみたほうがいいかもしれないです:thinking_face:",
+        "user": "U01EL0SAUTF",
+        "ts": "1620214116.058000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a4uz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、ブラウザによって結構変わるんですね。\napiのレスポンスとグラフの描写タイミングが合わないとエラーが起こってると思われるので遅延とか入れてみたほうがいいかもしれないです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620208106.054400",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "7D73851E-4F15-4462-88D9-059A30A7542A",
+        "type": "message",
+        "text": "<@U01KC41PR9C>\nFirefox のエラーもtransition についてですか？",
+        "user": "U01EL0SAUTF",
+        "ts": "1620214247.058800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WfnP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFirefox のエラーもtransition についてですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620208106.054400",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "03ca78c8-8d65-4cd0-998b-b126906fe976",
+        "type": "message",
+        "text": "<@U01EL0SAUTF>\nそうですね。ちなみにこのようなメッセージが出ていました。\n`Uncaught TypeError: e.getDatasetMeta(...).controller is null`",
+        "user": "U01KC41PR9C",
+        "ts": "1620214799.059000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5ab4b4b51ee4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-23\/1653062663351_5ab4b4b51ee430a5e180_72.jpg",
+            "first_name": "Tomoaki",
+            "real_name": "Tomoaki Yoshino",
+            "display_name": "yoshino",
+            "team": "TKS1Q2JUE",
+            "name": "t409828543087",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oYCZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそうですね。ちなみにこのようなメッセージが出ていました。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Uncaught TypeError: e.getDatasetMeta(...).controller is null",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620208106.054400",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E4A1AAEF-605A-437C-B990-119927E0A3CF",
+        "type": "message",
+        "text": "思ってたのと違うのでした。確認せねば",
+        "user": "U01EL0SAUTF",
+        "ts": "1620214882.060000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wEE96",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "思ってたのと違うのでした。確認せねば"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620208106.054400",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

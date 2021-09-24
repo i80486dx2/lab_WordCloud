@@ -1,0 +1,2143 @@
+[
+    {
+        "type": "message",
+        "text": "作成しました。どうでしょうか？画像は一枚貼りましたが、図の説明は基本的にjupyter labの方で行うつもりです。",
+        "files": [
+            {
+                "id": "F027J4JJCC9",
+                "created": 1625555463,
+                "timestamp": 1625555463,
+                "name": "20210707定例ミーティングメモ_鈴木mod.docx",
+                "title": "20210707定例ミーティングメモ_鈴木mod.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 94738,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027J4JJCC9\/20210707________________________________________mod.docx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027J4JJCC9\/download\/20210707________________________________________mod.docx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027J4JJCC9-2429dd61dd\/20210707________________________________________mod_converted.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027J4JJCC9-2429dd61dd\/20210707________________________________________mod_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F027J4JJCC9\/20210707________________________________________mod.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F027J4JJCC9-8cd8dd8142",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xbE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作成しました。どうでしょうか？画像は一枚貼りましたが、図の説明は基本的にjupyter labの方で行うつもりです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKH07E67M",
+        "display_as_bot": false,
+        "ts": "1625555506.014800",
+        "thread_ts": "1625555506.014800",
+        "reply_count": 37,
+        "reply_users_count": 2,
+        "latest_reply": "1625573098.025000",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625563994.015100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625564173.015300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625564476.015500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625564509.015700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625564580.015900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625564695.016200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625564740.016400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625564887.016700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625564961.016900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625565019.017100"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625565234.017300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625566075.017500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625566126.017700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625566423.017900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625566514.018100"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625566864.018400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625567550.018800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625567689.019000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625568092.019200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625568175.019800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625568263.020000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625568301.020200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625568598.020800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625568971.021000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625569546.021400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625569596.021600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625569611.021800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625569875.022400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625569911.022600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625569944.022800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625570379.023400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625572308.023600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625572340.024200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625572994.024400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625573034.024600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625573077.024800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625573098.025000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625573098.025000"
+    },
+    {
+        "client_msg_id": "ffcd4613-4393-4583-b05d-bae2d57823ef",
+        "type": "message",
+        "text": "<@UKH07E67M> 真のBig1とか変な言葉を使わずに、「Big5のうち『外向性』のみを考え、matingの候補者数を決めるパラメータとした」と説明すればよいのでは。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625563994.015100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 真のBig1とか変な言葉を使わずに、「Big5のうち『外向性』のみを考え、matingの候補者数を決めるパラメータとした」と説明すればよいのでは。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "5d4b9959-0d5a-4630-b882-c7c33851af03",
+        "type": "message",
+        "text": "• matingは自分のtrue値と相手のmanipulated値の差がお互いに閾値以内のときに成立。\n• 候補者の中でmatingが成立した相手が複数いる場合、一組のペアをランダムに選ぶ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625564173.015300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "209o",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "matingは自分のtrue値と相手のmanipulated値の差がお互いに閾値以内のときに成立。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "候補者の中でmatingが成立した相手が複数いる場合、一組のペアをランダムに選ぶ。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "dd6c3835-6ca4-47b8-ac6a-5b0ebe781698",
+        "type": "message",
+        "text": "なるほど、Big1とかおかしいですしね。そうします。\n下の二つはコードの変更でしょうか？\n• 現状のマッチングはランダムに10匹異性を選ぶだけなので。\n• 重婚（複数人と繁殖可）でなくする",
+        "user": "UKH07E67M",
+        "ts": "1625564476.015500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Di2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、Big1とかおかしいですしね。そうします。\n下の二つはコードの変更でしょうか？\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "現状のマッチングはランダムに10匹異性を選ぶだけなので。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "重婚（複数人と繁殖可）でなくする"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "9e30613e-efa9-4f89-a29d-6cf163ff6e99",
+        "type": "message",
+        "text": "いや、説明の仕方。マッチングじゃなくてmating。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625564509.015700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/2v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや、説明の仕方。マッチングじゃなくてmating。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "da4d9b67-74d7-4555-9d86-d5f2af2751ec",
+        "type": "message",
+        "text": "ある雄について、雌B1,B2,B3,...,B10が候補、その中で雌B1,B2が閾値以内の場合、B1とB2のどちらかとmating。\n逆に、ある雌についても同様の操作をするので、エージェントによっては複数回matingするものがいる（重婚可）。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625564580.015900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1625564614.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tPB=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ある雄について、雌B1,B2,B3,...,B10が候補、その中で雌B1,B2が閾値以内の場合、B1とB2のどちらかとmating。\n逆に、ある雌についても同様の操作をするので、エージェントによっては複数回matingするものがいる（重婚可）。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "44448669-ef41-4967-ba40-1886316d7123",
+        "type": "message",
+        "text": "mating = 異性と配偶子を残すこと",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625564695.016200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kDp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mating = 異性と配偶子を残すこと"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "4958abb4-1f98-44fc-8509-08c9269b7f60",
+        "type": "message",
+        "text": "matching = （閾値以内の）異性の候補者を選び出すこと？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625564740.016400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1625564755.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1S6i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "matching = （閾値以内の）異性の候補者を選び出すこと？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "e377d43b-9f14-452c-a524-da3827059c50",
+        "type": "message",
+        "text": "matching = （閾値以内の）異性の候補者を選び出すこと\nmating = 異性と配偶子を残すこと\n調べました。承知です。",
+        "user": "UKH07E67M",
+        "ts": "1625564887.016700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x=n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "matching = （閾値以内の）異性の候補者を選び出すこと\nmating = 異性と配偶子を残すこと\n調べました。承知です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "34154a6a-3040-4bd7-b38e-fa6b69f74f3a",
+        "type": "message",
+        "text": "現在はmatchingしたエージェントで閾値以内であれば何人でもmatingできるようになっているので、そこは変更します。",
+        "user": "UKH07E67M",
+        "ts": "1625564961.016900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現在はmatchingしたエージェントで閾値以内であれば何人でもmatingできるようになっているので、そこは変更します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "106e2a45-69b7-4b82-a5a0-9b9dfae2716f",
+        "type": "message",
+        "text": "&gt; その中で雌B1,B2が閾値以内の場合、B1とB2のどちらかとmating。\nつまり、今はB1とB2両方とmatingするようになってるわけね。それならそれでいいです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625565019.017100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XASSA",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その中で雌B1,B2が閾値以内の場合、B1とB2のどちらかとmating。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "つまり、今はB1とB2両方とmatingするようになってるわけね。それならそれでいいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "17c02b65-64fb-4f55-8c16-af02444ac0e5",
+        "type": "message",
+        "text": "わかりました。ただ今後試してみます。現在の繁殖は多すぎる気もするので",
+        "user": "UKH07E67M",
+        "ts": "1625565234.017300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PmEFN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました。ただ今後試してみます。現在の繁殖は多すぎる気もするので"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "a35a090f-e2e5-4627-8d88-ade3d71c78ea",
+        "type": "message",
+        "text": "あとひとつ質問なのですが、繁殖ってわかりづらいでしょうか？matingや交配にした方がわかりやすいでしょうか？",
+        "user": "UKH07E67M",
+        "ts": "1625566075.017500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0gtf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あとひとつ質問なのですが、繁殖ってわかりづらいでしょうか？matingや交配にした方がわかりやすいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "522b0992-d1a3-40ff-b42e-635a7190db33",
+        "type": "message",
+        "text": "個人的には繁殖のままでも伝わると思っているのですが",
+        "user": "UKH07E67M",
+        "ts": "1625566126.017700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0=H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個人的には繁殖のままでも伝わると思っているのですが"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "be59f71d-bd5e-4371-a349-64a2040c8fb9",
+        "type": "message",
+        "text": "• 繁殖＝生殖によって子孫が増えること\n• 交配＝異性が生殖活動を行うこと\n• mating＝交配\nシミュレーションの繁殖のステージの中で行われる操作が交配。分かりやすさはそのときの意図にあった言葉の使い方ができているか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625566423.017900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Ev",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "繁殖＝生殖によって子孫が増えること"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "交配＝異性が生殖活動を行うこと"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "mating＝交配"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nシミュレーションの繁殖のステージの中で行われる操作が交配。分かりやすさはそのときの意図にあった言葉の使い方ができているか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "8e35b86e-528d-4d5a-a5bb-9422f18e03f8",
+        "type": "message",
+        "text": "わかりました。確認してみて変えるべきだと思ったところを変えます",
+        "user": "UKH07E67M",
+        "ts": "1625566514.018100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qSJY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました。確認してみて変えるべきだと思ったところを変えます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "type": "message",
+        "text": "修正しました。確認お願いしたいです。",
+        "files": [
+            {
+                "id": "F026RCH8G6B",
+                "created": 1625566846,
+                "timestamp": 1625566846,
+                "name": "20210707定例ミーティングメモ_鈴木mod.docx",
+                "title": "20210707定例ミーティングメモ_鈴木mod.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 95109,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026RCH8G6B\/20210707________________________________________mod.docx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026RCH8G6B\/download\/20210707________________________________________mod.docx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RCH8G6B-3c4ff3511a\/20210707________________________________________mod_converted.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RCH8G6B-3c4ff3511a\/20210707________________________________________mod_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F026RCH8G6B\/20210707________________________________________mod.docx",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F026RCH8G6B-a53030170a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jvn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正しました。確認お願いしたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKH07E67M",
+        "display_as_bot": false,
+        "ts": "1625566864.018400",
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "fde681d4-1614-4806-bc89-3d99bd458d47",
+        "type": "message",
+        "text": "一つだけ追加で計算してみてもらえますか→\n候補者選びを「外向性×乱数」ではなく「外向性×乱数＋定数」例えば前者が10×[0:1]なら、後者を5×[0:1]+5にしたらどうなりますか？おそらく、trueの上昇速度が緩やかになると思うけれど、その結果、収束の仕方も変わってくるかもしれない。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625567550.018800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mo\/y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一つだけ追加で計算してみてもらえますか→\n候補者選びを「外向性×乱数」ではなく「外向性×乱数＋定数」例えば前者が10×[0:1]なら、後者を5×[0:1]+5にしたらどうなりますか？おそらく、trueの上昇速度が緩やかになると思うけれど、その結果、収束の仕方も変わってくるかもしれない。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "73a61dd3-12a8-4a98-be88-04afc6bc8ac8",
+        "type": "message",
+        "text": "なるほど、やってみます。",
+        "user": "UKH07E67M",
+        "ts": "1625567689.019000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JC+X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、やってみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "type": "message",
+        "text": "前者が×10、後者が×5+5です",
+        "files": [
+            {
+                "id": "F02735F8ZEH",
+                "created": 1625568055,
+                "timestamp": 1625568055,
+                "name": "meanSD1.png",
+                "title": "meanSD1.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 76624,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02735F8ZEH\/meansd1.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02735F8ZEH\/download\/meansd1.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02735F8ZEH-4f28231fee\/meansd1_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02735F8ZEH-4f28231fee\/meansd1_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02735F8ZEH-4f28231fee\/meansd1_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02735F8ZEH-4f28231fee\/meansd1_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02735F8ZEH-4f28231fee\/meansd1_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02735F8ZEH-4f28231fee\/meansd1_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02735F8ZEH-4f28231fee\/meansd1_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02735F8ZEH-4f28231fee\/meansd1_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02735F8ZEH-4f28231fee\/meansd1_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 512,
+                "original_w": 1440,
+                "original_h": 720,
+                "thumb_tiny": "AwAYADClaRLNcpG+dpznH0rQGmwdT5gH1\/8ArVS07\/j+j\/H+Vbm4dzj60AUf7Mt\/70g+pH+FL\/ZcH96T8xVz5PUCk4HRhQBU\/sqD+9J+Yqjf26W0qqhJBXPNbG4\/3hWXq3M8f+5\/WgCvaSrBcpIwJAz0+laX9qwf3ZPyH+NY9FAGx\/asH92T8h\/jR\/asH92T8h\/jWPRQBsf2rB\/dk\/If41Qv7hLmVWQMAFxzVaigD\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F02735F8ZEH\/meansd1.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02735F8ZEH-9854115436",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F026REACU6B",
+                "created": 1625568062,
+                "timestamp": 1625568062,
+                "name": "meanSD6.png",
+                "title": "meanSD6.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 87906,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026REACU6B\/meansd6.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026REACU6B\/download\/meansd6.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026REACU6B-44ad1f3b6c\/meansd6_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026REACU6B-44ad1f3b6c\/meansd6_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026REACU6B-44ad1f3b6c\/meansd6_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026REACU6B-44ad1f3b6c\/meansd6_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026REACU6B-44ad1f3b6c\/meansd6_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026REACU6B-44ad1f3b6c\/meansd6_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026REACU6B-44ad1f3b6c\/meansd6_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026REACU6B-44ad1f3b6c\/meansd6_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026REACU6B-44ad1f3b6c\/meansd6_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 512,
+                "original_w": 1440,
+                "original_h": 720,
+                "thumb_tiny": "AwAYADClaRLNcpG+cHPT6VfGmw9T5gHuf\/rVT07\/AI\/o\/wAf5Vthh34NAFIabbn+KQfiKX+y4P70n5j\/AAq2dp74pM4HDUAVf7Lg\/vSfmP8ACqN\/bpbSqqEkFc81r7n9T\/3zWZqufOjz12f1oAr2kqwXKSMCQM9PpWl\/asH92T8h\/jWPRQBsf2rB\/dk\/If40f2rB\/dk\/If41j0UAbH9qwf3ZPyH+NUL+4S5lVkDABcc1WooA\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F026REACU6B\/meansd6.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F026REACU6B-e44d6bf45e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "suZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前者が×10、後者が×5+5です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKH07E67M",
+        "ts": "1625568092.019200",
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "c24e14b1-b16d-44ae-9c7a-af893e910e3e",
+        "type": "message",
+        "text": "グラフの上限下限設定してやり直しますが、分散が広がった印象です",
+        "user": "UKH07E67M",
+        "ts": "1625568175.019800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y3HBa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "グラフの上限下限設定してやり直しますが、分散が広がった印象です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "6f1e4ce8-f682-40da-9536-9234f93a3988",
+        "type": "message",
+        "text": "Thank  you! 分散は少し大きくなるけど、上昇速度（と下降速度）はあまり変わらないんですね。\n\n気になってるのは、もし何かしらtrueの上昇速度がパラメータによって小さくなる場合、manipulatedよりもtrueが低くなる状況が出てくるんじゃないかということ。そのときに今のような上って落ちる形になるのかどうか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625568263.020000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank  you! 分散は少し大きくなるけど、上昇速度（と下降速度）はあまり変わらないんですね。\n\n気になってるのは、もし何かしらtrueの上昇速度がパラメータによって小さくなる場合、manipulatedよりもtrueが低くなる状況が出てくるんじゃないかということ。そのときに今のような上って落ちる形になるのかどうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "type": "message",
+        "text": "上限下限設定しなおしたものです",
+        "files": [
+            {
+                "id": "F027VSRNJ72",
+                "created": 1625568279,
+                "timestamp": 1625568279,
+                "name": "meanSD1.png",
+                "title": "meanSD1.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 79676,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027VSRNJ72\/meansd1.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027VSRNJ72\/download\/meansd1.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VSRNJ72-6d956af6a3\/meansd1_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VSRNJ72-6d956af6a3\/meansd1_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VSRNJ72-6d956af6a3\/meansd1_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VSRNJ72-6d956af6a3\/meansd1_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VSRNJ72-6d956af6a3\/meansd1_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VSRNJ72-6d956af6a3\/meansd1_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VSRNJ72-6d956af6a3\/meansd1_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VSRNJ72-6d956af6a3\/meansd1_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027VSRNJ72-6d956af6a3\/meansd1_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 512,
+                "original_w": 1440,
+                "original_h": 720,
+                "thumb_tiny": "AwAYADClaRLNcpG+cHPT6Vo\/2Zbf3pPz\/wDrVR07\/j9j\/H+VbewYwOKAKf8AZUH96T8xR\/ZUH96T8xVzBHSjce4oAp\/2VB\/ek\/MVRv7dLaVVQkgrnmtvcPQ\/lWTq\/M6f7n9aAK1pKsNwsjAkDPT6Vof2pCOgkx9B\/jWTRQBrf2pF6P8A98j\/ABo\/tSH0f\/vkf41k0UAav9pQf3X\/AO+R\/jVO+uEuJFZAQAuORVaigD\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F027VSRNJ72\/meansd1.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F027VSRNJ72-91ce521877",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0276CFQ1SP",
+                "created": 1625568282,
+                "timestamp": 1625568282,
+                "name": "meanSD6.png",
+                "title": "meanSD6.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 90529,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0276CFQ1SP\/meansd6.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0276CFQ1SP\/download\/meansd6.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0276CFQ1SP-5de64874af\/meansd6_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0276CFQ1SP-5de64874af\/meansd6_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0276CFQ1SP-5de64874af\/meansd6_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0276CFQ1SP-5de64874af\/meansd6_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0276CFQ1SP-5de64874af\/meansd6_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0276CFQ1SP-5de64874af\/meansd6_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0276CFQ1SP-5de64874af\/meansd6_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0276CFQ1SP-5de64874af\/meansd6_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0276CFQ1SP-5de64874af\/meansd6_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 512,
+                "original_w": 1440,
+                "original_h": 720,
+                "thumb_tiny": "AwAYADClaRLNcpG+cHPT6Vpf2Zb5xvfP1FUNO\/4\/o\/x\/lW3sAGB\/jQBT\/sqD+9J+Yo\/sqD+9J+Yq3hlpd4xyP60AU\/7Kg\/vSfmKo39ultKqoSQVzzW15i+v6VlasczoR\/c\/rQFitaSrDcLIwJAz0+laA1OEdBJj0wKyaKANb+1IvR\/8Avkf40HU4T1D\/APfI\/wAayaKANX+0YPSX8hVO9uEuJFZAwAXHNVqKAP\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F0276CFQ1SP\/meansd6.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0276CFQ1SP-d3f2db61a8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yPo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上限下限設定しなおしたものです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKH07E67M",
+        "ts": "1625568301.020200",
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "6aaf5b65-691c-47d4-aff4-bdf8a259d4a2",
+        "type": "message",
+        "text": "`気になってるのは、もし何かしらtrueの上昇速度がパラメータによって小さくなる場合、manipulatedよりもtrueが低くなる状況が出てくるんじゃないかということ。そのときに今のような上って落ちる形になるのかどうか。`\nなるほど、パラメータの影響度ですね。\ntrueは0.5やランダムスタートなら一度は上昇する印象です。あとは初期idealが低ければ低いほど、最初にエージェントが購入するプロダクトは-0.2に近づくので、trueは上がることのないまま下がるのではないのでしょうか。今試してみます。true初期0.5、ideal初期0.3",
+        "user": "UKH07E67M",
+        "ts": "1625568598.020800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R8MA\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "気になってるのは、もし何かしらtrueの上昇速度がパラメータによって小さくなる場合、manipulatedよりもtrueが低くなる状況が出てくるんじゃないかということ。そのときに今のような上って落ちる形になるのかどうか。",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nなるほど、パラメータの影響度ですね。\ntrueは0.5やランダムスタートなら一度は上昇する印象です。あとは初期idealが低ければ低いほど、最初にエージェントが購入するプロダクトは-0.2に近づくので、trueは上がることのないまま下がるのではないのでしょうか。今試してみます。true初期0.5、ideal初期0.3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "type": "message",
+        "text": "マッチングは外向性×10に戻してあります。なりました。ただ、これは明らかにこうなるだろうと予測できるものなので、「×10」「×5+5」のようにどうなるのか明らかではないパラメータを試すのとは訳は違いました。",
+        "files": [
+            {
+                "id": "F027JSHQFL1",
+                "created": 1625568797,
+                "timestamp": 1625568797,
+                "name": "meanSD7.png",
+                "title": "meanSD7.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 71662,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027JSHQFL1\/meansd7.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027JSHQFL1\/download\/meansd7.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027JSHQFL1-782e3e864d\/meansd7_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027JSHQFL1-782e3e864d\/meansd7_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027JSHQFL1-782e3e864d\/meansd7_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027JSHQFL1-782e3e864d\/meansd7_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027JSHQFL1-782e3e864d\/meansd7_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027JSHQFL1-782e3e864d\/meansd7_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027JSHQFL1-782e3e864d\/meansd7_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027JSHQFL1-782e3e864d\/meansd7_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027JSHQFL1-782e3e864d\/meansd7_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 512,
+                "original_w": 1440,
+                "original_h": 720,
+                "thumb_tiny": "AwAYADClaRLNcpG+cHPT6Vpf2VB\/ek\/MVQ07\/j9j\/H+VbWSOv60AVP7Kg\/vSfmKP7Kg\/vSfmKubvY\/lS7h6H8jQFil\/ZUH96T8xVG\/t0tpVVCSCuea29w9\/yNZOr8zp\/uf1oArWkqwXCSMCQM9PpWh\/akXo\/\/fI\/xrJooA1f7Sg\/uv8A98j\/ABo\/tKD+6\/8A3yP8ayqKANX+0oP7r\/8AfI\/xqnfXCXEisgIAXHIqtRQB\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F027JSHQFL1\/meansd7.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F027JSHQFL1-41c719b35c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igRaF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マッチングは外向性×10に戻してあります。なりました。ただ、これは明らかにこうなるだろうと予測できるものなので、「×10」「×5+5」のようにどうなるのか明らかではないパラメータを試すのとは訳は違いました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKH07E67M",
+        "display_as_bot": false,
+        "ts": "1625568971.021000",
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "a2b2bc48-2edb-4210-9116-0fbce2f531b0",
+        "type": "message",
+        "text": "ideal初期を0.85とかにしてみたら？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625569546.021400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5GTa6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ideal初期を0.85とかにしてみたら？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "2b3c2a7f-cea5-459e-8949-a98d2e386a07",
+        "type": "message",
+        "text": "試します",
+        "user": "UKH07E67M",
+        "ts": "1625569596.021600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aAay",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "856185cc-cf40-4129-9a07-17c017c78cf1",
+        "type": "message",
+        "text": "trueが１近くに張り付いて、manipulatedはその少し下で揺らぐような結果になると予想するが。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625569611.021800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KOv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "trueが１近くに張り付いて、manipulatedはその少し下で揺らぐような結果になると予想するが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "e363932c-650c-4b45-aa20-e2b53cc03b75",
+        "type": "message",
+        "text": "バグですね。本来、idealが0.85であっても、trueは0.5スタートで、0.85に近づけるように商品を買ったとしても、すぐに消滅することはあり得ません。",
+        "user": "UKH07E67M",
+        "ts": "1625569875.022400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSLPB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バグですね。本来、idealが0.85であっても、trueは0.5スタートで、0.85に近づけるように商品を買ったとしても、すぐに消滅することはあり得ません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "51f10bf6-3d22-45fd-89d2-42b2e27dc8ad",
+        "type": "message",
+        "text": "プロダクトが生き残っているのは商品が完全に消せていないからですね。",
+        "user": "UKH07E67M",
+        "ts": "1625569911.022600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HUMu\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロダクトが生き残っているのは商品が完全に消せていないからですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "31906d50-e9eb-4def-98bf-52138a9487fe",
+        "type": "message",
+        "text": "すぐにわかるバグの結果を貼らないで。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625569944.022800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2=v6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すぐにわかるバグの結果を貼らないで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f614768-e4f5-46c5-8b86-d49192590fe5",
+        "type": "message",
+        "text": "現在のコードだと、親プロダクトが存在しなくても子プロダクトを生成するようです。修正します。",
+        "user": "UKH07E67M",
+        "ts": "1625570379.023400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WEV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現在のコードだと、親プロダクトが存在しなくても子プロダクトを生成するようです。修正します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "type": "message",
+        "text": "修正しました。割と予想通りでした。true0.5、ideal0.5の時の説明通りの挙動だと思います。",
+        "files": [
+            {
+                "id": "F026RLCTKCP",
+                "created": 1625572220,
+                "timestamp": 1625572220,
+                "name": "meanSD8.png",
+                "title": "meanSD8.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 81066,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026RLCTKCP\/meansd8.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026RLCTKCP\/download\/meansd8.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RLCTKCP-762850e2ab\/meansd8_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RLCTKCP-762850e2ab\/meansd8_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RLCTKCP-762850e2ab\/meansd8_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RLCTKCP-762850e2ab\/meansd8_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RLCTKCP-762850e2ab\/meansd8_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RLCTKCP-762850e2ab\/meansd8_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RLCTKCP-762850e2ab\/meansd8_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RLCTKCP-762850e2ab\/meansd8_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026RLCTKCP-762850e2ab\/meansd8_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 512,
+                "original_w": 1440,
+                "original_h": 720,
+                "thumb_tiny": "AwAYADClaRLNcpG+cHPT6Vo\/2Zb5xuf8x\/hVHTv+P2P8f5Vt7BjA4oAp\/wBlQf3pPzH+FH9lQf3pPzFW8EdKXd6igCn\/AGVB\/ek\/MVRv7dLaVVQkgrnmtvcPQ\/lWTq\/M6f7n9aAK1pKsNwsjAkDPT6Vof2pCOgk\/If41k0UAa39qRej\/APfI\/wAaP7UhPZ\/++R\/jWTRQBq\/2lB\/df\/vkf41TvrhLiRWQEALjkVWooA\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F026RLCTKCP\/meansd8.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F026RLCTKCP-294baf1491",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F027CJ6CXK6",
+                "created": 1625572226,
+                "timestamp": 1625572226,
+                "name": "meanSD9.png",
+                "title": "meanSD9.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 90778,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027CJ6CXK6\/meansd9.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F027CJ6CXK6\/download\/meansd9.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027CJ6CXK6-17d3c28ee5\/meansd9_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027CJ6CXK6-17d3c28ee5\/meansd9_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027CJ6CXK6-17d3c28ee5\/meansd9_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027CJ6CXK6-17d3c28ee5\/meansd9_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027CJ6CXK6-17d3c28ee5\/meansd9_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027CJ6CXK6-17d3c28ee5\/meansd9_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027CJ6CXK6-17d3c28ee5\/meansd9_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027CJ6CXK6-17d3c28ee5\/meansd9_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F027CJ6CXK6-17d3c28ee5\/meansd9_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 512,
+                "original_w": 1440,
+                "original_h": 720,
+                "thumb_tiny": "AwAYADClaRLNcpG+dpznH0rQ\/s2AnCmQgdTkVS07\/j9j\/H+Vbi4xxQBQGmwdzJ+B\/wDrU4aXbnoz\/mP8KukA9RSFfSgCn\/ZUH96T8xVG\/t0tpVVCSCuea2ssOtZWrHM6f7n9aAK1pKsFykjAkDPT6VoHU4M5CyA\/QVk0UAa39qRej\/8AfI\/xo\/tSL0f\/AL5H+NZNFAGt\/akXo\/8A3yP8apX1wtzKrICAFxyKrUUAf\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F027CJ6CXK6\/meansd9.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F027CJ6CXK6-a4b63c0195",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z\/=ni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正しました。割と予想通りでした。true0.5、ideal0.5の時の説明通りの挙動だと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKH07E67M",
+        "ts": "1625572308.023600",
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "ffb5b4d0-82ad-42f1-baf4-8143d7c9bc79",
+        "type": "message",
+        "text": "前者がideal0.5、後者が0.85です",
+        "user": "UKH07E67M",
+        "ts": "1625572340.024200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vvG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前者がideal0.5、後者が0.85です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "7fb2a497-3863-4cab-8732-1ef018439a7b",
+        "type": "message",
+        "text": "これだと初期ideal0.85にしても次のステップですぐに0.7近辺に落ちてしまうから、確認したかったことが確認できていない。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625572994.024400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v7oL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これだと初期ideal0.85にしても次のステップですぐに0.7近辺に落ちてしまうから、確認したかったことが確認できていない。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "e06f42ce-5e2d-47a3-a8bd-d07ccd961988",
+        "type": "message",
+        "text": "確認したいことは、idealがプロダクトで修正できる範囲にある限り、trueは1に張り付くんじゃないか？ということ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625573034.024600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vtunT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認したいことは、idealがプロダクトで修正できる範囲にある限り、trueは1に張り付くんじゃないか？ということ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "473cc2b4-3931-400b-830c-ea2bcde35327",
+        "type": "message",
+        "text": "そして、そのような状況に陥る条件（初期条件含む）を見つけること。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625573077.024800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iKz1N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そして、そのような状況に陥る条件（初期条件含む）を見つけること。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "500119a6-7d7f-4766-b58f-a33535f85682",
+        "type": "message",
+        "text": "であれば、trueも0.85スタートなどですかね。\nはい、やってみます",
+        "user": "UKH07E67M",
+        "ts": "1625573098.025000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u43c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "であれば、trueも0.85スタートなどですかね。\nはい、やってみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625555506.014800",
+        "parent_user_id": "UKH07E67M"
+    }
+]

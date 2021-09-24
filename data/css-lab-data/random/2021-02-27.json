@@ -1,0 +1,428 @@
+[
+    {
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>\nJSダイバージェンスについてやってみました。\n途中から黒くなってるので、決まったなにかの構造になってったぽいですね。\n世代的にいうと、ジャンルが整備されたくらいからですね。\n\nジャンルが整備されたことで、かかれる作品の方向性がそのジャンルに固定化された？",
+        "files": [
+            {
+                "id": "F01PLCCTA1Z",
+                "created": 1614413982,
+                "timestamp": 1614413982,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 421466,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PLCCTA1Z\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PLCCTA1Z\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PLCCTA1Z-d4777cd82f\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PLCCTA1Z-d4777cd82f\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PLCCTA1Z-d4777cd82f\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 269,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PLCCTA1Z-d4777cd82f\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 358,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PLCCTA1Z-d4777cd82f\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PLCCTA1Z-d4777cd82f\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 537,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PLCCTA1Z-d4777cd82f\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 597,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PLCCTA1Z-d4777cd82f\/image_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 716,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PLCCTA1Z-d4777cd82f\/image_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 764,
+                "original_w": 1606,
+                "original_h": 1198,
+                "thumb_tiny": "AwAjADCW4eUSttdgPQGovNm\/56N+dWJkBZjmoGQDoai5vG1gWSUr99vzpfMl\/wCejfnTV2hfvUEr\/eFF2OyHeZL\/AM9G\/OrcLHyk3EknPNUsr\/eq1Ef3cOD1JoVyZrQdIMk1Ay1PJ1NQNSYolVhzTaHPzGmk1okU2Oq7Cf3dt\/vH+tZ5YjvV6A\/urX3dv5GmRKReKg9qTYv90U6ikZkfkRHrGv5UfZ4v+ea\/lUlFAXI\/s8P\/ADyX8qcI0UKAgAXpx0p1FAH\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F01PLCCTA1Z\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01PLCCTA1Z-da083be493",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r=1px",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJSダイバージェンスについてやってみました。\n途中から黒くなってるので、決まったなにかの構造になってったぽいですね。\n世代的にいうと、ジャンルが整備されたくらいからですね。\n\nジャンルが整備されたことで、かかれる作品の方向性がそのジャンルに固定化された？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1614414185.050500",
+        "thread_ts": "1613833175.013900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "56125670-9071-4db1-8034-e6dfaa4b2fb6",
+        "type": "message",
+        "text": "<@UQ47R82RW> それっぽいね。一つ気になるのは、上三角と下三角は対称になるはずだけど、左下が白っぽく見えるのはどうしてだろう？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1614414366.050900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fryz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " それっぽいね。一つ気になるのは、上三角と下三角は対称になるはずだけど、左下が白っぽく見えるのはどうしてだろう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613833175.013900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "0539aa58-5960-419d-ab39-689f414076d6",
+        "type": "message",
+        "text": "新規のキーワードが多かったとかですかね？",
+        "user": "UQ47R82RW",
+        "ts": "1614414419.051100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xXcso",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新規のキーワードが多かったとかですかね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613833175.013900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "64ba8c4e-d352-4991-93f7-498547ec2629",
+        "type": "message",
+        "text": "いや、JSDの定義として対称になるはずなので、何かバグがあるのでは。それと「×テストベット」「〇テストベッド（test bed）」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1614414460.051300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fzFw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや、JSDの定義として対称になるはずなので、何かバグがあるのでは。それと「×テストベット」「〇テストベッド（test bed）」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613833175.013900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "e7dea05d-af0d-4e04-ae20-31e49652e0f1",
+        "type": "message",
+        "text": "今回のはランキングと出た小説のものについてやったので、おそらく、同じ確率分布の推移を用いている訳ではないので、こうなるのだと思います。",
+        "user": "UQ47R82RW",
+        "ts": "1614415534.051600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d1Nw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今回のはランキングと出た小説のものについてやったので、おそらく、同じ確率分布の推移を用いている訳ではないので、こうなるのだと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613833175.013900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "text": "実際に同じ分布でやったところ確かに対称になってそうです。",
+        "files": [
+            {
+                "id": "F01PDDYDPD4",
+                "created": 1614417034,
+                "timestamp": 1614417034,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 387510,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PDDYDPD4\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PDDYDPD4\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PDDYDPD4-a61b1482b0\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PDDYDPD4-a61b1482b0\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PDDYDPD4-a61b1482b0\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 269,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PDDYDPD4-a61b1482b0\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 358,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PDDYDPD4-a61b1482b0\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PDDYDPD4-a61b1482b0\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 537,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PDDYDPD4-a61b1482b0\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 597,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PDDYDPD4-a61b1482b0\/image_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 716,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PDDYDPD4-a61b1482b0\/image_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 764,
+                "original_w": 1606,
+                "original_h": 1198,
+                "thumb_tiny": "AwAjADCaeWRZWCscelME8h\/jNPmjYyMQOKhMbg5AqDdWsWo5CUBJOafu+tVEmVV2nIIp32hPWjUlxLW8+tPDcL71T+0J61OjhvJI75polxFbvUbVK3eo2pMEUJR+8b60ypJf9Y31plWtjQKvwn5bb\/gVZ\/Sr0R4tP+BfypkyehbKj0pNq+lONJSMhhgiPJQZo+zw\/wDPNakooC7I\/s8P\/PNacIkAXCgbfu+1OpaAuf\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F01PDDYDPD4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01PDDYDPD4-b1bd21b44c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dj7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "実際に同じ分布でやったところ確かに対称になってそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1614417086.051800",
+        "thread_ts": "1613833175.013900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "3dc50aac-9768-41b1-9691-0fa99bb3106f",
+        "type": "message",
+        "text": "&gt; 今回のはランキングと出た小説のものについてやった\n縦軸と横軸で違う種類（ランキングvs出た小説）の分布をとったということですか？\n「ランキング」というのはランキングに載った小説のキーワード、「出た小説」というのはすべての小説のキーワードという意味でOK？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1614417205.052200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NS4",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今回のはランキングと出た小説のものについてやった"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "縦軸と横軸で違う種類（ランキングvs出た小説）の分布をとったということですか？\n「ランキング」というのはランキングに載った小説のキーワード、「出た小説」というのはすべての小説のキーワードという意味でOK？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613833175.013900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "617a5718-c83e-471c-920d-1cf62ab9292a",
+        "type": "message",
+        "text": "そうです。",
+        "user": "UQ47R82RW",
+        "ts": "1614417294.052400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=zO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613833175.013900",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "bot_id": "B0163K2E5NK",
+        "type": "message",
+        "text": "Birthday congratulation",
+        "user": "U016X0FK7FB",
+        "ts": "1623376800.006700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B0163K2E5NK",
+            "deleted": false,
+            "name": "BirthdayBot",
+            "updated": 1593844121,
+            "app_id": "A0QAZV90X",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2016-07-11\/58539791104_bb5db9cc3e40aaf182ff_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "congratulation_15",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "Hello <@UKUKA65GU>,\n \nThere’s going to be some construction in the office today, so put on your hard hat because we’re gonna RAISE THE ROOF!\n \nHappy Birthday!",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "congratulation_overflow",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": "Like this message",
+                                "emoji": true
+                            },
+                            "value": "like-15-7"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": "Report this message",
+                                "emoji": true
+                            },
+                            "value": "dislike-15-7"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "image",
+                "block_id": "image_7",
+                "image_url": "https:\/\/d31h9pijuvf29u.cloudfront.net\/media\/c_images\/8d4b00b39c.gif",
+                "alt_text": "c_images\/8d4b00b39c.gif",
+                "fallback": "250x141px image",
+                "image_width": 250,
+                "image_height": 141,
+                "image_bytes": 634641,
+                "is_animated": true
+            }
+        ],
+        "thread_ts": "1623376800.006700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1623411707.007200",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1623411707.007200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1623411707.007200",
+        "reactions": [
+            {
+                "name": "birthday",
+                "users": [
+                    "U01RVMS0XBL",
+                    "U01TMSLEBUH",
+                    "U01EVRBP38C",
+                    "UKS1Q2KTQ",
+                    "U01EL0SAUTF"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

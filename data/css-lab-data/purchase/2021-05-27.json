@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "700a842d-c156-49a7-aace-9559942b0bbd",
+        "type": "message",
+        "text": "<@U01EPKVACEN> \n届  き  ま  し  た\nいつでもいいので取りに来たい時に連絡ください",
+        "user": "UPSPAMY7M",
+        "ts": "1622114306.004500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAMY7M",
+            "ts": "1622114348.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ri",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n届  き  ま  し  た\nいつでもいいので取りに来たい時に連絡ください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621814464.001200",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "U01EPKVACEN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

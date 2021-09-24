@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "f23766f3-3304-456c-9245-5c7463c7970c",
+        "type": "message",
+        "text": "次回輪講の担当箇所\n3-1,2 讃岐\n3-3 鈴木\n3-4 千葉\n3-5 金澤\n\n次回は未定です。(来週水曜日が火曜授業日程のため。)",
+        "user": "UKUKA65GU",
+        "ts": "1571802158.002900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UKH07E67M",
+                    "UQ47R82RW"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

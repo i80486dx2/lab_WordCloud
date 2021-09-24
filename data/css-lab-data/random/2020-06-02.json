@@ -1,0 +1,317 @@
+[
+    {
+        "client_msg_id": "3a47f483-c108-427d-84ad-683a4a9aba9a",
+        "type": "message",
+        "text": "なんかこういうカメラとOpen Poseとか使って面白いことできないかなー <https:\/\/hacosco.com\/insta360\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1591163775.021800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ハコスコ",
+                "title": "Insta360 カメラ一覧：高性能360°カメラ販売  | ハコスコ",
+                "title_link": "https:\/\/hacosco.com\/insta360\/",
+                "text": "プロ仕様、高解像度11Kの Insta360 TITANから、360°撮影初心者でも楽しめるInsta360 One X、180°動画撮影可能なInsta360 GOなど、高品質で操作もカンタンなInsta360カメラを販売中！",
+                "fallback": "ハコスコ: Insta360 カメラ一覧：高性能360°カメラ販売  | ハコスコ",
+                "thumb_url": "https:\/\/hacosco.com\/wp-content\/uploads\/2018\/03\/logo-open-graph.png",
+                "ts": 1515418704,
+                "from_url": "https:\/\/hacosco.com\/insta360\/",
+                "thumb_width": 641,
+                "thumb_height": 640,
+                "id": 1,
+                "original_url": "https:\/\/hacosco.com\/insta360\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hEj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんかこういうカメラとOpen Poseとか使って面白いことできないかなー "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hacosco.com\/insta360\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86887700-8899-4a0a-9300-49cb40f20a5f",
+        "type": "message",
+        "text": "こっちだった <https:\/\/www.insta360.com\/product\/insta360-go?insrc=INRUQCR%2F&amp;locale=ja-jp>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1591163813.022100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Insta360 GO",
+                "title_link": "https:\/\/www.insta360.com\/product\/insta360-go?insrc=INRUQCR%2F&locale=ja-jp",
+                "text": "世界最小の手ブレ補正つきアクションカメラ！ ハイパーラプス、スローモーション、バレルロールを簡単に撮れる。防水、どこにでも固定可能！",
+                "fallback": "Insta360 GO",
+                "from_url": "https:\/\/www.insta360.com\/product\/insta360-go?insrc=INRUQCR%2F&locale=ja-jp",
+                "service_icon": "https:\/\/static.insta360.com\/assets\/www\/common\/favicons\/favicon-96x96.png",
+                "service_name": "insta360.com",
+                "id": 1,
+                "original_url": "https:\/\/www.insta360.com\/product\/insta360-go?insrc=INRUQCR%2F&amp;locale=ja-jp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "==cO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こっちだった "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.insta360.com\/product\/insta360-go?insrc=INRUQCR%2F&locale=ja-jp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQ47R82RW",
+                    "UKUKA65GU",
+                    "UKH07E67M",
+                    "UPSPAP97D"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09862001-CA71-48F3-81B8-45F7B2001177",
+        "type": "message",
+        "text": "うええすげえ",
+        "user": "UKH07E67M",
+        "ts": "1591164529.022700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LwMOm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うええすげえ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85ae7cfc-7a6a-4ff3-8d9f-59a4b8be50e8",
+        "type": "message",
+        "text": "最近課プロでやってるような内容で、頻繁に人の動きが絡むような「無意識に作られるような現象」を可視化できたりしたら面白そうですね",
+        "user": "UKUKA65GU",
+        "ts": "1591164616.023700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Stz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最近課プロでやってるような内容で、頻繁に人の動きが絡むような「無意識に作られるような現象」を可視化できたりしたら面白そうですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "912F9C78-DE50-4185-A12E-FA629CD78ADE",
+        "type": "message",
+        "text": "2万！個人的にも買いたいなこれ",
+        "user": "UKH07E67M",
+        "ts": "1591164656.024100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AeUmN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2万！個人的にも買いたいなこれ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1957CC36-F248-4C0D-9419-881A51DE30F0",
+        "type": "message",
+        "text": "人によって違う目線とか分かりそう。\n雨の日にある人は空を見るけど別な人は地面を見る\nある場所では看板をよく見るけど別な人はタイルをよく見るとか。\n楽しそう！！",
+        "user": "UKH07E67M",
+        "ts": "1591164832.026200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PmVcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "人によって違う目線とか分かりそう。\n雨の日にある人は空を見るけど別な人は地面を見る\nある場所では看板をよく見るけど別な人はタイルをよく見るとか。\n楽しそう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efd66861-c39c-4f0a-94c8-735534ba27f0",
+        "type": "message",
+        "text": "調べたらOpenPoseって人の動きとかを点で表して（？）動きをプロットできそうだから、こういう動きをするとかっていうざっくりした結果じゃなく、具体的に数値でこういう動きをするってことが書けそう。\n面白そうですね",
+        "user": "UKUKA65GU",
+        "ts": "1591164964.027500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/IUrT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "調べたらOpenPoseって人の動きとかを点で表して（？）動きをプロットできそうだから、こういう動きをするとかっていうざっくりした結果じゃなく、具体的に数値でこういう動きをするってことが書けそう。\n面白そうですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

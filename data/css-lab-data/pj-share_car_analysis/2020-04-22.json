@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "text": "進捗を報告します。分析ツールを改良して、地図、グラフに加えて映像を表示出来るようにしました。タブ切り替えで複数の映像を見れるようにしたので、シェアカーの収集データを同時に見たいときは使えそうです。また、分析ツールの構造を見直して、dash-bootstrap-componentを導入したのでレスポンシブ対応しました。（表示は少しはみ出てしまう。）これからは地図、映像、グラフの連動表示なども試していきたいと思います。",
+        "files": [
+            {
+                "id": "F011XMPSE79",
+                "created": 1587603648,
+                "timestamp": 1587603648,
+                "name": "Dash - Google Chrome 2020-04-23 09-50-49_Trim.mp4",
+                "title": "Dash - Google Chrome 2020-04-23 09-50-49_Trim.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 2513307,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F011XMPSE79\/dash_-_google_chrome_2020-04-23_09-50-49_trim.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F011XMPSE79\/download\/dash_-_google_chrome_2020-04-23_09-50-49_trim.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F011XMPSE79-ce90b263f2\/dash_-_google_chrome_2020-04-23_09-50-49_trim_thumb_video.jpeg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F011XMPSE79\/dash_-_google_chrome_2020-04-23_09-50-49_trim.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F011XMPSE79-a64a95def4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SVHsj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "進捗を報告します。分析ツールを改良して、地図、グラフに加えて映像を表示出来るようにしました。タブ切り替えで複数の映像を見れるようにしたので、シェアカーの収集データを同時に見たいときは使えそうです。また、分析ツールの構造を見直して、dash-bootstrap-componentを導入したのでレスポンシブ対応しました。（表示は少しはみ出てしまう。）これからは地図、映像、グラフの連動表示なども試していきたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "display_as_bot": false,
+        "ts": "1587603651.012200",
+        "client_msg_id": "4f0e7470-5e20-4020-b1b0-7243fee95758",
+        "thread_ts": "1587603651.012200",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1587945452.014000",
+        "reply_users": [
+            "UPSPAMY7M",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1587733431.012600"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1587826944.012800"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1587860590.013000"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1587860657.013300"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1587861449.013500"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1587900693.013800"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1587945452.014000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

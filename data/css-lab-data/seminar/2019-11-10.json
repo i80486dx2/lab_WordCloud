@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "79317ff6-ccef-4fc5-83a6-b931e11e3e4a",
+        "type": "message",
+        "text": "金澤君からは授業で参加できない旨、連絡がありました。とりあえず水曜16時からやりましょうか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1573442384.007000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573135598.004200",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UKUKA65GU",
+                    "UKH07E67M"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "F2B45F21-D2AB-4DFC-9DD8-E85070CCEB4A",
+        "type": "message",
+        "text": "Be assured. He is a non aggressive pervert.",
+        "user": "U01EVRBP38C",
+        "ts": "1615448725.019200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UAYbz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Be assured. He is a non aggressive pervert."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615261259.015900"
+    }
+]

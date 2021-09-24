@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "94105584-86e0-440e-b663-a9e19baeec98",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> \n今週の水曜日の輪講も前回同様リモートでやりますか？",
+        "user": "UQ47R82RW",
+        "ts": "1586160843.011700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pphCO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n今週の水曜日の輪講も前回同様リモートでやりますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585721972.007900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "0ddfa30f-0da7-4e8e-9ee6-802d3330dfa6",
+        "type": "message",
+        "text": "<@UQ47R82RW> そですね。今後しばらくはリモート縛りで慣れるようにしましょうか。新学期で人の移動も多いので、形式だけじゃなくて、皆さんもしばらくは様子を見て気を付けるようにしましょう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1586163616.014200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1586163701.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I2y5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " そですね。今後しばらくはリモート縛りで慣れるようにしましょうか。新学期で人の移動も多いので、形式だけじゃなくて、皆さんもしばらくは様子を見て気を付けるようにしましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585721972.007900",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f68321b-3d2e-454c-b894-2304e9235591",
+        "type": "message",
+        "text": "了解です",
+        "user": "UQ47R82RW",
+        "ts": "1586163700.014400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6iW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585721972.007900",
+        "parent_user_id": "UQ47R82RW"
+    }
+]

@@ -1,0 +1,203 @@
+[
+    {
+        "type": "message",
+        "text": "Macに元から入ってるgrapherっていうソフトでレンと一緒にハート作りました笑。\n関数を打ち込むと描写してくれるので色々試せて面白かったです:+1:",
+        "files": [
+            {
+                "id": "F01H1ESUZ7X",
+                "created": 1608203734,
+                "timestamp": 1608203734,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01EP8BUKQT",
+                "editable": false,
+                "size": 9630,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01H1ESUZ7X\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01H1ESUZ7X\/download\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01H1ESUZ7X-4bc2fefd81\/ios___________64.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01H1ESUZ7X-4bc2fefd81\/ios___________80.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01H1ESUZ7X-4bc2fefd81\/ios___________360.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 234,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01H1ESUZ7X-4bc2fefd81\/ios___________480.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 312,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01H1ESUZ7X-4bc2fefd81\/ios___________160.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01H1ESUZ7X-4bc2fefd81\/ios___________720.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 468,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01H1ESUZ7X-4bc2fefd81\/ios___________800.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 520,
+                "original_w": 825,
+                "original_h": 536,
+                "thumb_tiny": "AwAfADDMooooAKKntER5SHAPHGafc2yRIWD854FTzK9ieZXsVaKKKooKKKKAFVirbgcEUM7OcsSaSigAooooA\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01EP8BUKQT\/F01H1ESUZ7X\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01H1ESUZ7X-f7c893685f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hfwn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Macに元から入ってるgrapherっていうソフトでレンと一緒にハート作りました笑。\n関数を打ち込むと描写してくれるので色々試せて面白かったです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01EP8BUKQT",
+        "display_as_bot": false,
+        "ts": "1608203785.106700",
+        "client_msg_id": "DAABE03E-8FC8-46CD-8E83-86D0A1239BF9",
+        "thread_ts": "1608203785.106700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1608203929.107300",
+        "reply_users": [
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1608203929.107300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U01EP8BUKQT",
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "U01F42ZFA73",
+                    "UQ63J44BZ",
+                    "UKUKA65GU",
+                    "UPSPAP97D",
+                    "U01EL0SAUTF"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "隠れミッキー関数",
+        "files": [
+            {
+                "id": "F01HH6P8N73",
+                "created": 1608203916,
+                "timestamp": 1608203916,
+                "name": "Screen Shot 2020-12-16 at 14.49.07.png",
+                "title": "Screen Shot 2020-12-16 at 14.49.07.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 545267,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01HH6P8N73\/screen_shot_2020-12-16_at_14.49.07.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01HH6P8N73\/download\/screen_shot_2020-12-16_at_14.49.07.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01HH6P8N73-633482e208\/screen_shot_2020-12-16_at_14.49.07_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01HH6P8N73-633482e208\/screen_shot_2020-12-16_at_14.49.07_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01HH6P8N73-633482e208\/screen_shot_2020-12-16_at_14.49.07_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 229,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01HH6P8N73-633482e208\/screen_shot_2020-12-16_at_14.49.07_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 306,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01HH6P8N73-633482e208\/screen_shot_2020-12-16_at_14.49.07_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01HH6P8N73-633482e208\/screen_shot_2020-12-16_at_14.49.07_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 458,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01HH6P8N73-633482e208\/screen_shot_2020-12-16_at_14.49.07_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 509,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01HH6P8N73-633482e208\/screen_shot_2020-12-16_at_14.49.07_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 611,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01HH6P8N73-633482e208\/screen_shot_2020-12-16_at_14.49.07_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 652,
+                "original_w": 3968,
+                "original_h": 2526,
+                "thumb_tiny": "AwAeADCp9vuf+ep\/IUfb7n\/nqfyFV6KALH265\/56n8hT\/tl1tz5xx9BVXaScYqbfH5ezJ9M4pNkt9hft1z\/z1P5Cj7fc\/wDPU\/kKg2nPTj1pKZQUUUUATeZugK9x+oqGjpTt\/sKVrCtbYejbYjnueBUVBJY5NFCQJH\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F01HH6P8N73\/screen_shot_2020-12-16_at_14.49.07.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01HH6P8N73-d49215cc3a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iEuf=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "隠れミッキー関数"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01F42ZFA73",
+        "display_as_bot": false,
+        "ts": "1608203929.107300",
+        "thread_ts": "1608203785.106700",
+        "parent_user_id": "U01EP8BUKQT",
+        "reactions": [
+            {
+                "name": "mickey_mouse_1",
+                "users": [
+                    "U01EP8BUKQT",
+                    "UQ63J44BZ",
+                    "UKUKA65GU",
+                    "UPSPAP97D",
+                    "UQ47R82RW"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

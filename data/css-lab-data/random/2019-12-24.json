@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "fa5dd546-6af2-42cf-8869-67297e073a66",
+        "type": "message",
+        "text": "みんな忙しそうなので年明けになっちゃいますかね...",
+        "user": "UKUKA65GU",
+        "ts": "1577182895.006600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pRa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みんな忙しそうなので年明けになっちゃいますかね..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576818213.000600",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "e887f9d6-e50b-4728-aad7-e47aebe93c69",
+        "type": "message",
+        "text": "だなー",
+        "user": "UKS1Q2KTQ",
+        "ts": "1577209669.006800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ovkd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "だなー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1576818213.000600",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

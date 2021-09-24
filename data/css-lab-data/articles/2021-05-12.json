@@ -1,0 +1,220 @@
+[
+    {
+        "client_msg_id": "c794fc31-de81-4f90-86f5-4bfb70a10aab",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01EL0SAUTF> では２回くらいに分けて、１回目は abst と intro を <@U01EL0SAUTF> 君、literature review を <@UPSPAP97D> 君、method を私がやりましょうか。私はその場で読んでいこうと思いますが、二人は事前にざっと目を通して、輪講ですんなり訳せるように頑張ってみてください。\n\n１回目はいつにしましょうか？今週は木曜、金曜とも、夕方以降は時間あります。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620815612.004600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3dIy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " では２回くらいに分けて、１回目は abst と intro を "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君、literature review を "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君、method を私がやりましょうか。私はその場で読んでいこうと思いますが、二人は事前にざっと目を通して、輪講ですんなり訳せるように頑張ってみてください。\n\n１回目はいつにしましょうか？今週は木曜、金曜とも、夕方以降は時間あります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620798759.001000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "F4E25DCA-4C29-46C6-A808-102B5AAEA6C5",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 輪講の進め方、了解です。\n\n今週なら\n木曜　17:00以降いつでも\n金曜　いつでもok\n\nという感じです。",
+        "user": "UPSPAP97D",
+        "ts": "1620816547.006900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KdHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 輪講の進め方、了解です。\n\n今週なら\n木曜　17:00以降いつでも\n金曜　いつでもok\n\nという感じです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620798759.001000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "528356a8-ce8f-4707-9197-199497a98f0a",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>\n了解です。\n木曜　ミーティング後\n金曜　16以降なら可能です！",
+        "user": "U01EL0SAUTF",
+        "ts": "1620823982.007100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6FVQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n了解です。\n木曜　ミーティング後\n金曜　16以降なら可能です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620798759.001000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "161a17b2-5bca-419e-8b7c-99e07a8316b9",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01EL0SAUTF> では早速になりますが明日木曜の18時からやりましょうか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620830637.007300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IWQH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " では早速になりますが明日木曜の18時からやりましょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620798759.001000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U01EL0SAUTF",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

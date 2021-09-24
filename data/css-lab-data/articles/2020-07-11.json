@@ -1,0 +1,523 @@
+[
+    {
+        "client_msg_id": "bba6598a-ebd9-4116-baf1-e46de48c1c31",
+        "type": "message",
+        "text": "<https:\/\/www.tohoku.ac.jp\/japanese\/2020\/07\/press20200710-01-muda.html>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594473004.000200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "東北大学 -TOHOKU UNIVERSITY-",
+                "title": "自然界の「ムダの進化」が生物多様性を支える  生物種の個体数増加に寄与しない利己的な性質の進化が導く多種共存",
+                "title_link": "https:\/\/www.tohoku.ac.jp\/japanese\/2020\/07\/press20200710-01-muda.html",
+                "text": "【発表のポイント】 自然界でこれほど多様な生物種が共存できるのはなぜか、「競争強者」が「弱者」を排除してしまわないのはなぜか、生態学の重大な未解決問題を解く理論の提案。 多くの生物（特にオス）に見られ...",
+                "fallback": "東北大学 -TOHOKU UNIVERSITY-: 自然界の「ムダの進化」が生物多様性を支える  生物種の個体数増加に寄与しない利己的な性質の進化が導く多種共存",
+                "from_url": "https:\/\/www.tohoku.ac.jp\/japanese\/2020\/07\/press20200710-01-muda.html",
+                "thumb_url": "https:\/\/www.tohoku.ac.jp\/share\/img\/ogp_logo.png",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.tohoku.ac.jp\/japanese\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.tohoku.ac.jp\/japanese\/2020\/07\/press20200710-01-muda.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4rk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tohoku.ac.jp\/japanese\/2020\/07\/press20200710-01-muda.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594473004.000200",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1594475698.009300",
+        "reply_users": [
+            "UQ47R82RW",
+            "UKUKA65GU",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1594473520.001000"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1594473631.003300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1594473726.004500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594473824.006200"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1594473856.007100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594473872.007400"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1594473954.008800"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1594474522.009000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594475698.009300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1594475698.009300",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UKUKA65GU",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "blue_book",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1ae62b7-70e7-4d3f-99c9-3f59dcbb6b81",
+        "type": "message",
+        "text": "面白いですね！\n\nモテることにより起こる内部対決、裏切りによる自己のみの進化とコミュニティの損失…\n自然界で話の流れでできていますが、経済とかに置き換えても一部成立しそうですね。",
+        "user": "UQ47R82RW",
+        "ts": "1594473520.001000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6igx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "面白いですね！\n\nモテることにより起こる内部対決、裏切りによる自己のみの進化とコミュニティの損失…\n自然界で話の流れでできていますが、経済とかに置き換えても一部成立しそうですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594473004.000200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "2BC82C00-C8AE-4A08-93D3-01DC300972F8",
+        "type": "message",
+        "text": "面白いですね...繁殖にダイレクトには関わらない「モテ要素」とか「裏切り行為」であったりとか、「ムダ」な進化が色んな決定を促すことで間接的に子孫繁栄の決定に繋がったりするみたいな...",
+        "user": "UKUKA65GU",
+        "ts": "1594473631.003300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rjsh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "面白いですね...繁殖にダイレクトには関わらない「モテ要素」とか「裏切り行為」であったりとか、「ムダ」な進化が色んな決定を促すことで間接的に子孫繁栄の決定に繋がったりするみたいな..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594473004.000200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "bc22c631-0206-4705-a3da-99f3dcb73091",
+        "type": "message",
+        "text": "逆にいうとモテるとか、裏切りがないコミュニティって莫大に増えるとか？\n~プランクトンとかがそうなのかな？~",
+        "user": "UQ47R82RW",
+        "ts": "1594473726.004500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1594473862.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSQG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "逆にいうとモテるとか、裏切りがないコミュニティって莫大に増えるとか？\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "プランクトンとかがそうなのかな？",
+                                "style": {
+                                    "strike": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594473004.000200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "dae2f6a9-ab8e-44ff-b8f6-034a2d47c2cf",
+        "type": "message",
+        "text": "ゲーム理論的に考えても面白いテーマですね。囚人のジレンマゲームでは個体レベルでは必ず「裏切り」を選択するのが有利だけれど、集団としての生き残りを考えると事態が複雑になる。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594473824.006200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sjK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゲーム理論的に考えても面白いテーマですね。囚人のジレンマゲームでは個体レベルでは必ず「裏切り」を選択するのが有利だけれど、集団としての生き残りを考えると事態が複雑になる。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594473004.000200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "A973CA51-408C-41C9-BA19-600C242A946F",
+        "type": "message",
+        "text": "それもまた面白いし考えさせられますね:thinking_face:競争する必要がない繁殖の仕方って、相手を選ぶことを必要としないと考えると、力を注ぐ方向が繁殖するということだけに絞られれば莫大に増えそう..",
+        "user": "UKUKA65GU",
+        "ts": "1594473856.007100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qrE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それもまた面白いし考えさせられますね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "競争する必要がない繁殖の仕方って、相手を選ぶことを必要としないと考えると、力を注ぐ方向が繁殖するということだけに絞られれば莫大に増えそう.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594473004.000200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "88d4516d-d377-47f8-b37c-30325d387fb0",
+        "type": "message",
+        "text": "単一の価値判断に全振りの競争はカタストロフィが起きやすそう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594473872.007400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLOr8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "単一の価値判断に全振りの競争はカタストロフィが起きやすそう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594473004.000200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "CE2521F8-C888-42CE-B7CC-7FB3574DBDEC",
+        "type": "message",
+        "text": "ゲーム理論だと、最善手というか、そうすべきということが一点に決まるイメージですが、集団としての生き残りを考えると確かに複雑そう...",
+        "user": "UKUKA65GU",
+        "ts": "1594473954.008800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ckv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゲーム理論だと、最善手というか、そうすべきということが一点に決まるイメージですが、集団としての生き残りを考えると確かに複雑そう..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594473004.000200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "63e49773-eb40-4e8e-b588-381cc8ad6c7c",
+        "type": "message",
+        "text": "今のコロナによる行動で言うと\nパターン的に\n1、コロナなんて知らない。いつも通りっていう人\n2、コロナ怖い。家から動かないという人\n3、コロナは怖いけど経済が動かないのも怖い。いつもより動かないけど、少しは家から出るという人。\n\nみたいな感じに分類できるとしたら。\n\n本来全員が2であれば消滅するであろうコロナが1と2や2と3などが争って、結局いつまでも共存するみたいな感じになりそう。",
+        "user": "UQ47R82RW",
+        "ts": "1594474522.009000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1594474540.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今のコロナによる行動で言うと\nパターン的に\n1、コロナなんて知らない。いつも通りっていう人\n2、コロナ怖い。家から動かないという人\n3、コロナは怖いけど経済が動かないのも怖い。いつもより動かないけど、少しは家から出るという人。\n\nみたいな感じに分類できるとしたら。\n\n本来全員が2であれば消滅するであろうコロナが1と2や2と3などが争って、結局いつまでも共存するみたいな感じになりそう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594473004.000200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "f5f783d4-8436-4685-be42-847d8e4066ad",
+        "type": "message",
+        "text": "↑そういうグループが複数あったときに、2を全員が守るグループがいるとそこが一強になってしまうけど、実際は各グループは内部で一枚岩になれないから、全体として多様性が保持されるっていう話かな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594475698.009300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zxc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑そういうグループが複数あったときに、2を全員が守るグループがいるとそこが一強になってしまうけど、実際は各グループは内部で一枚岩になれないから、全体として多様性が保持されるっていう話かな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594473004.000200",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQ47R82RW",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

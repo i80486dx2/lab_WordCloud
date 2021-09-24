@@ -1,0 +1,186 @@
+[
+    {
+        "type": "message",
+        "text": "お疲れ様です。進捗を報告します。\n\n『ある点おける、その人自身の家からの距離で分けたcsvのデータ(家を見つけられなかったデータを省く)』をkepler.gl可視化したものです。\n初期で表示されたデータは家と断定した部分のプロットで、他はfilterかけているのでまだ表示されてません。\n\nデータの定義:\n[家の位置] 全ての日にちでの、AM2:00における latitude(lat), longitude(long)を id毎に保存。その後、latとlongを小数点以下第3位で丸めこむ[roud関数で]。このデータでの、id毎に “lat,lognのペア最頻値 > 3” となる lat,longペアのみを使用。\n[家からの距離] 上で求めた “家の位置 lat, long” と, 一致するid での “とある位置 lat, long” で二点間の距離を求める式を使用し、家からの距離を求めた。\n[csv名] ・…threshold_0.01       家からの距離: 0.005以上 かつ 0.01未満 になる点\n            ・…threshold_0.05        家からの距離: 0.01以上 かつ 0.05未満 になる点\n           ・…threshold_0.1           家からの距離: 0.05以上 かつ 0.1未満 になる点\n           ・…threshold_0.5           家からの距離: 0.1以上 かつ 0.5未満 になる点\n           ・…home_AM2              家の位置を表すもの\n\nhtmlの見方:\n左上の部分に “fliter” っぽいボタンがあるので、そこを押す。\n次に、“時計” のボタンがあるのでそこを押すと、それぞれ一致するcsvの時間変化の様子を再生するウィンドウが生まれるので、それを再生する。(初期にある再生ウィンドウ は 家からの距離しきい値: 0.01 のデータです)\n\n\n参考までに、自分が作成したJupterLab(JupterNotebook)コードを添えます。(読みにくいとは思いますが、再利用してくれたら嬉しいです。)",
+        "files": [
+            {
+                "id": "F016HFPT5QX",
+                "created": 1594529454,
+                "timestamp": 1594529454,
+                "name": "living_aizu_by_distance_threshold.html",
+                "title": "living_aizu_by_distance_threshold.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "UPSPAP97D",
+                "editable": false,
+                "size": 34560281,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016HFPT5QX\/living_aizu_by_distance_threshold.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016HFPT5QX\/download\/living_aizu_by_distance_threshold.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F016HFPT5QX\/living_aizu_by_distance_threshold.html",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016HFPT5QX-87e47fb3c2",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F016HFQ2UT1",
+                "created": 1594529486,
+                "timestamp": 1594529486,
+                "name": "find_home.ipynb",
+                "title": "find_home.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "UPSPAP97D",
+                "editable": false,
+                "size": 322959,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016HFQ2UT1\/find_home.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016HFQ2UT1\/download\/find_home.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F016HFQ2UT1\/find_home.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016HFQ2UT1-6ef3e48a20",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SfTCq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。進捗を報告します。\n\n『ある点おける、その人自身の家からの距離で分けたcsvのデータ(家を見つけられなかったデータを省く)』をkepler.gl可視化したものです。\n初期で表示されたデータは家と断定した部分のプロットで、他はfilterかけているのでまだ表示されてません。\n\nデータの定義:\n[家の位置] 全ての日にちでの、AM2:00における latitude(lat), longitude(long)を id毎に保存。その後、latとlongを小数点以下第3位で丸めこむ[roud関数で]。このデータでの、id毎に “lat,lognのペア最頻値 > 3” となる lat,longペアのみを使用。\n[家からの距離] 上で求めた “家の位置 lat, long” と, 一致するid での “とある位置 lat, long” で二点間の距離を求める式を使用し、家からの距離を求めた。\n[csv名] ・…threshold_0.01       家からの距離: 0.005以上 かつ 0.01未満 になる点\n            ・…threshold_0.05        家からの距離: 0.01以上 かつ 0.05未満 になる点\n           ・…threshold_0.1           家からの距離: 0.05以上 かつ 0.1未満 になる点\n           ・…threshold_0.5           家からの距離: 0.1以上 かつ 0.5未満 になる点\n           ・…home_AM2              家の位置を表すもの\n\nhtmlの見方:\n左上の部分に “fliter” っぽいボタンがあるので、そこを押す。\n次に、“時計” のボタンがあるのでそこを押すと、それぞれ一致するcsvの時間変化の様子を再生するウィンドウが生まれるので、それを再生する。(初期にある再生ウィンドウ は 家からの距離しきい値: 0.01 のデータです)\n\n\n参考までに、自分が作成したJupterLab(JupterNotebook)コードを添えます。(読みにくいとは思いますが、再利用してくれたら嬉しいです。)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAP97D",
+        "ts": "1594529493.077200",
+        "thread_ts": "1594529493.077200",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1594620794.094700",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594535919.077900"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1594539445.086400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594558402.087400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594558411.087600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1594559917.088000"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1594602900.092300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1594613590.094000"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1594620794.094700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1594620794.094700",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f30dbf74-d816-419b-80e9-0c59287e4378",
+        "type": "message",
+        "text": "<@UPSPAP97D> filterのボタンを押すと5つのcsvとthresholdごとの4つのボックスが表示されますが、\"時計\"のボタンというのはこのボックスの中の時計アイコンのことでしょうか？これはどういう見方をすればいいですか？つまりここから何を読み取ろうとするのが正しい使い方でしょうか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594535919.077900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1594535945.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " filterのボタンを押すと5つのcsvとthresholdごとの4つのボックスが表示されますが、\"時計\"のボタンというのはこのボックスの中の時計アイコンのことでしょうか？これはどういう見方をすればいいですか？つまりここから何を読み取ろうとするのが正しい使い方でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594529493.077200",
+        "parent_user_id": "UPSPAP97D"
+    }
+]

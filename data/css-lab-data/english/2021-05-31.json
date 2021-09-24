@@ -1,0 +1,2129 @@
+[
+    {
+        "client_msg_id": "83ac28c3-7b7e-4550-9c4d-518c3ecb0ba7",
+        "type": "message",
+        "text": "<@UQ47R82RW> What a spicy food this is. なんて辛い食べ物なんだ、とか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622445744.099700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WM7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " What a spicy food this is. なんて辛い食べ物なんだ、とか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096200",
+        "parent_user_id": "U01UMQH4W4B",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79949e27-f66f-4937-9b8d-ab8940cdfed2",
+        "type": "message",
+        "text": "The name is “Fly club”, we want that you come our club.",
+        "user": "UKH07E67M",
+        "ts": "1622452661.100000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WxG8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The name is “Fly club”, we want that you come our club."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622302377.084000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7e60600e-91b3-4205-9b4d-720d6707fb0e",
+        "type": "message",
+        "text": "`The name is \"Fly club\", we want that you come our club.`\nその名も「Fly club」、私たちのクラブに来ていただきたいのです。\n• come -&gt; come to　comeの後ろに名詞ならtoをつける。副詞ならいらない\n• would like you to ~ ~していただきたいは思いつかなかった\n• really強調も同じく \n• <https:\/\/emgr.jp\/want-that-is-unnatural\/> want that は慣例的に推奨されないらしい",
+        "user": "UKH07E67M",
+        "ts": "1622452994.100200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1622453159.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "技術系管理職の基礎知識",
+                "title": "Want の後にthat節は続かない",
+                "title_link": "https:\/\/emgr.jp\/want-that-is-unnatural\/",
+                "text": "誰かに何かをして欲しい時に want を使えばよいのですが、問題は目的語にthat節を続けられないことを覚えておかなくてはいけません。&lt;正解&gt;I want you to come here as soon as possible",
+                "fallback": "技術系管理職の基礎知識: Want の後にthat節は続かない",
+                "thumb_url": "https:\/\/emgr.jp\/wp-content\/uploads\/2017\/03\/pexels-photo-258447.jpeg",
+                "ts": 1538928092,
+                "from_url": "https:\/\/emgr.jp\/want-that-is-unnatural\/",
+                "thumb_width": 1280,
+                "thumb_height": 954,
+                "service_icon": "https:\/\/emgr.jp\/wp-content\/uploads\/2018\/12\/cropped-eng-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/emgr.jp\/want-that-is-unnatural\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Ovtw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The name is \"Fly club\", we want that you come our club.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nその名も「Fly club」、私たちのクラブに来ていただきたいのです。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "come -> come to　comeの後ろに名詞ならtoをつける。副詞ならいらない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "would like you to ~ ~していただきたいは思いつかなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "really強調も同じく "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/emgr.jp\/want-that-is-unnatural\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " want that は慣例的に推奨されないらしい"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622302377.084100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "9100ae01-973d-4add-a87b-25a58c3a871a",
+        "type": "message",
+        "text": "Ah, I wanna see all people that lie at under my position.",
+        "user": "UKH07E67M",
+        "ts": "1622453321.100600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Plj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, I wanna see all people that lie at under my position."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622346832.084800"
+    },
+    {
+        "client_msg_id": "466f0d43-2b78-40e2-9750-d8a312ae2090",
+        "type": "message",
+        "text": "`Ah, I wanna see all people that lie at under my position.`\nああ、自分のポジションの下に横たわるすべての人を見てみたい。\n• ひれ伏すがわからなかったので、「全人類が自分の前で倒れるのをみたい」と言い換えてみたが、よく考えなくてもそれはおかしかった\n• at はいらない \n• 人類　mankind　生物としてのヒトの呼び方か\n• at my feet　すごいわかりやすいけど思い付けない\n• feet(foot): くるぶし以下　leg: 脚全体\n• grovel　ひれ伏す　",
+        "user": "UKH07E67M",
+        "ts": "1622453791.100800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Zz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, I wanna see all people that lie at under my position.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nああ、自分のポジションの下に横たわるすべての人を見てみたい。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ひれ伏すがわからなかったので、「全人類が自分の前で倒れるのをみたい」と言い換えてみたが、よく考えなくてもそれはおかしかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "at はいらない "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "人類　mankind　生物としてのヒトの呼び方か"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "at my feet　すごいわかりやすいけど思い付けない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "feet(foot): くるぶし以下　leg: 脚全体"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "grovel　ひれ伏す　"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622347857.085200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "1595113d-80aa-4c65-b5de-b375677b43e4",
+        "type": "message",
+        "text": "Good girl, isn’t it? You should guard her.",
+        "user": "UKH07E67M",
+        "ts": "1622453910.101000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LZ3x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good girl, isn’t it? You should guard her."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "d1ff13b3-97b0-448d-9494-7b69ac238758",
+        "type": "message",
+        "text": "`Good girl, isn't it? You should guard her.`\nいい子だよね。彼女を守ってあげてください。\n• なんてwhat!\n• goodよりも可愛らしいという意味でprettyかあ\n• protect 守\n• <https:\/\/ryotoeikaiwa.net\/youd-better-%E5%8B%95%E8%A9%9E%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%A8%E3%81%9D%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%80%90should%E3%81%A8%E3%81%AE%E9%81%95%E3%81%84%E3%82%82%E3%82%8F%E3%81%8B\/|https:\/\/ryotoeikaiwa.net\/youd-better-%E5%8B%95%E8%A9%9E%E3%81%AE%E6%84%8F%E5%91%B3%E3[…]81%A8%E3%81%AE%E9%81%95%E3%81%84%E3%82%82%E3%82%8F%E3%81%8B\/> betterのこの使い方知らなかった「「〜したほうがいいよ」の“should”は単なるアドバイスなのに対して、*“had better”はアドバイスしたことをしないとマイナスな結果を招くことをほのめかします。*なので*、緊急性を伴うアドバイス*となります。」\n• *protect*は防護服や電子機器のケースのような保護具を使って、人や物が傷つけられないように「保護する」ことを意味します。 *defend*は攻撃に抵抗、または反撃をして人や場所を「守る」ことです。 *guard*は近くで見張りをしながら人や場所を「警備する」場合に使います。　うん、protectだ ",
+        "user": "UKH07E67M",
+        "ts": "1622454163.101200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "RYO 英会話ジム",
+                "title": "“You’d better + 動詞”の意味とその使い方【shouldとの違いもわかる】 | RYO英会話ジム",
+                "title_link": "https:\/\/ryotoeikaiwa.net\/youd-better-%E5%8B%95%E8%A9%9E%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%A8%E3%81%9D%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%80%90should%E3%81%A8%E3%81%AE%E9%81%95%E3%81%84%E3%82%82%E3%82%8F%E3%81%8B\/",
+                "text": "目次Youtubeで聞く“You’d better + 動詞”の意味とその使い方“should”と”had better”の違いは？&amp;#...",
+                "fallback": "RYO 英会話ジム: “You’d better + 動詞”の意味とその使い方【shouldとの違いもわかる】 | RYO英会話ジム",
+                "image_url": "https:\/\/ryotoeikaiwa.net\/wp-content\/uploads\/2019\/10\/Click-here-for-regular-updates.-91-1.png",
+                "image_width": 450,
+                "image_height": 250,
+                "ts": 1572405858,
+                "from_url": "https:\/\/ryotoeikaiwa.net\/youd-better-%E5%8B%95%E8%A9%9E%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%A8%E3%81%9D%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%80%90should%E3%81%A8%E3%81%AE%E9%81%95%E3%81%84%E3%82%82%E3%82%8F%E3%81%8B\/",
+                "image_bytes": 26675,
+                "service_icon": "https:\/\/ryotoeikaiwa.net\/wp-content\/uploads\/2020\/05\/image-2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/ryotoeikaiwa.net\/youd-better-%E5%8B%95%E8%A9%9E%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%A8%E3%81%9D%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%80%90should%E3%81%A8%E3%81%AE%E9%81%95%E3%81%84%E3%82%82%E3%82%8F%E3%81%8B\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vswjb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good girl, isn't it? You should guard her.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nいい子だよね。彼女を守ってあげてください。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "なんてwhat!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "goodよりも可愛らしいという意味でprettyかあ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "protect 守"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/ryotoeikaiwa.net\/youd-better-%E5%8B%95%E8%A9%9E%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%A8%E3%81%9D%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%80%90should%E3%81%A8%E3%81%AE%E9%81%95%E3%81%84%E3%82%82%E3%82%8F%E3%81%8B\/",
+                                        "text": "https:\/\/ryotoeikaiwa.net\/youd-better-%E5%8B%95%E8%A9%9E%E3%81%AE%E6%84%8F%E5%91%B3%E3[…]81%A8%E3%81%AE%E9%81%95%E3%81%84%E3%82%82%E3%82%8F%E3%81%8B\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " betterのこの使い方知らなかった「「〜したほうがいいよ」の“should”は単なるアドバイスなのに対して、"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "“had better”はアドバイスしたことをしないとマイナスな結果を招くことをほのめかします。",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "なので"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "、緊急性を伴うアドバイス",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "となります。」"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "protect",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "は防護服や電子機器のケースのような保護具を使って、人や物が傷つけられないように「保護する」ことを意味します。 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "defend",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "は攻撃に抵抗、または反撃をして人や場所を「守る」ことです。 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "guard",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "は近くで見張りをしながら人や場所を「警備する」場合に使います。　うん、protectだ "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "0E667645-11B0-4166-8BF0-CDAA5DD5583C",
+        "type": "message",
+        "text": "Good girl, You can protect her.",
+        "user": "UKUKA65GU",
+        "ts": "1622465860.102300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Nn=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good girl, You can protect her."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "F6123022-07C9-4D5D-AAD9-9866D7BC1BD3",
+        "type": "message",
+        "text": "`Good girl, You can protect her.`\n感嘆文かぁ...\nBetter 命令形は初めて見ました。\n個人的に、このおかみさんはジブリの中でもトップクラスに好き",
+        "user": "UKUKA65GU",
+        "ts": "1622466049.103700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good girl, You can protect her.\n",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "感嘆文かぁ...\nBetter 命令形は初めて見ました。\n個人的に、このおかみさんはジブリの中でもトップクラスに好き"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1622467174.103900",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1622467174.103900",
+        "reply_count": 7,
+        "reply_users_count": 7,
+        "latest_reply": "1622563307.115600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01EPKVACEN",
+            "UKH07E67M",
+            "U01F42ZFA73",
+            "UQ47R82RW",
+            "UPSPAP97D",
+            "U01EVRBP38C"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622468268.104000"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1622469039.104200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622518097.105200"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1622522140.106400"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622522786.108100"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622523928.110400"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622563307.115600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622563307.115600",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 高いレベルのミキプルーンが、 中井貴一の家の地下水で検出された。 <https:\/\/pbs.twimg.com\/media\/E2uB0HkVcAAQeDW.jpg>",
+                "ts": 1622467169,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1399354847552442368",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1399354847552442368>",
+                "text": "高いレベルのミキプルーンが、 中井貴一の家の地下水で検出された。 <https:\/\/pbs.twimg.com\/media\/E2uB0HkVcAAQeDW.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1399354847552442368",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E2uB0HkVcAAQeDW.jpg",
+                "image_width": 400,
+                "image_height": 500,
+                "image_bytes": 47454,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64c1cb38-6450-499c-beea-3aba6df606fb",
+        "type": "message",
+        "text": "High-level Miki prunes were detected in the subterranean water of Kiichi Nakai's house.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622468268.104000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bLz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "High-level Miki prunes were detected in the subterranean water of Kiichi Nakai's house."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622467174.103900"
+    },
+    {
+        "client_msg_id": "aa3894a4-3609-4853-a8a3-f3d536c9e4b8",
+        "type": "message",
+        "text": "The high level miki plune was found in underwater of Kiichi Nakai’s house.",
+        "user": "U01EPKVACEN",
+        "ts": "1622469039.104200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3h1h+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The high level miki plune was found in underwater of Kiichi Nakai’s house."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622467174.103900"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "貧乏軍人のおれですら、久しく錆びついてた野心がうずいてくらあ（クロトワ\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1622475177.104400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622475177.104400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1622525322.110800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UQ47R82RW",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622508641.104800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622518882.106000"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622522967.109500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622525322.110800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622525322.110800"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：貧乏軍人のおれですら、久しく錆びついてた野心がうずいてくらあ",
+        "user": "U01UMQH4W4B",
+        "ts": "1622475178.104500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622475178.104500",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1622527020.111000",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UQ47R82RW",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1622475178.104600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622508766.105000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622519292.106200"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622523136.109700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622527020.111000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622527020.111000"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Makes a poor soldier think of dusting off old ambitions.",
+        "user": "U01UMQH4W4B",
+        "ts": "1622475178.104600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622475178.104500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7a90ef32-d4b0-47b5-b6cd-b3789caa4de5",
+        "type": "message",
+        "text": "Even I, a poor soldier, can't suppress the growing ambition rusted away long ago.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622508641.104800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even I, a poor soldier, can't suppress the growing ambition rusted away long ago."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475177.104400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "23a9e9f2-f018-4722-bd33-53162e003ad4",
+        "type": "message",
+        "text": "`Even I, a poor soldier, can't suppress the growing ambition rusted away long ago.`\nDeepL：貧しい兵士である私でさえ、昔に錆びついてしまった野心の高まりを抑えることはできません。\n\n• 主語を I にするか It にするか悩んだが、It の場合「私に野望をうずかせる」よい表現が思い浮かばなかったので I にした。模範解答は It だった（略されているが）。\n• 「古いものをひっぱりだしてくる = dust off」了。\n• ambition が複数表現。\n• 「貧乏軍人のおれですら」は日本語的な表現なのだろう。英語では自嘲的に a poor soldier で済ませられる。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622508766.105000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1622540530.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qi\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even I, a poor soldier, can't suppress the growing ambition rusted away long ago.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：貧しい兵士である私でさえ、昔に錆びついてしまった野心の高まりを抑えることはできません。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "主語を I にするか It にするか悩んだが、It の場合「私に野望をうずかせる」よい表現が思い浮かばなかったので I にした。模範解答は It だった（略されているが）。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「古いものをひっぱりだしてくる = dust off」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ambition が複数表現。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「貧乏軍人のおれですら」は日本語的な表現なのだろう。英語では自嘲的に a poor soldier で済ませられる。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475178.104500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "9f8e2677-c056-4936-9a16-0edbe24d64f9",
+        "type": "message",
+        "text": "High level Mikiproon was detected in under water at Kiichi Nakai house.",
+        "user": "UKH07E67M",
+        "ts": "1622518097.105200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MZRIw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "High level Mikiproon was detected in under water at Kiichi Nakai house."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622467174.103900"
+    },
+    {
+        "client_msg_id": "2cd49a7b-2070-4c3b-b230-66c3cc23f59e",
+        "type": "message",
+        "text": "反省会：高いレベルのミキプルーンが、 中井貴一の家の地下水で検出された。",
+        "user": "UKH07E67M",
+        "ts": "1622518119.105500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PUr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：高いレベルのミキプルーンが、 中井貴一の家の地下水で検出された。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622518119.105500",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1622540751.111500",
+        "reply_users": [
+            "UKH07E67M",
+            "UQ47R82RW",
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1622518441.105600"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622522885.108300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622524714.110600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622540751.111500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622540751.111500"
+    },
+    {
+        "type": "message",
+        "text": "High level Mikiproon was detected in under water at Kiichi Nakai house.\n中井貴一氏の家の水中から高濃度のミキプロンが検出されました。\n• ミキプルーン知らなかった見た目マーマイト\n• levelは複数形にする\n• ミキプルーンは水みたいに不可算名詞ではないようだ\n• 地下水 groundwater シンプルわからなかった\n• 文法的にはHigh levels A were detected in groundwater at Kiichi Nakai house.ならいいようだ\n• ",
+        "files": [
+            {
+                "id": "F023S7UJEQ4",
+                "created": 1622518200,
+                "timestamp": 1622518200,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 543622,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F023S7UJEQ4\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F023S7UJEQ4\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023S7UJEQ4-325aff6a16\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023S7UJEQ4-325aff6a16\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023S7UJEQ4-325aff6a16\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023S7UJEQ4-325aff6a16\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023S7UJEQ4-325aff6a16\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023S7UJEQ4-325aff6a16\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F023S7UJEQ4-325aff6a16\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "original_w": 900,
+                "original_h": 900,
+                "thumb_tiny": "AwAwADDQkk2fw5\/EUsbiRAwGKrXMKySncM\/KO596ZHC\/l4i4Cuf4j7UrjWpeoqt5MvmuS2UI6ZP5U0wTBAFbnkn5j7cUDsu5boqPZKWz5uB6BaSFJFJMjZHQDOaYrCOpdjvRGA6EigF41ChFAz26Um8l2GH4JHFLubph\/wAqBDjI3ZfzFIJHPO3j6UhYg4xIffFISzcDzAfWgBRJLuHyDB+tTVCFwQd0p9qlVs54Ix60AQ+Ywdh8uM9qBK5\/ugds1NtGc4H5UbR6D8qAIkkdk\/h3e1OBlH3gvTtnrTwoHQCloAiMjjgoSfUDilR3LAMuAR1AqSigD\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F023S7UJEQ4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F023S7UJEQ4-a70157905e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ONx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "High level Mikiproon was detected in under water at Kiichi Nakai house.\n中井貴一氏の家の水中から高濃度のミキプロンが検出されました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ミキプルーン知らなかった見た目マーマイト"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "levelは複数形にする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ミキプルーンは水みたいに不可算名詞ではないようだ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "地下水 groundwater シンプルわからなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "文法的にはHigh levels A were detected in groundwater at Kiichi Nakai house.ならいいようだ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKH07E67M",
+        "display_as_bot": false,
+        "ts": "1622518441.105600",
+        "thread_ts": "1622518119.105500",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "268e2d84-1385-43b8-a3d3-1856ee808f30",
+        "type": "message",
+        "text": "Even I’m poor army man, my heart that locked for a long time is burning.",
+        "user": "UKH07E67M",
+        "ts": "1622518882.106000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lfni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even I’m poor army man, my heart that locked for a long time is burning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475177.104400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "281220f3-5ece-46df-a83e-fb81635a6669",
+        "type": "message",
+        "text": "`Even I'm poor army man, my heart that locked for a long time is burning.`\n貧乏な軍人の私でも、長い間閉じ込められていた心が燃えています。\n• a poor 冠詞いいいいいいいい。元に戻ってしまった。もう一度\n• 「*army* は主に陸軍を表すことが多いですが、単純に「軍隊」を表すときにも使います。 ... *soldier* は陸軍の軍人。 airmanや airwoman は空軍の軍人。 sailor は水兵や海軍の軍人という意味にもなります。」armyは軍隊、soldierは軍人\n• think of 考えつく\n• old ambitions の誇りを払うで、dust off\n• think 以下を直訳すると、「考えつく、誇りを払う、古い野心」それをmakeでmake 名詞　動詞、名詞に動詞をさせるかあ\n• ですらは自分に対する皮肉だと思うけど、やっぱり英語だと反映されないのかな ",
+        "user": "UKH07E67M",
+        "ts": "1622519292.106200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sA9u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even I'm poor army man, my heart that locked for a long time is burning.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n貧乏な軍人の私でも、長い間閉じ込められていた心が燃えています。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a poor 冠詞いいいいいいいい。元に戻ってしまった。もう一度"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "army",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " は主に陸軍を表すことが多いですが、単純に「軍隊」を表すときにも使います。 ... "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "soldier",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " は陸軍の軍人。 airmanや airwoman は空軍の軍人。 sailor は水兵や海軍の軍人という意味にもなります。」armyは軍隊、soldierは軍人"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "think of 考えつく"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "old ambitions の誇りを払うで、dust off"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "think 以下を直訳すると、「考えつく、誇りを払う、古い野心」それをmakeでmake 名詞　動詞、名詞に動詞をさせるかあ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ですらは自分に対する皮肉だと思うけど、やっぱり英語だと反映されないのかな "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475178.104500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "69a8bd4d-2cb1-4acd-b273-1c448689ac96",
+        "type": "message",
+        "text": "high level mikipruen was detected from the underground water of Nakai Kiiti's home.",
+        "user": "U01F42ZFA73",
+        "ts": "1622522140.106400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qcCvS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "high level mikipruen was detected from the underground water of Nakai Kiiti's home."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622467174.103900"
+    },
+    {
+        "client_msg_id": "433ee84d-ea1a-49ff-b181-8e33c639096c",
+        "type": "message",
+        "text": "High level Miki-purune is detected from underground water of Nakai kiichi's house.",
+        "user": "UQ47R82RW",
+        "ts": "1622522786.108100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l8aXO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "High level Miki-purune is detected from underground water of Nakai kiichi's house."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622467174.103900"
+    },
+    {
+        "client_msg_id": "48adcb23-7fbc-400b-8ba5-974094c0704e",
+        "type": "message",
+        "text": "High level Miki-purune is detected from underground water of Nakai kiichi's house.\nDeepL:中井貴一宅の地下水から高濃度のミキプルーンが検出される。\n\n過去形なのことを忘れてた。\n~で検出するはdetect in ~",
+        "user": "UQ47R82RW",
+        "ts": "1622522885.108300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6TrE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "High level Miki-purune is detected from underground water of Nakai kiichi's house.\nDeepL:中井貴一宅の地下水から高濃度のミキプルーンが検出される。\n\n過去形なのことを忘れてた。\n~で検出するはdetect in ~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622518119.105500",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "36cb2efa-dd79-4b67-a03e-2d4c34f201bd",
+        "type": "message",
+        "text": "Even poor solder, comes up with the ambitious .",
+        "user": "UQ47R82RW",
+        "ts": "1622522967.109500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "27K\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even poor solder, comes up with the ambitious ."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475177.104400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7036ad66-6ef7-4eab-aa7f-6f1a6f2d1475",
+        "type": "message",
+        "text": "Even poor solder, comes up with the ambitious .\n貧弱なハンダでも、野心的なものは出てきます。\n\nsolderははんだ\nsoldierが兵士。\n\n 錆びついたがわからず、久しくも抜けてしまった。\n\na poor soldierにdusting offなoldのambitionsな考えにmakeするのか。（ルー語風）",
+        "user": "UQ47R82RW",
+        "ts": "1622523136.109700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JR7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even poor solder, comes up with the ambitious .\n貧弱なハンダでも、野心的なものは出てきます。\n\nsolderははんだ\nsoldierが兵士。\n\n 錆びついたがわからず、久しくも抜けてしまった。\n\na poor soldierにdusting offなoldのambitionsな考えにmakeするのか。（ルー語風）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475178.104500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "7b0d50bf-a9ba-448c-8f02-a5468b093442",
+        "type": "message",
+        "text": "She looks a good girl. Protect her.",
+        "user": "UPSPAP97D",
+        "ts": "1622523197.110000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zChG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "She looks a good girl. Protect her."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "6194c818-417b-4243-b077-d47a708ae657",
+        "type": "message",
+        "text": "`She looks a good girl. Protect her.`\nDeepL「彼女は良い子に見える。彼女を守ってあげてください。」\n\n• 『what』の感嘆文は使えるほど記憶に定着してない…\n• 『better 命令』は知らなかった。\n• 『looks』より『is』の方が確信度が高くて良さそう。",
+        "user": "UPSPAP97D",
+        "ts": "1622523693.110200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aMh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "She looks a good girl. Protect her.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「彼女は良い子に見える。彼女を守ってあげてください。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『what』の感嘆文は使えるほど記憶に定着してない…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『better 命令』は知らなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『looks』より『is』の方が確信度が高くて良さそう。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "cf841bfd-8b73-4df8-9b4d-d2bb9f0c073f",
+        "type": "message",
+        "text": "A high level Miki-proon was found out at the under ground water in Nakai Kiiti’s house.",
+        "user": "UPSPAP97D",
+        "ts": "1622523928.110400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gdbG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A high level Miki-proon was found out at the under ground water in Nakai Kiiti’s house."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622467174.103900"
+    },
+    {
+        "client_msg_id": "1f3ccede-b47a-4d5b-a31c-4fd0c205eda2",
+        "type": "message",
+        "text": "`A high level Miki-proon was found out at the under ground water in Nakai Kiiti's house.`\n DeepL「中井貴一の家の地下水には、高濃度のミキプロンが検出された。」\n\n• 「プルーン」は『prune』。\n• 「地下水」は『groundwater』でOK。\n• 「〜を検出する」は『detect』\n• 『at』でなく『from』の方がいい。前置詞…\n• 『high level』はなぜ複数… ",
+        "user": "UPSPAP97D",
+        "ts": "1622524714.110600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Me5P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A high level Miki-proon was found out at the under ground water in Nakai Kiiti's house.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n DeepL「中井貴一の家の地下水には、高濃度のミキプロンが検出された。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「プルーン」は『prune』。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「地下水」は『groundwater』でOK。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「〜を検出する」は『detect』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『at』でなく『from』の方がいい。前置詞…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『high level』はなぜ複数… "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622518119.105500",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "dc2e9992-7a55-4731-9175-9f420e2ac40c",
+        "type": "message",
+        "text": "Even a poor military, I’m coming up an old aspiration.",
+        "user": "UPSPAP97D",
+        "ts": "1622525322.110800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XxMwb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even a poor military, I’m coming up an old aspiration."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475177.104400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f227d7a4-11a2-493f-afa1-276a1afe901d",
+        "type": "message",
+        "text": "`Even a poor military, I'm coming up an old aspiration.`\nDeepL「貧乏な軍人でも、昔の志を持って臨んでいます。」\n\n• 『come up』は「浮かぶ、話題になる」などの自動詞。前置詞…\n• 『aspiration』は『ambition』と似た意味なのでセーフなはず。\n• 『military』は名詞の場合、「軍*隊*」なので不適。\n• 『even』の使い方がよくわかってなかった…。(運よく 名詞を修飾できていたが、文の繋ぎとしては不十分感 → 自分==貧乏軍人 になってない)\n<https:\/\/www.qqeng.com\/blog2\/study\/how-even.html|evenの使い方>\n• 『think of』『dust off』のような、イデオムを繋げて使おうとする発想はなかなか出てこない…。",
+        "user": "UPSPAP97D",
+        "ts": "1622527020.111000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "オンライン英会話ならQQ English",
+                "title": "【簡単】evenの使い方と意味！どうやって使うの？ | この英語どうやって使うの？ | QQ English",
+                "title_link": "https:\/\/www.qqeng.com\/blog2\/study\/how-even.html",
+                "text": "【簡単】evenの使い方と意味！どうやって使うの？",
+                "fallback": "オンライン英会話ならQQ English: 【簡単】evenの使い方と意味！どうやって使うの？ | この英語どうやって使うの？ | QQ English",
+                "image_url": "https:\/\/www.qqeng.com\/blog2\/wordpress\/wp-content\/uploads\/study\/2020\/02\/howto_even_.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.qqeng.com\/blog2\/study\/how-even.html",
+                "image_bytes": 94345,
+                "service_icon": "https:\/\/www.qqeng.com\/assets2\/images\/common\/apple-touchicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.qqeng.com\/blog2\/study\/how-even.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GLH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even a poor military, I'm coming up an old aspiration.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「貧乏な軍人でも、昔の志を持って臨んでいます。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『come up』は「浮かぶ、話題になる」などの自動詞。前置詞…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『aspiration』は『ambition』と似た意味なのでセーフなはず。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『military』は名詞の場合、「軍"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "隊",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "」なので不適。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『even』の使い方がよくわかってなかった…。(運よく 名詞を修飾できていたが、文の繋ぎとしては不十分感 → 自分==貧乏軍人 になってない)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.qqeng.com\/blog2\/study\/how-even.html",
+                                "text": "evenの使い方"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『think of』『dust off』のような、イデオムを繋げて使おうとする発想はなかなか出てこない…。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622475178.104500",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "10848aed-c3dc-42ae-adac-90b62efde004",
+        "type": "message",
+        "text": "<@UPRE1RSJW> <@U01FP2RDV44>\n先程の電源の話ですが、5V20A出力の電源はRS Componentsあたりの商社で7000円ちょっとで取り扱ってるみたいです。ただ、20Aを送電するケーブルってかなり太くなり、熱量もちょっと気になるかもしれません。何かあればご相談ください。",
+        "user": "UPSPAMY7M",
+        "ts": "1611475873.004500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0h2S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01FP2RDV44"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n先程の電源の話ですが、5V20A出力の電源はRS Componentsあたりの商社で7000円ちょっとで取り扱ってるみたいです。ただ、20Aを送電するケーブルってかなり太くなり、熱量もちょっと気になるかもしれません。何かあればご相談ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "2e4bd395-34e8-4344-b22d-8180945fd9be",
+        "type": "message",
+        "text": "なるほど、そういうのもあるんですね。でもちょっと電源周りに不安が残るので電池を各所につける方向でいきたいと思います。",
+        "user": "UPRE1RSJW",
+        "ts": "1611554003.004700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QsO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、そういうのもあるんですね。でもちょっと電源周りに不安が残るので電池を各所につける方向でいきたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "3366cf3d-bf5b-442b-8a5e-da048ea60425",
+        "type": "message",
+        "text": "<@UPRE1RSJW> 賛成です。一箇所から大電流を送電するのはその時点で危険があります。ちなみに、複数の電源を設置する場合、各電源のGNDレベル、各電池の電圧レベルによっては不具合を起こすことがあるので何か不具合あればご相談ください。",
+        "user": "UPSPAMY7M",
+        "ts": "1611555979.004900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAqPX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 賛成です。一箇所から大電流を送電するのはその時点で危険があります。ちなみに、複数の電源を設置する場合、各電源のGNDレベル、各電池の電圧レベルによっては不具合を起こすことがあるので何か不具合あればご相談ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UPRE1RSJW",
+                    "U01FP2RDV44"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

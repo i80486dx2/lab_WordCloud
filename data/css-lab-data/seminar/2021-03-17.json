@@ -1,0 +1,211 @@
+[
+    {
+        "client_msg_id": "01330061-055E-46DC-9F30-5C8D532B92E4",
+        "type": "message",
+        "text": "<@UPSPAMY7M> 22日、23日なら大丈夫です。",
+        "user": "U01EV766AH2",
+        "ts": "1615973587.000800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b2ff5f8847ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-16\/1503423459234_b2ff5f8847ffb1c6c427_72.png",
+            "first_name": "Keiya",
+            "real_name": "Keiya Azuma",
+            "display_name": "azuma",
+            "team": "TKS1Q2JUE",
+            "name": "s1270107",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=On",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 22日、23日なら大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "fba9d2f1-44c9-45a1-abc0-e0c5ff85ed62",
+        "type": "message",
+        "text": "２２日で大丈夫ですよ",
+        "user": "U01EPKVACEN",
+        "ts": "1615987794.001000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MSY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "２２日で大丈夫ですよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "3945CA28-036D-4450-9FD5-ECCCDF98CCC7",
+        "type": "message",
+        "text": "22日で大丈夫です!!",
+        "user": "U01EP8BUKQT",
+        "ts": "1615996615.001500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ged914d7ba7b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed914d7ba7bbb4f21370d607232d99bf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "上田　健登",
+            "real_name": "上田　健登",
+            "display_name": "kento",
+            "team": "TKS1Q2JUE",
+            "name": "ueken110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/R9vo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "22日で大丈夫です!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "42b6cd64-9576-4476-b384-fcc9b07f7904",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01F31EEVNV> <@U01EV766AH2> <@U01EPKVACEN> <@U01EP8BUKQT>\n了解です。では２２日にしましょう。１４時〜１５時で場所はオンライン or LICTiA会議室ということで対面で集まっても自宅からオンラインでもいいという感じにします。会議リンクは追って送ります。",
+        "user": "UPSPAMY7M",
+        "ts": "1616025349.001700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=oLx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n了解です。では２２日にしましょう。１４時〜１５時で場所はオンライン or LICTiA会議室ということで対面で集まっても自宅からオンラインでもいいという感じにします。会議リンクは追って送ります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

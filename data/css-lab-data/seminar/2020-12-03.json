@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "7be321ac-18e6-4c6e-a170-f6e934554dff",
+        "type": "message",
+        "text": "<!channel> 調整さんへの記入どうもありがとう。3年生の予定が出そろったので、以下に決めさせてもらいました。→ 12\/15（火）17:30～19:00",
+        "user": "UKS1Q2KTQ",
+        "ts": "1606986379.045500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1606986390.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "py4r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 調整さんへの記入どうもありがとう。3年生の予定が出そろったので、以下に決めさせてもらいました。→ 12\/15（火）17:30～19:00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU",
+                    "UKH07E67M",
+                    "UQ47R82RW",
+                    "UQ63J44BZ",
+                    "UPRE1RSJW",
+                    "U01EVRBP38C",
+                    "UPSPAP97D",
+                    "U01EL0SAUTF"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1611317695.000200",
+        "user": "UKS1Q2KTQ",
+        "text": "<@UKS1Q2KTQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1611317703.000400",
+        "user": "U01EL0SAUTF",
+        "text": "<@U01EL0SAUTF> has joined the channel",
+        "inviter": "UKS1Q2KTQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1611363906.000700",
+        "user": "U01KC41PR9C",
+        "text": "<@U01KC41PR9C> has joined the channel"
+    },
+    {
+        "client_msg_id": "5196134d-a8b9-4968-b8f5-9c2eae3f6902",
+        "type": "message",
+        "text": "<@U01KC41PR9C> <@U01EL0SAUTF> こんにちわ！打ち合わせの日時ですが、1月26日（火）16時でお願いできますか？場所は私のオフィス（346A）で。\n\nプロジェクトの簡単な概要と3月までの目標について説明して、皆さんがどういう形で関われるか相談できればと思います！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1611369641.003400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NykHj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こんにちわ！打ち合わせの日時ですが、1月26日（火）16時でお願いできますか？場所は私のオフィス（346A）で。\n\nプロジェクトの簡単な概要と3月までの目標について説明して、皆さんがどういう形で関われるか相談できればと思います！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C",
+                    "U01EL0SAUTF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38b79c2c-c1a1-4f28-9ead-5bcae42a8c64",
+        "type": "message",
+        "text": "あと、吉野君、display nameは短い yoshino で大丈夫です。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1611369737.004300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/lNN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと、吉野君、display nameは短い yoshino で大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

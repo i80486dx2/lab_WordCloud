@@ -1,0 +1,196 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617794731.000200",
+        "user": "UKS1Q2KTQ",
+        "text": "<@UKS1Q2KTQ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617794753.000400",
+        "user": "UKUKA65GU",
+        "text": "<@UKUKA65GU> has joined the channel",
+        "inviter": "UKS1Q2KTQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617794753.000600",
+        "user": "U01EVRBP38C",
+        "text": "<@U01EVRBP38C> has joined the channel",
+        "inviter": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "9d53d483-fe82-456c-ae42-92efc5590d42",
+        "type": "message",
+        "text": "RoomClipの時系列データ。1行が1投稿。カラム（タブ区切り）は左から投稿時刻、ユーザID、写真ID、タグID。通常は1枚の写真に複数のタグIDが付く。\n<https:\/\/www.dropbox.com\/s\/tzg637931i0nuz9\/time_series_of_tag_set.roomclip-20191219.tsv?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617795017.002800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a8ChC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "RoomClipの時系列データ。1行が1投稿。カラム（タブ区切り）は左から投稿時刻、ユーザID、写真ID、タグID。通常は1枚の写真に複数のタグIDが付く。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/tzg637931i0nuz9\/time_series_of_tag_set.roomclip-20191219.tsv?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b9dbd57-61d2-43d5-8656-be6ac88690fb",
+        "type": "message",
+        "text": "タグIDとタグの文字列の紐づけデータ。\n<https:\/\/www.dropbox.com\/s\/19j8p4gf64pyr2n\/tid2name.roomclip-20191219.tsv?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617795053.003300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "bxPBq",
+                        "external_id": "1-6972d8b972fc18b2c7fce49044a3db37a26d7647c516159bf5041b23e7e79199",
+                        "source": "remote",
+                        "file_id": "F01TEM2L213",
+                        "file": {
+                            "id": "F01TEM2L213",
+                            "created": 1617795060,
+                            "timestamp": 1617795060,
+                            "name": "tid2name_roomclip-20191219_tsv",
+                            "title": "tid2name.roomclip-20191219.tsv",
+                            "mimetype": "text\/tab-separated-values",
+                            "filetype": "tsv",
+                            "pretty_type": "TSV",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 0,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/19j8p4gf64pyr2n\/tid2name.roomclip-20191219.tsv?dl=0",
+                            "media_display_type": "unknown",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F01TEM2L213\/tid2name_roomclip-20191219_tsv",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-6972d8b972fc18b2c7fce49044a3db37a26d7647c516159bf5041b23e7e79199",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/19j8p4gf64pyr2n\/tid2name.roomclip-20191219.tsv?dl=0",
+                            "has_rich_preview": false
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/19j8p4gf64pyr2n\/tid2name.roomclip-20191219.tsv?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nqo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "タグIDとタグの文字列の紐づけデータ。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/19j8p4gf64pyr2n\/tid2name.roomclip-20191219.tsv?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48669D88-D786-4758-8E95-DD0CE4BAD64A",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "U01EVRBP38C",
+        "ts": "1617797930.004000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0THR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

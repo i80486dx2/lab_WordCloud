@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "1a8c99d2-3a37-4321-b28d-87e44783877b",
+        "type": "message",
+        "text": "<@UPSPAP97D> いつのラボみか忘れたけどUMAPについて話してたと思うんだけど、その時のスライドってどこかに共有されてる？参考にしたいので、橋本先生が用意したgoogle driveの共有リンクにおいて欲しいです。",
+        "user": "UPRE1RSJW",
+        "ts": "1628224733.002700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4TypM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " いつのラボみか忘れたけどUMAPについて話してたと思うんだけど、その時のスライドってどこかに共有されてる？参考にしたいので、橋本先生が用意したgoogle driveの共有リンクにおいて欲しいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628224733.002700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1628234811.003100",
+        "reply_users": [
+            "UPSPAP97D",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1628234718.002800"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1628234811.003100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

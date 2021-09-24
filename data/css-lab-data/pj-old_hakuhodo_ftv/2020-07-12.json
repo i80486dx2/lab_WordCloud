@@ -1,0 +1,1241 @@
+[
+    {
+        "type": "message",
+        "text": "コロナ に関係なく活動しているという人の行動についてまとめたので共有します。(uuid=DA7ECFD9CDE680922BF905DE4A716595)\nコロナ以前：\nGW中はおそらくパチンコに朝からいって、夕方帰ってくるような生活。\n平日は仕事に行き、帰る途中でヨークやヨーク隣のパチンコ屋に寄るなどしていた。\n休日はGW程多くはないが、ヨーク隣のパチンコ屋に行っているようだ。\n\nコロナ後：\nGW中30分〜１時間くらいの外出をしているっぽい。速度からして自転車で市内一周くらい？\n\n自粛解除後はパチンコ屋に寄ったりしていたが仕事に行く途中に行っているっぽい？ユニクロに行ったり、アピタに行ったりもしている。\n\nあとで時間軸をもう少し詳しくまとめたいと思います。",
+        "files": [
+            {
+                "id": "F017ATLTUM7",
+                "created": 1594536531,
+                "timestamp": 1594536531,
+                "name": "コロナに関係なく活発な人.html",
+                "title": "コロナに関係なく活発な人.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "UQ47R82RW",
+                "editable": true,
+                "size": 749827,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F017ATLTUM7\/____________________________________.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F017ATLTUM7\/download\/____________________________________.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F017ATLTUM7\/____________________________________.html",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F017ATLTUM7-419d2ca9eb",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F017ATLTUM7\/____________________________________.html\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u0kx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コロナ に関係なく活動しているという人の行動についてまとめたので共有します。(uuid=DA7ECFD9CDE680922BF905DE4A716595)\nコロナ以前：\nGW中はおそらくパチンコに朝からいって、夕方帰ってくるような生活。\n平日は仕事に行き、帰る途中でヨークやヨーク隣のパチンコ屋に寄るなどしていた。\n休日はGW程多くはないが、ヨーク隣のパチンコ屋に行っているようだ。\n\nコロナ後：\nGW中30分〜１時間くらいの外出をしているっぽい。速度からして自転車で市内一周くらい？\n\n自粛解除後はパチンコ屋に寄ったりしていたが仕事に行く途中に行っているっぽい？ユニクロに行ったり、アピタに行ったりもしている。\n\nあとで時間軸をもう少し詳しくまとめたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1594537887.086100",
+        "thread_ts": "1594537887.086100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1594557689.087100",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594557689.087100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1594557689.087100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcb7b18c-c706-4200-bd2e-4cbaf0126e5a",
+        "type": "message",
+        "text": "“時計” というのは、先生の話されている通り、アイコンのことです (ウィンドウが表示されない場合、もう一度 “時計“のボタンを押すと表示されると思います)。\nhtmlの見方としては、フィルター内にcsv毎の相対的な棒グラフがあり、それぞれの大まかな日付におけるデータ量を見ることができます (これで 2020GWのデータが少ないことが分かる？)。\nまた、時間を動かすと4回ほど形が大きくなる[データがある日付が大まかに4つに分割されているため] のですが、僕は この時の “色部分の膨らみの変化” や “存在しなかった点の出現 or 消失” をみて、『そこに何か [例えば、新入居・退去(引きこもり)? ] が起きた』を推測するきっかけになるのかなと思いました。\n\nですが、中心部(住居者が多い部分) は細かな変化が分かりづらく、理解ができない部分ではありますが…… (そのため、本当に求めたかった『近くの人ほど、同じスーパーに行く?』みたいな感じのことはできなさそう [これを調べるのは、コロナと関係なくなりそうですけど…])",
+        "user": "UPSPAP97D",
+        "ts": "1594539445.086400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1594540668.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J7k0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“時計” というのは、先生の話されている通り、アイコンのことです (ウィンドウが表示されない場合、もう一度 “時計“のボタンを押すと表示されると思います)。\nhtmlの見方としては、フィルター内にcsv毎の相対的な棒グラフがあり、それぞれの大まかな日付におけるデータ量を見ることができます (これで 2020GWのデータが少ないことが分かる？)。\nまた、時間を動かすと4回ほど形が大きくなる[データがある日付が大まかに4つに分割されているため] のですが、僕は この時の “色部分の膨らみの変化” や “存在しなかった点の出現 or 消失” をみて、『そこに何か [例えば、新入居・退去(引きこもり)? ] が起きた』を推測するきっかけになるのかなと思いました。\n\nですが、中心部(住居者が多い部分) は細かな変化が分かりづらく、理解ができない部分ではありますが…… (そのため、本当に求めたかった『近くの人ほど、同じスーパーに行く?』みたいな感じのことはできなさそう [これを調べるのは、コロナと関係なくなりそうですけど…])"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594529493.077200",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "76dd5432-1f10-46a2-98f7-44f477106a90",
+        "type": "message",
+        "text": "<@UQ47R82RW> これは「ある人物のコロナ前後の行動変化」ということですかね。一人抜き出して詳しく見るのも面白いのだけれど、それがある程度のマスを構成しているのが分かるとより説得力は増しますね。「典型」というものがいくつか見えてくるとニュース的な価値が出ると思います。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594557689.087100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/P8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これは「ある人物のコロナ前後の行動変化」ということですかね。一人抜き出して詳しく見るのも面白いのだけれど、それがある程度のマスを構成しているのが分かるとより説得力は増しますね。「典型」というものがいくつか見えてくるとニュース的な価値が出ると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594537887.086100",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13dca73a-c044-4de0-911d-0a133125abc7",
+        "type": "message",
+        "text": "<@UPSPAP97D> データが前半と後半で時間的に飛んでるので、タイムバーでシーケンシャルに見るメリットはあまりないですね。単純に2019と2020と切り替えた方が見やすそう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594558402.087400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WWrIC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " データが前半と後半で時間的に飛んでるので、タイムバーでシーケンシャルに見るメリットはあまりないですね。単純に2019と2020と切り替えた方が見やすそう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594529493.077200",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "それはそうと、見ようとしたものは、一つは居住地の変化ということですか。目的がそこまでシャープなら、単純に「市内のどこそこに2019年に住んでなかったが2020年に住み始めた人は〇〇人」みたいに数字でだすのが明確ですね。\n\n地図に表示する意義の一つは、分析の方向性を探索的に決めたり、結論として明らかになったストーリーを他人に例示的に伝える際に有効な点で、結論そのものを示すことはまた別に必要です。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594558411.087600",
+        "thread_ts": "1594529493.077200",
+        "root": {
+            "type": "message",
+            "text": "お疲れ様です。進捗を報告します。\n\n『ある点おける、その人自身の家からの距離で分けたcsvのデータ(家を見つけられなかったデータを省く)』をkepler.gl可視化したものです。\n初期で表示されたデータは家と断定した部分のプロットで、他はfilterかけているのでまだ表示されてません。\n\nデータの定義:\n[家の位置] 全ての日にちでの、AM2:00における latitude(lat), longitude(long)を id毎に保存。その後、latとlongを小数点以下第3位で丸めこむ[roud関数で]。このデータでの、id毎に “lat,lognのペア最頻値 > 3” となる lat,longペアのみを使用。\n[家からの距離] 上で求めた “家の位置 lat, long” と, 一致するid での “とある位置 lat, long” で二点間の距離を求める式を使用し、家からの距離を求めた。\n[csv名] ・…threshold_0.01       家からの距離: 0.005以上 かつ 0.01未満 になる点\n            ・…threshold_0.05        家からの距離: 0.01以上 かつ 0.05未満 になる点\n           ・…threshold_0.1           家からの距離: 0.05以上 かつ 0.1未満 になる点\n           ・…threshold_0.5           家からの距離: 0.1以上 かつ 0.5未満 になる点\n           ・…home_AM2              家の位置を表すもの\n\nhtmlの見方:\n左上の部分に “fliter” っぽいボタンがあるので、そこを押す。\n次に、“時計” のボタンがあるのでそこを押すと、それぞれ一致するcsvの時間変化の様子を再生するウィンドウが生まれるので、それを再生する。(初期にある再生ウィンドウ は 家からの距離しきい値: 0.01 のデータです)\n\n\n参考までに、自分が作成したJupterLab(JupterNotebook)コードを添えます。(読みにくいとは思いますが、再利用してくれたら嬉しいです。)",
+            "files": [
+                {
+                    "id": "F016HFPT5QX",
+                    "created": 1594529454,
+                    "timestamp": 1594529454,
+                    "name": "living_aizu_by_distance_threshold.html",
+                    "title": "living_aizu_by_distance_threshold.html",
+                    "mimetype": "text\/plain",
+                    "filetype": "html",
+                    "pretty_type": "HTML",
+                    "user": "UPSPAP97D",
+                    "editable": false,
+                    "size": 34560281,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016HFPT5QX\/living_aizu_by_distance_threshold.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016HFPT5QX\/download\/living_aizu_by_distance_threshold.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "media_display_type": "unknown",
+                    "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F016HFPT5QX\/living_aizu_by_distance_threshold.html",
+                    "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016HFPT5QX-87e47fb3c2",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                },
+                {
+                    "id": "F016HFQ2UT1",
+                    "created": 1594529486,
+                    "timestamp": 1594529486,
+                    "name": "find_home.ipynb",
+                    "title": "find_home.ipynb",
+                    "mimetype": "application\/octet-stream",
+                    "filetype": "binary",
+                    "pretty_type": "Binary",
+                    "user": "UPSPAP97D",
+                    "editable": false,
+                    "size": 322959,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016HFQ2UT1\/find_home.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016HFQ2UT1\/download\/find_home.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "media_display_type": "unknown",
+                    "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F016HFQ2UT1\/find_home.ipynb",
+                    "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016HFQ2UT1-6ef3e48a20",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SfTCq",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "お疲れ様です。進捗を報告します。\n\n『ある点おける、その人自身の家からの距離で分けたcsvのデータ(家を見つけられなかったデータを省く)』をkepler.gl可視化したものです。\n初期で表示されたデータは家と断定した部分のプロットで、他はfilterかけているのでまだ表示されてません。\n\nデータの定義:\n[家の位置] 全ての日にちでの、AM2:00における latitude(lat), longitude(long)を id毎に保存。その後、latとlongを小数点以下第3位で丸めこむ[roud関数で]。このデータでの、id毎に “lat,lognのペア最頻値 > 3” となる lat,longペアのみを使用。\n[家からの距離] 上で求めた “家の位置 lat, long” と, 一致するid での “とある位置 lat, long” で二点間の距離を求める式を使用し、家からの距離を求めた。\n[csv名] ・…threshold_0.01       家からの距離: 0.005以上 かつ 0.01未満 になる点\n            ・…threshold_0.05        家からの距離: 0.01以上 かつ 0.05未満 になる点\n           ・…threshold_0.1           家からの距離: 0.05以上 かつ 0.1未満 になる点\n           ・…threshold_0.5           家からの距離: 0.1以上 かつ 0.5未満 になる点\n           ・…home_AM2              家の位置を表すもの\n\nhtmlの見方:\n左上の部分に “fliter” っぽいボタンがあるので、そこを押す。\n次に、“時計” のボタンがあるのでそこを押すと、それぞれ一致するcsvの時間変化の様子を再生するウィンドウが生まれるので、それを再生する。(初期にある再生ウィンドウ は 家からの距離しきい値: 0.01 のデータです)\n\n\n参考までに、自分が作成したJupterLab(JupterNotebook)コードを添えます。(読みにくいとは思いますが、再利用してくれたら嬉しいです。)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "user": "UPSPAP97D",
+            "ts": "1594529493.077200",
+            "thread_ts": "1594529493.077200",
+            "reply_count": 8,
+            "reply_users_count": 3,
+            "latest_reply": "1594620794.094700",
+            "reply_users": [
+                "UKS1Q2KTQ",
+                "UPSPAP97D",
+                "UPSPAMY7M"
+            ],
+            "replies": [
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1594535919.077900"
+                },
+                {
+                    "user": "UPSPAP97D",
+                    "ts": "1594539445.086400"
+                },
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1594558402.087400"
+                },
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1594558411.087600"
+                },
+                {
+                    "user": "UPSPAP97D",
+                    "ts": "1594559917.088000"
+                },
+                {
+                    "user": "UPSPAMY7M",
+                    "ts": "1594602900.092300"
+                },
+                {
+                    "user": "UPSPAP97D",
+                    "ts": "1594613590.094000"
+                },
+                {
+                    "user": "UPSPAMY7M",
+                    "ts": "1594620794.094700"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1594620794.094700"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IYBcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それはそうと、見ようとしたものは、一つは居住地の変化ということですか。目的がそこまでシャープなら、単純に「市内のどこそこに2019年に住んでなかったが2020年に住み始めた人は〇〇人」みたいに数字でだすのが明確ですね。\n\n地図に表示する意義の一つは、分析の方向性を探索的に決めたり、結論として明らかになったストーリーを他人に例示的に伝える際に有効な点で、結論そのものを示すことはまた別に必要です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fc1b8ab7-f792-4c70-9e5d-c7f220b046a6",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6c354e9-1814-4307-8e69-3dffe5e5d739",
+        "type": "message",
+        "text": "アドバイスありがとうごさいます！\n確かに、2019年と2020年のcsvを分けた方が同時プロットできて、変化の見比べが楽ですね。\n\nそれと、僕は地図上可視化の基本的な考え方が抜けてましたね…… これからは、この点も気をつけて可視化に挑戦してみます!",
+        "user": "UPSPAP97D",
+        "ts": "1594559917.088000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQ1g1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アドバイスありがとうごさいます！\n確かに、2019年と2020年のcsvを分けた方が同時プロットできて、変化の見比べが楽ですね。\n\nそれと、僕は地図上可視化の基本的な考え方が抜けてましたね…… これからは、この点も気をつけて可視化に挑戦してみます!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594529493.077200",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "もしかしたら今日以降進捗が出せないかもしれません。\n20190504 11:00~14:00\n20200502 11:00~14:00\nにおける\n県内と県外\n県内と会津若松\nの200メッシュごとの数の統計です。uuの重複ありです。",
+        "files": [
+            {
+                "id": "F016HQX2Z55",
+                "created": 1594573214,
+                "timestamp": 1594573214,
+                "name": "naiaizu20200504_11to14.csv",
+                "title": "naiaizu20200504_11to14.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UKH07E67M",
+                "editable": true,
+                "size": 45669,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016HQX2Z55\/naiaizu20200504_11to14.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016HQX2Z55\/download\/naiaizu20200504_11to14.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F016HQX2Z55\/naiaizu20200504_11to14.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016HQX2Z55-5404fbf324",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F016HQX2Z55\/naiaizu20200504_11to14.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F016RR8DNBG",
+                "created": 1594573215,
+                "timestamp": 1594573215,
+                "name": "naiaizucom20190504_11to14.csv",
+                "title": "naiaizucom20190504_11to14.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UKH07E67M",
+                "editable": true,
+                "size": 58844,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016RR8DNBG\/naiaizucom20190504_11to14.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016RR8DNBG\/download\/naiaizucom20190504_11to14.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F016RR8DNBG\/naiaizucom20190504_11to14.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016RR8DNBG-969f41ad65",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F016RR8DNBG\/naiaizucom20190504_11to14.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F016RR8E39C",
+                "created": 1594573216,
+                "timestamp": 1594573216,
+                "name": "naigai20190504_11to14.csv",
+                "title": "naigai20190504_11to14.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UKH07E67M",
+                "editable": true,
+                "size": 54089,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016RR8E39C\/naigai20190504_11to14.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016RR8E39C\/download\/naigai20190504_11to14.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F016RR8E39C\/naigai20190504_11to14.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016RR8E39C-59a30b6b00",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F016RR8E39C\/naigai20190504_11to14.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F016YHANED8",
+                "created": 1594573217,
+                "timestamp": 1594573217,
+                "name": "naigai20200504_11to14.csv",
+                "title": "naigai20200504_11to14.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UKH07E67M",
+                "editable": true,
+                "size": 38558,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016YHANED8\/naigai20200504_11to14.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016YHANED8\/download\/naigai20200504_11to14.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F016YHANED8\/naigai20200504_11to14.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016YHANED8-2a011821f2",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F016YHANED8\/naigai20200504_11to14.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kg4F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もしかしたら今日以降進捗が出せないかもしれません。\n20190504 11:00~14:00\n20200502 11:00~14:00\nにおける\n県内と県外\n県内と会津若松\nの200メッシュごとの数の統計です。uuの重複ありです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKH07E67M",
+        "ts": "1594573405.090800",
+        "thread_ts": "1594573405.090800",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1594619380.094400",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1594573617.091700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594612550.092700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1594612720.093000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1594612726.093200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1594612754.093400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594612795.093600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1594613207.093800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594616691.094200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1594619380.094400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1594619380.094400",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UPRE1RSJW",
+                    "UQ47R82RW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "中身はこのようになっていて、\nindexがメッシュナンバー、\n年nai,年gai,年aizuが時間内のメッシュで数えられた数、\njudgeNaNはどちらかのデータにNanが含まれていれば1になり、\njudgeはどちらもNanでなければ大きい方の割合、(式はa\/(a+b))\nどちらかがnanであればそうでない方の数そのまま\n\nコードとかもまとめてありますので、必要であれば送らさせてもらいます",
+        "files": [
+            {
+                "id": "F016X6EF9RT",
+                "created": 1594573420,
+                "timestamp": 1594573420,
+                "name": "スクリーンショット 2020-07-13 2.03.11.png",
+                "title": "スクリーンショット 2020-07-13 2.03.11.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKH07E67M",
+                "editable": false,
+                "size": 69186,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016X6EF9RT\/____________________________2020-07-13_2.03.11.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016X6EF9RT\/download\/____________________________2020-07-13_2.03.11.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016X6EF9RT-cfcf482668\/____________________________2020-07-13_2.03.11_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016X6EF9RT-cfcf482668\/____________________________2020-07-13_2.03.11_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016X6EF9RT-cfcf482668\/____________________________2020-07-13_2.03.11_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 176,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016X6EF9RT-cfcf482668\/____________________________2020-07-13_2.03.11_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 235,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016X6EF9RT-cfcf482668\/____________________________2020-07-13_2.03.11_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016X6EF9RT-cfcf482668\/____________________________2020-07-13_2.03.11_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 352,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016X6EF9RT-cfcf482668\/____________________________2020-07-13_2.03.11_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 391,
+                "original_w": 908,
+                "original_h": 444,
+                "thumb_tiny": "AwAXADChuO3rS5G0HHfB5pFUshI7c0rAhFzjrQAp2gKQDz1GaGwuDjgjpmkYEIuehockhc46UAGQCQVJ\/GkY4Y44pG+8aG60AORgEYYPNK7hlAGcimjoaQUAOZsoox0pGOQPakpKAFPJOKDyaSigD\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKH07E67M\/F016X6EF9RT\/____________________________2020-07-13_2.03.11.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016X6EF9RT-e51fd07d9b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cO4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "中身はこのようになっていて、\nindexがメッシュナンバー、\n年nai,年gai,年aizuが時間内のメッシュで数えられた数、\njudgeNaNはどちらかのデータにNanが含まれていれば1になり、\njudgeはどちらもNanでなければ大きい方の割合、(式はa\/(a+b))\nどちらかがnanであればそうでない方の数そのまま\n\nコードとかもまとめてありますので、必要であれば送らさせてもらいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKH07E67M",
+        "display_as_bot": false,
+        "ts": "1594573617.091700",
+        "thread_ts": "1594573405.090800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "type": "message",
+        "text": "<@UPSPAP97D> 北会津（添付の地図の丸をしてあるところ）あたりは居住者が増えてるみたいですね。\nあのあたりは果樹園が多くていちご狩りができるのでGWは外から人がたくさんくるんですが今年はやってなかったかな。\nあと、その区画の中に神社が２つとホタルの森公園という広場、共同浴場のようなものもあって、周辺住民は散歩できそうな場所が色々ありそうな感じがしますね。関係ないですが、大聖不動明王という、神社の建物の中に仏教の明王がいるという歴史的価値のある建物がその辺りにあるようです。\n\nこの辺りの住民だけが散歩するスポットっていうのも一つのシナリオとして成立しそうですね。",
+        "files": [
+            {
+                "id": "F016YPN2Z6W",
+                "created": 1594601513,
+                "timestamp": 1594601513,
+                "name": "map.png",
+                "title": "map.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 2407070,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016YPN2Z6W\/map.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016YPN2Z6W\/download\/map.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016YPN2Z6W-4e4bf5d509\/map_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016YPN2Z6W-4e4bf5d509\/map_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016YPN2Z6W-4e4bf5d509\/map_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016YPN2Z6W-4e4bf5d509\/map_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016YPN2Z6W-4e4bf5d509\/map_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016YPN2Z6W-4e4bf5d509\/map_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016YPN2Z6W-4e4bf5d509\/map_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016YPN2Z6W-4e4bf5d509\/map_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016YPN2Z6W-4e4bf5d509\/map_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "original_w": 2880,
+                "original_h": 1800,
+                "thumb_tiny": "AwAeADCSWcW2FKb885zRb3Qnl2CPbxnOag1D\/WJ\/u03Tv+Pr\/gJpiNTaKMADpS01snj1pDEUhiRjiiTCIWxnFKoxSuoZSD0oAyriXzQjYGcEGktJBFMXYEgKelS2sSsmJFDDGRUrWuDmNYwCMcg\/40xDv7Qi\/uP+lRyXwbGwuv4A077OqhjKqH\/dz\/jR5UGP9X6+tIYkd+Fzv3t6cAVIt\/GzBQr5JxTTDADjy\/50qwRZ3BACvNAH\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F016YPN2Z6W\/map.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016YPN2Z6W-c1593c8b2b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHY3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 北会津（添付の地図の丸をしてあるところ）あたりは居住者が増えてるみたいですね。\nあのあたりは果樹園が多くていちご狩りができるのでGWは外から人がたくさんくるんですが今年はやってなかったかな。\nあと、その区画の中に神社が２つとホタルの森公園という広場、共同浴場のようなものもあって、周辺住民は散歩できそうな場所が色々ありそうな感じがしますね。関係ないですが、大聖不動明王という、神社の建物の中に仏教の明王がいるという歴史的価値のある建物がその辺りにあるようです。\n\nこの辺りの住民だけが散歩するスポットっていうのも一つのシナリオとして成立しそうですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAMY7M",
+        "display_as_bot": false,
+        "ts": "1594602900.092300",
+        "thread_ts": "1594529493.077200",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "c9025d46-cc34-4046-aae2-20cdaf0af4be",
+        "type": "message",
+        "text": "<@UKH07E67M> ~NaNって0のことですか？そうであれば0にした方がいいですね。NaNだと後で計算するときに困るよ。~いや、違うか。説明文が違くないですか？→ `judgeはどちらもNanでなければ大きい方の割合、(式はa\/(a+b))`",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594612550.092700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1594612707.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IGb2t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "NaNって0のことですか？そうであれば0にした方がいいですね。NaNだと後で計算するときに困るよ。",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "いや、違うか。説明文が違くないですか？→ "
+                            },
+                            {
+                                "type": "text",
+                                "text": "judgeはどちらもNanでなければ大きい方の割合、(式はa\/(a+b))",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594573405.090800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "40bb1971-1122-46e0-bf18-74e9fc56f645",
+        "type": "message",
+        "text": "いや、その通りです！",
+        "user": "UKH07E67M",
+        "ts": "1594612720.093000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rnIB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いや、その通りです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594573405.090800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "19d8ca3f-c80a-41c9-92e8-c5ab71d0551f",
+        "type": "message",
+        "text": "0にします！",
+        "user": "UKH07E67M",
+        "ts": "1594612726.093200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eZvL9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0にします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594573405.090800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "c336757c-764b-47bf-9940-ebc398355a85",
+        "type": "message",
+        "text": "どちらかが0であればjudgeの計算はしないようにします",
+        "user": "UKH07E67M",
+        "ts": "1594612754.093400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H3kWq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どちらかが0であればjudgeの計算はしないようにします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594573405.090800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "01790a21-d171-4398-bc3c-9a1224ea3138",
+        "type": "message",
+        "text": "<@UKH07E67M> ほんとに？judgeが割合を表すなら、要素がないときがNaNで、割合が0のときと区別してるんじゃないですか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594612795.093600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JZb2G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ほんとに？judgeが割合を表すなら、要素がないときがNaNで、割合が0のときと区別してるんじゃないですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594573405.090800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "029ba023-2049-4203-954e-043062735d84",
+        "type": "message",
+        "text": "このデータでは、aとbの両方がNaN(0)であることはありません。ゆえにjudgeが0を表すことはまずありません。\n(a,bのいずれもNaNでない場合、aとbの大きい方が分子に、分母がa+bになるようになっています。つまりjudgeが0になるということはaかbがNaN(0)でないとありえないということになってます)",
+        "user": "UKH07E67M",
+        "ts": "1594613207.093800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+\/Js",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "このデータでは、aとbの両方がNaN(0)であることはありません。ゆえにjudgeが0を表すことはまずありません。\n(a,bのいずれもNaNでない場合、aとbの大きい方が分子に、分母がa+bになるようになっています。つまりjudgeが0になるということはaかbがNaN(0)でないとありえないということになってます)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594573405.090800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "ab5dcc2f-69bd-4760-9f80-87184398e3a1",
+        "type": "message",
+        "text": "北会津に色々な観光スポットになりそうなものがあるのは知りませんでした！\nここの住民の移動を重点的に見ると、新たな発見(よく行くスポットの発見)ができそうですね。\n\nまた、“北会津に住む人“, “それ以外の会津市民“, “会津に住まないの観光者?” で分けて、それぞれが行くところを調べ、ここの住民だけがよく行くスポットとかを見つけるのも面白そうだと思いました。",
+        "user": "UPSPAP97D",
+        "ts": "1594613590.094000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "北会津に色々な観光スポットになりそうなものがあるのは知りませんでした！\nここの住民の移動を重点的に見ると、新たな発見(よく行くスポットの発見)ができそうですね。\n\nまた、“北会津に住む人“, “それ以外の会津市民“, “会津に住まないの観光者?” で分けて、それぞれが行くところを調べ、ここの住民だけがよく行くスポットとかを見つけるのも面白そうだと思いました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594529493.077200",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "611177a0-fead-487a-836e-8abb5453d488",
+        "type": "message",
+        "text": "<@UKH07E67M>\n&gt; aとbの大きい方が分子に\n単純にa\/(a+b)でダメな理由はなんですか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1594616691.094200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7JlkP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n> aとbの大きい方が分子に\n単純にa\/(a+b)でダメな理由はなんですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594573405.090800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "d51dc781-f468-4096-b11d-888fdb19fd6b",
+        "type": "message",
+        "text": "ああ確かに、\n割合出すだけなら、片方の割合を表示するだけでいいですね",
+        "user": "UKH07E67M",
+        "ts": "1594619380.094400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1594619394.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f2QLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ああ確かに、\n割合出すだけなら、片方の割合を表示するだけでいいですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594573405.090800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "8715bb59-0824-404f-b8dd-cc12e196f730",
+        "type": "message",
+        "text": "&gt; “北会津に住む人“, “それ以外の会津市民“, “会津に住まないの観光者?”\nそうですね、正直言って北会津は行く用事が無いのでそこの住民しか知らないスポットってあるかもしれませんね。ちなみに北会津は2004年までは北会津村だったそうです。",
+        "user": "UPSPAMY7M",
+        "ts": "1594620794.094700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=P3s",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“北会津に住む人“, “それ以外の会津市民“, “会津に住まないの観光者?”"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね、正直言って北会津は行く用事が無いのでそこの住民しか知らないスポットってあるかもしれませんね。ちなみに北会津は2004年までは北会津村だったそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594529493.077200",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

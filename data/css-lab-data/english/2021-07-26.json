@@ -1,0 +1,1905 @@
+[
+    {
+        "client_msg_id": "e2cf5d15-eb67-4f18-8e5b-e8fbb8986113",
+        "type": "message",
+        "text": "I decided, let's go at tonight.",
+        "user": "UKH07E67M",
+        "ts": "1627291574.370300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2GC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I decided, let's go at tonight."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627140777.365300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "2f2c473e-1e8b-439a-b940-269d3832bcd6",
+        "type": "message",
+        "text": "`I decided, let's go at tonight.`\n決めたのは、今晩から行こうということ。\n• make up my mind　ちょい前にやったのに考えられなかったなぁ\n• <https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q14169148694>\n• 知らなかったというか脳死でatをつけてしまった ",
+        "user": "UKH07E67M",
+        "ts": "1627291741.370500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Yahoo!知恵袋",
+                "title": "atnightにはatがつくのに、tonightにはatはつけなくていいんですか？ - tonightはその昔，tonightと... - Yahoo!知恵袋",
+                "title_link": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q14169148694",
+                "text": "atnightにはatがつくのに、tonightにはatはつけなくていいんですか？ tonightはその昔，tonightと2語に分けて使われていた語です。toは基本的に｢～(の方向)へ｣という意味を持つ前置詞で，tonightは｢来たるべき夜に｣(=今夜)という意味でした。これが完全に慣用句となり，to-nightと1語にされ，さらにtonightになったものです。この場合のtoは，当時としては現代の...",
+                "fallback": "Yahoo!知恵袋: atnightにはatがつくのに、tonightにはatはつけなくていいんですか？ - tonightはその昔，tonightと... - Yahoo!知恵袋",
+                "thumb_url": "https:\/\/s.yimg.jp\/images\/ks\/official\/nt\/ogp_1200.png",
+                "from_url": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q14169148694",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 1,
+                "original_url": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q14169148694"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QVd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I decided, let's go at tonight.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n決めたのは、今晩から行こうということ。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "make up my mind　ちょい前にやったのに考えられなかったなぁ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/detail.chiebukuro.yahoo.co.jp\/qa\/question_detail\/q14169148694"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "知らなかったというか脳死でatをつけてしまった "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627140778.365400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "19dd5776-8f3e-416d-9d06-b30631b26bac",
+        "type": "message",
+        "text": "\"When I said Itowokashi, it means Itowokashi!\" Shonagon Sei screamed.",
+        "user": "UKH07E67M",
+        "ts": "1627292993.370800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pkx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"When I said Itowokashi, it means Itowokashi!\" Shonagon Sei screamed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627185490.366500"
+    },
+    {
+        "client_msg_id": "4f59563a-542a-483b-b0ea-e3a2fa6b7171",
+        "type": "message",
+        "text": "`\"When I said Itowokashi, it means Itowokashi!\" Shonagon Sei screamed.`\n\"イトヲカシと言ったら、イトヲカシという意味だ！\" 少納言・清が叫んだ。\n• when 使うから動詞は原型\n• meanは覚えていた\n• squealed  キーっっていう声で叫ぶ",
+        "user": "UKH07E67M",
+        "ts": "1627293090.371000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uNwm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"When I said Itowokashi, it means Itowokashi!\" Shonagon Sei screamed.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\"イトヲカシと言ったら、イトヲカシという意味だ！\" 少納言・清が叫んだ。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "when 使うから動詞は原型"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "meanは覚えていた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "squealed  キーっっていう声で叫ぶ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627186808.367000",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "22a83283-3df7-4cac-840b-0892020a8e83",
+        "type": "message",
+        "text": "I'm sorry. I inadvertently dispelled evil spirits.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627310991.371200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LvYlK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm sorry. I inadvertently dispelled evil spirits."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627268650.370200"
+    },
+    {
+        "client_msg_id": "650ad39d-7665-4ffc-9297-50aec1ccf1fa",
+        "type": "message",
+        "text": "反省会「ごめん! うっかり除霊しちゃった」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627311019.371500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YEe\/y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「ごめん! うっかり除霊しちゃった」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627311019.371500",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1627362506.375500",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01F42ZFA73",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627311372.371600"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1627357018.372400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1627361098.374500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627362506.375500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627362506.375500"
+    },
+    {
+        "client_msg_id": "c0a65a91-8357-4e3d-a37e-c798eee3ee16",
+        "type": "message",
+        "text": "`I'm sorry. I inadvertently dispelled evil spirits.`\nDeepL：申し訳ありません。うっかり悪霊を退治してしまいました。\n\n• 「除霊する = exorcise the evil spirits」了。exorcise がはらうのは悪霊や嫌な記憶で、dispel がはらうのは暗闇や不安らしい。interchangeable な感じもするが。\n• accidentally と inadvertently とは interchangeable だろう。前者は「つい、偶然に」のニュアンス、後者は「不注意で」のニュアンス。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627311372.371600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "drux\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm sorry. I inadvertently dispelled evil spirits.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：申し訳ありません。うっかり悪霊を退治してしまいました。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「除霊する = exorcise the evil spirits」了。exorcise がはらうのは悪霊や嫌な記憶で、dispel がはらうのは暗闇や不安らしい。interchangeable な感じもするが。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "accidentally と inadvertently とは interchangeable だろう。前者は「つい、偶然に」のニュアンス、後者は「不注意で」のニュアンス。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627311019.371500",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "腐ってやがる…早すぎたんだ（クロトワ\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1627313577.371800",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1627313577.371800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1627536395.379000",
+        "reply_users": [
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1627361299.374700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627362687.375700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627536395.379000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627536395.379000"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：腐ってやがる…早すぎたんだ",
+        "user": "U01UMQH4W4B",
+        "ts": "1627313578.371900",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1627313578.371900",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1627536505.379200",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1627313578.372000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1627361521.374900"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627363262.375900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1627366591.376300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627536505.379200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627536505.379200"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "It’s rotting. It’s too soon.",
+        "user": "U01UMQH4W4B",
+        "ts": "1627313578.372000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1627313578.371900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e0ae4053-b41c-40ea-a4c4-bd25346a414a",
+        "type": "message",
+        "text": "Sorry! I have eliminated ghost abruptly.",
+        "user": "U01F42ZFA73",
+        "ts": "1627355819.372200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=zfhU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! I have eliminated ghost abruptly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627268650.370200"
+    },
+    {
+        "client_msg_id": "8dde3929-db99-4164-9311-f7924573a27f",
+        "type": "message",
+        "text": "`Sorry! I have eliminated ghost abruptly.`\nDeepL: 申し訳ありません。突然ですが、ghostを廃止しました。\n•  abruptly=suddenly and unexpectedly\n• accidentally=in a way that was not planned or intended\n• うっかりをabruptlyで表現することはできない",
+        "user": "U01F42ZFA73",
+        "ts": "1627357018.372400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ubQT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! I have eliminated ghost abruptly.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 申し訳ありません。突然ですが、ghostを廃止しました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " abruptly=suddenly and unexpectedly"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "accidentally=in a way that was not "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "planned",
+                                        "style": {
+                                            "unlink": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " or "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "intended",
+                                        "style": {
+                                            "unlink": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "うっかりをabruptlyで表現することはできない"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627311019.371500",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "3c827900-0b74-4ee7-ac09-328daf7b0fcc",
+        "type": "message",
+        "text": "`While you were holding a dream and a girl friend, I was selling the eraser smell cola on illegal price with old man not having teeth.`\nDeepL: あなたが夢と女友達を抱いている間に、私は歯のないおっさんと一緒に消しゴムの匂いのコーラを違法な値段で売っていました。\n• dense=密集した\n• extortionate demand=法外な要求、のようにお金関係でないことでもextortionateは使える",
+        "user": "U01F42ZFA73",
+        "ts": "1627357939.372600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BI35",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "While you were holding a dream and a girl friend, I was selling the eraser smell cola on illegal price with old man not having teeth.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: あなたが夢と女友達を抱いている間に、私は歯のないおっさんと一緒に消しゴムの匂いのコーラを違法な値段で売っていました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dense=密集した"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "extortionate demand=法外な要求、のようにお金関係でないことでもextortionateは使える"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620997808.386300",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "2c201f07-9c05-46f9-953e-002f26037493",
+        "type": "message",
+        "text": "I’m going to do tonight.",
+        "user": "UPSPAP97D",
+        "ts": "1627359948.372800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dKcU=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m going to do tonight."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627140777.365300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e7d4f15d-dc6e-484a-97e0-e1e6ef13cc2a",
+        "type": "message",
+        "text": "Back of that cloud, the island which we haven't ever seen is floating in the air.",
+        "user": "UKH07E67M",
+        "ts": "1627360272.373000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t85I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Back of that cloud, the island which we haven't ever seen is floating in the air."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627227177.368800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "33d4e168-7b86-4d5a-ad7a-07ee1dac954a",
+        "type": "message",
+        "text": "`I'm going to do tonight.`\nDeepL「今晩は、そうしようと思います。」\n\n• だいぶ前にやった問題で、進行形か『be going to』使ってた気がしたが、別の問題だった…\n• 『make up one’s mind』で「決める」。",
+        "user": "UPSPAP97D",
+        "ts": "1627360273.373200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cRm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm going to do tonight.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「今晩は、そうしようと思います。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "だいぶ前にやった問題で、進行形か『be going to』使ってた気がしたが、別の問題だった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『make up one’s mind』で「決める」。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627140778.365400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "c5c8cbb4-8d3a-4431-9c0f-c1acfcd0f316",
+        "type": "message",
+        "text": "“When I say Itokasi, it means Itokasi” Sai-Shounagon exclaimed.",
+        "user": "UPSPAP97D",
+        "ts": "1627360486.373400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YajY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“When I say Itokasi, it means Itokasi” Sai-Shounagon exclaimed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627185490.366500"
+    },
+    {
+        "client_msg_id": "5c3e0d44-fa25-4f39-b2b0-c5d97fa0c17a",
+        "type": "message",
+        "text": "`Back of that cloud, the island which we haven't ever seen is floating in the air.` \nその雲の後ろには、見たこともない島が浮かんでいる\n• beyond も overも「超えて」から発想できなかったああ\n• 雲は複数形アリなのか...\n• dream 夢を見る",
+        "user": "UKH07E67M",
+        "ts": "1627360529.373600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Back of that cloud, the island which we haven't ever seen is floating in the air. ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nその雲の後ろには、見たこともない島が浮かんでいる\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "beyond も overも「超えて」から発想できなかったああ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "雲は複数形アリなのか..."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dream 夢を見る"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627227178.368900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "fd2892a4-ad2c-457d-a782-85114539b324",
+        "type": "message",
+        "text": "Sorry! I got a miss and I killed your soul!",
+        "user": "UKH07E67M",
+        "ts": "1627360811.373800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qK\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! I got a miss and I killed your soul!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627268650.370200"
+    },
+    {
+        "client_msg_id": "1b89cdfb-7427-4243-9de2-f4a6df10427f",
+        "type": "message",
+        "text": "`\"When I say Itokasi, it means Itokasi\" Sai-Shounagon exclaimed.`\nDeepL「イトカシーと言えばイトカシー “と西少納言が叫んだ。」\n\n• 『squeal』つづり思い出せなかった…(そろそろ覚えたい)\n• 『I mean』だったか… (蓮くんの文で納得)\n<https:\/\/www.qqeng.com\/blog2\/study\/column079.html>\n• 「いとおかし」って、そうやって分割するのか。(O が被らないため？？)",
+        "user": "UPSPAP97D",
+        "ts": "1627360895.374000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "オンライン英会話ならQQ English",
+                "title": "「I mean～」よく使う3つの表現の使い方 | この英語どうやって使うの？ | QQ English",
+                "title_link": "https:\/\/www.qqeng.com\/blog2\/study\/column079.html",
+                "text": "語の映画やドラマなどで「I mean～」というフレーズ、よく耳にしませんか？カジュアルな表現ですが、使いこなせるようになると一気に英語上級者感が増しますよね。ただ、意味はなんとなく理解できても、使い慣れないと、どのタイミングで使用していいのかと戸惑っている方も多いのでは。",
+                "fallback": "オンライン英会話ならQQ English: 「I mean～」よく使う3つの表現の使い方 | この英語どうやって使うの？ | QQ English",
+                "image_url": "https:\/\/www.qqeng.com\/blog2\/wordpress\/wp-content\/uploads\/study\/2019\/03\/thumbnail_imean.jpg",
+                "image_width": 348,
+                "image_height": 230,
+                "from_url": "https:\/\/www.qqeng.com\/blog2\/study\/column079.html",
+                "image_bytes": 54759,
+                "service_icon": "https:\/\/www.qqeng.com\/assets2\/images\/common\/apple-touchicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.qqeng.com\/blog2\/study\/column079.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TOTL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"When I say Itokasi, it means Itokasi\" Sai-Shounagon exclaimed.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「イトカシーと言えばイトカシー “と西少納言が叫んだ。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『squeal』つづり思い出せなかった…(そろそろ覚えたい)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『I mean』だったか… (蓮くんの文で納得)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.qqeng.com\/blog2\/study\/column079.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「いとおかし」って、そうやって分割するのか。(O が被らないため？？)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627186808.367000",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "599dc79b-a838-419a-b100-0156a97971b8",
+        "type": "message",
+        "text": "The island which have never discovered floats over the cloud.",
+        "user": "UPSPAP97D",
+        "ts": "1627361026.374300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vIPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The island which have never discovered floats over the cloud."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627227177.368800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "6d274c92-970c-40c2-87e5-2f8d2b591c9e",
+        "type": "message",
+        "text": "`Sorry! I got a miss and I killed your soul!`\nごめんよー。失敗してあなたの魂を殺してしまいました！\n• accidentally inadvertently どっちも思い付けなかった後者は知らなかった\n• エクソシスムって英語だったのか exorcise\n• *ソウル*（*soul*）は魂が宿る心。 アイデンティティなどに関わる心の深い部分のことを指している。 *スピリット*(*spirit*)は霊的な心。 心に宿る高次の精神のことを指している（*ソウル*に近い意味の時もある）。 まあ、spiritsだなあ ",
+        "user": "UKH07E67M",
+        "ts": "1627361098.374500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EqHt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! I got a miss and I killed your soul!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nごめんよー。失敗してあなたの魂を殺してしまいました！\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "accidentally inadvertently どっちも思い付けなかった後者は知らなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "エクソシスムって英語だったのか exorcise"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ソウル",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "（"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "soul",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "）は魂が宿る心。 アイデンティティなどに関わる心の深い部分のことを指している。 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "スピリット",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "("
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "spirit",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")は霊的な心。 心に宿る高次の精神のことを指している（"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ソウル",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "に近い意味の時もある）。 まあ、spiritsだなあ "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627311019.371500",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "59a82171-761d-4cba-bc91-c0d779679d60",
+        "type": "message",
+        "text": "It is decay... it was too early to reborn.",
+        "user": "UKH07E67M",
+        "ts": "1627361299.374700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CE\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is decay... it was too early to reborn."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627313577.371800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f4d90750-a86b-400d-8b53-83a6a9deb724",
+        "type": "message",
+        "text": "`It is decay... too early to reborn.`\n朽ち果てた...生まれ変わるには早すぎた\n•  rot 腐る　名詞動詞\n• decayは動詞を持たないから腐ってやがるっていう現在のことを言うにはrottingがベストな気はする\n• it's too soonは「早\"すぎた\"」の持つ否定の意味を反映できているのか？",
+        "user": "UKH07E67M",
+        "ts": "1627361521.374900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rc9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is decay... too early to reborn.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n朽ち果てた...生まれ変わるには早すぎた\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " rot 腐る　名詞動詞"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "decayは動詞を持たないから腐ってやがるっていう現在のことを言うにはrottingがベストな気はする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "it's too soonは「早\"すぎた\"」の持つ否定の意味を反映できているのか？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627313578.371900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "c60f5bdb-b7f0-4421-87d4-7412282ea3e8",
+        "type": "message",
+        "text": "`The island which have never discovered floats over the cloud.`\nDeepL「発見されていない島が雲の上に浮かんでいる。」\n\n• have → has\n• discovered → been discovered\n• 『beyond those clouds』で名詞的に扱えるのか…。そして、be同士の訳し方直さねば。(完全にイコールっぽく訳してしまうので、今回のは訳せなかった)\n• 『An island』にしないなら、『which』前にコンマ必要になるかも…",
+        "user": "UPSPAP97D",
+        "ts": "1627361665.375100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TLul1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The island which have never discovered floats over the cloud.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「発見されていない島が雲の上に浮かんでいる。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "have → has"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "discovered → been discovered"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『beyond those clouds』で名詞的に扱えるのか…。そして、be同士の訳し方直さねば。(完全にイコールっぽく訳してしまうので、今回のは訳せなかった)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『An island』にしないなら、『which』前にコンマ必要になるかも…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627227178.368900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "08912ef2-cb2f-47ce-8032-4539265de570",
+        "type": "message",
+        "text": "“I’m sorry! I made you go to heven because of my fault.”",
+        "user": "UPSPAP97D",
+        "ts": "1627361866.375300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zpP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“I’m sorry! I made you go to heven because of my fault.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627268650.370200"
+    },
+    {
+        "client_msg_id": "515f51c9-a1fd-4cfb-9943-b32390cd500c",
+        "type": "message",
+        "text": "`\"I'm sorry! I made you go to heven because of my fault.\"`\nDeepL「“ごめんなさい！僕のせいで君をヘブンに行かせてしまった」。」\n\n• 「天国」は『heaven』\n• 「うっかり」は『accidentally』『inadvertently』\n• 「〜を除霊する」は『exorcise』",
+        "user": "UPSPAP97D",
+        "ts": "1627362506.375500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Nl4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I'm sorry! I made you go to heven because of my fault.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「“ごめんなさい！僕のせいで君をヘブンに行かせてしまった」。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「天国」は『heaven』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「うっかり」は『accidentally』『inadvertently』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「〜を除霊する」は『exorcise』"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627311019.371500",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "64ead815-83aa-448c-aba5-6911981e0fb5",
+        "type": "message",
+        "text": "It’ve already decayed… it must be too early.",
+        "user": "UPSPAP97D",
+        "ts": "1627362687.375700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2i0ho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’ve already decayed… it must be too early."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627313577.371800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "27cf3b94-4fbc-4217-97c5-7b084e5c48bf",
+        "type": "message",
+        "text": "`It've already decayed… it must be too early.`\nDeepL「もう腐ってしまっている...まだ早いのではないか。」\n\n• It’ve → It’s (it has)\n• 『too soon』ってこんな意味を持つのか… (「最適なタイミング(曖昧な時間)より早い」意味)。確かに、『early』よりよろしそう。\n<https:\/\/ameblo.jp\/tricolorlanguage\/entry-12610218089.html>",
+        "user": "UPSPAP97D",
+        "ts": "1627363262.375900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Tricolor Language",
+                "title": "『「早すぎる」を意味する“Too Early”と“Too Soon”の違い』",
+                "title_link": "https:\/\/ameblo.jp\/tricolorlanguage\/entry-12610218089.html",
+                "text": "おはようございます、Jayです。  東京都は新型コロナウィルスの感染者数の記録がさらに更新して243人となりました。そんな中、観光庁が「Go To トラベル」…",
+                "fallback": "Tricolor Language: 『「早すぎる」を意味する“Too Early”と“Too Soon”の違い』",
+                "from_url": "https:\/\/ameblo.jp\/tricolorlanguage\/entry-12610218089.html",
+                "thumb_url": "https:\/\/stat.profile.ameba.jp\/profile_images\/20210108\/19\/57\/uJ\/g\/o01400140p_1610103110859_90lqh.gif",
+                "thumb_width": 140,
+                "thumb_height": 140,
+                "service_icon": "https:\/\/stat100.ameba.jp\/common_style\/img\/sp\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/ameblo.jp\/tricolorlanguage\/entry-12610218089.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pt6h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It've already decayed… it must be too early.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「もう腐ってしまっている...まだ早いのではないか。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It’ve → It’s (it has)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『too soon』ってこんな意味を持つのか… (「最適なタイミング(曖昧な時間)より早い」意味)。確かに、『early』よりよろしそう。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ameblo.jp\/tricolorlanguage\/entry-12610218089.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627313578.371900",
+        "parent_user_id": "U01UMQH4W4B",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4cc6c36-e498-4168-bae7-fb2963731c3e",
+        "type": "message",
+        "text": "<@UPSPAP97D> 知らなkった",
+        "user": "UKH07E67M",
+        "ts": "1627366591.376300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4FdPG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 知らなkった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627313578.371900",
+        "parent_user_id": "U01UMQH4W4B",
+        "reactions": [
+            {
+                "name": "me_too",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,294 @@
+[
+    {
+        "client_msg_id": "7ae1236c-3937-4052-a3ab-c5d79fd528af",
+        "type": "message",
+        "text": "主に4年生に向けてのちょっとした連絡です。\nslackのチャンネルの分け方がわかり切れてないのでとりあえずここに書きます。\n\n先ほどのミーティングで卒業論文テーマの決定時期やポスターの形式について話が出ましたが、\n会津大学のホームページに載っていました。\n\n<https:\/\/www.u-aizu.ac.jp\/curriculum\/thesis\/>\nただ、本当にどの研究室もこれに沿って進めているのかはちょっとわからないので、\n一度先生方に確認はしていただきたいです。\n\n会津大学の先生方での交流などはないのでしょうか？もしあればそういった機会に情報収集をお願いします。\n学生の私たちは今のところ、他の研究室に配属している友人に聞くことぐらいしかできそうにないので、、、。",
+        "user": "UQ63J44BZ",
+        "ts": "1614768427.069500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ga9b63d7dd65",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a9b63d7dd659a49eab0c736a1f46dfa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "蜂谷亜里珠",
+            "real_name": "蜂谷亜里珠",
+            "display_name": "alice",
+            "team": "TKS1Q2JUE",
+            "name": "s1260245",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "会津大学公式ウェブサイト",
+                "title_link": "https:\/\/www.u-aizu.ac.jp\/curriculum\/thesis\/",
+                "text": "会津大学の公式ウェブサイトです。コンピュータ理工学専門の大学としての、受験生向け情報、オープンキャンパス情報、学部・大学院の紹介、研究活動、公開講座など、会津大学の情報をご覧いただけます。",
+                "fallback": "会津大学公式ウェブサイト",
+                "image_url": "https:\/\/www.u-aizu.ac.jp\/img\/bg_hero_header.gif",
+                "from_url": "https:\/\/www.u-aizu.ac.jp\/curriculum\/thesis\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 13059,
+                "service_icon": "https:\/\/www.u-aizu.ac.jp\/img\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "u-aizu.ac.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.u-aizu.ac.jp\/curriculum\/thesis\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E4O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "主に4年生に向けてのちょっとした連絡です。\nslackのチャンネルの分け方がわかり切れてないのでとりあえずここに書きます。\n\n先ほどのミーティングで卒業論文テーマの決定時期やポスターの形式について話が出ましたが、\n会津大学のホームページに載っていました。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.u-aizu.ac.jp\/curriculum\/thesis\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nただ、本当にどの研究室もこれに沿って進めているのかはちょっとわからないので、\n一度先生方に確認はしていただきたいです。\n\n会津大学の先生方での交流などはないのでしょうか？もしあればそういった機会に情報収集をお願いします。\n学生の私たちは今のところ、他の研究室に配属している友人に聞くことぐらいしかできそうにないので、、、。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614768427.069500",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1614773606.070400",
+        "reply_users": [
+            "UQ63J44BZ",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UQ63J44BZ",
+                "ts": "1614768528.069700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1614772400.070000"
+            },
+            {
+                "user": "UQ63J44BZ",
+                "ts": "1614772900.070200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1614773606.070400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1614773606.070400",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e3a4e53-7ffa-4133-9698-c3aa5653f693",
+        "type": "message",
+        "text": "あとは、やはり見本がないところから卒業論文を書くのは少し不安なので、個人的に、一度先生方も交えて4年生で話し合う機会とかもほしかったりします。",
+        "user": "UQ63J44BZ",
+        "ts": "1614768528.069700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ga9b63d7dd65",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a9b63d7dd659a49eab0c736a1f46dfa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "蜂谷亜里珠",
+            "real_name": "蜂谷亜里珠",
+            "display_name": "alice",
+            "team": "TKS1Q2JUE",
+            "name": "s1260245",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4RI4s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あとは、やはり見本がないところから卒業論文を書くのは少し不安なので、個人的に、一度先生方も交えて4年生で話し合う機会とかもほしかったりします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614768427.069500",
+        "parent_user_id": "UQ63J44BZ"
+    },
+    {
+        "client_msg_id": "575604c1-92cb-4e58-9483-b6ed594ab05b",
+        "type": "message",
+        "text": "<@UQ63J44BZ> 卒業に関する要件やスケジュールについては、教務から必要十分なガイダンスが学生に直接送られるので、そこについては焦る必要はないと思います。（逆に言うと、教務からの案内を見逃すとまずいので、そういうのはラボのメンバーでやりとりしてると安心ですが）\n\n&gt; 本当にどの研究室もこれに沿って進めているのかはちょっとわからないので、\n先に述べた（教務から案内のある）全体日程については共通です。それ以外の進め方は研究室それぞれです。例えば、中間発表のポスターをいついつまでに提出するよう教務から連絡があると思いますが、ポスターには指導教員の確認印が必要です。指導教員がいつまで受け付けるかは教員ごとにいろいろです（学生が多いところは２週間前までとか）。ポスターの作成にどれくらい時間がかかるかとか、そういう肌感覚は実際に経験した人に聞くのがよいですね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1614772400.070000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56L9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ63J44BZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 卒業に関する要件やスケジュールについては、教務から必要十分なガイダンスが学生に直接送られるので、そこについては焦る必要はないと思います。（逆に言うと、教務からの案内を見逃すとまずいので、そういうのはラボのメンバーでやりとりしてると安心ですが）\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本当にどの研究室もこれに沿って進めているのかはちょっとわからないので、"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n先に述べた（教務から案内のある）全体日程については共通です。それ以外の進め方は研究室それぞれです。例えば、中間発表のポスターをいついつまでに提出するよう教務から連絡があると思いますが、ポスターには指導教員の確認印が必要です。指導教員がいつまで受け付けるかは教員ごとにいろいろです（学生が多いところは２週間前までとか）。ポスターの作成にどれくらい時間がかかるかとか、そういう肌感覚は実際に経験した人に聞くのがよいですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614768427.069500",
+        "parent_user_id": "UQ63J44BZ"
+    },
+    {
+        "client_msg_id": "210ec41e-cc62-4ec2-930f-07d7302474d8",
+        "type": "message",
+        "text": "ガイダンスがちゃんとあるんですね。そういう情報すら知らなかったです。ありがとうございます。",
+        "user": "UQ63J44BZ",
+        "ts": "1614772900.070200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ga9b63d7dd65",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a9b63d7dd659a49eab0c736a1f46dfa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "蜂谷亜里珠",
+            "real_name": "蜂谷亜里珠",
+            "display_name": "alice",
+            "team": "TKS1Q2JUE",
+            "name": "s1260245",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p186C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ガイダンスがちゃんとあるんですね。そういう情報すら知らなかったです。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614768427.069500",
+        "parent_user_id": "UQ63J44BZ"
+    },
+    {
+        "client_msg_id": "ae5801a3-49bf-4107-b000-177eca1053e4",
+        "type": "message",
+        "text": "一応ですが、\"ガイダンス\"と書いたのは、提出物のフォーマットや日程について教務から案内がある（メールや掲示板等で）という意味で、全員を集めて何か説明会をする、というようなのはなかったように思います。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1614773606.070400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Bg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応ですが、\"ガイダンス\"と書いたのは、提出物のフォーマットや日程について教務から案内がある（メールや掲示板等で）という意味で、全員を集めて何か説明会をする、というようなのはなかったように思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614768427.069500",
+        "parent_user_id": "UQ63J44BZ",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ63J44BZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

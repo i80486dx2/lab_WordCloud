@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "176b757b-2cdf-44f9-9f30-4b82be7f081c",
+        "type": "message",
+        "text": "<@UPSPAP97D> 少し先の話になるかもだけど、クラスタリングした結果を可視化するときに、クラスターをワードクラウドで見せても面白いかもね。クラスター間のエッジはそのまま表示して。\n<https:\/\/www3.nhk.or.jp\/news\/html\/20210810\/K10013192071_2108101307_2108101351_01_09.jpg>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628607871.016500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "640x360px image",
+                "image_url": "https:\/\/www3.nhk.or.jp\/news\/html\/20210810\/K10013192071_2108101307_2108101351_01_09.jpg",
+                "image_width": 640,
+                "image_height": 360,
+                "image_bytes": 39508,
+                "from_url": "https:\/\/www3.nhk.or.jp\/news\/html\/20210810\/K10013192071_2108101307_2108101351_01_09.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www3.nhk.or.jp\/news\/html\/20210810\/K10013192071_2108101307_2108101351_01_09.jpg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZWuy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 少し先の話になるかもだけど、クラスタリングした結果を可視化するときに、クラスターをワードクラウドで見せても面白いかもね。クラスター間のエッジはそのまま表示して。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www3.nhk.or.jp\/news\/html\/20210810\/K10013192071_2108101307_2108101351_01_09.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628607871.016500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1628636784.023900",
+        "reply_users": [
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1628636784.023900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1628636784.023900"
+    },
+    {
+        "client_msg_id": "162828C7-6400-4A66-BC3B-E4F1FFD6B1E2",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>  面白いですね！\n\nコミュニティ数が多い時、どう表示させるかが少し難しいかもしれないですね…\n（字を潰さず表示するための微調整が必要そう）",
+        "user": "UPSPAP97D",
+        "ts": "1628636784.023900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ufs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  面白いですね！\n\nコミュニティ数が多い時、どう表示させるかが少し難しいかもしれないですね…\n（字を潰さず表示するための微調整が必要そう）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628607871.016500",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

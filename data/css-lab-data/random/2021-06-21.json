@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "2f0cb39c-84af-4740-abca-ca7399a04b8e",
+        "type": "message",
+        "text": "在欧州企業インターンシップ参加学生募集について一般財団法人日欧産業協力センターより案内がありましたのでお知らせします。学部３年生以上から大学院生の興味ある学生が対象です。UBICに紙ベースの募集要項もあります。秋くらいから応募者の選考が始まります。1年間ガッツリやるみたいですね。返済不要の奨学金あり。\n<https:\/\/www.eu-japan.eu\/ja\/training-young-scientists-engineers>",
+        "user": "UPSPAMY7M",
+        "ts": "1624325852.042400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "EU-Japan",
+                "title": "ヴルカヌス研修",
+                "title_link": "https:\/\/www.eu-japan.eu\/ja\/training-young-scientists-engineers",
+                "text": "学生向け研修 ヴルカヌス･イン・ヨーロッパ (VinE)ヴルカヌス・イン・ヨーロッパは、日本国籍の理工系学生を対象としたEU加盟国における企業研修プログラム(語学研修+企業研修）です。【NEW】2022年度派遣プログラム 募集要項をUPしました！ 　　　　　＊応募申込書は6月末に掲載予定です。              ＊募集説明会を開催します！詳細は6月末頃、本HPにて掲載予定です。　　　　　　　　　　　　　　　   　　　　",
+                "fallback": "EU-Japan: ヴルカヌス研修",
+                "ts": 1441790070,
+                "from_url": "https:\/\/www.eu-japan.eu\/ja\/training-young-scientists-engineers",
+                "service_icon": "https:\/\/www.eu-japan.eu\/sites\/default\/files\/favicon_euja2.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.eu-japan.eu\/ja\/training-young-scientists-engineers"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3N8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "在欧州企業インターンシップ参加学生募集について一般財団法人日欧産業協力センターより案内がありましたのでお知らせします。学部３年生以上から大学院生の興味ある学生が対象です。UBICに紙ベースの募集要項もあります。秋くらいから応募者の選考が始まります。1年間ガッツリやるみたいですね。返済不要の奨学金あり。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eu-japan.eu\/ja\/training-young-scientists-engineers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U01FP2RDV44",
+                    "UPRE1RSJW",
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

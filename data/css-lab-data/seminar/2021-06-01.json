@@ -1,0 +1,123 @@
+[
+    {
+        "client_msg_id": "1738e837-ae0b-4a41-acce-973819c148fe",
+        "type": "message",
+        "text": "キーノートはこれです：\n18:10-19:10, JST Keynote Speech _“UNDERSTANDING OF SUPERORGANISMS: COLLECTIVE BEHAVIOR, DIFFERENTIATION AND SOCIAL ORGANIZATION”_ by Prof. Toru Miura  (Chair: Prof. Shigeto Dobata)\n大学にいるならラボで見ても。（Zoomアドレスはまだ公開されてないみたい）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622535847.018500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0Tn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "キーノートはこれです：\n18:10-19:10, JST Keynote Speech "
+                            },
+                            {
+                                "type": "text",
+                                "text": "“UNDERSTANDING OF SUPERORGANISMS: COLLECTIVE BEHAVIOR, DIFFERENTIATION AND SOCIAL ORGANIZATION”",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " by Prof. Toru Miura  (Chair: Prof. Shigeto Dobata)\n大学にいるならラボで見ても。（Zoomアドレスはまだ公開されてないみたい）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621947607.013700",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "a04a4fad-0615-46da-b44e-a97f5d711ab7",
+        "type": "message",
+        "text": "<@UQ47R82RW> <@U01F42ZFA73> <@U01EP839LHH> Thank you. では今週木曜17時でお願いします。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622535914.018700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Mk1a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP839LHH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you. では今週木曜17時でお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621947607.013700",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "U01EP839LHH",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

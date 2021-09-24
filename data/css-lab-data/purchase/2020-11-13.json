@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "b6285f82-6410-434c-96d1-130866f0bf49",
+        "type": "message",
+        "text": "11\/15～11\/18に届くそうです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1605254665.004100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZED2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/15～11\/18に届くそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605254302.003300",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "9E9FCD5F-3661-45AA-B926-B896B7C547A5",
+        "type": "message",
+        "text": "ありがとうございます。分かりました。",
+        "user": "UPRE1RSJW",
+        "ts": "1605255255.004500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fzN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。分かりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605254302.003300",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1605326258.004800",
+        "user": "U01EPKVACEN",
+        "text": "<@U01EPKVACEN> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1605336095.005000",
+        "user": "U01EVRBP38C",
+        "text": "<@U01EVRBP38C> has joined the channel"
+    }
+]

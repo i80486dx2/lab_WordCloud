@@ -1,0 +1,1982 @@
+[
+    {
+        "client_msg_id": "ab043366-9252-4780-829f-1cc3b33a4a7d",
+        "type": "message",
+        "text": "`suddenly, since the wild dog entered in the court, nobody heard the judgement.`\nDeepL: 突然、野犬が裁判所に入ってきたので、誰も判決を聞かなかった。\n•  stray=道に迷った、はぐれた\n• abruptly=突然\n• nobodyは三人称単数\n• courtとcourtroom の違いを調べる。\n• ↑どうやら、ほぼ同じ。厳密にいうと、courtだと建物全体を表し、courtroomだと裁判を行うための特定の場所を表す時があるらしい？\n• heardとwas listeningの違いを調べる。\n• ↑音に注目するときや自然と情報が入るときはhear,内容に注目するときや意識的に情報を入れるときはlistenらしい",
+        "user": "U01F42ZFA73",
+        "ts": "1625122800.242800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1625197585.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B8aAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "suddenly, since the wild dog entered in the court, nobody heard the judgement.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 突然、野犬が裁判所に入ってきたので、誰も判決を聞かなかった。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " stray=道に迷った、はぐれた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "abruptly=突然"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "nobodyは三人称単数"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "courtとcourtroom の違いを調べる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "↑どうやら、ほぼ同じ。厳密にいうと、courtだと建物全体を表し、courtroomだと裁判を行うための特定の場所を表す時があるらしい？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "heardとwas listeningの違いを調べる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "↑音に注目するときや自然と情報が入るときはhear,内容に注目するときや意識的に情報を入れるときはlistenらしい"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625122426.242600",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "5c370a56-3f12-421c-b770-7860cc30cd08",
+        "type": "message",
+        "text": "Suddenly, the town's dog entered the judge field, so anyone didn't hear the judge.",
+        "user": "UKH07E67M",
+        "ts": "1625122997.243000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TCehX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suddenly, the town's dog entered the judge field, so anyone didn't hear the judge."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625108697.241400"
+    },
+    {
+        "client_msg_id": "65ca59f9-9008-4859-8ef6-c5475af9136c",
+        "type": "message",
+        "text": "`Suddenly, the town's dog entered the judge field, so anyone didn't hear the judge.`\n突然、町内会の犬がジャッジ場に入ってきたので、誰もジャッジの声が聞こえなかった。\n• 野良、法廷がわからなかった。\n• 野良　stray 迷子、stray dogで野良犬catで野良猫\n• 法廷　courtroom 前にやった\n• abruptly　突然　副詞\n• judgeは判決する、判決する人の動詞と名詞で、judgementは評価判決審判名詞。前にやった\n• courtの方が意味が多いが、単体で法廷を表すことが少なく、courtroomは単体で法廷と表せる...か？\n• 注意して聞いてなかったからlisten to\n• 過去分詞＋過去進行形　過去完了形は、*遠い過去に起こったことの影響が近い過去まで及んでいる*ことを表わし、*遠い過去と近い過去に繋がりを与える*ことを目的としています。\n• <https:\/\/oel-lab.com\/past-master\/#i-7>　なるほど気付けなかった",
+        "user": "UKH07E67M",
+        "ts": "1625123587.243200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ある英語講師の英語研究部屋",
+                "title": "【英文法】過去形　過去進行形　過去完了形の使い分けを覚えよう！違いは！？",
+                "title_link": "https:\/\/oel-lab.com\/past-master\/#i-7",
+                "text": "時の流れに目を向けると、時は過去、現在、未来の３つで捉えることができます。 1回の動作を時の流れに照らし合わせると、動作の開始、動作の途中(進行中)、動作の完了という3つの段階を考えることができます。",
+                "fallback": "ある英語講師の英語研究部屋: 【英文法】過去形　過去進行形　過去完了形の使い分けを覚えよう！違いは！？",
+                "image_url": "https:\/\/oel-lab.com\/wp-content\/uploads\/2019\/06\/eyecatch_45.jpg",
+                "from_url": "https:\/\/oel-lab.com\/past-master\/#i-7",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 70094,
+                "service_icon": "https:\/\/oel-lab.com\/wp-content\/uploads\/2019\/04\/lion_square.png",
+                "id": 1,
+                "original_url": "https:\/\/oel-lab.com\/past-master\/#i-7"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ycv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suddenly, the town's dog entered the judge field, so anyone didn't hear the judge.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n突然、町内会の犬がジャッジ場に入ってきたので、誰もジャッジの声が聞こえなかった。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "野良、法廷がわからなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "野良　stray 迷子、stray dogで野良犬catで野良猫"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "法廷　courtroom 前にやった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "abruptly　突然　副詞"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "judgeは判決する、判決する人の動詞と名詞で、judgementは評価判決審判名詞。前にやった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "courtの方が意味が多いが、単体で法廷を表すことが少なく、courtroomは単体で法廷と表せる...か？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "注意して聞いてなかったからlisten to"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "過去分詞＋過去進行形　過去完了形は、"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "遠い過去に起こったことの影響が近い過去まで及んでいる",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ことを表わし、"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "遠い過去と近い過去に繋がりを与える",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ことを目的としています。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/oel-lab.com\/past-master\/#i-7"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "　なるほど気付けなかった"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625122426.242600",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "65afca17-26d7-4641-b1c5-830c2d9a9388",
+        "type": "message",
+        "text": "The saint with blue clothes shall land on the golden field.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625142832.243500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The saint with blue clothes shall land on the golden field."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625067178.240800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "00fc8fce-0cc0-45c3-951e-f542a8530cc0",
+        "type": "message",
+        "text": "`The saint with blue clothes shall land on the golden field.`\nDeepL：青い服を着た聖人は、金色の大地に降り立つ。\n\n• 「その者」めちゃめちゃ考えたが、あえて訳さない方向かー。なるほど…。\n• 「衣」を間違って「衣服」と読んでしまった。\n• 「...を着ている状態」は in だろ…。基本だろ…。\n• 「金色の野」の冠詞は a なのか？「約束の地」的な固有の the かと思ったが。\n• 運命の shall はいい線いくかと思ったが、構文がそもそも違うのでしょうがない。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625143354.243700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ReSDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The saint with blue clothes shall land on the golden field.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：青い服を着た聖人は、金色の大地に降り立つ。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「その者」めちゃめちゃ考えたが、あえて訳さない方向かー。なるほど…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「衣」を間違って「衣服」と読んでしまった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「...を着ている状態」は in だろ…。基本だろ…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「金色の野」の冠詞は a なのか？「約束の地」的な固有の the かと思ったが。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "運命の shall はいい線いくかと思ったが、構文がそもそも違うのでしょうがない。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625067178.240900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "cea945aa-abe3-4498-a061-1bab5c3221db",
+        "type": "message",
+        "text": "No one was hearing the judgement because a stray dog suddenly came into the court.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625143710.243900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No one was hearing the judgement because a stray dog suddenly came into the court."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625108697.241400"
+    },
+    {
+        "client_msg_id": "dc4a5f8d-1b28-4346-b417-d05cd9a86385",
+        "type": "message",
+        "text": "`No one was hearing the judgement because a stray dog suddenly came into the court.`\nDeepL：突然、野良犬が法廷に入ってきたため、誰も判決を聞いていなかった。\n\n• DeepL訳、すごいやん…。\n• abruptly と suddenly は interchangeable.\n• 「法廷 = courtroom」了。court も interchangeable だろう。\n• 犬が入ってきたシーンはなぜ過去完了形？入ってきた瞬間ではなくて、時間幅のある一連のイベントに着目しているから？\n• 判決に耳を傾ける意味で listen to にしようと思ったが、注意が失われた状態だから hear にしたのだが、やはり listen to でよかった。hear でもいいんじゃない？`← いや、何を言ってるんだ。やっぱり listen to しかあり得ない。`",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625144050.244500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1625144234.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c4AHK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No one was hearing the judgement because a stray dog suddenly came into the court.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：突然、野良犬が法廷に入ってきたため、誰も判決を聞いていなかった。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "DeepL訳、すごいやん…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "abruptly と suddenly は interchangeable."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「法廷 = courtroom」了。court も interchangeable だろう。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "犬が入ってきたシーンはなぜ過去完了形？入ってきた瞬間ではなくて、時間幅のある一連のイベントに着目しているから？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "判決に耳を傾ける意味で listen to にしようと思ったが、注意が失われた状態だから hear にしたのだが、やはり listen to でよかった。hear でもいいんじゃない？"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "← いや、何を言ってるんだ。やっぱり listen to しかあり得ない。",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625122426.242600",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "戦をしかけるならば、それなりの理由があるはず（ユパ\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1625153577.244900",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1625153577.244900",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1625200487.248600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625154477.245300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625199750.247200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1625200487.248600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625200487.248600"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：戦をしかけるならば、それなりの理由があるはず",
+        "user": "U01UMQH4W4B",
+        "ts": "1625153578.245000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1625153578.245000",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1625200815.248800",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1625153578.245100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625156054.245500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625199990.247400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1625200815.248800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625200815.248800"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "If you would make war, you must have reasons.",
+        "user": "U01UMQH4W4B",
+        "ts": "1625153578.245100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1625153578.245000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "57ec8d4d-542c-45cf-850a-48a63d5e2381",
+        "type": "message",
+        "text": "You should have decent reasons if you attack us.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625154477.245300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You should have decent reasons if you attack us."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625153577.244900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "76928a9e-0b81-4b86-8b66-3b36bafd3191",
+        "type": "message",
+        "text": "`You should have decent reasons if you attack us.`\nDeepL：私たちを攻撃するには、きちんとした理由が必要です。\n\n• If you would ... \n• 「戦をしかける = make war」了。\n• ここの must と should のニュアンスの違いは微妙だ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1625156054.245500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZZU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You should have decent reasons if you attack us.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：私たちを攻撃するには、きちんとした理由が必要です。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If you would ... "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「戦をしかける = make war」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ここの must と should のニュアンスの違いは微妙だ。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625153578.245000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "381c3782-d917-4fad-9689-ecb5026158cc",
+        "type": "message",
+        "text": "\"Daruma san\" roll. then, he never stand up. there are flower which is only one in the world where he roll.",
+        "user": "U01F42ZFA73",
+        "ts": "1625195678.245800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Daruma san\" roll. then, he never stand up. there are flower which is only one in the world where he roll."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624160129.192600"
+    },
+    {
+        "client_msg_id": "3e9026d5-6b4d-4c04-b01b-c0f758c89991",
+        "type": "message",
+        "text": "`\"Daruma san\" roll. then, he never stand up. there are flower which is only one in the world where he roll.`\nDeepL: \"だるまさん \"が転んだ。そして、決して立ち上がることはありません。世界に一つだけの花があります。彼が転がる場所には\n\nafter that は文の頭尾のどちらにつけてもOK。\nthenではなく、and thenが正しい。位置は、文の頭だけ",
+        "user": "U01F42ZFA73",
+        "ts": "1625196531.246000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P1ATd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Daruma san\" roll. then, he never stand up. there are flower which is only one in the world where he roll.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: \"だるまさん \"が転んだ。そして、決して立ち上がることはありません。世界に一つだけの花があります。彼が転がる場所には\n\nafter that は文の頭尾のどちらにつけてもOK。\nthenではなく、and thenが正しい。位置は、文の頭だけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624183396.193700",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1625196734.246200",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1625196734.246200",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1625214007.249700",
+        "reply_users": [
+            "UKH07E67M",
+            "UPSPAP97D",
+            "U01F42ZFA73",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1625200125.247600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1625201161.249000"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1625202787.249500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625214007.249700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625214007.249700",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: この映画は、全編大腸カメラで撮影されました。 <https:\/\/pbs.twimg.com\/media\/E5QuPrLVEAAS2mz.jpg>",
+                "ts": 1625196729,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1410803451697664000",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1410803451697664000>",
+                "text": "この映画は、全編大腸カメラで撮影されました。 <https:\/\/pbs.twimg.com\/media\/E5QuPrLVEAAS2mz.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1410803451697664000",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E5QuPrLVEAAS2mz.jpg",
+                "image_width": 400,
+                "image_height": 520,
+                "image_bytes": 31825,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "284bc15e-990a-4563-a3a3-7e6df31eae67",
+        "type": "message",
+        "text": "The person that wears a blue cloth shall stand on a golden field.",
+        "user": "UPSPAP97D",
+        "ts": "1625198418.246500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XIt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The person that wears a blue cloth shall stand on a golden field."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625067178.240800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "63e45d54-df7b-4166-9eea-cd7bc85e1714",
+        "type": "message",
+        "text": "`The person that wears a blue cloth shall stand on a golden field.`\nDeepL「青い布を身につけた人は、金色の野原に立つ。」\n\n• 「衣(ころも)」は『robe』。複数形なのは「衣服」の名残？\n• 『cloth』は「布」で、布をたくさん使うから「衣服」は『clothes』。前も間違ったやつ…\n<https:\/\/koala-times.com\/clothes>\n• 「降り立つ」は思いつかなかった。『descend onto』(toがあることで方向の強調??)\n• 「野原」は諦めで『field』って書いたが、正解だった。",
+        "user": "UPSPAP97D",
+        "ts": "1625199267.246700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Koala Times |",
+                "title": "Cloth, cloths, clothe, clothes, clothing の違い｜意味と発音・単数形と複数形・動詞を例文で確認 | Koala Times",
+                "title_link": "https:\/\/koala-times.com\/clothes",
+                "text": "「服を何着か買った」と言いたいとき、正しいのはどちらでしょうか。1. I bought some clothes. 2. I bought some cloths. 間違えやすい cloth, cloths, clothe, clothes、そして clothing の違いを整理しました。",
+                "fallback": "Koala Times |: Cloth, cloths, clothe, clothes, clothing の違い｜意味と発音・単数形と複数形・動詞を例文で確認 | Koala Times",
+                "ts": 1541966410,
+                "from_url": "https:\/\/koala-times.com\/clothes",
+                "service_icon": "https:\/\/koala-times.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/koala-times.com\/clothes"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zte",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The person that wears a blue cloth shall stand on a golden field.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「青い布を身につけた人は、金色の野原に立つ。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「衣(ころも)」は『robe』。複数形なのは「衣服」の名残？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『cloth』は「布」で、布をたくさん使うから「衣服」は『clothes』。前も間違ったやつ…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/koala-times.com\/clothes"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「降り立つ」は思いつかなかった。『descend onto』(toがあることで方向の強調??)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「野原」は諦めで『field』って書いたが、正解だった。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625067178.240900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e4e28426-370c-4bda-aa02-0acf4bb3088d",
+        "type": "message",
+        "text": "Suddenly, a wild dog entered a judge place, so no-one heard the judgement.",
+        "user": "UPSPAP97D",
+        "ts": "1625199518.247000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TU9=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suddenly, a wild dog entered a judge place, so no-one heard the judgement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625108697.241400"
+    },
+    {
+        "client_msg_id": "fb861872-f683-4fe9-91e9-bb66ccd07bc6",
+        "type": "message",
+        "text": "If someone conducts a war, they have some important reason.",
+        "user": "UKH07E67M",
+        "ts": "1625199750.247200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07=8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If someone conducts a war, they have some important reason."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625153577.244900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "d83607ed-40da-4d98-b028-8de7820ef1f0",
+        "type": "message",
+        "text": "`If someone conducts a war, they have some important reason.`\n誰かが戦争をするということは、何か重要な理由があるはずです。\n• 文法ミスは見つからなかった\n• make war 戦を仕掛ける\n• mustよりは推定の意を込めてshouldの方が適切である気がする\n• wouldなのは、もう戦端が開かれているからか ",
+        "user": "UKH07E67M",
+        "ts": "1625199990.247400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tdv9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If someone conducts a war, they have some important reason.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n誰かが戦争をするということは、何か重要な理由があるはずです。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "文法ミスは見つからなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "make war 戦を仕掛ける"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "mustよりは推定の意を込めてshouldの方が適切である気がする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "wouldなのは、もう戦端が開かれているからか "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625153578.245000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b05ac110-8a75-479b-ba6b-e56cbab31f4d",
+        "type": "message",
+        "text": "This film was taken all pictures with a camera in the body.",
+        "user": "UKH07E67M",
+        "ts": "1625200125.247600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zcz8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This film was taken all pictures with a camera in the body."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625196734.246200"
+    },
+    {
+        "client_msg_id": "a158fef5-d336-4555-8f05-2e56d460b02b",
+        "type": "message",
+        "text": "反省会：この映画は、全編大腸カメラで撮影されました。",
+        "user": "UKH07E67M",
+        "ts": "1625200141.248000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xrk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：この映画は、全編大腸カメラで撮影されました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625200141.248000",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1625238407.252800",
+        "reply_users": [
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1625200380.248400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1625201851.249200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625214404.249900"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1625238407.252800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625238407.252800"
+    },
+    {
+        "client_msg_id": "45a16c8b-33e9-4d87-ab86-31bb361d7f88",
+        "type": "message",
+        "text": "`Suddenly, a wild dog entered a judge place, so no-one heard the judgement.`\nDeepL「突然、野犬が審判場に入ってきたので、誰も審判を聞くことができませんでした。」\n\n• 『abruptly』は考えもしなかった…\n• 「法廷」は『courtroom』\n• 『nothing』みたいに『no』と『one』はくっつけたくなって『-』をつけたが、必要なかった。\n• 過去完了形+過去進行形 で{過去進行形の出来事が、過去完了の出来事中に起きてる}と示せる？？\n• 過去進行形にする恩恵はあまり分かってない…",
+        "user": "UPSPAP97D",
+        "ts": "1625200148.248100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1625200233.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suddenly, a wild dog entered a judge place, so no-one heard the judgement.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「突然、野犬が審判場に入ってきたので、誰も審判を聞くことができませんでした。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『abruptly』は考えもしなかった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「法廷」は『courtroom』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『nothing』みたいに『no』と『one』はくっつけたくなって『-』をつけたが、必要なかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "過去完了形+過去進行形 で{過去進行形の出来事が、過去完了の出来事中に起きてる}と示せる？？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "過去進行形にする恩恵はあまり分かってない…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625122426.242600",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "91924668-78d9-4809-8f3d-a5d65ab2dfc8",
+        "type": "message",
+        "text": "`This film was taken all pictures with a camera in the body.`\nこのフィルムは、ボディにカメラを搭載してすべての写真を撮影しました。\n• イギリス英語ではfilm、アメリカ英語ではmovieだった気がする\n• filmに動詞なんてあるのか？！　写す、映す、ぼやかす\n• entirely 全て　副詞。　allは形容詞　\n•  colon 大腸、結腸\n• ファイバースコープ（*fiberscope*）とは、柔軟性のある光ファイバーを束にして、その一端にレンズを、もう一端にアイピースを取り付けたものである。 先端から取り入れた画像を管を通して反対側から手に入れることができる。",
+        "user": "UKH07E67M",
+        "ts": "1625200380.248400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This film was taken all pictures with a camera in the body.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこのフィルムは、ボディにカメラを搭載してすべての写真を撮影しました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "イギリス英語ではfilm、アメリカ英語ではmovieだった気がする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "filmに動詞なんてあるのか？！　写す、映す、ぼやかす"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "entirely 全て　副詞。　allは形容詞　"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " colon 大腸、結腸"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ファイバースコープ（"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "fiberscope",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "）とは、柔軟性のある光ファイバーを束にして、その一端にレンズを、もう一端にアイピースを取り付けたものである。 先端から取り入れた画像を管を通して反対側から手に入れることができる。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625200141.248000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "601bf6d5-28ed-4f7e-951a-8a3ab60e023b",
+        "type": "message",
+        "text": "Battling must have some reasons.",
+        "user": "UPSPAP97D",
+        "ts": "1625200487.248600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gYD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Battling must have some reasons."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625153577.244900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "ace6b3c2-0862-4106-9566-ca89a2d48b57",
+        "type": "message",
+        "text": "`Battling must have some reasons.`\nDeepL「戦いには理由がある。」\n\n• if文使うの思いつかないのは重症っぽい…\n• 「戦を仕掛ける」は『make war』\n• 「しようと試みた」のは過去なので、『would』か…なるほど。(蒼紫君の文より)",
+        "user": "UPSPAP97D",
+        "ts": "1625200815.248800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "21k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Battling must have some reasons.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「戦いには理由がある。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "if文使うの思いつかないのは重症っぽい…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「戦を仕掛ける」は『make war』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「しようと試みた」のは過去なので、『would』か…なるほど。(蒼紫君の文より)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625153578.245000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f2b9db0f-2aba-4f5d-8a73-d27ef8ee0bfb",
+        "type": "message",
+        "text": "The movie was captured using a last bowel camera in the whole films.",
+        "user": "UPSPAP97D",
+        "ts": "1625201161.249000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hWj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The movie was captured using a last bowel camera in the whole films."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625196734.246200"
+    },
+    {
+        "client_msg_id": "56cfdd73-7f5b-48a1-9c9e-efb9ff944be3",
+        "type": "message",
+        "text": "`The movie was captured using a last bowel camera in the whole films.`\nDeepL「この動画は、全編に渡ってラストボイルカメラで撮影されています。」\n\n• 『take』は思いつかなかった….。『film』(動詞)は知らなかった。\n• 「全編」は『entirely』\n• 『with』で「〜を使って」と言える\n• 『in』の使い方、あっているか分からない…\n• 「大腸カメラ」は『colon fiberscope』。胃カメラのお尻から入れるやつか！(大腸で外装を作ったカメラだと何故か勘違いしていた…)\n• 『last bowel』で「最後の腸→後半の腸→小腸でなく大腸」と無理矢理だった。(そして、ダメだった)",
+        "user": "UPSPAP97D",
+        "ts": "1625201851.249200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1625202007.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=\/\/F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The movie was captured using a last bowel camera in the whole films.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「この動画は、全編に渡ってラストボイルカメラで撮影されています。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『take』は思いつかなかった….。『film』(動詞)は知らなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「全編」は『entirely』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『with』で「〜を使って」と言える"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『in』の使い方、あっているか分からない…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「大腸カメラ」は『colon fiberscope』。胃カメラのお尻から入れるやつか！(大腸で外装を作ったカメラだと何故か勘違いしていた…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『last bowel』で「最後の腸→後半の腸→小腸でなく大腸」と無理矢理だった。(そして、ダメだった)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625200141.248000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "5c6b3beb-42a7-4201-8836-433e0775914e",
+        "type": "message",
+        "text": "This film is only made by camera for bowels.",
+        "user": "U01F42ZFA73",
+        "ts": "1625202787.249500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MWljU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This film is only made by camera for bowels."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625196734.246200"
+    }
+]

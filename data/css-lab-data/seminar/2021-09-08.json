@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "bd135762-d36e-44c0-96a7-4873a9464df8",
+        "type": "message",
+        "text": "<!channel> 9\/29（水）から研究室会を再開したいと思います。これまでと同様、原則隔週で、時間は17:00からを考えています。後期からは3年生も研究室会に参加してください。どうしても予定が合わない方は個別に相談してください。次回のコーディネイターは <@UPRE1RSJW> 君ですね。よろしく。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631086024.003100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uta80",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 9\/29（水）から研究室会を再開したいと思います。これまでと同様、原則隔週で、時間は17:00からを考えています。後期からは3年生も研究室会に参加してください。どうしても予定が合わない方は個別に相談してください。次回のコーディネイターは "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君ですね。よろしく。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPRE1RSJW",
+                    "U01EL0SAUTF",
+                    "UPSPAP97D",
+                    "UKH07E67M",
+                    "UKUKA65GU",
+                    "U01FP2RDV44",
+                    "UQ47R82RW",
+                    "U01EVRBP38C",
+                    "U01EP8BUKQT"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

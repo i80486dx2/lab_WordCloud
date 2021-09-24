@@ -1,0 +1,304 @@
+[
+    {
+        "client_msg_id": "d318530d-5912-45ca-ba9b-ca3bce281b4c",
+        "type": "message",
+        "text": "<!channel> これ誰か輪講しませんか：\n<https:\/\/www.dropbox.com\/s\/je1m9uq34606uzc\/20539517211013861.pdf?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620798759.001000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "Jsr",
+                        "external_id": "1-cf057e2ed155e60b326afbfe84dc3684b0d2184195c30f1798dbe20960e9d810",
+                        "source": "remote",
+                        "file_id": "F021MTVQSF4",
+                        "file": {
+                            "id": "F021MTVQSF4",
+                            "created": 1620798764,
+                            "timestamp": 1620798764,
+                            "name": "20539517211013861_pdf",
+                            "title": "20539517211013861.pdf",
+                            "mimetype": "application\/pdf",
+                            "filetype": "pdf",
+                            "pretty_type": "PDF",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 150931,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/je1m9uq34606uzc\/20539517211013861.pdf?dl=0",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F021MTVQSF4-8400b1a953\/20539517211013861_pdf_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F021MTVQSF4-8400b1a953\/20539517211013861_pdf_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F021MTVQSF4-8400b1a953\/20539517211013861_pdf_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 180,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F021MTVQSF4-8400b1a953\/20539517211013861_pdf_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_480_w": 480,
+                            "thumb_480_h": 240,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F021MTVQSF4-8400b1a953\/20539517211013861_pdf_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F021MTVQSF4-8400b1a953\/20539517211013861_pdf_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720_w": 720,
+                            "thumb_720_h": 360,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F021MTVQSF4-8400b1a953\/20539517211013861_pdf_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 400,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F021MTVQSF4-8400b1a953\/20539517211013861_pdf_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_960_w": 960,
+                            "thumb_960_h": 480,
+                            "original_w": 1000,
+                            "original_h": 500,
+                            "thumb_tiny": "AwAYADDSIHWjNI+McnFM2r2egCXNGaYNnr+ppVKjof1oAiuJJlZPKXcD14zU9NcEkYFKMgc0AI+McjNJ8g7Ur9KYaAH5X0\/SjK+n6U3vSUASbhQDmo+9PXvQB\/\/Z",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F021MTVQSF4\/20539517211013861_pdf",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-cf057e2ed155e60b326afbfe84dc3684b0d2184195c30f1798dbe20960e9d810",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/je1m9uq34606uzc\/20539517211013861.pdf?dl=0",
+                            "has_rich_preview": true
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/je1m9uq34606uzc\/20539517211013861.pdf?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " これ誰か輪講しませんか：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/je1m9uq34606uzc\/20539517211013861.pdf?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620798759.001000",
+        "reply_count": 14,
+        "reply_users_count": 3,
+        "latest_reply": "1621823874.001500",
+        "reply_users": [
+            "UPSPAP97D",
+            "U01EL0SAUTF",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620799003.003400"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1620800465.004300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620815612.004600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620816547.006900"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1620823982.007100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620830637.007300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620896479.007700"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1621823027.000100"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1621823299.000300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621823489.000500"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1621823539.000900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621823559.001100"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1621823600.001300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1621823874.001500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1621823874.001500",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01EPKVACEN",
+                    "U01FP2RDV44"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96A45D32-2F5F-4113-979D-A6D71BF319E8",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> してみたいです！（ちょっと前にプレプリントサーバーのやつをチラ見したけどよく分からなかったので）",
+        "user": "UPSPAP97D",
+        "ts": "1620799003.003400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WS5A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " してみたいです！（ちょっと前にプレプリントサーバーのやつをチラ見したけどよく分からなかったので）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620798759.001000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AD106E76-7D8A-415E-94B1-719DC8BE0783",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> ぼくも参加したいです",
+        "user": "U01EL0SAUTF",
+        "ts": "1620800465.004300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MBuI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ぼくも参加したいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620798759.001000",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

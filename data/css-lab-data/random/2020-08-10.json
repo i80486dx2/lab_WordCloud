@@ -1,0 +1,770 @@
+[
+    {
+        "client_msg_id": "920e3612-299d-4951-9cd3-7be17af077bf",
+        "type": "message",
+        "text": "こういうの発想がよいよね：\n<https:\/\/twitter.com\/kenkawakenkenke\/status\/1292348484880744449>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1597067462.060900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8xrL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こういうの発想がよいよね：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/kenkawakenkenke\/status\/1292348484880744449"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "reply_count": 14,
+        "reply_users_count": 3,
+        "latest_reply": "1597075726.068000",
+        "reply_users": [
+            "UQ47R82RW",
+            "UKS1Q2KTQ",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1597067673.061300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1597067727.061500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1597068968.061800"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1597069096.062200"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1597071249.062500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1597071377.062700"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1597071406.062900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1597071421.063200"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1597071475.063400"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1597073423.067100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1597073777.067300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1597075202.067600"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1597075402.067800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1597075726.068000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1597075726.068000",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAMY7M",
+                    "UKUKA65GU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UPRE1RSJW",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            },
+            {
+                "name": "hushed",
+                "users": [
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f338a23-081d-4996-a55f-f15b053ffdb5",
+        "type": "message",
+        "text": "面白いですね！\nやっぱこう見ると分析するならいずれスクレイピングは学んだ方がいい感じですね…",
+        "user": "UQ47R82RW",
+        "ts": "1597067673.061300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SA0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "面白いですね！\nやっぱこう見ると分析するならいずれスクレイピングは学んだ方がいい感じですね…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "48aa6058-2fae-4e0f-9de5-a2303bb9db1b",
+        "type": "message",
+        "text": "APIを用意してるケースは限られてるからね。いまどきはスクレイピングもいろいろ道具があるから、少し触っておくといいかもですね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1597067727.061500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1597069052.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "APIを用意してるケースは限られてるからね。いまどきはスクレイピングもいろいろ道具があるから、少し触っておくといいかもですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "18d020b0-6152-4f27-ba75-10b9258bfa91",
+        "type": "message",
+        "text": "exploratoryというのがあるらしいので少しさわりたいと思います",
+        "user": "UQ47R82RW",
+        "ts": "1597068968.061800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JHr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "exploratoryというのがあるらしいので少しさわりたいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eacbeed7-8eb7-49bc-83d7-75808902b905",
+        "type": "message",
+        "text": "exploratoryは別のでした.\nOctoparseです",
+        "user": "UQ47R82RW",
+        "ts": "1597069096.062200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1597069181.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "facac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "exploratoryは別のでした.\nOctoparseです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "ebafeee3-238c-45d6-aba9-8809a61753cf",
+        "type": "message",
+        "text": "上のアプリめっちゃ簡単でした。\nNocodeで好きなサイトのスクレイピングができました。",
+        "user": "UQ47R82RW",
+        "ts": "1597071249.062500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w7F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上のアプリめっちゃ簡単でした。\nNocodeで好きなサイトのスクレイピングができました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "7fed4de1-99b0-4bb6-8146-8259ea4c1a71",
+        "type": "message",
+        "text": "<@UQ47R82RW> 君はよくわかってると思いますが（あるいはアプリのデフォルト設定で決まってるかもしれませんが）、接続先に高負荷を与えないためのアクセス頻度だけ、よくコントロールするようにしてください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1597071377.062700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rid\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 君はよくわかってると思いますが（あるいはアプリのデフォルト設定で決まってるかもしれませんが）、接続先に高負荷を与えないためのアクセス頻度だけ、よくコントロールするようにしてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d69c9fc5-e9e8-4589-96ba-a623a046c129",
+        "type": "message",
+        "text": "アプリのデフォルトが分処理2~3なので大丈夫だと思ってます…",
+        "user": "UQ47R82RW",
+        "ts": "1597071406.062900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z1t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アプリのデフォルトが分処理2~3なので大丈夫だと思ってます…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "40fae4f6-3c1e-4f14-ba4e-bc1fd2a13565",
+        "type": "message",
+        "text": "それなら全然大丈夫ですね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1597071421.063200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dHPDX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それなら全然大丈夫ですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "dd2bfab7-7980-4496-bac9-20166fa2173b",
+        "type": "message",
+        "text": "一応終わるまで監視して、速くならないか見てみます。",
+        "user": "UQ47R82RW",
+        "ts": "1597071475.063400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RV7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応終わるまで監視して、速くならないか見てみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64AF75EA-C633-47CF-97A0-839AC305B923",
+        "type": "message",
+        "text": "見てて楽しいですね！最近だと時短レシピとかもすごく流行ってますし！\nこの投稿のリプ欄にもありましたが、作業工程に重み?がつけられたら尚いいなぁと思いました。例えば混ぜるだけ、レンチンなら1point、包丁やピーラーなど新たに調理器具を使うのは1.5pointみたいに。",
+        "user": "UKUKA65GU",
+        "ts": "1597073423.067100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xtwEk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "見てて楽しいですね！最近だと時短レシピとかもすごく流行ってますし！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この投稿のリプ欄にもありましたが、作業工程に重み?がつけられたら尚いいなぁと思いました。例えば混ぜるだけ、レンチンなら1point、包丁やピーラーなど新たに調理器具を使うのは1.5pointみたいに。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "b09d9608-0875-41ad-a5ff-7668cb5accf6",
+        "type": "message",
+        "text": "<@UKUKA65GU> 大胆なアイデアは研究の広がりがいろいろ出てくるもので、まさに「ああしてみたら、こうしてみたら」というアイデアがいろいろ出てきますよね。よい研究はテクニカルには簡単な場合が多々あって、こういうのを「すじがよい研究」といいます。逆にテクニカルにはすごく高度で大変でもあまり面白くない研究（筋悪の研究）というのも多々ありますw",
+        "user": "UKS1Q2KTQ",
+        "ts": "1597073777.067300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rqVE4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 大胆なアイデアは研究の広がりがいろいろ出てくるもので、まさに「ああしてみたら、こうしてみたら」というアイデアがいろいろ出てきますよね。よい研究はテクニカルには簡単な場合が多々あって、こういうのを「すじがよい研究」といいます。逆にテクニカルにはすごく高度で大変でもあまり面白くない研究（筋悪の研究）というのも多々ありますw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c73823c-93e0-4a90-bc13-0991d467381b",
+        "type": "message",
+        "text": "一応使ってみた感じ、速くても分速7~10回の処理なので、そこまでのサーバー負担ではない？\nただ、使ってて、膨大なデータをとるとなると分速2~3で12000程度のデータだとしてもかなり時間がかかるので、サブ機などで数日くらい回すしかないかもしれないです。\n\n有料プランだとクラウド上でもできるようになるので、そちらを利用した方がいいのかもしれないですが個人の趣味のために有料なものはつかえないですね。",
+        "user": "UQ47R82RW",
+        "ts": "1597075202.067600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFFR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応使ってみた感じ、速くても分速7~10回の処理なので、そこまでのサーバー負担ではない？\nただ、使ってて、膨大なデータをとるとなると分速2~3で12000程度のデータだとしてもかなり時間がかかるので、サブ機などで数日くらい回すしかないかもしれないです。\n\n有料プランだとクラウド上でもできるようになるので、そちらを利用した方がいいのかもしれないですが個人の趣味のために有料なものはつかえないですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "6378386b-c5bc-48c1-91ed-073beb43e4c7",
+        "type": "message",
+        "text": "逆にクローリングではなく、ワークフローをくまない単純に１画面のスクレイピングであれば、勝手に認識してカラムを分けたりしてくれるので絶大な威力をもちそうです。",
+        "user": "UQ47R82RW",
+        "ts": "1597075402.067800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mxbzj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "逆にクローリングではなく、ワークフローをくまない単純に１画面のスクレイピングであれば、勝手に認識してカラムを分けたりしてくれるので絶大な威力をもちそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "7263ae5a-0dbc-4c53-a7f3-dadfea664699",
+        "type": "message",
+        "text": "<@UQ47R82RW> なるほどねー。昔curlのライブラリを使ってCでコード書いてたのがバカみたいに、今はオシャレになってるんですね…。食べログのデータをスクレイピングして店舗空間のテキスト分析を行った研究とかもありますし、研究でいざ必要になったら研究費でまかなえるので心配なく！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1597075726.068000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "stGr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なるほどねー。昔curlのライブラリを使ってCでコード書いてたのがバカみたいに、今はオシャレになってるんですね…。食べログのデータをスクレイピングして店舗空間のテキスト分析を行った研究とかもありますし、研究でいざ必要になったら研究費でまかなえるので心配なく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1597067462.060900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

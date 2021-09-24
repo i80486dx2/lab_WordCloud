@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "7AA7223D-F673-4405-BAE2-CFF9085FE6C2",
+        "type": "message",
+        "text": "そうです",
+        "user": "UPRE1RSJW",
+        "ts": "1584436750.022900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q4\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584347668.016700",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "4ad1171f-83d7-4142-8103-cd989ba913c5",
+        "type": "message",
+        "text": "<@UPRE1RSJW> ちょっとデータ追加してもらおうかと思うんですが、今日か明日って研究室に来てますか？",
+        "user": "UPSPAMY7M",
+        "ts": "1584494346.023100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BgAE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ちょっとデータ追加してもらおうかと思うんですが、今日か明日って研究室に来てますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584347668.016700",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "1f387e3e-694a-4abb-bac2-4caeddf75cc6",
+        "type": "message",
+        "text": "両日とも予定が入ってしまってますね。",
+        "user": "UPRE1RSJW",
+        "ts": "1584494426.023300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/MS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "両日とも予定が入ってしまってますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584347668.016700",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "decd2261-89c3-4bbe-afa1-fea5da2c41f5",
+        "type": "message",
+        "text": "<@UPRE1RSJW> 了解です。また都合のつく時で大丈夫です。",
+        "user": "UPSPAMY7M",
+        "ts": "1584494484.023500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EKV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です。また都合のつく時で大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584347668.016700",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "cee2e3d9-cc77-495e-9331-ed98ef9fb8a4",
+        "type": "message",
+        "text": "<!channel> 学生居室にデスクトップPC設置しました。\nASUS Mini ProArt PA90（Core i9 8cores 3.6GHz、RAM 32GB、NVIDIA Quadro、SSD 512GB、※拡張性なし）\n助川君にセットアップしてもらってヘビーな計算用にする予定ですが、研究室内の学生供用としますので適宜アカウント作成してご利用ください(たまに私もUnity\/Blenderで使います)。",
+        "user": "UPSPAMY7M",
+        "ts": "1590384976.005500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9yOgl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 学生居室にデスクトップPC設置しました。\nASUS Mini ProArt PA90（Core i9 8cores 3.6GHz、RAM 32GB、NVIDIA Quadro、SSD 512GB、※拡張性なし）\n助川君にセットアップしてもらってヘビーな計算用にする予定ですが、研究室内の学生供用としますので適宜アカウント作成してご利用ください(たまに私もUnity\/Blenderで使います)。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590384976.005500",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1590551810.009400",
+        "reply_users": [
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1590551564.006100"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1590551810.009400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            },
+            {
+                "name": "monkey_face",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

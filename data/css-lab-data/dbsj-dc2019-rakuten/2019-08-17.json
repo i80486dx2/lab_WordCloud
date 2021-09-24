@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "efaea1e0-de66-4e99-ac7e-894afd4050c1",
+        "type": "message",
+        "text": "2019\/8\/18 ラッキーセブンジンクス検証\n各イニングにおける、1チームの総得点平均\nInning 1\nHome: 37.00 Visitor: 35.67 Total: 72.67\nInning 2\nHome: 29.67 Visitor: 26.67 Total: 56.34\nInning 3\nHome: 33.83 Visitor: 32.33 Total: 66.16\nInning 4\nHome: 34.33 Visitor: 31.17 Total: 65.50\nInning 5\nHome: 31.67 Visitor: 34.17 Total: 65.84\nInning 6\nHome: 36.67 Visitor: 37.17 Total: 73.84\nInning 7\nHome: 38.67 Visitor: 32.17 Total: 70.84\nInning 8\nHome: 28.83 Visitor: 33.50 Total: 62.33\nInning 9\nHome: 12.50 Visitor: 26.50 Total: 39.00\nInning 10\nHome: 0.00 Visitor: 0.00 Total: 0.00\nInning 11\nHome: 0.00 Visitor: 0.00 Total: 0.00\nInning 12\nHome: 0.00 Visitor: 0.00 Total: 0.00",
+        "user": "UKUKA65GU",
+        "ts": "1566110380.014400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "23469328-8240-47d0-9b9b-8f9668dad706",
+        "type": "message",
+        "text": "チーム別で各イニングにおける得点の分布なども作ってみる予定です。",
+        "user": "UKUKA65GU",
+        "ts": "1566110400.014800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

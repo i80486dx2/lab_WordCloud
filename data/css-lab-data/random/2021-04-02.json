@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "b55ccbbe-635d-455c-80e5-b63c2ba3ace4",
+        "type": "message",
+        "text": "バイト:sob:",
+        "user": "U01EL0SAUTF",
+        "ts": "1617361442.019300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T\/J7K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイト"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617278571.018700",
+        "parent_user_id": "UKH07E67M"
+    }
+]

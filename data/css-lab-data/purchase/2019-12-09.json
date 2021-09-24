@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "c09dc218-0d9c-4c9c-9b75-67cb3b0f290a",
+        "type": "message",
+        "text": "<!channel> 今後いろいろ品物が届きますが、12\/13（金）にソファとラグ、12\/17（火）にフリーアドレスデスクが届きます。現在6つあるPCデスクは4台撤去して、2台を使いまわす予定です。レイアウトは奥が休憩スペース、手前がワーキングスペースです。片付けや組み立てなどお願いすることが出てくると思いますが、どうぞ協力お願いします。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1575880860.018500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Auj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今後いろいろ品物が届きますが、12\/13（金）にソファとラグ、12\/17（火）にフリーアドレスデスクが届きます。現在6つあるPCデスクは4台撤去して、2台を使いまわす予定です。レイアウトは奥が休憩スペース、手前がワーキングスペースです。片付けや組み立てなどお願いすることが出てくると思いますが、どうぞ協力お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575880860.018500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1576210575.019500",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1576210575.019500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1576210575.019500",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D",
+                    "UKUKA65GU",
+                    "UKH07E67M",
+                    "UQ47R82RW",
+                    "UPRE1RSJW"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "22975F17-1B73-416C-904A-CA356411E1B2",
+        "type": "message",
+        "text": "お、面白そうですね。見てみます！",
+        "user": "U01EP839LHH",
+        "ts": "1623673543.032300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "10f8072a6377",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1728126443014_10f8072a637710127d26_72.png",
+            "first_name": "平川　令祐",
+            "real_name": "平川　令祐",
+            "display_name": "ryosuke",
+            "team": "TKS1Q2JUE",
+            "name": "s1270080",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H5Mi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お、面白そうですね。見てみます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623625655.030700",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "0c2bb79f-642a-470b-a315-71948cf3f010",
+        "type": "message",
+        "text": "先日研究室会でアナウンスしたラボの写真撮影、今週金曜の13:30-14:00になりました。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623719209.033000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iz8O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先日研究室会でアナウンスしたラボの写真撮影、今週金曜の13:30-14:00になりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

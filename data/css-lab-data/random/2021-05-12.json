@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "54f3de37-afe1-4b0f-a78e-941058ec99e6",
+        "type": "message",
+        "text": "改訂版 金持ち父さん 貧乏父さん:アメリカの金持ちが教えてくれるお金の哲学\n\n<https:\/\/www.amazon.co.jp\/%E6%94%B9%E8%A8%82%E7%89%88-%E9%87%91%E6%8C%81%E3%81%A1%E7%88%B6%E3%81%95%E3%82%93-%E8%B2%A7%E4%B9%8F%E7%88%B6%E3%81%95%E3%82%93-%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E9%87%91%E6%8C%81%E3%81%A1%E3%81%8C%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%81%8A%E9%87%91%E3%81%AE%E5%93%B2%E5%AD%A6-%E5%8D%98%E8%A1%8C%E6%9C%AC\/dp\/4480864245\/ref=sr_1_1?adgrpid=103734027763&amp;dchild=1&amp;gclid=CjwKCAjw-e2EBhAhEiwAJI5jg8UNodTkpHL-46aVhJfvxe7tNG8edNdceMCjjEebiXRc5Gh-gAdGixoCDI0QAvD_BwE&amp;hvadid=447847047741&amp;hvdev=c&amp;hvlocphy=1009149&amp;hvnetw=g&amp;hvqmt=e&amp;hvrand=8980521172441086730&amp;hvtargid=kwd-1618207921&amp;hydadcr=27924_11562722&amp;jp-ad-ap=0&amp;keywords=%E9%87%91%E6%8C%81%E3%81%A1%E7%88%B6%E3%81%95%E3%82%93%E8%B2%A7%E4%B9%8F%E7%88%B6%E3%81%95%E3%82%93&amp;qid=1620812660&amp;sr=8-1|https:\/\/www.amazon.co.jp\/%E6%94%B9%E8%A8%82%E7%89%88-%E9%87%91%E6%8C%81%E3%81%A1%E7%8[…]A7%E4%B9%8F%E7%88%B6%E3%81%95%E3%82%93&amp;qid=1620812660&amp;sr=8-1>",
+        "user": "U01EVRBP38C",
+        "ts": "1620812698.072600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01EVRBP38C",
+            "ts": "1620812760.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OIr\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "改訂版 金持ち父さん 貧乏父さん:アメリカの金持ちが教えてくれるお金の哲学\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/%E6%94%B9%E8%A8%82%E7%89%88-%E9%87%91%E6%8C%81%E3%81%A1%E7%88%B6%E3%81%95%E3%82%93-%E8%B2%A7%E4%B9%8F%E7%88%B6%E3%81%95%E3%82%93-%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E9%87%91%E6%8C%81%E3%81%A1%E3%81%8C%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%81%8A%E9%87%91%E3%81%AE%E5%93%B2%E5%AD%A6-%E5%8D%98%E8%A1%8C%E6%9C%AC\/dp\/4480864245\/ref=sr_1_1?adgrpid=103734027763&dchild=1&gclid=CjwKCAjw-e2EBhAhEiwAJI5jg8UNodTkpHL-46aVhJfvxe7tNG8edNdceMCjjEebiXRc5Gh-gAdGixoCDI0QAvD_BwE&hvadid=447847047741&hvdev=c&hvlocphy=1009149&hvnetw=g&hvqmt=e&hvrand=8980521172441086730&hvtargid=kwd-1618207921&hydadcr=27924_11562722&jp-ad-ap=0&keywords=%E9%87%91%E6%8C%81%E3%81%A1%E7%88%B6%E3%81%95%E3%82%93%E8%B2%A7%E4%B9%8F%E7%88%B6%E3%81%95%E3%82%93&qid=1620812660&sr=8-1",
+                                "text": "https:\/\/www.amazon.co.jp\/%E6%94%B9%E8%A8%82%E7%89%88-%E9%87%91%E6%8C%81%E3%81%A1%E7%8[…]A7%E4%B9%8F%E7%88%B6%E3%81%95%E3%82%93&qid=1620812660&sr=8-1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

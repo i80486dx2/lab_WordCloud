@@ -1,0 +1,984 @@
+[
+    {
+        "client_msg_id": "f3526d83-2968-428d-97a4-d8922920f511",
+        "type": "message",
+        "text": "`Why Did you bring your cat at our company? I necessarily needed Kotarou to spend Monday.`\nDeepL: なぜうちの会社に猫を連れてきたの？月曜日に小太郎が必要だったからです。\n•  make it through==乗り切る",
+        "user": "U01F42ZFA73",
+        "ts": "1629788483.088000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yKj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why Did you bring your cat at our company? I necessarily needed Kotarou to spend Monday.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: なぜうちの会社に猫を連れてきたの？月曜日に小太郎が必要だったからです。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " make it through==乗り切る"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629699356.082500",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "b6223c43-7ab1-43a7-875b-1c31470e2e0e",
+        "type": "message",
+        "text": "The island is called Laputa which is in the sky.",
+        "user": "UKH07E67M",
+        "ts": "1629790854.088200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MOH6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The island is called Laputa which is in the sky."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629732778.083200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "ac60a85b-bc15-4393-9386-2037efe231c3",
+        "type": "message",
+        "text": "`The island is called Laputa which is in the sky.`\nその島は、空に浮かぶ「ラピュタ」という島です。\n• めっちゃわかりやすいしニュアンスも伝わる。書きたかった答えは間違いなく模範 ",
+        "user": "UKH07E67M",
+        "ts": "1629790900.088400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2or",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The island is called Laputa which is in the sky.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nその島は、空に浮かぶ「ラピュタ」という島です。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "めっちゃわかりやすいしニュアンスも伝わる。書きたかった答えは間違いなく模範 "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629732778.083300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "101cffbd-9059-4a9f-8e95-be885d6620f2",
+        "type": "message",
+        "text": "From now, I'll reject your tooth stones.",
+        "user": "UKH07E67M",
+        "ts": "1629790981.088600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dQ9x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From now, I'll reject your tooth stones."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629774759.087200"
+    },
+    {
+        "client_msg_id": "5774cf1b-4bef-4145-b56b-80553bc92c15",
+        "type": "message",
+        "text": "`From now, I'll reject your tooth stones.`\nこれからは、あなたの歯固めを拒否します。\n• なんか前にもremoveじゃなくてreject使って事故った気がする\n• from nowは今後。今からという瞬間ではない\n•  <https:\/\/www.rarejob.com\/englishlab\/column\/20190609\/> thenだけではダメだ\n• <https:\/\/eikaiwa.dmm.com\/uknow\/questions\/53404\/> と思ったけどいいのか？\n• <https:\/\/dictionary.goo.ne.jp\/word\/en\/Well+then\/> well thenはwell(よし) then(では) って感じかな\n• 歯石ってなに？",
+        "user": "UKH07E67M",
+        "ts": "1629791376.088800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "RareJob English Lab produced by レアジョブ英会話",
+                "title": "「じゃあ」は英語で何という？「then」の意味を理解して会話の流れをつくろう | English Lab（イングリッシュラボ）┃レアジョブ英会話が発信する英語サイト",
+                "title_link": "https:\/\/www.rarejob.com\/englishlab\/column\/20190609\/",
+                "text": "便利なのに、学校英語でしっかり習わない単語があります。副詞の「then」です。相手のはなしを聴いて「じゃあこうしようよ！」という時、「then」を使えば、同じニュアンスのまま伝えることができます。今回は、会話に便利な「then」の表現をマスターしましょう。あわせて、きっちりとした書き言葉でも使える表現を紹介します！",
+                "fallback": "RareJob English Lab produced by レアジョブ英会話: 「じゃあ」は英語で何という？「then」の意味を理解して会話の流れをつくろう | English Lab（イングリッシュラボ）┃レアジョブ英会話が発信する英語サイト",
+                "image_url": "https:\/\/rarejob.com\/cms\/wp-content\/uploads\/2019\/05\/190609-750x500.jpg",
+                "from_url": "https:\/\/www.rarejob.com\/englishlab\/column\/20190609\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 33966,
+                "service_icon": "https:\/\/www.rarejob.com\/cms\/wp-content\/themes\/awaken\/img\/icon\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.rarejob.com\/englishlab\/column\/20190609\/"
+            },
+            {
+                "service_name": "DMM英会話なんてuKnow?",
+                "title": "じゃあもうすぐだね！って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "title_link": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/53404\/",
+                "text": "今度受け入れをするホストバディが金曜に出発するらしいので、教えてください",
+                "fallback": "DMM英会話なんてuKnow?: じゃあもうすぐだね！って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "image_url": "https:\/\/img.eikaiwa.dmm.com\/assets\/uknow\/fb_ogp.png",
+                "from_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/53404\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 28296,
+                "service_icon": "https:\/\/eikaiwa.dmm.com\/fav-apple-touch-icon-57x57-precomposed.png",
+                "id": 2,
+                "original_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/53404\/"
+            },
+            {
+                "service_name": "goo辞書",
+                "title": "Well thenの意味 - goo辞書 英和和英",
+                "title_link": "https:\/\/dictionary.goo.ne.jp\/word\/en\/Well+then\/",
+                "text": "Well thenとは。意味や和訳。1 （発話を強めて）よし，では2 〔Well then，...〕（間を置いて）ところで…3 〔Well，then?〕（相手を促して）それで（((米))And then?） - 80万項目以上収録、例文・コロケーションが豊富な無料英和和英辞典。",
+                "fallback": "goo辞書: Well thenの意味 - goo辞書 英和和英",
+                "image_url": "https:\/\/u.xgoo.jp\/img\/sns\/dictionary.png",
+                "from_url": "https:\/\/dictionary.goo.ne.jp\/word\/en\/Well+then\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 7687,
+                "service_icon": "http:\/\/u.xgoo.jp\/img\/sns\/dictionary.png",
+                "id": 3,
+                "original_url": "https:\/\/dictionary.goo.ne.jp\/word\/en\/Well+then\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uK73a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From now, I'll reject your tooth stones.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれからは、あなたの歯固めを拒否します。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "なんか前にもremoveじゃなくてreject使って事故った気がする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "from nowは今後。今からという瞬間ではない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.rarejob.com\/englishlab\/column\/20190609\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " thenだけではダメだ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/53404\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " と思ったけどいいのか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/dictionary.goo.ne.jp\/word\/en\/Well+then\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " well thenはwell(よし) then(では) って感じかな"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "歯石ってなに？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629787660.087700",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "db83349d-a171-474a-a7f9-1955870fbc5d",
+        "type": "message",
+        "text": "Now I'll remove your tartar.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629799208.089100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JCJpl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now I'll remove your tartar."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629774759.087200"
+    },
+    {
+        "client_msg_id": "98cac9f2-8e4c-4d67-8f91-b99469f1c9c2",
+        "type": "message",
+        "text": "`Now I'll remove your tartar.`\nDeepL：今度は歯石を取ります。\n\n• 「さてそれでは、 = Well then,」了",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629799909.089300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I73yI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now I'll remove your tartar.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：今度は歯石を取ります。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「さてそれでは、 = Well then,」了"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629787660.087700",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "お母さん笑ってるよ（メイ\/となりのトトロ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1629819178.089500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629819178.089500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1631688028.060500",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629838454.089900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1629940607.000100"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1631688028.060500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631688028.060500"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：お母さん笑ってるよ",
+        "user": "U01UMQH4W4B",
+        "ts": "1629819178.089600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629819178.089600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1629940869.000300",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1629819178.089700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629838480.090100"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1629940869.000300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1629940869.000300"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Look. Mommy’s laughing.",
+        "user": "U01UMQH4W4B",
+        "ts": "1629819178.089700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629819178.089600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "fd405b5e-c311-4107-b5ec-a1a2a6221a53",
+        "type": "message",
+        "text": "Mother is laughing.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629838454.089900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AlYlv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mother is laughing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629819178.089500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "32127940-766f-49f7-bf9f-a59ea538e21b",
+        "type": "message",
+        "text": "`Mother is laughing.`\n\n• Look",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629838480.090100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5IGL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mother is laughing.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Look"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629819178.089600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1629861730.090300",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1629861730.090300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1629941366.000600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01F42ZFA73",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629862561.090400"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629863272.091000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1629941366.000600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1629941366.000600",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「焼きまんじゅうは、一串に4つのまんじゅうが刺さっていますが、それぞれ、赤城、榛名、妙義、浅間を表しています」 <https:\/\/pbs.twimg.com\/media\/E9mxzkCVEAEVYdL.jpg>",
+                "ts": 1629861724,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1430369861541105664",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1430369861541105664>",
+                "text": "「焼きまんじゅうは、一串に4つのまんじゅうが刺さっていますが、それぞれ、赤城、榛名、妙義、浅間を表しています」 <https:\/\/pbs.twimg.com\/media\/E9mxzkCVEAEVYdL.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1430369861541105664",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E9mxzkCVEAEVYdL.jpg",
+                "image_width": 400,
+                "image_height": 500,
+                "image_bytes": 39579,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a366ae85-6af3-461f-9bbe-f676a6812c55",
+        "type": "message",
+        "text": "The baked Manju has four Manjus on its stick: they represent Akagi, Haruna, Myogi, and Asama, respectively.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629862561.090400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xA1B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The baked Manju has four Manjus on its stick: they represent Akagi, Haruna, Myogi, and Asama, respectively."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629861730.090300"
+    },
+    {
+        "client_msg_id": "13306729-3842-4112-b813-3d87718d84d0",
+        "type": "message",
+        "text": "反省会「焼きまんじゅうは、一串に4つのまんじゅうが刺さっていますが、それぞれ、赤城、榛名、妙義、浅間を表しています」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629862586.090700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GCIlu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「焼きまんじゅうは、一串に4つのまんじゅうが刺さっていますが、それぞれ、赤城、榛名、妙義、浅間を表しています」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629862586.090700",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1629981815.004700",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629862765.090800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1629941703.000800"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629981815.004700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1629981815.004700"
+    },
+    {
+        "client_msg_id": "23126e59-1ea9-4005-b9d8-bfacb54a0e5e",
+        "type": "message",
+        "text": "`The baked Manju has four Manjus on its stick: they represent Akagi, Haruna, Myogi, and Asama, respectively.`\nDeepL：焼きまんじゅうの棒には4つのまんじゅうが付いていて、それぞれ赤城、榛名、妙義、浅間を表しています。\n\n• 「（焼き物の）串 = a bamboo stick」了。\n• 「団子 = dumpling」了。\n• 「串にさす = skewer」了。新語。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629862765.090800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5QY6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The baked Manju has four Manjus on its stick: they represent Akagi, Haruna, Myogi, and Asama, respectively.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：焼きまんじゅうの棒には4つのまんじゅうが付いていて、それぞれ赤城、榛名、妙義、浅間を表しています。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「（焼き物の）串 = a bamboo stick」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「団子 = dumpling」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「串にさす = skewer」了。新語。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629862586.090700",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "e02135d9-c8c0-4a82-897f-dde9ce5e6948",
+        "type": "message",
+        "text": "a baked Manjuu, 4 Manjuu was sticked per bamboo, expresss each the place, Akagi, Haruna, Myougi, Asama.",
+        "user": "U01F42ZFA73",
+        "ts": "1629863272.091000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gLmu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a baked Manjuu, 4 Manjuu was sticked per bamboo, expresss each the place, Akagi, Haruna, Myougi, Asama."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629861730.090300"
+    }
+]

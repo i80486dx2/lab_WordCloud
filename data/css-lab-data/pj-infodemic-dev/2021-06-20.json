@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "c9adc70d-2953-4051-8f17-713c7dd48c5c",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 提案のあった可視化処理などを行ってみました。\n• UMAP可視化のコミュニティ色付けを、コミュニティに所属するノード数に合わせてグラデーション\n• コミュニティのネットワーク作成（コミュニティごとのやり取りの可視化）\n+a(自分で気になって加えたもの)\n• UMAPの距離函数変更(euclidean → cosine)\n• これまでのrtネットワークデータは内部で複数のネットワークに分かれていたので、UMAP可視化を最大のネットワークに限定して表示 → あまり意味なかった\n<https:\/\/www.notion.so\/2021-05-16-64aecb3fc1f545cdb02278f5b2be11f4>",
+        "user": "UPSPAP97D",
+        "ts": "1624254652.077300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Murakami's Notion on Notion",
+                "title": "2021\/05\/16データ",
+                "title_link": "https:\/\/www.notion.so\/2021-05-16-64aecb3fc1f545cdb02278f5b2be11f4",
+                "text": "コミュニティのノード数によってグラデーション色付け",
+                "fallback": "Murakami's Notion on Notion: 2021\/05\/16データ",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe2a217ed-ec36-4443-b063-7d61534f4617%2FnoWeightandDi_weightInfomap.png?table=block&id=56608446-cb3b-4a75-b17e-0c66a365217a&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/2021-05-16-64aecb3fc1f545cdb02278f5b2be11f4",
+                "image_width": 389,
+                "image_height": 250,
+                "image_bytes": 312307,
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/2021-05-16-64aecb3fc1f545cdb02278f5b2be11f4"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r+=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 提案のあった可視化処理などを行ってみました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "UMAP可視化のコミュニティ色付けを、コミュニティに所属するノード数に合わせてグラデーション"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "コミュニティのネットワーク作成（コミュニティごとのやり取りの可視化）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n+a(自分で気になって加えたもの)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "UMAPの距離函数変更(euclidean → cosine)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "これまでのrtネットワークデータは内部で複数のネットワークに分かれていたので、UMAP可視化を最大のネットワークに限定して表示 → あまり意味なかった"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/2021-05-16-64aecb3fc1f545cdb02278f5b2be11f4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624254652.077300",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1624352978.087100",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624266965.077500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624268157.086100"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624334662.086400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624351719.086700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624351783.086900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624352978.087100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624352978.087100"
+    }
+]

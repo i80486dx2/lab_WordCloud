@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "b7721eeb-c5a5-4ca4-b978-f81bce70b23f",
+        "type": "message",
+        "text": "この論考読んで分かったけれど、\n```Moral Grandstandingというのは「道徳的に正しい発言をあえてすることによって賞賛されよう・優位に立とうとする態度」、Virtue Signalingというのは「自分の美徳を発信する意図を持った行為」例えば「〇〇施設に1億円寄付します」とか、「昨日1時間しか寝てねーわー、つれーわー」とか。```\nこの説明はMoral GrandstandingとVirtue Signalingを混同してたね:grinning:",
+        "user": "UKS1Q2KTQ",
+        "ts": "1608120053.022000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wcg7Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この論考読んで分かったけれど、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moral Grandstandingというのは「道徳的に正しい発言をあえてすることによって賞賛されよう・優位に立とうとする態度」、Virtue Signalingというのは「自分の美徳を発信する意図を持った行為」例えば「〇〇施設に1億円寄付します」とか、「昨日1時間しか寝てねーわー、つれーわー」とか。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この説明はMoral GrandstandingとVirtue Signalingを混同してたね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607850100.019200",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

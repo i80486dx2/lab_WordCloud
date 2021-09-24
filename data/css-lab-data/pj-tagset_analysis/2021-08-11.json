@@ -1,0 +1,268 @@
+[
+    {
+        "type": "message",
+        "text": "夜遅くにすいません。進捗報告です。\nNovelty-Rateが、自分が考える中で理想的な形（おそらく考え方的にも合っていると思えるような形）の結果が出せました。\n\n特に、導出したNRが試行回数の前後の傾きSNT（実際には差）と一致したことも決め手になってます。（NRを導出するコードの間違いに気づきました）\n\n現段階だと、既出のタグに対する重みがないため比較的新規のタグが出現しやすくなっていますが重みをつけると更にNRは下がると予想されるので、より理想的な結果に近づくと考えています。\n\nある程度結果としても、想像できる振る舞いをしたので、試験的に重みも考慮していこうと思います。",
+        "files": [
+            {
+                "id": "F02AX2WAQ0K",
+                "created": 1628702351,
+                "timestamp": 1628702351,
+                "name": "スクリーンショット 2021-08-12 2.18.57.png",
+                "title": "スクリーンショット 2021-08-12 2.18.57.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 172808,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02AX2WAQ0K\/____________________________2021-08-12_2.18.57.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02AX2WAQ0K\/download\/____________________________2021-08-12_2.18.57.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AX2WAQ0K-0f3fe88df6\/____________________________2021-08-12_2.18.57_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AX2WAQ0K-0f3fe88df6\/____________________________2021-08-12_2.18.57_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AX2WAQ0K-0f3fe88df6\/____________________________2021-08-12_2.18.57_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 237,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AX2WAQ0K-0f3fe88df6\/____________________________2021-08-12_2.18.57_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 316,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AX2WAQ0K-0f3fe88df6\/____________________________2021-08-12_2.18.57_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AX2WAQ0K-0f3fe88df6\/____________________________2021-08-12_2.18.57_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 474,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AX2WAQ0K-0f3fe88df6\/____________________________2021-08-12_2.18.57_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 526,
+                "original_w": 818,
+                "original_h": 538,
+                "thumb_tiny": "AwAfADDSJOaMZ70h69O9OoAbs9z+dG33P506igBMe9L3oo70AJ1J5oBz9aD7UEHjgGgBaKbg5\/8Ar0YOaAHUd6aN1Kue9AH\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F02AX2WAQ0K\/____________________________2021-08-12_2.18.57.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02AX2WAQ0K-9956854b99",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02AG5F0Z8F",
+                "created": 1628702621,
+                "timestamp": 1628702621,
+                "name": "スクリーンショット 2021-08-12 2.23.38.png",
+                "title": "スクリーンショット 2021-08-12 2.23.38.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 159092,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02AG5F0Z8F\/____________________________2021-08-12_2.23.38.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02AG5F0Z8F\/download\/____________________________2021-08-12_2.23.38.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AG5F0Z8F-a719edae7c\/____________________________2021-08-12_2.23.38_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AG5F0Z8F-a719edae7c\/____________________________2021-08-12_2.23.38_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AG5F0Z8F-a719edae7c\/____________________________2021-08-12_2.23.38_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 261,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AG5F0Z8F-a719edae7c\/____________________________2021-08-12_2.23.38_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 347,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AG5F0Z8F-a719edae7c\/____________________________2021-08-12_2.23.38_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AG5F0Z8F-a719edae7c\/____________________________2021-08-12_2.23.38_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 521,
+                "original_w": 760,
+                "original_h": 550,
+                "thumb_tiny": "AwAiADDSyfSjqOtL3pMenFACbT\/eNG0\/3jS4PrQD2PWgAAIHXP1o5paD2oAO9FJ0NLn60AFBGaTIoyKAAHsaU9qQ4PakB5xQA6iiigAooooAKKKKAP\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F02AG5F0Z8F\/____________________________2021-08-12_2.23.38.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02AG5F0Z8F-78e86b68c3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DEb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "夜遅くにすいません。進捗報告です。\nNovelty-Rateが、自分が考える中で理想的な形（おそらく考え方的にも合っていると思えるような形）の結果が出せました。\n\n特に、導出したNRが試行回数の前後の傾きSNT（実際には差）と一致したことも決め手になってます。（NRを導出するコードの間違いに気づきました）\n\n現段階だと、既出のタグに対する重みがないため比較的新規のタグが出現しやすくなっていますが重みをつけると更にNRは下がると予想されるので、より理想的な結果に近づくと考えています。\n\nある程度結果としても、想像できる振る舞いをしたので、試験的に重みも考慮していこうと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKUKA65GU",
+        "ts": "1628702731.004300"
+    },
+    {
+        "type": "message",
+        "text": "参考までに、Jupyterのコードです。",
+        "files": [
+            {
+                "id": "F02ATTA844V",
+                "created": 1628703096,
+                "timestamp": 1628703096,
+                "name": "09_Tree.ipynb",
+                "title": "09_Tree.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 83744,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02ATTA844V\/09_tree.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02ATTA844V\/download\/09_tree.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F02ATTA844V\/09_tree.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02ATTA844V-85fed610b6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jpt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "参考までに、Jupyterのコードです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKUKA65GU",
+        "display_as_bot": false,
+        "ts": "1628703115.005000"
+    },
+    {
+        "type": "message",
+        "text": "重み付きのグラフが作成できました（青線）\n重みについては今は1としています。（タグセット1つ分と同じ、重みは変更可能）\n\n重みがないグラフと比較してタグセットの総数が少ない最初の方は、既存のタグセットによる重みに引っ張られることでNRが低くなっていることが示せています。\nその後、タグセットの総数が莫大に増えていくと重みの効果が薄れて、最初に示した重み無しのものとほとんど等しくなっていることが示せるかと思います。\n\n尚、今後の展望としては、あるタイミングでタグセットの重さを変えてみたりもできるのでその辺や、ここから分かることと更に知りたいことについて議論させていただければと思います。\n<@UKS1Q2KTQ> <@U01EVRBP38C> お盆に入ることもありお忙しいかと思いますが、お時間がある時に、ぜひよろしくお願いいたします。",
+        "files": [
+            {
+                "id": "F02BMBG6T2L",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "重み付きのグラフが作成できました（青線）\n重みについては今は1としています。（タグセット1つ分と同じ、重みは変更可能）\n\n重みがないグラフと比較してタグセットの総数が少ない最初の方は、既存のタグセットによる重みに引っ張られることでNRが低くなっていることが示せています。\nその後、タグセットの総数が莫大に増えていくと重みの効果が薄れて、最初に示した重み無しのものとほとんど等しくなっていることが示せるかと思います。\n\n尚、今後の展望としては、あるタイミングでタグセットの重さを変えてみたりもできるのでその辺や、ここから分かることと更に知りたいことについて議論させていただければと思います。\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EVRBP38C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お盆に入ることもありお忙しいかと思いますが、お時間がある時に、ぜひよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKUKA65GU",
+        "display_as_bot": false,
+        "ts": "1628715184.009400"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02AUNMETJR",
+                "created": 1628715435,
+                "timestamp": 1628715435,
+                "name": "スクリーンショット 2021-08-12 5.57.12.png",
+                "title": "スクリーンショット 2021-08-12 5.57.12.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 171375,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02AUNMETJR\/____________________________2021-08-12_5.57.12.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02AUNMETJR\/download\/____________________________2021-08-12_5.57.12.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AUNMETJR-fcf33abb56\/____________________________2021-08-12_5.57.12_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AUNMETJR-fcf33abb56\/____________________________2021-08-12_5.57.12_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AUNMETJR-fcf33abb56\/____________________________2021-08-12_5.57.12_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 246,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AUNMETJR-fcf33abb56\/____________________________2021-08-12_5.57.12_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 328,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AUNMETJR-fcf33abb56\/____________________________2021-08-12_5.57.12_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02AUNMETJR-fcf33abb56\/____________________________2021-08-12_5.57.12_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 492,
+                "original_w": 782,
+                "original_h": 534,
+                "thumb_tiny": "AwAgADDRJIpeo60vek2+lACbP9o\/nRt9z+dLt9zmgHnB6\/zoAAMDrR3paD1FACDr0paQ8EUZPpQAtBGaQHI6UZ56UAAOOD+dKeopCfUUAGgD\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F02AUNMETJR\/____________________________2021-08-12_5.57.12.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02AUNMETJR-375fc70b4d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UKUKA65GU",
+        "display_as_bot": false,
+        "ts": "1628715437.009800"
+    }
+]

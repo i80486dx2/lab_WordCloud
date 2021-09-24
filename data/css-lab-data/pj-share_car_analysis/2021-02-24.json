@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "0c7c2d95-3c36-48ec-b9b1-a05157062fe8",
+        "type": "message",
+        "text": "<@UPRE1RSJW> ちなみになんですが、現状の目的地データだけで可視化するとどうなるか・・・というと結果が知れてますが。どこまでネットワークっぽくなるか試してもらっていいですか？目的地解析の今後について参考になるかと思います。",
+        "user": "UPSPAMY7M",
+        "ts": "1614173259.000100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MA5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ちなみになんですが、現状の目的地データだけで可視化するとどうなるか・・・というと結果が知れてますが。どこまでネットワークっぽくなるか試してもらっていいですか？目的地解析の今後について参考になるかと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613364785.007400",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "daea6679-241d-47e1-8d76-a03e07ec6bc4",
+        "type": "message",
+        "text": "一応試してみます",
+        "user": "UPRE1RSJW",
+        "ts": "1614227768.000300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I4U5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応試してみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613364785.007400",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

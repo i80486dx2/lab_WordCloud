@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "ece1e046-86a6-45a1-98c5-a3ad1a7c8c5c",
+        "type": "message",
+        "text": "<@UPRE1RSJW> 首振っているところが青くなる感じですか？結構綺麗に出ますね。",
+        "user": "UPSPAMY7M",
+        "ts": "1620259891.038300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qWYL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 首振っているところが青くなる感じですか？結構綺麗に出ますね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "client_msg_id": "7f2d9943-d0c5-458f-9a2a-962eafe81c4c",
+        "type": "message",
+        "text": "<https:\/\/wired.jp\/2019\/08\/04\/english-literature-machine-learning-studies\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1569243308.005000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WIRED.jp",
+                "title": "機械学習の導入で「文学の研究」が大きく変わり始めている｜WIRED.jp",
+                "title_link": "https:\/\/wired.jp\/2019\/08\/04\/english-literature-machine-learning-studies\/",
+                "text": "いま英語圏の文学研究者たちは、研究にデータやアルゴリズムを活用しはじめている。この新しいアプローチは、研究の内容や学生の専攻を変えるのみならず、文学研究の対象をソーシャルメディアやフ",
+                "fallback": "WIRED.jp: 機械学習の導入で「文学の研究」が大きく変わり始めている｜WIRED.jp",
+                "image_url": "https:\/\/wired.jp\/wp-content\/uploads\/2019\/07\/wired-algorithm-week-literature-1024x682.jpg",
+                "from_url": "https:\/\/wired.jp\/2019\/08\/04\/english-literature-machine-learning-studies\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 71607,
+                "service_icon": "https:\/\/wired.jp\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/wired.jp\/2019\/08\/04\/english-literature-machine-learning-studies\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94E06AAE-2027-45A9-BF8C-4F93F9308408",
+        "type": "message",
+        "text": "個人的にとても興味を持つ話なのですが、\n正直すでにありそうな気はしてたのでミラーワールドなどといったまさに「初めて」といったものでないだけに驚きは少し小さめです。\nただ、これを活用した何かというものがとても楽しみです",
+        "user": "UKH07E67M",
+        "ts": "1569247130.008000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3deba29f-9ac9-4b0a-b376-d28b738e1b66",
+        "type": "message",
+        "text": "物語の分析は別に新しくないけれどそれがサイエンスやテクノロジーと結びつきつつあるという点が大事だからね。例えばこういう発想も面白い↓\n<https:\/\/tategakibunko.hatenablog.com\/entry\/2019\/07\/06\/152735>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1569248643.009100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "anti scroll",
+                "title": "プロとアマの小説の特徴を数値化して比較してみたらやっぱり差があったので、それを埋めるための型付き小説記述用言語 TypeNovel を公開した件について - anti scroll",
+                "title_link": "https:\/\/tategakibunko.hatenablog.com\/entry\/2019\/07\/06\/152735",
+                "text": "ラノベのタイトルみたいな記事を書く、という夢が叶いました。 <http:\/\/github.com|github.com> 開発に至った動機 以前から、アマチュアの小説はプロに比べると、描写不足な傾向があるのかもしれない、と思っていました。 特に不足がちだと感じるのは「時間」に関する描写です。 季節がわからなかったり、昼か夜か、平日か休日かみたいなことが不明瞭な作品が多い気がします。 しかし印象だけで語ってもアレなので、実際に差があるのかどうかを計測してみました。 計算式は、 時間描写の文の数 * 時間描写分布のエントロピー \/ 文の数 です。 「時間描写分布のエントロピー」というのは「全体を通じて、どれだけ満遍なく時間表現が書かれて…",
+                "fallback": "anti scroll: プロとアマの小説の特徴を数値化して比較してみたらやっぱり差があったので、それを埋めるための型付き小説記述用言語 TypeNovel を公開した件について - anti scroll",
+                "image_url": "https:\/\/ogimage.blog.st-hatena.com\/6435988827676298276\/17680117127214134468\/1568460038",
+                "ts": 1562394455,
+                "from_url": "https:\/\/tategakibunko.hatenablog.com\/entry\/2019\/07\/06\/152735",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 125370,
+                "service_icon": "https:\/\/cdn.blog.st-hatena.com\/images\/touch-icon-iphone-retina.png",
+                "id": 1,
+                "original_url": "https:\/\/tategakibunko.hatenablog.com\/entry\/2019\/07\/06\/152735"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C170A7F4-B2D2-42CE-B93A-72C7FF4FD29D",
+        "type": "message",
+        "text": "↑これ凄いですね……\nやはり見る点が確かであれば数値として比較できるものなんですね。",
+        "user": "UKH07E67M",
+        "ts": "1569251918.010800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "14edc5f5-1b71-4ff8-88a7-03671a1e8cc0",
+        "type": "message",
+        "text": "<https:\/\/eonet.jp\/zing\/articles\/_4102762.html>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1569304234.011000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Zing!",
+                "title": "伝わりにくいプレゼン資料をプロのデザイナーに本気で添削してもらった｜Zing!",
+                "title_link": "https:\/\/eonet.jp\/zing\/articles\/_4102762.html",
+                "text": "Web制作会社ベイジのデザイナー・荒砂智之さん。ノンデザイナーでも役立つ資料づくりのノウハウがたくさん書かれてたブログ記事がはてなのホッテントリになるなど反響が大きかったそう。分かりやすいプレゼン資料の作り方を聞くべく、ボツ資料（とある会社から提供）を引っさげ、荒砂さんに添削してもらいました。",
+                "fallback": "Zing!: 伝わりにくいプレゼン資料をプロのデザイナーに本気で添削してもらった｜Zing!",
+                "image_url": "https:\/\/eonet.jp\/var\/rev0\/0018\/5469\/4102762_00.jpg",
+                "from_url": "https:\/\/eonet.jp\/zing\/articles\/_4102762.html",
+                "image_width": 405,
+                "image_height": 250,
+                "image_bytes": 113554,
+                "service_icon": "https:\/\/eonet.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/eonet.jp\/zing\/articles\/_4102762.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D42037F7-60FC-4736-B1AA-2758016DF5BE",
+        "type": "message",
+        "text": "↑の記事、添削後全然印象が変わりますね",
+        "user": "UKUKA65GU",
+        "ts": "1569306322.012200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1D1FD796-C2BC-409A-AFBF-5DB6F9DC43CD",
+        "type": "message",
+        "text": "プレゼンで文字多いのは確かに聞く気が少し失せるものですし、ああいう風にそんなに難しくなさそうなデザインで要点だけ絞って発表するスキルも、今後絶対必要なので",
+        "user": "UKUKA65GU",
+        "ts": "1569306377.013800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "A0628302-4687-4583-AC5E-431CE2FDB1EA",
+        "type": "message",
+        "text": "身につけていきたいものです",
+        "user": "UKUKA65GU",
+        "ts": "1569306382.014100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

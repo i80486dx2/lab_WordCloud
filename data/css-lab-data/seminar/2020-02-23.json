@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "881F5E52-D3FB-438B-8817-81956A5483C6",
+        "type": "message",
+        "text": "ゼミは予定通りで大丈夫そうですか？\n都合合わなくなったらとかって人いますか？",
+        "user": "UKUKA65GU",
+        "ts": "1582513560.000900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aJ7TR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミは予定通りで大丈夫そうですか？\n都合合わなくなったらとかって人いますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UPSPAP97D"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

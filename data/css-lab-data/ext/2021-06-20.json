@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "67e238c1-2705-4b37-a327-ee4a82aecca6",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/1t0ocha\/status\/1406786072298749955?s=20>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624249275.012800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/1t0ocha|@1t0ocha>: 某講演に先立ち、\n\n「複数の仕事を両立できること」は多くの社会人にとって重要なスキルであり、（ポジティブに考えると） M1での就活と研究の両立はそのスキルをつける機会である\n\nというスライドを作りました。 <https:\/\/pbs.twimg.com\/media\/E4Xod-4VcAA0ErI.png>",
+                "ts": 1624238911,
+                "author_name": "Takayuki Itoh",
+                "author_link": "https:\/\/twitter.com\/1t0ocha\/status\/1406786072298749955",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/964421071880429568\/4H6Nr7TT_normal.jpg",
+                "author_subname": "@1t0ocha",
+                "text": "某講演に先立ち、\n\n「複数の仕事を両立できること」は多くの社会人にとって重要なスキルであり、（ポジティブに考えると） M1での就活と研究の両立はそのスキルをつける機会である\n\nというスライドを作りました。 <https:\/\/pbs.twimg.com\/media\/E4Xod-4VcAA0ErI.png>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/1t0ocha\/status\/1406786072298749955?s=20",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E4Xod-4VcAA0ErI.png",
+                "image_width": 855,
+                "image_height": 602,
+                "image_bytes": 95706,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/1t0ocha\/status\/1406786072298749955?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l50I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/1t0ocha\/status\/1406786072298749955?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UKH07E67M",
+                    "U01RVMS0XBL",
+                    "U01TMSLEBUH"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

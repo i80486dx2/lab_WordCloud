@@ -1,0 +1,583 @@
+[
+    {
+        "client_msg_id": "626aa53c-38ea-498c-8ae3-74320a9072ee",
+        "type": "message",
+        "text": "<https:\/\/infodemicappv1-7d95d.web.app>",
+        "user": "U01EL0SAUTF",
+        "ts": "1615200619.005300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/infodemicappv1-7d95d.web.app"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615200619.005300",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1615261614.000800",
+        "reply_users": [
+            "U01EL0SAUTF",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1615200633.005400"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1615204120.005700"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1615204122.005900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1615206059.006100"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1615219109.008400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1615219169.008900"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1615219233.010500"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1615259327.213300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1615261614.000800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1615261614.000800",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4db942e-ed2d-45ef-9831-272b46b0523b",
+        "type": "message",
+        "text": "一応ここにデプロイする予定です",
+        "user": "U01EL0SAUTF",
+        "ts": "1615200633.005400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "indlU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応ここにデプロイする予定です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615200619.005300",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "dc924258-1092-463c-afe7-800b0bdeef22",
+        "type": "message",
+        "text": "色々設定間違ってたんでこっちに変更しました↓",
+        "user": "U01EL0SAUTF",
+        "ts": "1615204120.005700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WH1un",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "色々設定間違ってたんでこっちに変更しました↓"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615200619.005300",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "9b21e701-bb2d-42c0-a200-9eb290b286fc",
+        "type": "message",
+        "text": "<https:\/\/infodemicappv3.web.app\/>",
+        "user": "U01EL0SAUTF",
+        "ts": "1615204122.005900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bbqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/infodemicappv3.web.app\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615200619.005300",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "1259074b-30c4-4ade-a40c-aac3a0b80f2c",
+        "type": "message",
+        "text": "<@U01EL0SAUTF> Thank you!!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1615206059.006100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bZTP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thank you!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615200619.005300",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "以前までの機能に加えて月毎の頭から10件のツイートを表示する機能を追加しておきましたでもは:point_down:です。明日早く起きれたら全力でUIの調整をしようと考えてます！",
+        "files": [
+            {
+                "id": "F01QET0EUUD",
+                "created": 1615219029,
+                "timestamp": 1615219029,
+                "name": "Image from iOS.MP4",
+                "title": "Image from iOS",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U01EL0SAUTF",
+                "editable": false,
+                "size": 9022630,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01QET0EUUD\/image_from_ios.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01QET0EUUD\/download\/image_from_ios.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01QET0EUUD-276d36baf9\/image_from_ios_thumb_video.jpeg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01EL0SAUTF\/F01QET0EUUD\/image_from_ios.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01QET0EUUD-99338c5e89",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3XNYn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "以前までの機能に加えて月毎の頭から10件のツイートを表示する機能を追加しておきましたでもは"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_down"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。明日早く起きれたら全力でUIの調整をしようと考えてます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01EL0SAUTF",
+        "display_as_bot": false,
+        "ts": "1615219109.008400",
+        "client_msg_id": "02F82281-DDB5-4C11-9C78-1D17E8D9B92D",
+        "thread_ts": "1615200619.005300",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd846792-6290-4d87-b220-2d8da10d9a78",
+        "type": "message",
+        "text": "<@U01EL0SAUTF> 明日のmtgは13時からなので、それまでに調整できることがあればお願いします！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1615219169.008900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K6d4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日のmtgは13時からなので、それまでに調整できることがあればお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615200619.005300",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0649987A-D748-4C2C-B378-A94EDEFAC21B",
+        "type": "message",
+        "text": "了解です！一応荻原さんのカラーリングパクるのと今表示してるの10件だけなんですけどページ切り替えで11件〜のも見れるとかもできないかやってみます",
+        "user": "U01EL0SAUTF",
+        "ts": "1615219233.010500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+bZF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！一応荻原さんのカラーリングパクるのと今表示してるの10件だけなんですけどページ切り替えで11件〜のも見れるとかもできないかやってみます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615200619.005300",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "某何とか経済のカラーとフォントパクったらいい感じになりました笑",
+        "files": [
+            {
+                "id": "F01RA7PEEKA",
+                "created": 1615259304,
+                "timestamp": 1615259304,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01EL0SAUTF",
+                "editable": false,
+                "size": 270861,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01RA7PEEKA\/image_from_ios.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01RA7PEEKA\/download\/image_from_ios.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RA7PEEKA-23048638e7\/image_from_ios_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RA7PEEKA-23048638e7\/image_from_ios_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RA7PEEKA-23048638e7\/image_from_ios_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RA7PEEKA-23048638e7\/image_from_ios_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RA7PEEKA-23048638e7\/image_from_ios_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RA7PEEKA-23048638e7\/image_from_ios_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RA7PEEKA-23048638e7\/image_from_ios_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RA7PEEKA-23048638e7\/image_from_ios_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RA7PEEKA-23048638e7\/image_from_ios_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 828,
+                "original_h": 1792,
+                "thumb_tiny": "AwAwABaUalCTwj0v9oR+jH8Kz45jGFBVSo68c1KbqPBxFz26UxFn+0oQc7JM\/wCfel\/tOL+4\/wCQrNklMmMhRj0GKZQA9QOM5\/OjC46HP1oHSg9aBjSMUlObpTaBEsbID+8BI9BSEr2b9KRQD25p5TH8A\/WgCNiOxzTac2OwxTaAP\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01EL0SAUTF\/F01RA7PEEKA\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01RA7PEEKA-895b6e5b62",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOtvb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "某何とか経済のカラーとフォントパクったらいい感じになりました笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01EL0SAUTF",
+        "display_as_bot": false,
+        "ts": "1615259327.213300",
+        "client_msg_id": "48463AAC-C0EA-4FB0-879C-AD8B34481720",
+        "thread_ts": "1615200619.005300",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "cd924cad-4886-4094-8abf-bd30c595a01e",
+        "type": "message",
+        "text": "<@U01EL0SAUTF> 色使いだけでずいぶん印象変わるものですねw Thanks!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1615261614.000800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5gWX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 色使いだけでずいぶん印象変わるものですねw Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615200619.005300",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

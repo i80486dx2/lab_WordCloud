@@ -1,0 +1,179 @@
+[
+    {
+        "client_msg_id": "63484C38-668E-4E25-B6FB-04D448A1F4CF",
+        "type": "message",
+        "text": "Gclueという会津大学発のベンチャーの社長をやってる人がFacebookでこの本をシェアしてたからです。佐々木さんという方なのですが、僕はシリコンバレー研修でお世話になりました。ちなみにGclueは大学の目の前にあります。",
+        "user": "UPRE1RSJW",
+        "ts": "1612514373.005100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKWvS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gclueという会津大学発のベンチャーの社長をやってる人がFacebookでこの本をシェアしてたからです。佐々木さんという方なのですが、僕はシリコンバレー研修でお世話になりました。ちなみにGclueは大学の目の前にあります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612509934.000500",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f4262d3-f90d-4fb3-a9a5-b70b591606da",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.co.jp\/日本統計学会公式認定-統計検定-2級-公式問題集-2017~2019年\/dp\/4788925524\/ref=sr_1_2?dchild=1&amp;keywords=統計検定&amp;qid=1612523051&amp;s=books&amp;sr=1-2>\n<https:\/\/www.amazon.co.jp\/日本統計学会公式認定-統計検定-1級・準1級-公式問題集-2018~2019年\/dp\/4788925516\/ref=sr_1_4?dchild=1&amp;keywords=統計検定&amp;qid=1612523051&amp;s=books&amp;sr=1-4>",
+        "user": "UKUKA65GU",
+        "ts": "1612523299.007000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "日本統計学会公式認定 統計検定 2級 公式問題集[2017〜2019年]",
+                "title_link": "https:\/\/www.amazon.co.jp\/日本統計学会公式認定-統計検定-2級-公式問題集-2017~2019年\/dp\/4788925524\/ref=sr_1_2?dchild=1&keywords=統計検定&qid=1612523051&s=books&sr=1-2",
+                "text": "日本統計学会公式認定 統計検定 2級 公式問題集[2017〜2019年]",
+                "fallback": "日本統計学会公式認定 統計検定 2級 公式問題集[2017〜2019年]",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/511s3vTO3%2BL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA27%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/日本統計学会公式認定-統計検定-2級-公式問題集-2017~2019年\/dp\/4788925524\/ref=sr_1_2?dchild=1&keywords=統計検定&qid=1612523051&s=books&sr=1-2",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 68344,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/日本統計学会公式認定-統計検定-2級-公式問題集-2017~2019年\/dp\/4788925524\/ref=sr_1_2?dchild=1&amp;keywords=統計検定&amp;qid=1612523051&amp;s=books&amp;sr=1-2"
+            },
+            {
+                "title": "日本統計学会公式認定 統計検定 1級・準1級 公式問題集[2018〜2019年]",
+                "title_link": "https:\/\/www.amazon.co.jp\/日本統計学会公式認定-統計検定-1級・準1級-公式問題集-2018~2019年\/dp\/4788925516\/ref=sr_1_4?dchild=1&keywords=統計検定&qid=1612523051&s=books&sr=1-4",
+                "text": "日本統計学会公式認定 統計検定 1級・準1級 公式問題集[2018〜2019年]",
+                "fallback": "日本統計学会公式認定 統計検定 1級・準1級 公式問題集[2018〜2019年]",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51GLGHCDh7L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA14%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/日本統計学会公式認定-統計検定-1級・準1級-公式問題集-2018~2019年\/dp\/4788925516\/ref=sr_1_4?dchild=1&keywords=統計検定&qid=1612523051&s=books&sr=1-4",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 71601,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 2,
+                "original_url": "https:\/\/www.amazon.co.jp\/日本統計学会公式認定-統計検定-1級・準1級-公式問題集-2018~2019年\/dp\/4788925516\/ref=sr_1_4?dchild=1&amp;keywords=統計検定&amp;qid=1612523051&amp;s=books&amp;sr=1-4"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IiPH\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/日本統計学会公式認定-統計検定-2級-公式問題集-2017~2019年\/dp\/4788925524\/ref=sr_1_2?dchild=1&keywords=統計検定&qid=1612523051&s=books&sr=1-2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/日本統計学会公式認定-統計検定-1級・準1級-公式問題集-2018~2019年\/dp\/4788925516\/ref=sr_1_4?dchild=1&keywords=統計検定&qid=1612523051&s=books&sr=1-4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a929a9cc-f2ee-4275-be34-39b7d435a492",
+        "type": "message",
+        "text": "予算に余裕があれば、こちらもお願いしたいです。\nちなみにですが、統計検定興味あるなって方いたら、リアクションボタン置いておくので反応してもらえるとうれしいです。",
+        "user": "UKUKA65GU",
+        "ts": "1612523349.007900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=oahU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予算に余裕があれば、こちらもお願いしたいです。\nちなみにですが、統計検定興味あるなって方いたら、リアクションボタン置いておくので反応してもらえるとうれしいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bar_chart",
+                "users": [
+                    "UKUKA65GU",
+                    "U01FP2RDV44",
+                    "UQ47R82RW",
+                    "U01EVRBP38C"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "client_msg_id": "e5b42d3f-55a9-4f68-8bd2-3843f8715d0e",
+        "type": "message",
+        "text": "<!channel> 新メンバーも増えたので、研究室内の情報共有方法についてまとめます。大きくは以下の3種類です：\n\n1. 動的な情報（流れていって構わない情報）はこのslack。\n2. 静的な情報（蓄積した方がよい情報）はScrapbox → <https:\/\/scrapbox.io\/projects\/cse-lab\/invitations\/10e5de3dd2dcb44f27d9141e99bbb8a5>\n3. メーリングリスト → <mailto:cse-lab@u-aizu.ac.jp|cse-lab@u-aizu.ac.jp> \n3のメーリングリストはslackの <#CKPT140M6|announcement> と被るのであまり使う機会がないですが、教務手続きのような季節性・公共性の高い情報はMLの方に流す場合が多いと思います。研究室のメンバーや設備などはScrapboxにまとめてあります。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1605501762.052300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SqF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 新メンバーも増えたので、研究室内の情報共有方法についてまとめます。大きくは以下の3種類です：\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "動的な情報（流れていって構わない情報）はこのslack。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "静的な情報（蓄積した方がよい情報）はScrapbox → "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/scrapbox.io\/projects\/cse-lab\/invitations\/10e5de3dd2dcb44f27d9141e99bbb8a5"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "メーリングリスト → "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:cse-lab@u-aizu.ac.jp",
+                                        "text": "cse-lab@u-aizu.ac.jp"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n3のメーリングリストはslackの "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKPT140M6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " と被るのであまり使う機会がないですが、教務手続きのような季節性・公共性の高い情報はMLの方に流す場合が多いと思います。研究室のメンバーや設備などはScrapboxにまとめてあります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U01EVRBP38C",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

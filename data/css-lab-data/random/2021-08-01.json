@@ -1,0 +1,179 @@
+[
+    {
+        "client_msg_id": "4d09da2a-814e-4dd5-bc7c-a00658832180",
+        "type": "message",
+        "text": "声フォント系、誰か今度zoomで発表する機会があれば、原稿を声フォントで読ませながら口パクしてみてはどうか。\n<https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627808182006300|https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627808182006300>\n<https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627827635011500?thread_ts=1627827635.011500&amp;cid=C028L955HNU|https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627827635011500?thread_ts=1627827635.011500&amp;cid=C028L955HNU>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627837389.001900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627808182006300",
+                "fallback": "[August 1st, 2021 1:56 AM] s1260073: coe font stdioに続いて無料商用可合成音声がまた新しくでてきた。\nしかもオープンソースになるらしい。\n\n<https:\/\/www.dtmstation.com\/archives\/41014.html|https:\/\/www.dtmstation.com\/archives\/41014.html>",
+                "ts": "1627808182.006300",
+                "author_id": "UQ47R82RW",
+                "author_subname": "kota sanuki",
+                "channel_id": "C028L955HNU",
+                "channel_name": "diary",
+                "is_msg_unfurl": true,
+                "text": "coe font stdioに続いて無料商用可合成音声がまた新しくでてきた。\nしかもオープンソースになるらしい。\n\n<https:\/\/www.dtmstation.com\/archives\/41014.html|https:\/\/www.dtmstation.com\/archives\/41014.html>",
+                "author_name": "kota sanuki",
+                "author_link": "https:\/\/compu-soceco.slack.com\/team\/UQ47R82RW",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627808182006300",
+                "footer": "Posted in #diary"
+            },
+            {
+                "from_url": "https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627827635011500?thread_ts=1627827635.011500&amp;cid=C028L955HNU",
+                "fallback": "[August 1st, 2021 7:20 AM] uaprac503: あと自分のCoeFont作ってみたんで利用はご自由にどうぞ\n<https:\/\/coefont.cloud\/coefonts\/aCGU9AUHt8NHrpa>",
+                "ts": "1627827635.011500",
+                "author_id": "U01EPKVACEN",
+                "author_subname": "Mai Takahashi",
+                "channel_id": "C028L955HNU",
+                "channel_name": "diary",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "あと自分のCoeFont作ってみたんで利用はご自由にどうぞ\n<https:\/\/coefont.cloud\/coefonts\/aCGU9AUHt8NHrpa>",
+                "author_name": "Mai Takahashi",
+                "author_link": "https:\/\/compu-soceco.slack.com\/team\/U01EPKVACEN",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 2,
+                "original_url": "https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627827635011500?thread_ts=1627827635.011500&amp;cid=C028L955HNU",
+                "footer": "Thread in #diary"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xnCW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "声フォント系、誰か今度zoomで発表する機会があれば、原稿を声フォントで読ませながら口パクしてみてはどうか。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627808182006300",
+                                "text": "https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627808182006300"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627827635011500?thread_ts=1627827635.011500&cid=C028L955HNU",
+                                "text": "https:\/\/compu-soceco.slack.com\/archives\/C028L955HNU\/p1627827635011500?thread_ts=1627827635.011500&cid=C028L955HNU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627837389.001900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1627865871.002200",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627865871.002200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627865871.002200",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5aa588fc-3c7c-4a41-a84f-d00e2ba68639",
+        "type": "message",
+        "text": "口パクは冗談ですが、最近学会発表もzoomばかりで、中には録画した発表を再生しながら、テキストで質問対応するプレゼンとか普通にあります。時間を事前にきっちり合わせられるのと、発表中も質問対応できるのがメリットかな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627865871.002200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PMx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "口パクは冗談ですが、最近学会発表もzoomばかりで、中には録画した発表を再生しながら、テキストで質問対応するプレゼンとか普通にあります。時間を事前にきっちり合わせられるのと、発表中も質問対応できるのがメリットかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627837389.001900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "naruhodo",
+                "users": [
+                    "U01EPKVACEN",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

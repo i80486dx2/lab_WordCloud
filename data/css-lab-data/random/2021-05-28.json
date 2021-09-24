@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "98f379b1-b820-457f-9654-66e18b183dc3",
+        "type": "message",
+        "text": "教師なしの学習で音声認識ができるらしい。データはたった数時間の音声と数千のフレーズでいい線いくらしい。（2年前とかの数百時間と、その文字起こしテキストで学習したものと同じかそれ以上のらしい）\n結局教師なし学習だとGANが一番良いんだろうなぁ。\n論文\n<https:\/\/ai.facebook.com\/research\/publications\/unsupervised-speech-recognition|https:\/\/ai.facebook.com\/research\/publications\/unsupervised-speech-recognition>\nコード\n<https:\/\/github.com\/pytorch\/fairseq\/tree\/master\/examples\/wav2vec\/unsupervised?fbclid=IwAR2JIYK_tyuu-1S-830Qd-7jeXJgui2MhDXNxQb334WlYn9r3DPIaaxSM64|https:\/\/github.com\/pytorch\/fairseq\/tree\/master\/examples\/wav2vec\/unsupervised?fbclid=IwAR2JIYK_tyuu-1S-830Qd-7jeXJgui2MhDXNxQb334WlYn9r3DPIaaxSM64>",
+        "user": "UQ47R82RW",
+        "ts": "1622214691.017100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1622215025.000000"
+        },
+        "attachments": [
+            {
+                "title": "Unsupervised Speech Recognition",
+                "title_link": "https:\/\/ai.facebook.com\/research\/publications\/unsupervised-speech-recognition",
+                "text": "We address the problem of grounding free-form textual phrases by using weak supervision from image-caption pairs. We propose a novel end-to-end model that uses caption-to-image retrieval as a “downstream” task to guide the process of phrase…",
+                "fallback": "Unsupervised Speech Recognition",
+                "thumb_url": "https:\/\/scontent-yyz1-1.xx.fbcdn.net\/v\/t39.2365-6\/49603193_2310977132467708_6613279883764170752_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=BdeKJdLza1YAX_TxBME&_nc_ht=scontent-yyz1-1.xx&oh=015bb82c9faa759a01874c0a6d31c597&oe=60D72D0E",
+                "from_url": "https:\/\/ai.facebook.com\/research\/publications\/unsupervised-speech-recognition",
+                "thumb_width": 1451,
+                "thumb_height": 1072,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/5ZP3mZo0oAE.png",
+                "service_name": "ai.facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/ai.facebook.com\/research\/publications\/unsupervised-speech-recognition"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qn2Et",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "教師なしの学習で音声認識ができるらしい。データはたった数時間の音声と数千のフレーズでいい線いくらしい。（2年前とかの数百時間と、その文字起こしテキストで学習したものと同じかそれ以上のらしい）\n結局教師なし学習だとGANが一番良いんだろうなぁ。\n論文\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ai.facebook.com\/research\/publications\/unsupervised-speech-recognition",
+                                "text": "https:\/\/ai.facebook.com\/research\/publications\/unsupervised-speech-recognition"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nコード\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/pytorch\/fairseq\/tree\/master\/examples\/wav2vec\/unsupervised?fbclid=IwAR2JIYK_tyuu-1S-830Qd-7jeXJgui2MhDXNxQb334WlYn9r3DPIaaxSM64",
+                                "text": "https:\/\/github.com\/pytorch\/fairseq\/tree\/master\/examples\/wav2vec\/unsupervised?fbclid=IwAR2JIYK_tyuu-1S-830Qd-7jeXJgui2MhDXNxQb334WlYn9r3DPIaaxSM64"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "849e8139-e75f-4cdf-a3ce-f4d6dc2864b5",
+        "type": "message",
+        "text": "<!channel> 次回(7\/9 金曜 17:00〜 予定) の研究室会についてです。\n\n発表者:\n<@UQ47R82RW>\n<@UPRE1RSJW>\n\nzoom(変更なし)\n<https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09>\n\n\nこの次の取りまとめ役は <@UKUKA65GU> です。~7\/23 ?~  7\/30 辺りで調整お願いします。",
+        "user": "UPSPAP97D",
+        "ts": "1625626012.065900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1625823454.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "quG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 次回(7\/9 金曜 17:00〜 予定) の研究室会についてです。\n\n発表者:\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nzoom(変更なし)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/92453769479?pwd=R3pZZUhXQnhVamlnTlRtRUJnSlFvQT09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nこの次の取りまとめ役は "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/23 ? ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 7\/30 辺りで調整お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW",
+                    "UPRE1RSJW",
+                    "UKH07E67M",
+                    "UKUKA65GU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

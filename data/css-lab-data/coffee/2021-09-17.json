@@ -1,0 +1,448 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1631862754.000600",
+        "user": "UKH07E67M",
+        "text": "<@UKH07E67M> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1631864026.001200",
+        "user": "U01NA9N25GE",
+        "text": "<@U01NA9N25GE> has joined the channel",
+        "inviter": "UPRE1RSJW"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "added an integration to this channel: <https:\/\/css-uoa.slack.com\/services\/B02EKSTCXFG|incoming-webhook>",
+        "user": "UPRE1RSJW",
+        "bot_id": "B02EKSTCXFG",
+        "bot_link": "<https:\/\/css-uoa.slack.com\/services\/B02EKSTCXFG|incoming-webhook>",
+        "ts": "1631864174.001500"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_remove",
+        "text": "removed an integration from this channel: <https:\/\/css-uoa.slack.com\/services\/B02EKSTCXFG|incoming-webhook>",
+        "user": "UPRE1RSJW",
+        "bot_id": "B02EKSTCXFG",
+        "bot_link": "<https:\/\/css-uoa.slack.com\/services\/B02EKSTCXFG|incoming-webhook>",
+        "ts": "1631864522.001600"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "added an integration to this channel: <https:\/\/css-uoa.slack.com\/services\/B02ESM81A91|incoming-webhook>",
+        "user": "UPRE1RSJW",
+        "bot_id": "B02ESM81A91",
+        "bot_link": "<https:\/\/css-uoa.slack.com\/services\/B02ESM81A91|incoming-webhook>",
+        "ts": "1631865380.002100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "added an integration to this channel: <https:\/\/css-uoa.slack.com\/services\/B02EKV455QE|incoming-webhook>",
+        "user": "UPRE1RSJW",
+        "bot_id": "B02EKV455QE",
+        "bot_link": "<https:\/\/css-uoa.slack.com\/services\/B02EKV455QE|incoming-webhook>",
+        "ts": "1631865598.002200"
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "橋本康弘 438円\n千葉蒼太 63円\n助川拓哉 250円\n鈴木蒼紫 250円\n",
+        "user": "U01NA9N25GE",
+        "ts": "1631866515.002500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "橋本康弘 438円\n千葉蒼太 63円\n助川拓哉 250円\n鈴木蒼紫 250円\n",
+        "user": "U01NA9N25GE",
+        "ts": "1631866939.002800",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_remove",
+        "text": "removed an integration from this channel: <https:\/\/css-uoa.slack.com\/services\/B02ESM81A91|incoming-webhook>",
+        "user": "UPRE1RSJW",
+        "bot_id": "B02ESM81A91",
+        "bot_link": "<https:\/\/css-uoa.slack.com\/services\/B02ESM81A91|incoming-webhook>",
+        "ts": "1631867065.002900"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_remove",
+        "text": "removed an integration from this channel: <https:\/\/css-uoa.slack.com\/services\/B02EKV455QE|Coffee Bot>",
+        "user": "UPRE1RSJW",
+        "bot_id": "B02EKV455QE",
+        "bot_link": "<https:\/\/css-uoa.slack.com\/services\/B02EKV455QE|Coffee Bot>",
+        "ts": "1631867078.003000"
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "橋本康弘 438円\n千葉蒼太 63円\n助川拓哉 250円\n鈴木蒼紫 250円\n",
+        "user": "U01NA9N25GE",
+        "ts": "1631867100.003300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "橋本康弘 438円\n千葉蒼太 63円\n助川拓哉 250円\n鈴木蒼紫 250円\n",
+        "user": "U01NA9N25GE",
+        "ts": "1631867828.003600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1631867885.003800",
+        "user": "U02EPR77S05",
+        "text": "<@U02EPR77S05> has joined the channel",
+        "inviter": "UPRE1RSJW"
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "橋本康弘 438円\n千葉蒼太 63円\n助川拓哉 250円\n鈴木蒼紫 250円\n",
+        "user": "U01NA9N25GE",
+        "ts": "1631867895.004100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "橋本康弘 438円\n千葉蒼太 63円\n助川拓哉 250円\n鈴木蒼紫 250円\n",
+        "user": "U01NA9N25GE",
+        "ts": "1631868159.004400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "added an integration to this channel: <https:\/\/css-uoa.slack.com\/services\/B02ESSS9YCT|incoming-webhook>",
+        "user": "UPRE1RSJW",
+        "bot_id": "B02ESSS9YCT",
+        "bot_link": "<https:\/\/css-uoa.slack.com\/services\/B02ESSS9YCT|incoming-webhook>",
+        "ts": "1631868500.004600"
+    },
+    {
+        "client_msg_id": "f7fa566e-7725-4ff6-a85a-a2c54c166e25",
+        "type": "message",
+        "text": "finish payment",
+        "user": "UPRE1RSJW",
+        "ts": "1631868684.004800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sHhQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "finish payment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f1ecd43-45ce-49cf-b16a-3c11b51c7966",
+        "type": "message",
+        "text": "finish payment",
+        "user": "UPRE1RSJW",
+        "ts": "1631868783.005000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vCw=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "finish payment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "橋本康弘 438円\n千葉蒼太 63円\n助川拓哉 250円\n鈴木蒼紫 250円\n",
+        "ts": "1631868785.005100",
+        "username": "CSS Cafe",
+        "icons": {
+            "emoji": ":hatching_chick:",
+            "image_64": "https:\/\/a.slack-edge.com\/production-standard-emoji-assets\/13.0\/apple-large\/1f423.png"
+        },
+        "bot_id": "B02ESSS9YCT"
+    },
+    {
+        "client_msg_id": "14b94a2f-e57c-4798-addb-ecd2dcd6a550",
+        "type": "message",
+        "text": "finish payment",
+        "user": "UPRE1RSJW",
+        "ts": "1631868905.005300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78Uhq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "finish payment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "橋本康弘 438円\n千葉蒼太 63円\n助川拓哉 250円\n鈴木蒼紫 250円\n",
+        "ts": "1631868906.005400",
+        "username": "CSS Cafe",
+        "bot_id": "B02ESSS9YCT"
+    },
+    {
+        "client_msg_id": "5cec1771-bc0d-456f-a6ee-3d3db038e6db",
+        "type": "message",
+        "text": "finish payment",
+        "user": "UPRE1RSJW",
+        "ts": "1631869905.006700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fcU=x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "finish payment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*今度の支払い金額* 　\n&gt;&gt;&gt;橋本康弘 438円\n&gt;&gt;&gt;千葉蒼太 63円\n&gt;&gt;&gt;助川拓哉 250円\n&gt;&gt;&gt;鈴木蒼紫 250円\n",
+        "ts": "1631869907.006800",
+        "username": "CSS Cafe",
+        "bot_id": "B02ESSS9YCT"
+    },
+    {
+        "client_msg_id": "ca002ea4-bec9-4932-beb3-0580998c5892",
+        "type": "message",
+        "text": "finish payment",
+        "user": "UPRE1RSJW",
+        "ts": "1631870001.007000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C3a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "finish payment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*今度の支払い金額* 　\n&gt;&gt;&gt;橋本康弘 438円\n千葉蒼太 63円\n助川拓哉 250円\n鈴木蒼紫 250円\n",
+        "ts": "1631870003.007100",
+        "username": "CSS Cafe",
+        "bot_id": "B02ESSS9YCT"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*先週のレポート* \n\n時間帯ごとの平均 \n&gt;&gt;&gt;",
+        "ts": "1631871192.007200",
+        "username": "CSS Cafe",
+        "bot_id": "B02ESSS9YCT"
+    }
+]

@@ -1,0 +1,211 @@
+[
+    {
+        "client_msg_id": "1d19d66f-3770-4772-af9f-ab3517a69245",
+        "type": "message",
+        "text": "hololens2についてた充電ケーブルってどこに行っちゃたんでしょうか??",
+        "user": "U01EPKVACEN",
+        "ts": "1618545498.052800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YrJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hololens2についてた充電ケーブルってどこに行っちゃたんでしょうか??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BE5EA48C-D895-42C8-B606-EC5BFC3008A3",
+        "type": "message",
+        "text": "端子なんですか?\nmicroUSB?Type-C?",
+        "user": "UKUKA65GU",
+        "ts": "1618545540.053500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gCghS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "端子なんですか?\nmicroUSB?Type-C?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618545540.053500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1618554462.053900",
+        "reply_users": [
+            "U01EPKVACEN",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1618554141.053600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1618554462.053900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1618554462.053900"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Type-Cです(今Oculus Quest2ので代用しています)",
+        "user": "U01EPKVACEN",
+        "ts": "1618554141.053600",
+        "thread_ts": "1618545540.053500",
+        "root": {
+            "client_msg_id": "BE5EA48C-D895-42C8-B606-EC5BFC3008A3",
+            "type": "message",
+            "text": "端子なんですか?\nmicroUSB?Type-C?",
+            "user": "UKUKA65GU",
+            "ts": "1618545540.053500",
+            "team": "TKS1Q2JUE",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gCghS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "端子なんですか?\nmicroUSB?Type-C?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1618545540.053500",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1618554462.053900",
+            "reply_users": [
+                "U01EPKVACEN",
+                "UKS1Q2KTQ"
+            ],
+            "replies": [
+                {
+                    "user": "U01EPKVACEN",
+                    "ts": "1618554141.053600"
+                },
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1618554462.053900"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1618554462.053900"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mjK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Type-Cです(今Oculus Quest2ので代用しています)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9efae8a7-5c40-4263-866f-06bf20ca0c0b"
+    },
+    {
+        "client_msg_id": "a06e894d-d8c6-41af-9259-3dd60c189cb3",
+        "type": "message",
+        "text": "USB関連のケーブルはaoshi君が座ってる後ろの棚の上に置いてある3段のボックスのどこかにまとめてあるので、そこに紛れ込んだ？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618554462.053900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ymyb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "USB関連のケーブルはaoshi君が座ってる後ろの棚の上に置いてある3段のボックスのどこかにまとめてあるので、そこに紛れ込んだ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618545540.053500",
+        "parent_user_id": "UKUKA65GU"
+    }
+]

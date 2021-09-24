@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "d89d5fb4-1ae8-42bf-9b5f-8d2d046a78c7",
+        "type": "message",
+        "text": "停止位置はエンジンは停止したいなくても時間で停止判定をしている形ですか？",
+        "user": "UPSPAMY7M",
+        "ts": "1620624764.039800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "icil",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "停止位置はエンジンは停止したいなくても時間で停止判定をしている形ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620466409.039500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "3fe4529a-9dde-4449-afd1-a785d955d644",
+        "type": "message",
+        "text": "一応３分以上の停車から記録するようにしていますが３分以上の停車がなかった場合、その車を始動した場所と停止した場所を記録しています。データはあまり長時間の停車はなく大半が始動or停止した場所になっています。",
+        "user": "UPRE1RSJW",
+        "ts": "1620626823.040000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xm8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応３分以上の停車から記録するようにしていますが３分以上の停車がなかった場合、その車を始動した場所と停止した場所を記録しています。データはあまり長時間の停車はなく大半が始動or停止した場所になっています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620466409.039500",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

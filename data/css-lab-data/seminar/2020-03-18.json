@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "926a03b7-e4e6-4bb2-92f2-003fe1fd9998",
+        "type": "message",
+        "text": "次回の輪講3\/26(木) 13:00~\n<@UKUKA65GU> 7-1\n<@UQ47R82RW> 7-2\n<@UKH07E67M> 7-3本文\n<@UPSPAP97D> 7-3Box,7-4のimage7.7まで",
+        "user": "UQ47R82RW",
+        "ts": "1584592265.027800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "soBKP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次回の輪講3\/26(木) 13:00~\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 7-1\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 7-2\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 7-3本文\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 7-3Box,7-4のimage7.7まで"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "感謝",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UKS1Q2KTQ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

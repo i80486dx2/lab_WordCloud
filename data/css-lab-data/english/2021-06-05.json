@@ -1,0 +1,948 @@
+[
+    {
+        "client_msg_id": "36dcdebc-ab63-41e9-8e21-3609886eb8c5",
+        "type": "message",
+        "text": "Burst them!",
+        "user": "UKH07E67M",
+        "ts": "1622894132.129500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+AJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Burst them!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622820778.128200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "47f99c3d-e512-4686-b858-9a0dc155490f",
+        "type": "message",
+        "text": "`Burst them!`\n炸裂させる。\n• blow awayで吹き飛ばす、らしい。",
+        "user": "UKH07E67M",
+        "ts": "1622894209.129800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1J0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Burst them!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n炸裂させる。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "blow awayで吹き飛ばす、らしい。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622820778.128300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "大丈夫、このまま底まで行こう（パズー\/天空の城ラピュタ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1622907177.130000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622907177.130000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1622963295.138300",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1622951223.130500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622962772.137100"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622963295.138300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622963295.138300"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：大丈夫、このまま底まで行こう",
+        "user": "U01UMQH4W4B",
+        "ts": "1622907178.130100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622907178.130100",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1622964173.139200",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1622907178.130200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622951457.130700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622963081.137600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622964173.139200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622964173.139200"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "We’ll float all the way down.",
+        "user": "U01UMQH4W4B",
+        "ts": "1622907178.130200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622907178.130100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1622945768.130400",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1622945768.130400",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1626162060.311500",
+        "reply_users": [
+            "UKH07E67M",
+            "U01EVRBP38C",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1622951660.130900"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622958172.133900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622963167.137800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622964417.139400"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626162060.311500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626162060.311500",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「美味しいかい？じゃあ今度は、君が僕に顔をくれる番だよ」 <https:\/\/pbs.twimg.com\/media\/E3KjgOuVcAAP7D-.jpg>",
+                "ts": 1622945762,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1401362213193936901",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1401362213193936901>",
+                "text": "「美味しいかい？じゃあ今度は、君が僕に顔をくれる番だよ」 <https:\/\/pbs.twimg.com\/media\/E3KjgOuVcAAP7D-.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1401362213193936901",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E3KjgOuVcAAP7D-.jpg",
+                "image_width": 400,
+                "image_height": 460,
+                "image_bytes": 37429,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "784ccbcb-2195-462a-99be-adfe5ebad196",
+        "type": "message",
+        "text": "Don’t worry, let’s continue to go the bottom.",
+        "user": "UKH07E67M",
+        "ts": "1622951223.130500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yW9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don’t worry, let’s continue to go the bottom."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622907177.130000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "998c5b34-a1f2-473c-bb5a-b7be12676180",
+        "type": "message",
+        "text": "`Don't worry, let's continue to go the bottom.`\n心配しないで、このままボトムを目指しましょう。\n• go to the bottom\n• all the way ずっと\n• 浮きながら落ちていこうって意味か\n• 模範回答が自分の中でしっくりこない。ニュアンスが。",
+        "user": "UKH07E67M",
+        "ts": "1622951457.130700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LN6C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't worry, let's continue to go the bottom.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n心配しないで、このままボトムを目指しましょう。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "go to the bottom"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "all the way ずっと"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "浮きながら落ちていこうって意味か"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "模範回答が自分の中でしっくりこない。ニュアンスが。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622907178.130100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "8f906e71-116e-4335-b160-c968ce1e34a3",
+        "type": "message",
+        "text": "You feel delicious, aren’t it? If you are yes, this time is your turn that you give me your face.",
+        "user": "UKH07E67M",
+        "ts": "1622951660.130900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You feel delicious, aren’t it? If you are yes, this time is your turn that you give me your face."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622945768.130400"
+    },
+    {
+        "client_msg_id": "8a83ca07-0f8e-48bd-9b95-7320e34a0725",
+        "type": "message",
+        "text": "反省会：「美味しいかい？じゃあ今度は、君が僕に顔をくれる番だよ」",
+        "user": "UKH07E67M",
+        "ts": "1622951674.131300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vk3fE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：「美味しいかい？じゃあ今度は、君が僕に顔をくれる番だよ」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622951674.131300",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1626164352.311700",
+        "reply_users": [
+            "UKH07E67M",
+            "U01EVRBP38C",
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1622952190.131500"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622958735.136300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622965067.139600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622983393.140700"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626164352.311700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626164352.311700"
+    },
+    {
+        "client_msg_id": "877c4ba3-defa-441e-8242-e2e48f72eb5a",
+        "type": "message",
+        "text": "`You feel delicious, aren't it? If you are yes, this time is your turn that you give me your face.`\n美味しいと感じていますか？もしそうなら、今度はあなたが私に顔を見せる番ですよ。\n•  aren’t you?\n• give faceで顔を売る（売名する）という意味があるらしい。\n• give a new face a big buildup　新人を大いに売り込む\n• もしそうなら、と書きたくてif you are yesと書いたが、if that’s so、if that is the caseなどが第一候補に上がるらしい。\n• 今度はは今なのか…\n• isn’t it?で美味しいかい？を表現すると、「美味しいよね？」って感じの圧迫感が感じられる気がするから、is it tastyの方が適切だと思う。\n• feel と deliciousをくっつけるならyou feel that it is deliciousというような書き方になる。deliciousは形容詞のみ",
+        "user": "UKH07E67M",
+        "ts": "1622952190.131500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OEp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You feel delicious, aren't it? If you are yes, this time is your turn that you give me your face.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n美味しいと感じていますか？もしそうなら、今度はあなたが私に顔を見せる番ですよ。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " aren’t you?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "give faceで顔を売る（売名する）という意味があるらしい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "give a new face a big buildup　新人を大いに売り込む"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "もしそうなら、と書きたくてif you are yesと書いたが、if that’s so、if that is the caseなどが第一候補に上がるらしい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "今度はは今なのか…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "isn’t it?で美味しいかい？を表現すると、「美味しいよね？」って感じの圧迫感が感じられる気がするから、is it tastyの方が適切だと思う。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "feel と deliciousをくっつけるならyou feel that it is deliciousというような書き方になる。deliciousは形容詞のみ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622951674.131300",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "80B14B19-6FB9-4C88-8D3F-E597F64A8B6C",
+        "type": "message",
+        "text": "Yummy?\nThen, now it’s your turn to give me your head.",
+        "user": "U01EVRBP38C",
+        "ts": "1622958172.133900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6lww",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yummy?\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Then, now it’s your turn to give me your head."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622945768.130400"
+    },
+    {
+        "client_msg_id": "90899F46-EEFC-4FA3-ACCD-297A34CA5BCC",
+        "type": "message",
+        "text": "`Yummy?`\n`Then, now it’s your turn to give me your head.`\nDeepL : 美味しい？では、今度はあなたが頭を差し出す番です。\n\n・Is it yummy? かYummy?で迷った。まあどっちでもいいか\n・then か　now の片方だけにするべきだったかな\n",
+        "user": "U01EVRBP38C",
+        "ts": "1622958735.136300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TmruC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yummy?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Then, now it’s your turn to give me your head.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "DeepL : 美味しい？では、今度はあなたが頭を差し出す番です。\n\n・Is it yummy? かYummy?で迷った。まあどっちでもいいか\n・then か　now の片方だけにするべきだったかな\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622951674.131300",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "8acf6ea9-8aeb-4ad9-979a-22ddf7ee5c6e",
+        "type": "message",
+        "text": "It is early to put the kotatu back.",
+        "user": "UPSPAP97D",
+        "ts": "1622962067.136500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIjH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is early to put the kotatu back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622778113.125000"
+    },
+    {
+        "client_msg_id": "92523838-8bc4-4462-9b68-8b16ac5da093",
+        "type": "message",
+        "text": "`It is early to put the kotatu back.`\nDeepL「コタツを戻すのは早いです。」\n\n• 前やったはずなのに『away』は思いつかなかった…。\n• 「コタツ」は『kotatsu』。",
+        "user": "UPSPAP97D",
+        "ts": "1622962208.136700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0vra5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is early to put the kotatu back.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「コタツを戻すのは早いです。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "前やったはずなのに『away』は思いつかなかった…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「コタツ」は『kotatsu』。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622787288.125900",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "7288ccd5-aa67-4b48-8512-3e1dbc244b7b",
+        "type": "message",
+        "text": "swing them away.",
+        "user": "UPSPAP97D",
+        "ts": "1622962382.136900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9QX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "swing them away."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622820778.128200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "6307cff0-443c-4a8a-bdc4-bde1dbfe1d42",
+        "type": "message",
+        "text": "Don't worry. Let's descend to the bottom.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622962772.137100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dSAOh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't worry. Let's descend to the bottom."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622907177.130000",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

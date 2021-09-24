@@ -1,0 +1,541 @@
+[
+    {
+        "client_msg_id": "3abd4725-fa8c-4388-b495-fcce88f06530",
+        "type": "message",
+        "text": "Naushika, you are grew up.",
+        "user": "UKH07E67M",
+        "ts": "1624088473.189900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Naushika, you are grew up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623943977.183000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "afee1709-781d-45da-9875-b5cfedd9384a",
+        "type": "message",
+        "text": "`Naushika, you are grew up.`\nナウシカ、成長しましたね。\n• 深読みしすぎたというか、見間違えたぞを英語でどうすれば表現できるのかわからなかった\n• grow grew grown\n• 受身にしないでyou grew upが一番マシか\n• でもhardly recognized youだけで意図が伝わるのかわからない ",
+        "user": "UKH07E67M",
+        "ts": "1624088878.190100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MV\/6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Naushika, you are grew up.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nナウシカ、成長しましたね。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "深読みしすぎたというか、見間違えたぞを英語でどうすれば表現できるのかわからなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "grow grew grown"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "受身にしないでyou grew upが一番マシか"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "でもhardly recognized youだけで意図が伝わるのかわからない "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623943978.183100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "c355f025-ceb6-4345-ac50-a9903288694e",
+        "type": "message",
+        "text": "Ah, I should have bought a plastic bag.",
+        "user": "UKH07E67M",
+        "ts": "1624089289.190300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MC4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, I should have bought a plastic bag."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624020935.185400"
+    },
+    {
+        "client_msg_id": "df217f4b-97e5-4405-869b-bd95b5545e09",
+        "type": "message",
+        "text": "`Ah, I should have bought a plastic bag.`\nああ、ビニール袋を買えばよかった。\n• should完了の形完全に覚えれてない ",
+        "user": "UKH07E67M",
+        "ts": "1624089443.190500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IDC8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, I should have bought a plastic bag.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nああ、ビニール袋を買えばよかった。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "should完了の形完全に覚えれてない "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624024391.185800",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "c2507cd9-e611-4ad3-8c4d-8d394091d861",
+        "type": "message",
+        "text": "I heard an unlucky talk in the trip.",
+        "user": "UKH07E67M",
+        "ts": "1624089754.190700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iv\/WW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I heard an unlucky talk in the trip."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624030377.186100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "45aa413a-8f15-4c98-aba6-14e11974a229",
+        "type": "message",
+        "text": "`I heard an unlucky talk in the trip.`\n旅先でのアンラッキーな話を聞きました。\n•  旅ってonなんだ…触れてんだ…\n• trip travel journey は納得した知らなかったか覚えてなかった\n• ominous 不吉な\n• なぜか不　吉　-&gt; un luckyで考えてた普通に不運じゃん",
+        "user": "UKH07E67M",
+        "ts": "1624090049.191100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z57",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I heard an unlucky talk in the trip.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n旅先でのアンラッキーな話を聞きました。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 旅ってonなんだ…触れてんだ…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "trip travel journey は納得した知らなかったか覚えてなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ominous 不吉な"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "なぜか不　吉　-> un luckyで考えてた普通に不運じゃん"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624030378.186200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "その子もおば様の誕生日を知りたがるわ、プレゼントを考える楽しみができるから（キキ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1624118112.192200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624118112.192200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1624254920.195300",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624182725.192800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624254920.195300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624254920.195300"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：その子もおば様の誕生日を知りたがるわ、プレゼントを考える楽しみができるから",
+        "user": "U01UMQH4W4B",
+        "ts": "1624118112.192300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624118112.192300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624255699.195500",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1624118113.192400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624182913.193000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624255699.195500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624255699.195500"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "I’m sure Kiki will want to know the lady’s birthday so she’ll be able to give her a present.",
+        "user": "U01UMQH4W4B",
+        "ts": "1624118113.192400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624118112.192300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1624160129.192600",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1624160129.192600",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1625195678.245800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01EPKVACEN",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624183387.193400"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1624189477.194000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624255931.195700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624259260.196500"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1625195678.245800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625195678.245800",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: だるまさんが転んだ。そして、もう二度と立ち上がることはなかった。彼が転んだ場所には世界に一つだけの花が咲いている。 <https:\/\/pbs.twimg.com\/media\/E4S767pVkAkpYA7.jpg>",
+                "ts": 1624160122,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1406455610904760328",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1406455610904760328>",
+                "text": "だるまさんが転んだ。そして、もう二度と立ち上がることはなかった。彼が転んだ場所には世界に一つだけの花が咲いている。 <https:\/\/pbs.twimg.com\/media\/E4S767pVkAkpYA7.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1406455610904760328",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E4S767pVkAkpYA7.jpg",
+                "image_width": 400,
+                "image_height": 530,
+                "image_bytes": 33471,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

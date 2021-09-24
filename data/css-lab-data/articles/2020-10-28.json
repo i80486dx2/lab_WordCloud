@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "a4f40ec6-050e-4aff-84ed-0e62937e49b9",
+        "type": "message",
+        "text": "他人にくすぐられるとくすぐったいのに、自分でくすぐってもくすぐったくないのはどうしてか？\n<https:\/\/www.nature.com\/articles\/nn1198_635>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1603885815.002200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Nature Neuroscience",
+                "title": "Central cancellation of self-produced tickle sensation",
+                "title_link": "https:\/\/www.nature.com\/articles\/nn1198_635",
+                "text": "A self-produced tactile stimulus is perceived as less ticklish than the same stimulus generated externally. We used fMRI to examine neural responses when subjects experienced a tactile stimulus that was either self-produced or externally produced. More activity was found in somatosensory cortex when the stimulus was externally produced. In the cerebellum, less activity was associated with a movement that generated a tactile stimulus than with a movement that did not. This difference suggests that the cerebellum is involved in predicting the specific sensory consequences of movements, providing the signal that is used to cancel the sensory response to self-generated stimulation.",
+                "fallback": "Nature Neuroscience: Central cancellation of self-produced tickle sensation",
+                "thumb_url": "https:\/\/media.springernature.com\/m685\/springer-static\/image\/art%3A10.1038%2F2870\/MediaObjects\/41593_1998_Article_BFnn1198_635_Fig1_HTML.gif",
+                "from_url": "https:\/\/www.nature.com\/articles\/nn1198_635",
+                "thumb_width": 560,
+                "thumb_height": 359,
+                "id": 1,
+                "original_url": "https:\/\/www.nature.com\/articles\/nn1198_635"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P5zyv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他人にくすぐられるとくすぐったいのに、自分でくすぐってもくすぐったくないのはどうしてか？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nature.com\/articles\/nn1198_635"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "book",
+                "users": [
+                    "UPSPAP97D",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "7788068B-FD40-49A8-A128-F28FCA5DEC72",
+        "type": "message",
+        "text": "Madgaze glow. Nrealあるなら足りそうだけど…\n<https:\/\/www.madgaze.com\/glow-plus\/|https:\/\/www.madgaze.com\/glow-plus\/>",
+        "user": "U01EPKVACEN",
+        "ts": "1631371533.020500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "MAD Gaze - THE NEW MAD GAZE IS COMING SOON.",
+                "title_link": "https:\/\/www.madgaze.com\/glow-plus\/",
+                "text": "MAD Gaze - Glow Plus",
+                "fallback": "MAD Gaze - THE NEW MAD GAZE IS COMING SOON.",
+                "from_url": "https:\/\/www.madgaze.com\/glow-plus\/",
+                "service_icon": "https:\/\/www.madgaze.com\/img\/icon.png",
+                "service_name": "madgaze.com",
+                "id": 1,
+                "original_url": "https:\/\/www.madgaze.com\/glow-plus\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K8Ok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Madgaze glow. Nrealあるなら足りそうだけど…\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.madgaze.com\/glow-plus\/",
+                                "text": "https:\/\/www.madgaze.com\/glow-plus\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

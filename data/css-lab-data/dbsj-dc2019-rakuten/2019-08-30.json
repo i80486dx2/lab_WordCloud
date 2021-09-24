@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "f2c49f4d-d94b-4442-91c8-360dc339d014",
+        "type": "message",
+        "text": "Total FirstStrike is 17435\n\nNothing  0.01%  3\nStraight 20.02% 7783\nCurve    4.89%  1902\nShoot    3.17%  1233\nSlider   9.98%  3879\nFork     2.64%  1026\nSinker   0.86%  335\nChangeUp 1.68%  652\nSpecial  0.01%  3\nCutball  1.59%  619\n\nTotal FirstBall is 15183\n\nNothing  0.01%  3\nStraight 16.60% 6455\nCurve    4.98%  1935\nShoot    3.37%  1309\nSlider   7.90%  3070\nFork     2.64%  1027\nSinker   0.68%  264\nChangeUp 1.66%  644\nSpecial  0.02%  7\nCutball  1.21%  469\n\nTotal OtherBall is 6263\n\nなし         5.20% 2021\n単打         2.16% 840\n死球         0.23% 90\n二塁打        0.51% 197\nエン２ベ       0.00% 1\n三塁打        0.05% 20\n本塁打        0.32% 125\n失策出塁       0.10% 38\n凡打         5.80% 2257\n犠打         1.15% 449\n犠飛         0.06% 24\n邪飛         0.43% 169\nボーク        0.02% 6\n守備妨害       0.01% 3\n野手選択       0.01% 2\n犠打失策       0.03% 12\n犠打野選       0.02% 9",
+        "user": "UKUKA65GU",
+        "ts": "1567230026.000700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0fa0a6f5-6fd4-4c5d-bc68-951cfaa3a94a",
+        "type": "message",
+        "text": "全初球の動きを、一応示すことができました。\nただ、特に人とか球団に絞ったわけでもなく、なかなかここから考察して新しく作るのも時間が足りない問題もあるので、一応参考程度にって感じです。",
+        "user": "UKUKA65GU",
+        "ts": "1567230105.001900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "796cb7cd-b2a9-4400-baa5-8403aa20a072",
+        "type": "message",
+        "text": "前回の研究室で出たアイデアを使って可視化できたら、再度こちらにアップします。",
+        "user": "UKUKA65GU",
+        "ts": "1567230152.002500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

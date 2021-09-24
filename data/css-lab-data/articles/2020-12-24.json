@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "bbeeb774-e185-4ccb-94ba-8d8b7f13b28b",
+        "type": "message",
+        "text": "他者に何らかの行動を起こさせるための言葉を生成するAI：<https:\/\/www.technologyreview.jp\/s\/226679\/how-role-playing-a-dragon-can-teach-an-ai-to-manipulate-and-persuade\/>\n\n強化学習は専門ではないけど、今後長いスパンでみたときに、やっておかないといけないかなぁ。この記事では報酬系として「起こさせたい行動（目的）」がアドホックだけど、そこをオープンエンドにできるかはChallengingなテーマ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1608802871.026900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "MITテクノロジーレビュー",
+                "title": "他者を言葉で動かす方法を学習、目的達成手段として言語を使うAI",
+                "title_link": "https:\/\/www.technologyreview.jp\/s\/226679\/how-role-playing-a-dragon-can-teach-an-ai-to-manipulate-and-persuade\/",
+                "text": "ジョージア工科大学の研究者のチームは、自然言語処理と強化学習を組み合わせることにより、目的を達成するために言葉を使って他者に何かをさせるAIシステムを開発した。言語に満ちた私たちの世界がどのように成り立っているかを、より深く理解することにつながるかもしれない。",
+                "fallback": "MITテクノロジーレビュー: 他者を言葉で動かす方法を学習、目的達成手段として言語を使うAI",
+                "image_url": "https:\/\/cdn.technologyreview.jp\/wp-content\/uploads\/sites\/2\/2020\/11\/27002003\/tavern.png",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.technologyreview.jp\/s\/226679\/how-role-playing-a-dragon-can-teach-an-ai-to-manipulate-and-persuade\/",
+                "image_bytes": 1257799,
+                "service_icon": "https:\/\/cdn.technologyreview.jp\/wp-content\/uploads\/sites\/2\/2018\/11\/22212526\/cropped-icon-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.technologyreview.jp\/s\/226679\/how-role-playing-a-dragon-can-teach-an-ai-to-manipulate-and-persuade\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rzD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他者に何らかの行動を起こさせるための言葉を生成するAI："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.technologyreview.jp\/s\/226679\/how-role-playing-a-dragon-can-teach-an-ai-to-manipulate-and-persuade\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n強化学習は専門ではないけど、今後長いスパンでみたときに、やっておかないといけないかなぁ。この記事では報酬系として「起こさせたい行動（目的）」がアドホックだけど、そこをオープンエンドにできるかはChallengingなテーマ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "nerd_face",
+                "users": [
+                    "UKH07E67M",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U01EL0SAUTF",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

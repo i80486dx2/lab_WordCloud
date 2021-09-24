@@ -1,0 +1,459 @@
+[
+    {
+        "type": "message",
+        "text": "お疲れ様です。進捗を報告します。\n\nアクセルデータの元データより10倍の細かさのリスト[スプライン曲線の値を利用] を生成し、微分化。更に、微分化したデータで離散フーリエ変換をしました。\n自分の知識が足りなく、ここからの変更・深掘りが出来なくなったため、ここまでの結果を送ります。",
+        "files": [
+            {
+                "id": "F010L7LSZQS",
+                "created": 1585384214,
+                "timestamp": 1585384214,
+                "name": "ShareCar_spline_fourier.ipynb",
+                "title": "ShareCar_spline_fourier.ipynb",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UPSPAP97D",
+                "editable": true,
+                "size": 59903,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010L7LSZQS\/sharecar_spline_fourier.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F010L7LSZQS\/download\/sharecar_spline_fourier.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F010L7LSZQS\/sharecar_spline_fourier.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F010L7LSZQS-81afc89a54",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/F010L7LSZQS\/sharecar_spline_fourier.ipynb\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mvtIM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。進捗を報告します。\n\nアクセルデータの元データより10倍の細かさのリスト[スプライン曲線の値を利用] を生成し、微分化。更に、微分化したデータで離散フーリエ変換をしました。\n自分の知識が足りなく、ここからの変更・深掘りが出来なくなったため、ここまでの結果を送ります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAP97D",
+        "display_as_bot": false,
+        "ts": "1585384215.011000",
+        "client_msg_id": "edcafa25-7c8a-4d52-8aca-45f069ac5e14",
+        "thread_ts": "1585384215.011000",
+        "reply_count": 15,
+        "reply_users_count": 3,
+        "latest_reply": "1585647633.045200",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1585397283.011300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1585400695.011500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1585405784.012000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1585406910.026200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1585407441.026400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1585408119.035200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1585409843.036000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1585440593.040200"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1585625591.040400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1585630557.041100"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1585633534.041300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1585633591.041900"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1585634365.042100"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1585643936.042500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1585647633.045200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1585647633.045200"
+    },
+    {
+        "client_msg_id": "f84858c5-ca02-4540-9ca3-3cee2455c370",
+        "type": "message",
+        "text": "フーリエ変換をするのはどうして？単純に想像するに、経路の距離のスケールを近所と遠出で分離しようとしてるのかな？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1585397283.011300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DfOb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フーリエ変換をするのはどうして？単純に想像するに、経路の距離のスケールを近所と遠出で分離しようとしてるのかな？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585384215.011000",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "15bf53cc-c0e1-4610-b9b1-4008a1e4cfad",
+        "type": "message",
+        "text": "僕が考えていたのは、このデータ中の『アクセルの急上昇(アクセルの微分値)の頻度(Hz)の割合』を『時間』の離散フーリエ変換をして求めようと思っていました。\n\nこの考え方で今回の結果は、『1フレーム周期に急加速(or 急減速)する項』と『データ中に一度の周期で急加速(or 急減速)する項』のかかる割合が高いのかな…… と考えていたのですが、大きく的外れなことをしていたのかもしれませんね…..\n\n\n\n因みに今回のアクセルデータは、ある特定の人物が「ある地点から他の場所に移動する時のアクセル値を 0.1s毎に収集した値」です。",
+        "user": "UPSPAP97D",
+        "ts": "1585400695.011500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1585401028.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NXSE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕が考えていたのは、このデータ中の『アクセルの急上昇(アクセルの微分値)の頻度(Hz)の割合』を『時間』の離散フーリエ変換をして求めようと思っていました。\n\nこの考え方で今回の結果は、『1フレーム周期に急加速(or 急減速)する項』と『データ中に一度の周期で急加速(or 急減速)する項』のかかる割合が高いのかな…… と考えていたのですが、大きく的外れなことをしていたのかもしれませんね…..\n\n\n\n因みに今回のアクセルデータは、ある特定の人物が「ある地点から他の場所に移動する時のアクセル値を 0.1s毎に収集した値」です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585384215.011000",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "00e91fd0-3ad5-4147-bc23-e9dbc27506cd",
+        "type": "message",
+        "text": "なるほど。アクセルの踏み方に短い時間スケールのパターンと長い時間スケールのパターンがあるかもというのは、直感的にあまりピンとこないですね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1585405784.012000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bQj9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど。アクセルの踏み方に短い時間スケールのパターンと長い時間スケールのパターンがあるかもというのは、直感的にあまりピンとこないですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585384215.011000",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "B2B79916-181C-4261-88CC-31B38FF6D951",
+        "type": "message",
+        "text": "そうですよね。ご指摘ありがとうございます。\n\n\n今思いついたのですが、\n「フーリエ変換の分析を『カーブ前』、『カーブ中』などの限定した部分で行う」\nこの分析はしてみる価値があると思いますか？",
+        "user": "UPSPAP97D",
+        "ts": "1585406910.026200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qiG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですよね。ご指摘ありがとうございます。\n\n\n今思いついたのですが、\n「フーリエ変換の分析を『カーブ前』、『カーブ中』などの限定した部分で行う」\nこの分析はしてみる価値があると思いますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585384215.011000",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "08511578-cbd7-4b58-a939-4abae907c092",
+        "type": "message",
+        "text": "それで何が見えそうだと思う？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1585407441.026400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i=ph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それで何が見えそうだと思う？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585384215.011000",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "BBFE70F5-9252-448D-9A99-59ACF1BA6D71",
+        "type": "message",
+        "text": "僕が考えているのは、「カーブの強さによってブレーキのかけ具合が変化し、アクセルの微分値も変化する」。\nこの現象がカーブ角度によって、フーリエ変換後のプロットを特定の形にさせる。\nこのデータを集めて「この人は『一般的な運転操作』なのか『独特な運転操作』なのかを可視化」出来るのかも…… と予想しています。\n\n\nこの考えの欠点としてすぐに思いつくのは、「そもそも『同じカーブ』というものをどうやって決めるか」とかですかね……",
+        "user": "UPSPAP97D",
+        "ts": "1585408119.035200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1585408682.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hThIc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕が考えているのは、「カーブの強さによってブレーキのかけ具合が変化し、アクセルの微分値も変化する」。\nこの現象がカーブ角度によって、フーリエ変換後のプロットを特定の形にさせる。\nこのデータを集めて「この人は『一般的な運転操作』なのか『独特な運転操作』なのかを可視化」出来るのかも…… と予想しています。\n\n\nこの考えの欠点としてすぐに思いつくのは、「そもそも『同じカーブ』というものをどうやって決めるか」とかですかね……"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585384215.011000",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "952139f5-606f-40fc-aeed-fea8e687523f",
+        "type": "message",
+        "text": "動機は運転操作の個人差を可視化するということですね。同じカーブかどうかはGPS情報から具体的な場所を指定してしまえばよいと思います。データの詳細をよく知らないのでまた今度。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1585409843.036000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "duX3l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "動機は運転操作の個人差を可視化するということですね。同じカーブかどうかはGPS情報から具体的な場所を指定してしまえばよいと思います。データの詳細をよく知らないのでまた今度。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585384215.011000",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "B1BA1BE9-DD80-4E70-A174-287C01F4026B",
+        "type": "message",
+        "text": "確かに、その方法なら確実に『同じカーブ』を発見できますね（思いつきませんでした…）。もし分析がこの段階まで進んだ場合、参考にさせていただきます！",
+        "user": "UPSPAP97D",
+        "ts": "1585440593.040200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g2UwM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確かに、その方法なら確実に『同じカーブ』を発見できますね（思いつきませんでした…）。もし分析がこの段階まで進んだ場合、参考にさせていただきます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585384215.011000",
+        "parent_user_id": "UPSPAP97D"
+    }
+]

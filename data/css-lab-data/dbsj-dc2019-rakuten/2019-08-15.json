@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "d05db7a9-3d86-4e02-9c8d-4993de240861",
+        "type": "message",
+        "text": "現時点で分かったこと。\n\n1:数値的な配球の判定と、審判による配球の判定には、一部のデータで不一致がある（誤審?）\n見逃し球というものを以下のように定義する。\n「打者がスイングしたりバットに当てたりせず（ファールなどを今回の候補から除外）、投げた球がキャッチャーのミットに入り\nその球がストライクなのかボールなのかを、球審以外がジャッジできない時の球」\nを見逃し球と定義する。\n\n見逃し球のストライク球を、ストライクと球審が正しくジャッジした確率→95.63%\n見逃し球のボール球を、ボールと球審が正しくジャッジした確率→97.29%\n※ ただ、ストライクゾーンの定義が、各選手によって違うというものがこのデータに反映されているのかどうかを確認する必要がある\n\n2:各カウントにおける、決め球の判定\n1回目の分類で変化球での分類を作成。\n次に、それぞれの変化球において、S2カウントの時に投げられたという条件下でデータを抽出。\n以下は、「ストライクカウントが２の時に投げられた各変化球の総数」\/「シチュエーション関係なく投げられた各変化球の総数」\n\nNothing  18.55% S2: 905   全数: 4878\nStraight 28.26% S2: 18579 全数: 65738\nCurve    24.72% S2: 3028  全数: 12248\nShoot    18.83% S2: 2125  全数: 11286\nSlider   28.12% S2: 7729  全数: 27483\nFork     46.28% S2: 6276  全数: 13560\nSinker   31.93% S2: 1010  全数: 3163\nChangeUp 35.01% S2: 2363  全数: 6750\nSpecial  59.02% S2: 36    全数: 61\nCutball  23.74% S2: 1166  全数: 4912",
+        "user": "UKUKA65GU",
+        "ts": "1565882049.007600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9aed58a5-a545-4e26-9ccf-d136f1e75a6e",
+        "type": "message",
+        "text": "具体的なグラフ化などは、もう少し詳しく分析を行ってみてから手をつけていきたいと考えています",
+        "user": "UKUKA65GU",
+        "ts": "1565882116.008300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "527b9be3-15ef-402d-8a4c-b13b4289707d",
+        "type": "message",
+        "text": "出た結果としては、これだ！！って感じはあまりしません。（抽出条件がまだざっくりとしたものでしかないため）\nフォークボール、チェンジアップがやはりパリーグ全体の投手による決め球として使われやすいんだなぁということはなんとなく理解できました。",
+        "user": "UKUKA65GU",
+        "ts": "1565882224.010000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "75c8d09b-c592-4882-bff2-23306b4e0efe",
+        "type": "message",
+        "text": "週明けまで仕事が立て込んでるので、人段落したらキャッチアップします。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1565890367.010700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "AB708478-EBC6-4625-8B3E-2962B6BCF687",
+        "type": "message",
+        "text": "承知しました。\nどうぞお疲れの出ませんように。",
+        "user": "UKUKA65GU",
+        "ts": "1565890685.011200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c64bdda-24ca-483c-bf03-cc65cd7e4762",
+        "type": "message",
+        "text": "少し抽出条件を絞った結果、\n\n1: 各変化球において、投げられた各変化球の総数全体から、2ストライクから投げられた球数を見た場合。\nNothing  18.55% S2: 905   全数: 4878\nStraight 28.26% S2: 18579 全数: 65738\nCurve    24.72% S2: 3028  全数: 12248\nShoot    18.83% S2: 2125  全数: 11286\nSlider   28.12% S2: 7729  全数: 27483\nFork     46.28% S2: 6276  全数: 13560\nSinker   31.93% S2: 1010  全数: 3163\nChangeUp 35.01% S2: 2363  全数: 6750\nSpecial  59.02% S2: 36    全数: 61\nCutball  23.74% S2: 1166  全数: 4912\n\n2: 各変化球において、投げられた各変化球の総数全体から、2ストライクから見送り、空振り三振が決まった球数を見た場合。\nNothing  0.00%  DS2: 0     全数: 4878\nStraight 3.98%  DS2: 2618  全数: 65738\nCurve    4.18%  DS2: 512   全数: 12248\nShoot    1.84%  DS2: 208   全数: 11286\nSlider   5.06%  DS2: 1392  全数: 27483\nFork     8.89%  DS2: 1205  全数: 13560\nSinker   4.90%  DS2: 155   全数: 3163\nChangeUp 6.07%  DS2: 410   全数: 6750\nSpecial  13.11% DS2: 8     全数: 61\nCutball  3.16%  DS2: 155   全数: 4912\n\n3: 各変化球において、2ストライクから投げられた各変化球の球数全体から、2ストライクから見送り、空振り三振が決まった球数を見た場合。\nNothing  0.00%  DS2: 0     S2: 905\nStraight 14.09% DS2: 2618  S2: 18579\nCurve    16.91% DS2: 512   S2: 3028\nShoot    9.79%  DS2: 208   S2: 2125\nSlider   18.01% DS2: 1392  S2: 7729\nFork     19.20% DS2: 1205  S2: 6276\nSinker   15.35% DS2: 155   S2: 1010\nChangeUp 17.35% DS2: 410   S2: 2363\nSpecial  22.22% DS2: 8     S2: 36\nCutball  13.29% DS2: 155   S2: 1166",
+        "user": "UKUKA65GU",
+        "ts": "1565893010.012600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

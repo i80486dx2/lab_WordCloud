@@ -1,0 +1,374 @@
+[
+    {
+        "type": "message",
+        "text": "<@U01EL0SAUTF>\n• `全体的に大きすぎる。枠やフォントサイズすべて、今の80%くらいでいい。`→修正できますか？\n• `ツイートリストの高さはウィンドウの高さに合わせたい。`→添付の図を参照\n• `検索ボックスとグラフの左アライメントは揃ってるが、ツイートリストが揃っていない。`→OK！\n• `カラムを消す×ボタンは、カラムを追加する＋ボタンとデザインを揃えた方がいい。`→OK！\n• `新しいカラムでクエリーを投げると、古いカラムもリロードされてしまう。`→修正できますか？\n• `ロードできないツイート（削除されたもの？）があるとロード中を表すクルクル回るアイコンが消えてくれない。`→修正できますか？\n",
+        "files": [
+            {
+                "id": "F02BZT0BBUP",
+                "created": 1629966963,
+                "timestamp": 1629966963,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UKS1Q2KTQ",
+                "editable": false,
+                "size": 381535,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02BZT0BBUP\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02BZT0BBUP\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02BZT0BBUP-d2e7e23747\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02BZT0BBUP-d2e7e23747\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02BZT0BBUP-d2e7e23747\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 324,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02BZT0BBUP-d2e7e23747\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 433,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02BZT0BBUP-d2e7e23747\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02BZT0BBUP-d2e7e23747\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 649,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02BZT0BBUP-d2e7e23747\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 721,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02BZT0BBUP-d2e7e23747\/image_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 865,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02BZT0BBUP-d2e7e23747\/image_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 923,
+                "original_w": 1920,
+                "original_h": 1730,
+                "thumb_tiny": "AwArADCFJJGUFrsKfQ5pdz\/8\/wAPwLf4VWAJ6An6UBGLYwfypiHmeYf8t3\/76pPtE\/8Az2k\/76pjAqcEYNJQBJ9on\/57Sf8AfVOSeYuuZn6j+Koacn+sX6igC\/aWqSQq7HGfTFWPsMXq36UWGDaJ+P8AOrOPagDDu0EdwyDoKhqzf\/8AH4\/4fyqtTAKcn+sX6im05P8AWL9RQBetbyGKBUfdkegqb+0Lf0f8qyaKQE13IJbh3XODjr9KhpWPzGkpgFOT\/WL9RTacn+sX6igD\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKS1Q2KTQ\/F02BZT0BBUP\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02BZT0BBUP-cf0c8972cb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hi9BD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "全体的に大きすぎる。枠やフォントサイズすべて、今の80%くらいでいい。",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "→修正できますか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ツイートリストの高さはウィンドウの高さに合わせたい。",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "→添付の図を参照"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "検索ボックスとグラフの左アライメントは揃ってるが、ツイートリストが揃っていない。",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "→OK！"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "カラムを消す×ボタンは、カラムを追加する＋ボタンとデザインを揃えた方がいい。",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "→OK！"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "新しいカラムでクエリーを投げると、古いカラムもリロードされてしまう。",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "→修正できますか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ロードできないツイート（削除されたもの？）があるとロード中を表すクルクル回るアイコンが消えてくれない。",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "→修正できますか？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "user": "UKS1Q2KTQ",
+        "display_as_bot": false,
+        "ts": "1629967136.000100",
+        "thread_ts": "1628415480.014100",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "2b823b13-577d-4260-bc72-908c1cb09e29",
+        "type": "message",
+        "text": "&gt; `新しいカラムでクエリーを投げると、古いカラムもリロードされてしまう。`→修正できますか？\n&gt; `ロードできないツイート（削除されたもの？）があるとロード中を表すクルクル回るアイコンが消えてくれない。`→修正できますか？\nこの二点が修正できないかもです。一応以前から原因追求してるんですが結構根本が絡んでいまして。",
+        "user": "U01EL0SAUTF",
+        "ts": "1629977229.000500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gmj",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新しいカラムでクエリーを投げると、古いカラムもリロードされてしまう。",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "→修正できますか？\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ロードできないツイート（削除されたもの？）があるとロード中を表すクルクル回るアイコンが消えてくれない。",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "→修正できますか？"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この二点が修正できないかもです。一応以前から原因追求してるんですが結構根本が絡んでいまして。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628415480.014100",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87ea880c-1af2-4291-aab7-4737afdd41d6",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 自分の画面サイズで編集したのでちょっとわからないのですが一応デザイン崩れない程度にレスポンシブに変更しました",
+        "user": "U01EL0SAUTF",
+        "ts": "1629984115.000800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q35jY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 自分の画面サイズで編集したのでちょっとわからないのですが一応デザイン崩れない程度にレスポンシブに変更しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628415480.014100",
+        "parent_user_id": "U01EL0SAUTF"
+    },
+    {
+        "client_msg_id": "94a33109-e419-413a-849d-bb42f2916e8a",
+        "type": "message",
+        "text": "<@U01EL0SAUTF> お疲れ様。とりあえず現状のもので一区切りにします。\n（やはり下に余分なスペースが余ってますが…）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629991953.001000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Dd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様。とりあえず現状のもので一区切りにします。\n（やはり下に余分なスペースが余ってますが…）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628415480.014100",
+        "parent_user_id": "U01EL0SAUTF",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

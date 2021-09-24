@@ -1,0 +1,153 @@
+[
+    {
+        "client_msg_id": "38874fa5-ccf2-4a6d-b91a-cfe814689ec9",
+        "type": "message",
+        "text": "<@U01EV766AH2> 改めて、今度実装するプログラムについて以下のような流れでいいかな。\n*動画に字幕として時間を挿入するコード*\n\n*仕様*\n• 映像の入っているフォルダのパスとzipから解答したばかりのオリジナルのデータがあるパスを指定する\n• 指定されたフォルダに入っている映像に対して全てに時間情報を挿入する\n• オリジナルデータのInfoにあるAcquisitionInfo_~~~~.csvからFaceCamera_Start_Timeを取得する\n*疑似コード*\n```# 必要なライブラリのインポート\nimport ~~~\nimport ~~~\nfrom ~~~ import ~~~\n\n# 映像の入っているフォルダのパスとzipから解答したばかりのオリジナルのデータがあるパスの指定\nMOVIE_PATH = \"\"\nORIGN_DATA = \"\"\n\n# MOVIE_PATHに入っているファイルを全て取得する\n# ヒント：osってライブラリで取得できる\nmovie_file_list = os.~~~~~~~~\n\n# movie_file_listから映像名を取得し各映像に対して、処理を行う\nfor i in range(len(movie_file_list)):\n    for j in range(len(origin_data_file_list)):\n        # 映像とオリジナルのデータが一致したら\n        if movie_file_list[i] == origin_data_file_list[j]\n　　　　　     #　FaceCamera_Start_Timeを取得する\n             video_start = ~~~~~~~~~~~~~~\n             # os.system などを使ってffmepgのコマンドを操作する\n             os.system(~~~~~~~~~~~~~~~~)```\n他にも細かいところは色々考える必要がありますが、大雑把にこんな感じで出来ると思います。.pyでも.ipynbでも構いません。",
+        "user": "UPRE1RSJW",
+        "ts": "1623498116.034300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hu1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 改めて、今度実装するプログラムについて以下のような流れでいいかな。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "動画に字幕として時間を挿入するコード",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "仕様",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "映像の入っているフォルダのパスとzipから解答したばかりのオリジナルのデータがあるパスを指定する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "指定されたフォルダに入っている映像に対して全てに時間情報を挿入する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "オリジナルデータのInfoにあるAcquisitionInfo_~~~~.csvからFaceCamera_Start_Timeを取得する"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "疑似コード",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "# 必要なライブラリのインポート\nimport ~~~\nimport ~~~\nfrom ~~~ import ~~~\n\n# 映像の入っているフォルダのパスとzipから解答したばかりのオリジナルのデータがあるパスの指定\nMOVIE_PATH = \"\"\nORIGN_DATA = \"\"\n\n# MOVIE_PATHに入っているファイルを全て取得する\n# ヒント：osってライブラリで取得できる\nmovie_file_list = os.~~~~~~~~\n\n# movie_file_listから映像名を取得し各映像に対して、処理を行う\nfor i in range(len(movie_file_list)):\n    for j in range(len(origin_data_file_list)):\n        # 映像とオリジナルのデータが一致したら\n        if movie_file_list[i] == origin_data_file_list[j]\n　　　　　     #　FaceCamera_Start_Timeを取得する\n             video_start = ~~~~~~~~~~~~~~\n             # os.system などを使ってffmepgのコマンドを操作する\n             os.system(~~~~~~~~~~~~~~~~)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他にも細かいところは色々考える必要がありますが、大雑把にこんな感じで出来ると思います。.pyでも.ipynbでも構いません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623498116.034300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1623652885.038200",
+        "reply_users": [
+            "U01EV766AH2"
+        ],
+        "replies": [
+            {
+                "user": "U01EV766AH2",
+                "ts": "1623652885.038200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

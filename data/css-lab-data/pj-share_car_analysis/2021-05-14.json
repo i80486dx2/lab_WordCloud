@@ -1,0 +1,517 @@
+[
+    {
+        "client_msg_id": "DFAA64D6-6BAC-4704-96F8-D0F4EE52F49C",
+        "type": "message",
+        "text": "ありがとうございます！Pythonやツールについての知識が全くないのでありがたいです！\nまだデータは触れていないので、これからやります！",
+        "user": "U01EV766AH2",
+        "ts": "1620983966.044400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b2ff5f8847ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-16\/1503423459234_b2ff5f8847ffb1c6c427_72.png",
+            "first_name": "Keiya",
+            "real_name": "Keiya Azuma",
+            "display_name": "azuma",
+            "team": "TKS1Q2JUE",
+            "name": "s1270107",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UG5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！Pythonやツールについての知識が全くないのでありがたいです！\nまだデータは触れていないので、これからやります！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620968390.042300",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "*モビリティデータ解析手法の共有*\n\nツール、サイト\n・lat,lngを含むCSVファイルをみたいときは <http:\/\/kepler.gl|kepler.gl>\n・pythonで細かい文法、ライブラリの使い方を知りたいとき　<https:\/\/note.nkmk.me\/>\n・jupyter ←行ごとに実行出来るので便利\npythonライブラリ\n・csvファイルを操作したい　pandas\n・便利に数値計算したい　numpy\n\nデータの中身\n\n例：20200804_165044の中身\n```.\n├── Battery\n│   ├── Battery_5480.00000.csv\n│   ├── Battery_5480.00001.csv\n├── CAM_Face\n│   ├── FaceCAM_5480_000.mp4\n│   ├── FaceCAM_5480_001.mp4\n├── CAM_Foot\n│   ├── FootCAM_5480_000.mp4\n│   └── FootCAM_5480_001.mp4\n├── CAM_Front\n│   ├── FrontCAM_5480_000.mp4\n│   └── FrontCAM_5480_001.mp4\n├── CAM_Frontseat\n│   ├── FrontSeat_5480_000.mp4\n│   └── FrontSeat_5480_001.mp4\n├── CAN1\n│   ├── CAN1_5480.00001.csv\n│   └── CAN1_5480.00002.csv\n├── CAN2\n│   ├── CAN2_5480.00001.csv\n│   └── CAN2_5480.00002.csv\n├── CO2\n│   ├── CO2_5480.00001.csv\n│   └── CO2_5480.00002.csv\n├── EnvSensor\n│   ├── EnvSensor_5480.00001.csv\n│   └── EnvSensor_5480.00002.csv\n├── ErrorLoopLog\n│   ├── ErrorLoopLog_5480.00001.csv\n│   └── ErrorLoopLog_5480.00002.csv\n├── GPS\n│   ├── GPS_5480.00001.csv\n│   └── GPS_5480.00002.csv\n├── Info\n│   └── AcquisitionInfo_5480.csv\n├── Log\n│   └── Log.txt\n└── SWInput\n    ├── SWInput_5480.00001.csv\n    └── SWInput_5480.00002.csv```\n　この中でよく使うのは、CAM＿Face(映像)、CAM_Front(映像)、CAM_Frontseat(映像)、CAN1、GPS。\nCAN1は日付とそれに対応した速度、ギア、ウインカー、アクセル・ブレーキ・ステアリング操作量、など主要な車両情報が入っている。GPSは日付とそれに対応したlat,lngが入っている。(<http:\/\/kepler.gl|kepler.gl> などで)最低限データを触れるようにするには、まずCAN１とGPSのデータを結合しなければならない。\n　映像とCANデータなどと時間を同期させるには、InfoのAcquisitionInfo_~~~~.csvからカメラの再生開始時間を取得することから始める。その後、動画のメタデータとして映像に時間情報などを追加する。難しそうだったら、ffmpeあたりを使って映像の中に字幕として時間を表示させるだけでもOK。",
+        "user": "UPRE1RSJW",
+        "ts": "1621052686.044600",
+        "thread_ts": "1620968390.042300",
+        "root": {
+            "client_msg_id": "ffeef7c0-b504-486f-943b-d5b94099ec5d",
+            "type": "message",
+            "text": "<@U01EV766AH2> データ触ってみたりした？もし必要だったら役立つツールとか自分のソースコードもあげるけど。",
+            "user": "UPRE1RSJW",
+            "ts": "1620968390.042300",
+            "team": "TKS1Q2JUE",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BUCm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U01EV766AH2"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " データ触ってみたりした？もし必要だったら役立つツールとか自分のソースコードもあげるけど。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1620968390.042300",
+            "reply_count": 9,
+            "reply_users_count": 2,
+            "latest_reply": "1621054274.049800",
+            "reply_users": [
+                "U01EV766AH2",
+                "UPRE1RSJW"
+            ],
+            "replies": [
+                {
+                    "user": "U01EV766AH2",
+                    "ts": "1620983966.044400"
+                },
+                {
+                    "user": "UPRE1RSJW",
+                    "ts": "1621052686.044600"
+                },
+                {
+                    "user": "UPRE1RSJW",
+                    "ts": "1621052932.045200"
+                },
+                {
+                    "user": "U01EV766AH2",
+                    "ts": "1621053760.046200"
+                },
+                {
+                    "user": "UPRE1RSJW",
+                    "ts": "1621053830.046400"
+                },
+                {
+                    "user": "U01EV766AH2",
+                    "ts": "1621053894.047000"
+                },
+                {
+                    "user": "UPRE1RSJW",
+                    "ts": "1621054033.047200"
+                },
+                {
+                    "user": "U01EV766AH2",
+                    "ts": "1621054236.048800"
+                },
+                {
+                    "user": "U01EV766AH2",
+                    "ts": "1621054274.049800"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "attachments": [
+            {
+                "title": "nkmk note",
+                "title_link": "https:\/\/note.nkmk.me\/",
+                "text": "Python, pandas, NumPy, etc.",
+                "fallback": "nkmk note",
+                "thumb_url": "https:\/\/i.gyazo.com\/09282a0df3f74b6c7afc58e1b04417d2.png",
+                "from_url": "https:\/\/note.nkmk.me\/",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_name": "note.nkmk.me",
+                "id": 1,
+                "original_url": "https:\/\/note.nkmk.me\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lNi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "モビリティデータ解析手法の共有",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nツール、サイト\n・lat,lngを含むCSVファイルをみたいときは "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/kepler.gl",
+                                "text": "kepler.gl"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n・pythonで細かい文法、ライブラリの使い方を知りたいとき　"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/note.nkmk.me\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n・jupyter ←行ごとに実行出来るので便利\npythonライブラリ\n・csvファイルを操作したい　pandas\n・便利に数値計算したい　numpy\n\nデータの中身\n\n例：20200804_165044の中身\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ".\n├── Battery\n│   ├── Battery_5480.00000.csv\n│   ├── Battery_5480.00001.csv\n├── CAM_Face\n│   ├── FaceCAM_5480_000.mp4\n│   ├── FaceCAM_5480_001.mp4\n├── CAM_Foot\n│   ├── FootCAM_5480_000.mp4\n│   └── FootCAM_5480_001.mp4\n├── CAM_Front\n│   ├── FrontCAM_5480_000.mp4\n│   └── FrontCAM_5480_001.mp4\n├── CAM_Frontseat\n│   ├── FrontSeat_5480_000.mp4\n│   └── FrontSeat_5480_001.mp4\n├── CAN1\n│   ├── CAN1_5480.00001.csv\n│   └── CAN1_5480.00002.csv\n├── CAN2\n│   ├── CAN2_5480.00001.csv\n│   └── CAN2_5480.00002.csv\n├── CO2\n│   ├── CO2_5480.00001.csv\n│   └── CO2_5480.00002.csv\n├── EnvSensor\n│   ├── EnvSensor_5480.00001.csv\n│   └── EnvSensor_5480.00002.csv\n├── ErrorLoopLog\n│   ├── ErrorLoopLog_5480.00001.csv\n│   └── ErrorLoopLog_5480.00002.csv\n├── GPS\n│   ├── GPS_5480.00001.csv\n│   └── GPS_5480.00002.csv\n├── Info\n│   └── AcquisitionInfo_5480.csv\n├── Log\n│   └── Log.txt\n└── SWInput\n    ├── SWInput_5480.00001.csv\n    └── SWInput_5480.00002.csv"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "　この中でよく使うのは、CAM＿Face(映像)、CAM_Front(映像)、CAM_Frontseat(映像)、CAN1、GPS。\nCAN1は日付とそれに対応した速度、ギア、ウインカー、アクセル・ブレーキ・ステアリング操作量、など主要な車両情報が入っている。GPSは日付とそれに対応したlat,lngが入っている。("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/kepler.gl",
+                                "text": "kepler.gl"
+                            },
+                            {
+                                "type": "text",
+                                "text": " などで)最低限データを触れるようにするには、まずCAN１とGPSのデータを結合しなければならない。\n　映像とCANデータなどと時間を同期させるには、InfoのAcquisitionInfo_~~~~.csvからカメラの再生開始時間を取得することから始める。その後、動画のメタデータとして映像に時間情報などを追加する。難しそうだったら、ffmpeあたりを使って映像の中に字幕として時間を表示させるだけでもOK。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "67f9a83b-63f6-4e6c-be26-42adc0358aad",
+        "edited": {
+            "user": "UPRE1RSJW",
+            "ts": "1621052799.000000"
+        }
+    },
+    {
+        "client_msg_id": "4484a22d-83fe-4655-a1fd-6e13f2691bbc",
+        "type": "message",
+        "text": "githubのアカウント教えてくれるかな。プライベートリポジトリのコラボレーターに追加したいので。",
+        "user": "UPRE1RSJW",
+        "ts": "1621052932.045200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BVBN3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "githubのアカウント教えてくれるかな。プライベートリポジトリのコラボレーターに追加したいので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620968390.042300",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "D4792FBB-15E7-41E4-84BD-DF2CBCD291AD",
+        "type": "message",
+        "text": "ありがとうございます！\nアカウント名は\nyatutiyo\nです！",
+        "user": "U01EV766AH2",
+        "ts": "1621053760.046200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b2ff5f8847ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-16\/1503423459234_b2ff5f8847ffb1c6c427_72.png",
+            "first_name": "Keiya",
+            "real_name": "Keiya Azuma",
+            "display_name": "azuma",
+            "team": "TKS1Q2JUE",
+            "name": "s1270107",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Wg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！\nアカウント名は\nyatutiyo\nです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620968390.042300",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "1b1db3f8-9004-4a84-85b7-d0529814c6ae",
+        "type": "message",
+        "text": "これでアクセス出来るかな。\n<https:\/\/github.com\/i80486dx2\/share_car>",
+        "user": "UPRE1RSJW",
+        "ts": "1621053830.046400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B4VN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これでアクセス出来るかな。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/i80486dx2\/share_car"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620968390.042300",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "C1657B26-D64F-4A36-B6AD-C44E0DEB059D",
+        "type": "message",
+        "text": "見れました！",
+        "user": "U01EV766AH2",
+        "ts": "1621053894.047000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b2ff5f8847ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-16\/1503423459234_b2ff5f8847ffb1c6c427_72.png",
+            "first_name": "Keiya",
+            "real_name": "Keiya Azuma",
+            "display_name": "azuma",
+            "team": "TKS1Q2JUE",
+            "name": "s1270107",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5oozp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "見れました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620968390.042300",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "5948bccf-4f25-48aa-ade2-c53fa0c26fa3",
+        "type": "message",
+        "text": "これ使うと前処理がスムーズに行くけど、ディレクトリを指定するところとか変えないと正しく動かないから参考程度に。あと、分からないことあったら聞いてね。研究室とかで教えることも出来るので。ちなみに今日もいます。",
+        "user": "UPRE1RSJW",
+        "ts": "1621054033.047200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t=kZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これ使うと前処理がスムーズに行くけど、ディレクトリを指定するところとか変えないと正しく動かないから参考程度に。あと、分からないことあったら聞いてね。研究室とかで教えることも出来るので。ちなみに今日もいます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620968390.042300",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "1E3799BD-547B-49B9-9352-42F537EFDE69",
+        "type": "message",
+        "text": "いろいろ試してみます！\n最近郡山の実家の方に帰っちゃったんで研究室まで行くのはちょっとキツいです笑",
+        "user": "U01EV766AH2",
+        "ts": "1621054236.048800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b2ff5f8847ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-16\/1503423459234_b2ff5f8847ffb1c6c427_72.png",
+            "first_name": "Keiya",
+            "real_name": "Keiya Azuma",
+            "display_name": "azuma",
+            "team": "TKS1Q2JUE",
+            "name": "s1270107",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UFjDm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いろいろ試してみます！\n最近郡山の実家の方に帰っちゃったんで研究室まで行くのはちょっとキツいです笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620968390.042300",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E56CC1CD-4819-493B-B6B1-68BE58CE2507",
+        "type": "message",
+        "text": "slackとかで質問するので、その時は宜しくお願いします！",
+        "user": "U01EV766AH2",
+        "ts": "1621054274.049800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b2ff5f8847ff",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-16\/1503423459234_b2ff5f8847ffb1c6c427_72.png",
+            "first_name": "Keiya",
+            "real_name": "Keiya Azuma",
+            "display_name": "azuma",
+            "team": "TKS1Q2JUE",
+            "name": "s1270107",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lb7ib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "slackとかで質問するので、その時は宜しくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620968390.042300",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

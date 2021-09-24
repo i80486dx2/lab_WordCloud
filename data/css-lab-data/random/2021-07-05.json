@@ -1,0 +1,295 @@
+[
+    {
+        "client_msg_id": "ad1aa4a8-dfdc-4fb3-a752-38bbb73cfb43",
+        "type": "message",
+        "text": "最近メディアアートやりたい機運がある…",
+        "user": "U01EPKVACEN",
+        "ts": "1625470411.087100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ytoT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最近メディアアートやりたい機運がある…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UPSPAMY7M"
+                ],
+                "count": 2
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U01FP2RDV44"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "トンボ帰りで早稲田に行ってきました〜\n過去問を数年分写してきたので、もし興味がある方いましたらぜひ(まぁまぁむずそう)\n写真は、大塚のおにぎり屋さん、ぼんごのおにぎりです:laughing:",
+        "files": [
+            {
+                "id": "F0279DS807N",
+                "created": 1625486341,
+                "timestamp": 1625486341,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UKUKA65GU",
+                "editable": false,
+                "size": 40696,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0279DS807N\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0279DS807N\/download\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0279DS807N-3428ba88ae\/ios___________64.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0279DS807N-3428ba88ae\/ios___________80.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0279DS807N-3428ba88ae\/ios___________360.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0279DS807N-3428ba88ae\/ios___________480.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0279DS807N-3428ba88ae\/ios___________160.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0279DS807N-3428ba88ae\/ios___________720.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0279DS807N-3428ba88ae\/ios___________800.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0279DS807N-3428ba88ae\/ios___________960.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0279DS807N-3428ba88ae\/ios___________1024.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1024,
+                "original_h": 576,
+                "thumb_tiny": "AwAbADC6eVNQb15wcgVJLJHCu52x6DuaofauoVGK9s0AXmnC228EfXt1qF7xo3CsVOfbp70xJEuLd4xnzMfdPeq7Wcylflzn0PSgC013sk2k7s+3SpFlOJCxBVR6VR+yTF8bfxzxV+GHy4Ap696Qyr9mmlmLyxsB2FWBCw\/gP5VXR2DMNzcE96mLt\/eP51LGhj27+YrKhBB7CrSoccg1XWRzMBuOMetWgOO\/51SEIU+tAUg96fjimmmI\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UKUKA65GU\/F0279DS807N\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0279DS807N-7d9ad0560a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i1n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "トンボ帰りで早稲田に行ってきました〜\n過去問を数年分写してきたので、もし興味がある方いましたらぜひ(まぁまぁむずそう)\n写真は、大塚のおにぎり屋さん、ぼんごのおにぎりです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UKUKA65GU",
+        "display_as_bot": false,
+        "ts": "1625486371.090100",
+        "client_msg_id": "6ED40567-74A8-486A-BA94-AEF18EAEFDD3",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UPSPAP97D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U01EL0SAUTF",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79114E01-B966-44BF-B270-2F1A995AE9FC",
+        "type": "message",
+        "text": "荷物取りに行く程度はするかもですが、1週間程度はラボの滞在を控えます:smiling_face_with_tear:\n院試の方々練習付き合えなくて申し訳ないですが、頑張ってください٩(:fire:⌑ :fire:)ง",
+        "user": "UKUKA65GU",
+        "ts": "1625486424.091900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r0ep",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "荷物取りに行く程度はするかもですが、1週間程度はラボの滞在を控えます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n院試の方々練習付き合えなくて申し訳ないですが、頑張ってください٩("
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            },
+                            {
+                                "type": "text",
+                                "text": "⌑ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")ง"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UPSPAP97D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f528b71-f2a9-4589-a2bf-b1835a5f0789",
+        "type": "message",
+        "text": "途中までしか読んでないけど\nこの点が前から気になってた（芸術作品における受け手から影響できるインタラクション性の捉え方）\n<https:\/\/xtech.nikkei.com\/atcl\/nxt\/column\/18\/00138\/070100832\/?n_cid=nbpnxt_twbn>",
+        "user": "U01EPKVACEN",
+        "ts": "1625488038.093300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01EPKVACEN",
+            "ts": "1625488305.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "日経クロステック（xTECH）",
+                "title": "中途半端な双方向性アートにがっかり、感情推定技術が必要だ",
+                "title_link": "https:\/\/xtech.nikkei.com\/atcl\/nxt\/column\/18\/00138\/070100832\/?n_cid=nbpnxt_twbn",
+                "text": "　「インタラクティブアート」と呼ばれるアートのジャンルがあります。鑑賞者の参加を前提としたアートのことです。絵や彫刻や映画といった昔からあるアートは、鑑賞者が何をしようと何を感じようと、アートそれ自体が変化することがありません。対照的に、インタラクティブアートには双方向性があります。",
+                "fallback": "日経クロステック（xTECH）: 中途半端な双方向性アートにがっかり、感情推定技術が必要だ",
+                "image_url": "https:\/\/xtech.nikkei.com\/atcl\/nxt\/column\/18\/00138\/070100832\/topm.jpg?191024",
+                "from_url": "https:\/\/xtech.nikkei.com\/atcl\/nxt\/column\/18\/00138\/070100832\/?n_cid=nbpnxt_twbn",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 188315,
+                "service_icon": "https:\/\/xtech.nikkei.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/xtech.nikkei.com\/atcl\/nxt\/column\/18\/00138\/070100832\/?n_cid=nbpnxt_twbn"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WL2lg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "途中までしか読んでないけど\nこの点が前から気になってた（芸術作品における受け手から影響できるインタラクション性の捉え方）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/xtech.nikkei.com\/atcl\/nxt\/column\/18\/00138\/070100832\/?n_cid=nbpnxt_twbn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

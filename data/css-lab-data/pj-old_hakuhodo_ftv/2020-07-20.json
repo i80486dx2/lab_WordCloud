@@ -1,0 +1,451 @@
+[
+    {
+        "type": "message",
+        "text": "自分が抜き出したスポットで、両年存在している福島に住んでいる人が10分以上滞在しているところを抜き出してみました。\nカラムは\nuuid,str(year\/month\/day),spot_name,stay_timeです.",
+        "files": [
+            {
+                "id": "F017BBES5HB",
+                "created": 1595232068,
+                "timestamp": 1595232068,
+                "name": "spot_staytime.csv",
+                "title": "spot_staytime.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 4684575,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F017BBES5HB\/spot_staytime.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F017BBES5HB\/download\/spot_staytime.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F017BBES5HB\/spot_staytime.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F017BBES5HB-b43d785298",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3D=Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分が抜き出したスポットで、両年存在している福島に住んでいる人が10分以上滞在しているところを抜き出してみました。\nカラムは\nuuid,str(year\/month\/day),spot_name,stay_timeです."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1595232279.146200",
+        "thread_ts": "1595232279.146200",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1595244171.148600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1595232667.146500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1595232867.146800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1595232941.147000"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1595233121.147300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1595242656.147700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1595243826.148200"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1595244042.148400"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1595244171.148600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595244171.148600",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "446e4dd3-2c48-4a4e-9800-d56581e3f6b5",
+        "type": "message",
+        "text": "<@UQ47R82RW> カラムヘッダがstay_timeとdateが逆かな。stay_timeは分かな？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595232667.146500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1595232685.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A1PCx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " カラムヘッダがstay_timeとdateが逆かな。stay_timeは分かな？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595232279.146200",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "809dd754-647d-4150-bbd0-945199a1e9b9",
+        "type": "message",
+        "text": "逆ですね…あとで再アップします。\nStaytimeは分です",
+        "user": "UQ47R82RW",
+        "ts": "1595232867.146800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVTl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "逆ですね…あとで再アップします。\nStaytimeは分です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595232279.146200",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "6e81a80a-15d4-462f-9563-bde07c84c615",
+        "type": "message",
+        "text": "<@UQ47R82RW> 名寄せ的なこと簡単にできますか？つまり同じ人、同じ日、同じ場所のレコードが複数あるのを、一つのレコードに滞在時間を累積してまとめるような。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595232941.147000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1595232953.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LZkRt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 名寄せ的なこと簡単にできますか？つまり同じ人、同じ日、同じ場所のレコードが複数あるのを、一つのレコードに滞在時間を累積してまとめるような。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595232279.146200",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "b153c299-6501-41ff-8a43-8474d48c1782",
+        "type": "message",
+        "text": "できるはずです。\nあとでやってアップします",
+        "user": "UQ47R82RW",
+        "ts": "1595233121.147300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JI9hd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "できるはずです。\nあとでやってアップします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595232279.146200",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "こんな感じでいいでしょうか？",
+        "files": [
+            {
+                "id": "F017RL7KTL1",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AY4B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんな感じでいいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1595242656.147700",
+        "thread_ts": "1595232279.146200",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "03d9300f-578a-4fb6-9cda-4a1f1a29c4fb",
+        "type": "message",
+        "text": "<@UQ47R82RW> 作ってもらったデータで今すぐ何ができるというわけでもないので時間のあるときでいいんですが、これまだ完全じゃないですね。unique的な処理をする場合はまずsortしないとダメかな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595243826.148200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UsbN4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 作ってもらったデータで今すぐ何ができるというわけでもないので時間のあるときでいいんですが、これまだ完全じゃないですね。unique的な処理をする場合はまずsortしないとダメかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595232279.146200",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "c6642bad-ea44-4ca4-a615-6a6c9da213f3",
+        "type": "message",
+        "text": "sortするの忘れてました。sortしなおして再度上げます",
+        "user": "UQ47R82RW",
+        "ts": "1595244042.148400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8m=\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sortするの忘れてました。sortしなおして再度上げます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595232279.146200",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0182TPRY7J",
+                "created": 1595244168,
+                "timestamp": 1595244168,
+                "name": "spot_sum_staytime.csv",
+                "title": "spot_sum_staytime.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 3084544,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0182TPRY7J\/spot_sum_staytime.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0182TPRY7J\/download\/spot_sum_staytime.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F0182TPRY7J\/spot_sum_staytime.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0182TPRY7J-d98288797f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1595244171.148600",
+        "thread_ts": "1595232279.146200",
+        "parent_user_id": "UQ47R82RW"
+    }
+]

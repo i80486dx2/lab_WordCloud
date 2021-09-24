@@ -1,0 +1,157 @@
+[
+    {
+        "client_msg_id": "fddc1920-8b5a-487c-a622-6e2a303104d9",
+        "type": "message",
+        "text": "<@UPSPAP97D> 可視化情報シンポジウムの準備の方は進んでいますか？どこかで相談が必要なら言ってください。今週木曜と金曜は10:00～17:00にまるっと学務が入っていて、体が空くのは18時以降になります。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1630886848.014600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ftr9d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 可視化情報シンポジウムの準備の方は進んでいますか？どこかで相談が必要なら言ってください。今週木曜と金曜は10:00～17:00にまるっと学務が入っていて、体が空くのは18時以降になります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630886848.014600",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1631070158.015800",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1630903847.014900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1631067302.015400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1631068812.015600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1631070158.015800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1631070158.015800",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e7b17cc-7e0d-4204-b16c-a6ccbc4b1767",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 準備については今のところ、スライドを以下のように作成し、発表練習をしている状態です。\n<https:\/\/docs.google.com\/presentation\/d\/110QnJdVZtyYce-pWvMwWQUa-GxzY3HYYkcej74o7Cys\/edit?usp=sharing>\n\n火曜・水曜・木曜あたりで発表の予行演習をしてアドバイスを貰いたいのですが、お願いできますか？",
+        "user": "UPSPAP97D",
+        "ts": "1630903847.014900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r19vx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 準備については今のところ、スライドを以下のように作成し、発表練習をしている状態です。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/110QnJdVZtyYce-pWvMwWQUa-GxzY3HYYkcej74o7Cys\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n火曜・水曜・木曜あたりで発表の予行演習をしてアドバイスを貰いたいのですが、お願いできますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630886848.014600",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

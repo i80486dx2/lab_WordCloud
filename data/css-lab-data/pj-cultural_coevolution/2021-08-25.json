@@ -1,0 +1,809 @@
+[
+    {
+        "type": "message",
+        "text": "グラフの上がり下がりを確認するために、親自身と、どのscore帯でmatingできたのかをヒストグラムに落としました。次に、それらのヒストグラムを引いた結果を調べました。\n\n結果\n• 外向性が下がる時、親の平均より先端がほんのわずかに左にずれる結果となりました。そして、裾が左に長いこともわかりました。\n結果の手順\n• mating可能な男性と女性がいた時、男性と女性の持つ外向性に該当する区間に生まれた子供の数を足して格納する。\n• 実際にプロットするとき、それぞれの区間に対して子供の数を割って正規化する。\n考察\n• この結果は平均より外向性の低いagentの方が左右にmatingの範囲を伸ばした時、他のagentよりmatingの可能性が高くなったことを示すと思います。\n• 逆に平均、もしくは平均より高いagentは左右に広げたとしても、左側にしか伸ばせないので、mating可能性が減ることを示します。\n問題点として\n• Proportion100の時に先端が左側によっているのはなぜか？\n• グラフの安定後に Proportionがどうなっているのかがよくわからない（時間を長くする）\n• 増える瞬間を見れていない（時系列を細かくして調べる）\n• グラフが階段状になる理由の説明ができていない\n• Productも交えていかないとメカニズムのことは話せない\n最後にグラフを載せます。\ncompare.zipはヒストグラム同士を引いた結果\nzipしてないものはextraversionの推移",
+        "files": [
+            {
+                "id": "F02C6V7Q8ER",
+                "created": 1629885612,
+                "timestamp": 1629885612,
+                "name": "compare.zip",
+                "title": "compare.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 669214,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02C6V7Q8ER\/compare.zip?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02C6V7Q8ER\/download\/compare.zip?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F02C6V7Q8ER\/compare.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02C6V7Q8ER-930e0c1e1c",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F02CZJZCVB2",
+                "created": 1629885621,
+                "timestamp": 1629885621,
+                "name": "ExtraversionLineE.png",
+                "title": "ExtraversionLineE.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 68174,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CZJZCVB2\/extraversionlinee.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02CZJZCVB2\/download\/extraversionlinee.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CZJZCVB2-16fa082da7\/extraversionlinee_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CZJZCVB2-16fa082da7\/extraversionlinee_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CZJZCVB2-16fa082da7\/extraversionlinee_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CZJZCVB2-16fa082da7\/extraversionlinee_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F02CZJZCVB2-16fa082da7\/extraversionlinee_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 640,
+                "original_h": 480,
+                "thumb_tiny": "AwAkADDTJ9qb83qKCc96QDHt+PFAC\/N6j8qPm9R+VKDzg8GloAYSw7j8qcpyKCAetA60AIP606kNJu9QaADHp09KOnTj2NG72P5UZBHIP5UALk\/3fyNA\/Km5Ho1OWgBaTApaKAEIHNIFGMUp6UCgAwM5pQAOlFFAH\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F02CZJZCVB2\/extraversionlinee.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02CZJZCVB2-98ce62edfd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TlA2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "グラフの上がり下がりを確認するために、親自身と、どのscore帯でmatingできたのかをヒストグラムに落としました。次に、それらのヒストグラムを引いた結果を調べました。\n\n結果\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "外向性が下がる時、親の平均より先端がほんのわずかに左にずれる結果となりました。そして、裾が左に長いこともわかりました。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n結果の手順\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "mating可能な男性と女性がいた時、男性と女性の持つ外向性に該当する区間に生まれた子供の数を足して格納する。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "実際にプロットするとき、それぞれの区間に対して子供の数を割って正規化する。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n考察\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "この結果は平均より外向性の低いagentの方が左右にmatingの範囲を伸ばした時、他のagentよりmatingの可能性が高くなったことを示すと思います。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "逆に平均、もしくは平均より高いagentは左右に広げたとしても、左側にしか伸ばせないので、mating可能性が減ることを示します。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n問題点として\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "style": "bullet",
+                        "indent": 0,
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Proportion100の時に先端が左側によっているのはなぜか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "グラフの安定後に Proportionがどうなっているのかがよくわからない（時間を長くする）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "増える瞬間を見れていない（時系列を細かくして調べる）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "グラフが階段状になる理由の説明ができていない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Productも交えていかないとメカニズムのことは話せない"
+                                    }
+                                ]
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n最後にグラフを載せます。\ncompare.zipはヒストグラム同士を引いた結果\nzipしてないものはextraversionの推移"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01F42ZFA73",
+        "ts": "1629885685.035400",
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1629888067.000000"
+        },
+        "thread_ts": "1629885685.035400",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1630075721.021300",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629888593.036300"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629889387.036500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629890356.036700"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629893896.036900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629894492.037300"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629895054.037600"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629897204.037800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629904537.038600"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1629944771.000100"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1630075721.021300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1630075721.021300"
+    },
+    {
+        "client_msg_id": "9c2b0e97-6e36-422d-bd37-940f23e2844e",
+        "type": "message",
+        "text": "<@U01F42ZFA73>\n&gt; compare.zipはヒストグラム同士を引いた結果\nこれは親のヒストグラムと子のヒストグラムをそれぞれ正規化した後に引いていますか？（子の方がたぶん総人口が多いので、正規化しないと増減の区別が難しいと思います）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629888593.036300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zQ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "compare.zipはヒストグラム同士を引いた結果"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これは親のヒストグラムと子のヒストグラムをそれぞれ正規化した後に引いていますか？（子の方がたぶん総人口が多いので、正規化しないと増減の区別が難しいと思います）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629885685.035400",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "f901ed8a-0e52-4bd1-87ce-8242b67595d2",
+        "type": "message",
+        "text": "引く前に正規化してないです。\n正規化のための値は、各々のヒストグラム内の最大値でいいですかね？（山の部分が1になるようにすればいいか？）",
+        "user": "U01F42ZFA73",
+        "ts": "1629889387.036500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2fHG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "引く前に正規化してないです。\n正規化のための値は、各々のヒストグラム内の最大値でいいですかね？（山の部分が1になるようにすればいいか？）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629885685.035400",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "3f881e35-2020-47aa-9056-767f35ffc5dc",
+        "type": "message",
+        "text": "<@U01F42ZFA73> 親なら親の全個体数、子なら子の全個体数で正規化すればよいです（つまり確率分布を作る）。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629890356.036700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQc3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 親なら親の全個体数、子なら子の全個体数で正規化すればよいです（つまり確率分布を作る）。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629885685.035400",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 正規化しました。グラフを送ります。\n\n修正していて処理自体が怪しいのではないかと思いました。処理の時、matingが可能=&gt;maleが持つ外向性の区間に+3,femaleがもつ外向性の区間に+3をしていました。これは、あまりグラフの上がる下がるを調べるにおいて正確な処理でない気がします。かといって、どちらか一方にプラスをするのもおかしい気がします。",
+        "files": [
+            {
+                "id": "F02D01PT9LG",
+                "created": 1629893500,
+                "timestamp": 1629893500,
+                "name": "compare2.zip",
+                "title": "compare2.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 708807,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02D01PT9LG\/compare2.zip?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F02D01PT9LG\/download\/compare2.zip?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F02D01PT9LG\/compare2.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F02D01PT9LG-b90c82d6a2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfKD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 正規化しました。グラフを送ります。\n\n修正していて処理自体が怪しいのではないかと思いました。処理の時、matingが可能=>maleが持つ外向性の区間に+3,femaleがもつ外向性の区間に+3をしていました。これは、あまりグラフの上がる下がるを調べるにおいて正確な処理でない気がします。かといって、どちらか一方にプラスをするのもおかしい気がします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01F42ZFA73",
+        "display_as_bot": false,
+        "ts": "1629893896.036900",
+        "thread_ts": "1629885685.035400",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "1144a25f-46ac-4f4e-8283-c14c605a372f",
+        "type": "message",
+        "text": "<@U01F42ZFA73>\n&gt; matingが可能=&gt;maleが持つ外向性の区間に+3,femaleがもつ外向性の区間に+3\nこれは別におかしくはないね。父母両方に同じ重みを加えるのであってます。最終的に全個体数で規格化して確率分布にするなら、親世代と子世代の比較も問題なし。\n\n図を見てちょっと違和感を覚えたのは、多くの世代で分布の両端が負になること。「親世代の確率分布－子世代の確率分布」でしょうか？であれば、分布の端の個体が子供をたくさん残してるということになるけど。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629894492.037300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1629894500.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PFFYj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "matingが可能=>maleが持つ外向性の区間に+3,femaleがもつ外向性の区間に+3"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これは別におかしくはないね。父母両方に同じ重みを加えるのであってます。最終的に全個体数で規格化して確率分布にするなら、親世代と子世代の比較も問題なし。\n\n図を見てちょっと違和感を覚えたのは、多くの世代で分布の両端が負になること。「親世代の確率分布－子世代の確率分布」でしょうか？であれば、分布の端の個体が子供をたくさん残してるということになるけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629885685.035400",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "57f5162d-1b3c-472a-9f79-7cef7e64371d",
+        "type": "message",
+        "text": "子供-親にしてます。そうなると、端の個体がmatingできてないことになります。",
+        "user": "U01F42ZFA73",
+        "ts": "1629895054.037600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8xz\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "子供-親にしてます。そうなると、端の個体がmatingできてないことになります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629885685.035400",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "1277962f-c43c-40fd-b8c4-b0d22d8c1a83",
+        "type": "message",
+        "text": "左側になぜ、matingができないagentがいるかについてです。\n直感ですけど、左側に位置するagentはmatingができない気がします。\n\n仮定として、trueの分布をそのまま左にずらしたものをmaniになるとします(左のagentが持つmani&lt;中のagentが持つmaniが必ず成立することを仮定する)。\n\nこの時、左のagentが持つtrueは中のagentが持つmaniに近いので、matingの確率が高いです。しかし、中のagentが持つtrueは左のagentが持つmaniと遠いのでmatingの確率が低くなります。\n\n右の子供の場合、中のagentが持つmaniと遠いのでmatingの確率が低くなります。\n\nただ、仮定としておいたtrueの分布をそのまま左にずらせない場合があります。例えば、曲線が潰れて直線上（下限に到達した）になることが挙げられます。この場合、左側のagentはmatingの確率が上がるでしょう。（maniが下限に到達した時、分散が大きくなるのはそのせいかもしれない）しかし、右側の子たちは距離が遠いままなので、matingが不可能になります。\n\n他に仮定として考えられる点として\n• 上限が原因で右側に直線上のものができた時はどうなるのか？（対称性から説明できそう）\n• 右側にそのまま移動させたらどうなるのか？（対称性から説明できそう）\n• 上限、下限関係なしに直線上になったらどうなるのか？（未検証）\nが挙げられます。\n\n結論として、\n分布をそのまま左へと移動できる場合、\n中のagentがmating確率が高くなり\n端のagentはmatingの確率が低くなると思います。",
+        "user": "U01F42ZFA73",
+        "ts": "1629897204.037800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1629898537.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HTB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "左側になぜ、matingができないagentがいるかについてです。\n直感ですけど、左側に位置するagentはmatingができない気がします。\n\n仮定として、trueの分布をそのまま左にずらしたものをmaniになるとします(左のagentが持つmani<中のagentが持つmaniが必ず成立することを仮定する)。\n\nこの時、左のagentが持つtrueは中のagentが持つmaniに近いので、matingの確率が高いです。しかし、中のagentが持つtrueは左のagentが持つmaniと遠いのでmatingの確率が低くなります。\n\n右の子供の場合、中のagentが持つmaniと遠いのでmatingの確率が低くなります。\n\nただ、仮定としておいたtrueの分布をそのまま左にずらせない場合があります。例えば、曲線が潰れて直線上（下限に到達した）になることが挙げられます。この場合、左側のagentはmatingの確率が上がるでしょう。（maniが下限に到達した時、分散が大きくなるのはそのせいかもしれない）しかし、右側の子たちは距離が遠いままなので、matingが不可能になります。\n\n他に仮定として考えられる点として\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "上限が原因で右側に直線上のものができた時はどうなるのか？（対称性から説明できそう）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "右側にそのまま移動させたらどうなるのか？（対称性から説明できそう）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "上限、下限関係なしに直線上になったらどうなるのか？（未検証）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "が挙げられます。\n\n結論として、\n分布をそのまま左へと移動できる場合、\n中のagentがmating確率が高くなり\n端のagentはmatingの確率が低くなると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629885685.035400",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "e76c6270-8298-4263-b6a9-c79ddd2ccf4a",
+        "type": "message",
+        "text": "&gt; 分布をそのまま左へと移動できる場合、\nこれがいえるのはプロダクトがある値に集中するような場合ですね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1629904537.038600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1629904554.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ASRs",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "分布をそのまま左へと移動できる場合、"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これがいえるのはプロダクトがある値に集中するような場合ですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629885685.035400",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "fb26b843-aa7d-47ee-bb81-8e76a747850c",
+        "type": "message",
+        "text": "`プロダクトがある値に集中するような場合`\n購入前後のproductが持つ確率分布を引いたものを見れば良さそうな気がします。おそらく、ある値に集中する=&gt;確率分布の差がx=0に対して平行になるでしょう。",
+        "user": "U01F42ZFA73",
+        "ts": "1629944771.000100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "szuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロダクトがある値に集中するような場合",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n購入前後のproductが持つ確率分布を引いたものを見れば良さそうな気がします。おそらく、ある値に集中する=>確率分布の差がx=0に対して平行になるでしょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629885685.035400",
+        "parent_user_id": "U01F42ZFA73"
+    }
+]

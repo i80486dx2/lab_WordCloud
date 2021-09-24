@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "78056d38-775c-49d4-9a84-8a661500eee1",
+        "type": "message",
+        "text": "１回の利用で３０kmなので何人で乗っても30kmは無料だそうです。参考に喜多方まで往復４２km、ラーメンを食べて帰ってくると80円くらいですw",
+        "user": "UPSPAMY7M",
+        "ts": "1573256502.009100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1573193035.008500",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

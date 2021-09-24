@@ -1,0 +1,492 @@
+[
+    {
+        "client_msg_id": "691107cb-fd8f-483e-ad4c-28dfb4653b88",
+        "type": "message",
+        "text": "<https:\/\/blog.ikedaosushi.com\/entry\/2020\/07\/26\/173109>\n\npandasの一部の高速化だそうです。\nまだ使ってないけど、一応共有します",
+        "user": "UKH07E67M",
+        "ts": "1595931956.040000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "フリーランチ食べたい",
+                "title": "たった数行でpandasを高速化する2つのライブラリ(pandarallel\/swifter) - フリーランチ食べたい",
+                "title_link": "https:\/\/blog.ikedaosushi.com\/entry\/2020\/07\/26\/173109",
+                "text": "pandas はデータ解析やデータ加工に非常に便利なPythonライブラリですが、並列化されている処理とされていない処理があり、注意が必要です。例えば pd.Sereis.__add__ のようなAPI(つまり df['a'] + df['b'] のような処理です)は処理が numpy に移譲されているためPythonのGILの影響を受けずに並列化されますが、 padas.DataFrame.apply などのメソッドはPythonのみで実装されているので並列化されません。 処理によってはそこがボトルネックになるケースもあります。今回は「ほぼimportするだけ」で pandas の並列化され…",
+                "fallback": "フリーランチ食べたい: たった数行でpandasを高速化する2つのライブラリ(pandarallel\/swifter) - フリーランチ食べたい",
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/m\/mergyi\/20200726\/20200726173057.png",
+                "ts": 1595752269,
+                "from_url": "https:\/\/blog.ikedaosushi.com\/entry\/2020\/07\/26\/173109",
+                "image_width": 515,
+                "image_height": 250,
+                "image_bytes": 65283,
+                "service_icon": "https:\/\/cdn.image.st-hatena.com\/image\/apple_touch_icon\/c88beb4b41a96dfe12a34e3f0f06e8697185a71e\/version=1\/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fblog_custom_icon%2F111370281%2F1532475576431570",
+                "id": 1,
+                "original_url": "https:\/\/blog.ikedaosushi.com\/entry\/2020\/07\/26\/173109"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A+ne",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.ikedaosushi.com\/entry\/2020\/07\/26\/173109"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\npandasの一部の高速化だそうです。\nまだ使ってないけど、一応共有します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931956.040000",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1595943010.043600",
+        "reply_users": [
+            "UQ47R82RW",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1595932032.040200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1595934728.040500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1595942636.040800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1595942935.041400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1595942940.041700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1595942952.042300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1595942979.042500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1595942990.042900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1595943010.043600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82f21067-c856-4c7b-bb6c-1c63244f1b5f",
+        "type": "message",
+        "text": "イイね！spotdataの適用に使ってみる",
+        "user": "UQ47R82RW",
+        "ts": "1595932032.040200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LHzz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "イイね！spotdataの適用に使ってみる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931956.040000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "d93eab4c-5e68-4612-97ab-9640a72a5664",
+        "type": "message",
+        "text": "おうさ！",
+        "user": "UKH07E67M",
+        "ts": "1595934728.040500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBFK0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おうさ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931956.040000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "b5dd4920-c344-49f9-be19-6e5f80497c37",
+        "type": "message",
+        "text": "numpyだとパラレル処理に勝手になるって書いてあったから今まで処理で一部pandas使ってたとこをnumpyにしたら処理時間が1\/90になった…:innocent:\nnumpyは偉大",
+        "user": "UQ47R82RW",
+        "ts": "1595942636.040800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1595942653.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mxt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "numpyだとパラレル処理に勝手になるって書いてあったから今まで処理で一部pandas使ってたとこをnumpyにしたら処理時間が1\/90になった…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nnumpyは偉大"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931956.040000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "D22A194E-4FB9-47CD-85BF-47D48847FFE1",
+        "type": "message",
+        "text": "はああああああ！？！？！？！？",
+        "user": "UKH07E67M",
+        "ts": "1595942935.041400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wcJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はああああああ！？！？！？！？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931956.040000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "8B6D689C-BCD2-4068-A0AF-A36469E7274D",
+        "type": "message",
+        "text": "まじか",
+        "user": "UKH07E67M",
+        "ts": "1595942940.041700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mSM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まじか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931956.040000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "0223EF2C-C1AA-44F8-B73C-B94E6E98B7CB",
+        "type": "message",
+        "text": "てか使えるやつでよかった………",
+        "user": "UKH07E67M",
+        "ts": "1595942952.042300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "てか使えるやつでよかった………"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931956.040000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "5ea032bd-b848-4a96-a321-461ce4b69e6c",
+        "type": "message",
+        "text": "ごめん、numpy直しただけで上のは使えてない",
+        "user": "UQ47R82RW",
+        "ts": "1595942979.042500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x4snz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめん、numpy直しただけで上のは使えてない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931956.040000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "CBF1410E-52CC-48FA-B4B7-F303E5B0E332",
+        "type": "message",
+        "text": "ああおけおけ",
+        "user": "UKH07E67M",
+        "ts": "1595942990.042900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LvK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ああおけおけ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931956.040000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "84303A9C-84EC-483C-8148-205BF3031651",
+        "type": "message",
+        "text": "おれもnumpy使うようにしよ……",
+        "user": "UKH07E67M",
+        "ts": "1595943010.043600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cOwC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おれもnumpy使うようにしよ……"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931956.040000",
+        "parent_user_id": "UKH07E67M"
+    }
+]

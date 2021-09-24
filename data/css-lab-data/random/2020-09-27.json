@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "8715AB4D-44D9-4CDF-AF63-7F06918D2654",
+        "type": "message",
+        "text": "すいません今回は自分はパスでお願いします:man-bowing:",
+        "user": "UKUKA65GU",
+        "ts": "1601210943.003900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tw9zU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません今回は自分はパスでお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600862570.005500",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88dc5331-0abd-46d5-9e6f-d293d9affb3d",
+        "type": "message",
+        "text": "<@UPRE1RSJW> <@UKH07E67M> 明日（9\/29火）の予定だけど、会津を10:30出発、11:30に郡山で助川君をピックアップ、仙台の司本店に13:00到着、という感じでどうですか。蒼紫君はセブンまで迎えに行ってあげます。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1601265125.004200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日（9\/29火）の予定だけど、会津を10:30出発、11:30に郡山で助川君をピックアップ、仙台の司本店に13:00到着、という感じでどうですか。蒼紫君はセブンまで迎えに行ってあげます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600862570.005500",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UKH07E67M",
+                    "UPRE1RSJW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

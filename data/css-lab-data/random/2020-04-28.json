@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "b97dc0ec-5f57-461e-a563-5e6cdc62307c",
+        "type": "message",
+        "text": "この前ゼミで \"I stopped to watch the movie.\" と \"I stopped watching the movie.\" のニュアンスの違いの話したけれど、DeepLに入れてみたらどちらも同じ「映画を観るのをやめた」になっていたｗ　でもmirai翻訳の方はちゃんと区別してました。\n<https:\/\/www.deepl.com\/translator#en\/ja\/I%20stopped%20to%20watch%20the%20movie.%20I%20stopped%20watching%20the%20movie>.\n<https:\/\/miraitranslate.com\/trial\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1588078618.011000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "DeepL Translator",
+                "title_link": "https:\/\/www.deepl.com\/translator#en\/ja\/I%20stopped%20to%20watch%20the%20movie.%20I%20stopped%20watching%20the%20movie",
+                "text": "Use the free DeepL Translator to translate your texts with the best machine translation available, powered by DeepL’s world-leading neural network technology. Currently supported languages are English, German, French, Spanish, Portuguese, Italian, Dutch, Polish, Russian, Japanese, and Chinese.",
+                "fallback": "DeepL Translator",
+                "image_url": "https:\/\/www.DeepL.com\/img\/favicon\/deepl_logo_600_300.png",
+                "from_url": "https:\/\/www.deepl.com\/translator#en\/ja\/I%20stopped%20to%20watch%20the%20movie.%20I%20stopped%20watching%20the%20movie",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 13903,
+                "service_icon": "https:\/\/www.deepl.com\/img\/apple-touch-icon.png",
+                "service_name": "deepl.com",
+                "id": 1,
+                "original_url": "https:\/\/www.deepl.com\/translator#en\/ja\/I%20stopped%20to%20watch%20the%20movie.%20I%20stopped%20watching%20the%20movie"
+            },
+            {
+                "title": "お試し翻訳 | みらい翻訳 | イノベーティブな機械翻訳",
+                "title_link": "https:\/\/miraitranslate.com\/trial\/",
+                "text": "機械翻訳の新しい常識を作る「翻訳A.I.」。みらい翻訳なら、実用的な翻訳技術で、あなたのビジネスにイノベーションを起こします。",
+                "fallback": "お試し翻訳 | みらい翻訳 | イノベーティブな機械翻訳",
+                "from_url": "https:\/\/miraitranslate.com\/trial\/",
+                "service_icon": "https:\/\/miraitranslate.com\/common\/images\/favicon.ico",
+                "service_name": "miraitranslate.com",
+                "id": 2,
+                "original_url": "https:\/\/miraitranslate.com\/trial\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "khe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この前ゼミで \"I stopped to watch the movie.\" と \"I stopped watching the movie.\" のニュアンスの違いの話したけれど、DeepLに入れてみたらどちらも同じ「映画を観るのをやめた」になっていたｗ　でもmirai翻訳の方はちゃんと区別してました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.deepl.com\/translator#en\/ja\/I%20stopped%20to%20watch%20the%20movie.%20I%20stopped%20watching%20the%20movie"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/miraitranslate.com\/trial\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588078618.011000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1588084219.012700",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1588083526.012500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1588084219.012700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1588084219.012700",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EC31C3C8-1A8B-4743-8F8B-0D4F6D0DD7F9",
+        "type": "message",
+        "text": "miraiは日本のやつだからそこのところも対応してるんでしょうかね",
+        "user": "UKH07E67M",
+        "ts": "1588083526.012500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhE\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "miraiは日本のやつだからそこのところも対応してるんでしょうかね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588078618.011000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "a05a9bc2-9e78-4506-abcc-1e2ceebe36e1",
+        "type": "message",
+        "text": "ほんとだ。同じ英文をドイツ語に翻訳したらちゃんと違う意味で訳してた。日本語の訳が変なんだね。でもmirai翻訳が日本製だからちゃんとしてるのかというと、そこはよくわからないけど。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1588084219.012700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GKvns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ほんとだ。同じ英文をドイツ語に翻訳したらちゃんと違う意味で訳してた。日本語の訳が変なんだね。でもmirai翻訳が日本製だからちゃんとしてるのかというと、そこはよくわからないけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588078618.011000",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "client_msg_id": "6581479a-e2a0-4c96-a4ea-d2d4aa5c69a3",
+        "type": "message",
+        "text": "IVRCの説明会です\n<https:\/\/ivrc.net\/2021\/orientation\/>",
+        "user": "U01EPKVACEN",
+        "ts": "1618044923.035100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Interverse Virtual Reality Challenge",
+                "title_link": "https:\/\/ivrc.net\/2021\/orientation\/",
+                "text": "IVRCは学生を中心としたチームでインタラクティブ作品を企画・制作するチャレンジです。",
+                "fallback": "Interverse Virtual Reality Challenge",
+                "image_url": "http:\/\/ivrc.net\/2021\/wp-content\/uploads\/2021\/03\/IVRC2021_visual.png",
+                "from_url": "https:\/\/ivrc.net\/2021\/orientation\/",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 38766,
+                "service_icon": "https:\/\/ivrc.net\/2021\/wp-content\/uploads\/2021\/03\/icon-230x230.png",
+                "service_name": "ivrc.net",
+                "id": 1,
+                "original_url": "https:\/\/ivrc.net\/2021\/orientation\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0PIu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IVRCの説明会です\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ivrc.net\/2021\/orientation\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0124b141-e96f-45da-9bd4-30dc7d239704",
+        "type": "message",
+        "text": "音声合成の自作について気になり調べてみたら\"tacotron2\"というのがあるらしい。\nすごさはこの人のが一番わかりやすいかも。\n<https:\/\/shirowanisan.com\/entry\/2020\/12\/28\/141828|https:\/\/shirowanisan.com\/entry\/2020\/12\/28\/141828>",
+        "user": "UQ47R82RW",
+        "ts": "1618061746.035300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "シロワニさんの機械学習ブログ",
+                "title": "機械学習で美少女の合成音声を自作する - シロワニさんの機械学習ブログ",
+                "title_link": "https:\/\/shirowanisan.com\/entry\/2020\/12\/28\/141828",
+                "text": "はじめに 以下のような、アニメ風の合成音声を自作する方法を記述します。 「今日はいい天気ですね。」 使った技術 今回はTacotron2という技術を使いました。Tacotron2に関しては以下で説明しています。 Tacotron2による音声合成を体験する - シロワニさんの機械学習ブログ データセット 学習のために、アニメ風の音声を535用意しまいした。そのうち500を訓練、35を検証に分割しています。 項目 数 train 500 val 35 学習の工夫（転移学習） Tacotron2を0から学習させようとすると、5000程度の音声を必要とするように思います（筆者の体感）。しかし、目標とす…",
+                "fallback": "シロワニさんの機械学習ブログ: 機械学習で美少女の合成音声を自作する - シロワニさんの機械学習ブログ",
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/s\/shirowanisan\/20201228\/20201228142209.png",
+                "ts": 1609132708,
+                "from_url": "https:\/\/shirowanisan.com\/entry\/2020\/12\/28\/141828",
+                "image_width": 442,
+                "image_height": 250,
+                "image_bytes": 861405,
+                "service_icon": "https:\/\/shirowanisan.com\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/shirowanisan.com\/entry\/2020\/12\/28\/141828"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DwW40",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "音声合成の自作について気になり調べてみたら\"tacotron2\"というのがあるらしい。\nすごさはこの人のが一番わかりやすいかも。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shirowanisan.com\/entry\/2020\/12\/28\/141828",
+                                "text": "https:\/\/shirowanisan.com\/entry\/2020\/12\/28\/141828"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618061746.035300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1618061893.035500",
+        "reply_users": [
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1618061893.035500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U01EPKVACEN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "260a7c1d-7306-44dd-84a3-ecdbfd0b062d",
+        "type": "message",
+        "text": "<https:\/\/engineer.dena.com\/posts\/2020.03\/speech-synthesis-for-entertainment\/|https:\/\/engineer.dena.com\/posts\/2020.03\/speech-synthesis-for-entertainment\/>\nお金をかけてデータを集めると正直ほとんど人と変わらなくなるんだなぁ",
+        "user": "UQ47R82RW",
+        "ts": "1618061893.035500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "エンタメ活用へ向けたAIによる音声生成（Part1） · DeNA Engineers' Blog",
+                "title_link": "https:\/\/engineer.dena.com\/posts\/2020.03\/speech-synthesis-for-entertainment\/",
+                "text": "はじめまして、AI システム部の森紘一郎です。音声チームにおいて音声合成をはじめとする音声技術に関する研究開発を担当しています。本記事では、TechCon2020で発表予定だった内容についてブログ記事にまとめました。 このPart1の記事では音声合成に関する取り組みについて紹介します。また、 Part2の記事 では音声変換に関する取り組みについて紹介します。 音声合成のデモはこちらから確認できます。 概要 バー",
+                "fallback": "エンタメ活用へ向けたAIによる音声生成（Part1） · DeNA Engineers' Blog",
+                "image_url": "https:\/\/engineer.dena.com\/posts\/2020.03\/speech-synthesis-for-entertainment\/og.png",
+                "from_url": "https:\/\/engineer.dena.com\/posts\/2020.03\/speech-synthesis-for-entertainment\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 40675,
+                "service_icon": "https:\/\/engineer.dena.com\/common\/favicon.ico",
+                "service_name": "engineer.dena.com",
+                "id": 1,
+                "original_url": "https:\/\/engineer.dena.com\/posts\/2020.03\/speech-synthesis-for-entertainment\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBgW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/engineer.dena.com\/posts\/2020.03\/speech-synthesis-for-entertainment\/",
+                                "text": "https:\/\/engineer.dena.com\/posts\/2020.03\/speech-synthesis-for-entertainment\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお金をかけてデータを集めると正直ほとんど人と変わらなくなるんだなぁ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1618061746.035300",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1D6C3318-BCFA-4843-9C95-551C7D5EF046",
+        "type": "message",
+        "text": "ラボにある電気ポットですが、今日の夕方クエン酸で洗浄をし1度すすいだ後に普通の水を沸騰させた状態で置いてきてしまいました。(ただの水の状態で入っています)\n洗浄中の付箋が貼ってありますが、明日以降で使う方はゆすいで使って頂ければ大丈夫ですので、使う方いたらゆすいで付箋を外して使ってください:pray::pray::pray:",
+        "user": "UKUKA65GU",
+        "ts": "1618064247.039100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RsE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ラボにある電気ポットですが、今日の夕方クエン酸で洗浄をし1度すすいだ後に普通の水を沸騰させた状態で置いてきてしまいました。(ただの水の状態で入っています)\n洗浄中の付箋が貼ってありますが、明日以降で使う方はゆすいで使って頂ければ大丈夫ですので、使う方いたらゆすいで付箋を外して使ってください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M",
+                    "UPSPAP97D",
+                    "U01EVRBP38C"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "249cf666-376a-419d-ad10-c697d5b548ec",
+        "type": "message",
+        "text": "<@UQ47R82RW> 面白いねw",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618107348.039400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "efST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 面白いねw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617873572.032200",
+        "parent_user_id": "UQ47R82RW"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "type": "message",
+        "text": "自動車を取り巻く環境の推定のために今週はずっとフロントカメラの画像認識をやってました。\n[1] PyTorchを使ってYOLOv3で物体検出をしました。\n<https:\/\/github.com\/ayooshkathuria\/pytorch-yolo-v3>\n[2] マルチクラスセグメンテーション\n <https:\/\/qiita.com\/nigo1973\/items\/c62578fccc7230ba48f8>\n\n[1]はgitの通りに環境構築して、実際のシェアカーの映像を使ってみました。オブジェクトトラッキングなどは別に実装する必要がありそうです。\n\n[2]  qitaの記事の通り実装後、多少改良しました。画像をピクセルごとに分類する性質からこっちの方が、視界に占める情報の占有率がカテゴリごとに可視化出来る気がしてします。",
+        "files": [
+            {
+                "id": "F026348LRLM",
+                "created": 1624603499,
+                "timestamp": 1624603499,
+                "name": "frontCamera_objectDetection2.png",
+                "title": "frontCamera_objectDetection2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 323718,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026348LRLM\/frontcamera_objectdetection2.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026348LRLM\/download\/frontcamera_objectdetection2.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026348LRLM-ef84ed2ddd\/frontcamera_objectdetection2_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026348LRLM-ef84ed2ddd\/frontcamera_objectdetection2_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026348LRLM-ef84ed2ddd\/frontcamera_objectdetection2_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 199,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026348LRLM-ef84ed2ddd\/frontcamera_objectdetection2_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 265,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026348LRLM-ef84ed2ddd\/frontcamera_objectdetection2_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 641,
+                "original_h": 354,
+                "thumb_tiny": "AwAaADB7npRGeahDsTzg4qSJsdfSmInpu758dqAQR1H41CW\/fcnigCckDvTGPy5pCw+tRMSwxQA0Yx0pwIxgKfxpqcgZqQAegpAN+X+5mkx6YFS4pMD0oC4zPFKvIJ71FOSBwSKWL09qYH\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F026348LRLM\/frontcamera_objectdetection2.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F026348LRLM-2553d4a649",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F025ZCENC6S",
+                "created": 1624603501,
+                "timestamp": 1624603501,
+                "name": "frontCamera_objectDetection.png",
+                "title": "frontCamera_objectDetection.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 302195,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F025ZCENC6S\/frontcamera_objectdetection.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F025ZCENC6S\/download\/frontcamera_objectdetection.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025ZCENC6S-b9fc7d7c65\/frontcamera_objectdetection_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025ZCENC6S-b9fc7d7c65\/frontcamera_objectdetection_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025ZCENC6S-b9fc7d7c65\/frontcamera_objectdetection_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 197,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025ZCENC6S-b9fc7d7c65\/frontcamera_objectdetection_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 263,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025ZCENC6S-b9fc7d7c65\/frontcamera_objectdetection_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "original_w": 630,
+                "original_h": 345,
+                "thumb_tiny": "AwAaADCwJBjnrTlcN7VWLc05ZAvJ+lAizmkJ4OOtRBwQD\/SkZ1xg5xTAN+DxTJMH601mB5Wo9xc9ccUh2HKcelHOeAKQAelOUUCA464BpMcHgZNSYHpQAPSgCHOBT4zkHNJPwpxxTLemB\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F025ZCENC6S\/frontcamera_objectdetection.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F025ZCENC6S-579f09d1a7",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F025REL1VU7",
+                "created": 1624604633,
+                "timestamp": 1624604633,
+                "name": "complexity_road.png",
+                "title": "complexity_road.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 126879,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F025REL1VU7\/complexity_road.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F025REL1VU7\/download\/complexity_road.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025REL1VU7-594196ce82\/complexity_road_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025REL1VU7-594196ce82\/complexity_road_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025REL1VU7-594196ce82\/complexity_road_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 288,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025REL1VU7-594196ce82\/complexity_road_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 384,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025REL1VU7-594196ce82\/complexity_road_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025REL1VU7-594196ce82\/complexity_road_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 576,
+                "original_w": 720,
+                "original_h": 576,
+                "thumb_tiny": "AwAmADChBEZpljBAJ7mrH9nn\/nqv5Gmaf\/x+x\/j\/ACNafWk3YNTPFhnpMv8A3yaBp5PSZT+BrQ2n1oCnHJx9KXOh2ZQOnkf8tV\/I1FJaMkyRhgS4yDzWptzwTxVa4GL63A\/u\/wCNClcVn1Kunf8AH7H+P8jWpkCsrT\/+PxPx\/katPIXIPSrUUxOXKW80ZFUgxGcHrSpIUIxziq5ETzsstKq8VS1Bz5sLqSDs4\/M08kkknvUN\/wD8sf8Arn\/U0mkkCk2ysrMjblJBHcUvmP8A3j+dNoqSx3mP\/eP50eY\/94\/nTaKdxWHeY\/8AeP50jOz43MTgYGaSikM\/\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F025REL1VU7\/complexity_road.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F025REL1VU7-48b3487511",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F026CCJTQ68",
+                "created": 1624604698,
+                "timestamp": 1624604698,
+                "name": "segumentation_result.mp4",
+                "title": "segumentation_result.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 14911528,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026CCJTQ68\/segumentation_result.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F026CCJTQ68\/download\/segumentation_result.mp4?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F026CCJTQ68-ea7b88c15d\/segumentation_result_thumb_video.jpeg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_video_w": 400,
+                "thumb_video_h": 400,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F026CCJTQ68\/segumentation_result.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F026CCJTQ68-03221ca1a3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HnWwo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自動車を取り巻く環境の推定のために今週はずっとフロントカメラの画像認識をやってました。\n[1] PyTorchを使ってYOLOv3で物体検出をしました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ayooshkathuria\/pytorch-yolo-v3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n[2] マルチクラスセグメンテーション\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/nigo1973\/items\/c62578fccc7230ba48f8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n[1]はgitの通りに環境構築して、実際のシェアカーの映像を使ってみました。オブジェクトトラッキングなどは別に実装する必要がありそうです。\n\n[2]  qitaの記事の通り実装後、多少改良しました。画像をピクセルごとに分類する性質からこっちの方が、視界に占める情報の占有率がカテゴリごとに可視化出来る気がしてします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1624604732.046100",
+        "thread_ts": "1624604732.046100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1625105320.047400",
+        "reply_users": [
+            "UPSPAMY7M",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1624938965.047000"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1625014009.047200"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1625105320.047400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

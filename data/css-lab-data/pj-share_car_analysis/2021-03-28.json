@@ -1,0 +1,449 @@
+[
+    {
+        "client_msg_id": "8ecabeca-3dd2-4b19-96a2-4078fc9f7094",
+        "type": "message",
+        "text": "<@UPRE1RSJW> お疲れ様です。集計中だと思うんですが、途中結果でいいので明日あたりにデータ数増やした結果（ネットワーク分析とサンキーダイヤグラム）って見せてもらうってできますか？",
+        "user": "UPSPAMY7M",
+        "ts": "1616976971.007700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfQEl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です。集計中だと思うんですが、途中結果でいいので明日あたりにデータ数増やした結果（ネットワーク分析とサンキーダイヤグラム）って見せてもらうってできますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ネットワーク分析はまだやってませんが、サンキーダイアグラムとkeplerではまとめてました。",
+        "files": [
+            {
+                "id": "F01SUGTCH1S",
+                "created": 1616977531,
+                "timestamp": 1616977531,
+                "name": "kepler.gl (1).html",
+                "title": "kepler.gl (1).html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "UPRE1RSJW",
+                "editable": true,
+                "size": 426755,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01SUGTCH1S\/kepler.gl__1_.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01SUGTCH1S\/download\/kepler.gl__1_.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01SUGTCH1S\/kepler.gl__1_.html",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01SUGTCH1S-d46a15defb",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01SUGTCH1S\/kepler.gl__1_.html\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01SNJ7UE83",
+                "created": 1616977543,
+                "timestamp": 1616977543,
+                "name": "sankey2.png",
+                "title": "sankey2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 694493,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01SNJ7UE83\/sankey2.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01SNJ7UE83\/download\/sankey2.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SNJ7UE83-5faaec3be1\/sankey2_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SNJ7UE83-5faaec3be1\/sankey2_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SNJ7UE83-5faaec3be1\/sankey2_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 143,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SNJ7UE83-5faaec3be1\/sankey2_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 190,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SNJ7UE83-5faaec3be1\/sankey2_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SNJ7UE83-5faaec3be1\/sankey2_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 286,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SNJ7UE83-5faaec3be1\/sankey2_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 317,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SNJ7UE83-5faaec3be1\/sankey2_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 381,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01SNJ7UE83-5faaec3be1\/sankey2_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 406,
+                "original_w": 1910,
+                "original_h": 758,
+                "thumb_tiny": "AwATADDSbgEigdKGGVIqJQpALHnvk0ASg5paiABB6dfWl5zxigCSimDdjqKcoIGDQAtJgegpaKAE2j0FGB6ClooAMD0ooooA\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01SNJ7UE83\/sankey2.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01SNJ7UE83-c35bc7ff44",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ネットワーク分析はまだやってませんが、サンキーダイアグラムとkeplerではまとめてました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1616977618.009400",
+        "thread_ts": "1616977618.009400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1616980202.013300",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1616980202.013300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1616980202.013300"
+    },
+    {
+        "client_msg_id": "1d0efa0f-0c48-4747-a06b-352f356db7f5",
+        "type": "message",
+        "text": "会津若松市内かどうかの判定がうまくいってないですけど、結果はそんなに変わらなかったです。",
+        "user": "UPRE1RSJW",
+        "ts": "1616977701.010700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9GL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "会津若松市内かどうかの判定がうまくいってないですけど、結果はそんなに変わらなかったです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "838b81c2-dacd-4d51-95ea-9ff25275d5cc",
+        "type": "message",
+        "text": "<@UPRE1RSJW> なるほど、ちょっと見てみます。３１日で年度終わるので途中結果をアルパインと共有しようと思います。",
+        "user": "UPSPAMY7M",
+        "ts": "1616978070.011300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iOC0d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " なるほど、ちょっと見てみます。３１日で年度終わるので途中結果をアルパインと共有しようと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "946fdbf3-a6d0-468c-9c12-90492a4136fc",
+        "type": "message",
+        "text": "<@UPRE1RSJW> このサンキーダイアグラム、不思議な形してるけど、グラフデータを何かのライブラリに突っ込んだだけですか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1616978429.012300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AS7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " このサンキーダイアグラム、不思議な形してるけど、グラフデータを何かのライブラリに突っ込んだだけですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96DBA2A6-8A7B-4CC4-A1C9-913C11F01F5A",
+        "type": "message",
+        "text": "plotlyというライブラリーを使ってます",
+        "user": "UPRE1RSJW",
+        "ts": "1616978618.012800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qy0dQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plotlyというライブラリーを使ってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09510c1a-bc57-4cfd-b113-2d0bd04bf536",
+        "type": "message",
+        "text": "<@UPRE1RSJW> <@UPSPAMY7M> 同じ区画に複数の施設がある場合は、さらに区画を細かく分けるとよいと思います。たぶん自動化できるはず、と思って調べたら、こんな議論がありました。\n<https:\/\/datascience.stackexchange.com\/questions\/761\/clustering-geo-location-coordinates-lat-long-pairs>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1616980071.013000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Data Science Stack Exchange",
+                "title": "Clustering geo location coordinates (lat,long pairs)",
+                "title_link": "https:\/\/datascience.stackexchange.com\/questions\/761\/clustering-geo-location-coordinates-lat-long-pairs",
+                "text": "What is the right approach and clustering algorithm for geolocation clustering? I'm using the following code to cluster geolocation coordinates: import numpy as np import matplotlib.pyplot as plt...",
+                "fallback": "Data Science Stack Exchange: Clustering geo location coordinates (lat,long pairs)",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/datascience\/Img\/apple-touch-icon@2.png?v=1c36463984b3",
+                "from_url": "https:\/\/datascience.stackexchange.com\/questions\/761\/clustering-geo-location-coordinates-lat-long-pairs",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/datascience\/Img\/apple-touch-icon.png?v=a67b87793e92",
+                "id": 1,
+                "original_url": "https:\/\/datascience.stackexchange.com\/questions\/761\/clustering-geo-location-coordinates-lat-long-pairs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y6VOh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 同じ区画に複数の施設がある場合は、さらに区画を細かく分けるとよいと思います。たぶん自動化できるはず、と思って調べたら、こんな議論がありました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/datascience.stackexchange.com\/questions\/761\/clustering-geo-location-coordinates-lat-long-pairs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616030872.004400",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "a10c5f30-b29e-44d9-84e0-9ec33c9a1663",
+        "type": "message",
+        "text": "<@UPRE1RSJW> 接続する区画のパターンによってエッジを色分けするとわかりやすくなると思います。一番単純なのは、ループになるエッジは別の色にするとか。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1616980202.013300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FVYZW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 接続する区画のパターンによってエッジを色分けするとわかりやすくなると思います。一番単純なのは、ループになるエッジは別の色にするとか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616977618.009400",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

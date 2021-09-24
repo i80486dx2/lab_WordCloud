@@ -1,0 +1,238 @@
+[
+    {
+        "type": "message",
+        "text": "grapherでロジスティック方程式を書いてみた。結局、ロジスティック方程式が何を言いたのか分からんが。",
+        "files": [
+            {
+                "id": "F025UTV01PX",
+                "created": 1624449631,
+                "timestamp": 1624449631,
+                "name": "Screen Shot 2021-06-23 at 20.58.39.png",
+                "title": "Screen Shot 2021-06-23 at 20.58.39.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01F42ZFA73",
+                "editable": false,
+                "size": 1006394,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F025UTV01PX\/screen_shot_2021-06-23_at_20.58.39.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F025UTV01PX\/download\/screen_shot_2021-06-23_at_20.58.39.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025UTV01PX-09ab58ffc4\/screen_shot_2021-06-23_at_20.58.39_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025UTV01PX-09ab58ffc4\/screen_shot_2021-06-23_at_20.58.39_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025UTV01PX-09ab58ffc4\/screen_shot_2021-06-23_at_20.58.39_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 241,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025UTV01PX-09ab58ffc4\/screen_shot_2021-06-23_at_20.58.39_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 321,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025UTV01PX-09ab58ffc4\/screen_shot_2021-06-23_at_20.58.39_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025UTV01PX-09ab58ffc4\/screen_shot_2021-06-23_at_20.58.39_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 481,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025UTV01PX-09ab58ffc4\/screen_shot_2021-06-23_at_20.58.39_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 535,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025UTV01PX-09ab58ffc4\/screen_shot_2021-06-23_at_20.58.39_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 642,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F025UTV01PX-09ab58ffc4\/screen_shot_2021-06-23_at_20.58.39_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 685,
+                "original_w": 2076,
+                "original_h": 1388,
+                "thumb_tiny": "AwAgADC5l88YqUZIFR1Iv3RQNi8CjAoPSigQYFGBRRQBFUi52io6kUgKOaBsU5wf8KKQkY60uR60CDmjn1oyPWjI9aAP\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01F42ZFA73\/F025UTV01PX\/screen_shot_2021-06-23_at_20.58.39.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F025UTV01PX-3f1b6e0483",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ui6=3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "grapherでロジスティック方程式を書いてみた。結局、ロジスティック方程式が何を言いたのか分からんが。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01F42ZFA73",
+        "display_as_bot": false,
+        "ts": "1624449692.045700",
+        "thread_ts": "1624449692.045700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624451661.046000",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624451661.046000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624451661.046000",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b2753c9-589e-4455-897e-d1a66c20f631",
+        "type": "message",
+        "text": "<@U01F42ZFA73>\n• Population Dynamics としての意味は、横軸を時間 x、縦軸を個体数 y と見たとき、初期値（この場合は x=0 で y=5）から始まって、時が経つと y は指数関数的に増加し、ただし環境収容力 y0（この場合は y0 = 100）に近づくと増加が鈍って、最終的に x → ∞ で環境収容力に漸近するという性質。指数関数的増加や環境収容力の持つ意味は輪講でやった通り。\n• Machine Learning の文脈でも２値分類によく出てくる式です。例えば、大きなラットと小さなマウスを体重から推定したいとき、横軸 x に体重、縦軸は y=0 をマウス、y=1 をラットとする。そして、例えば教師データとして、マウス500匹とラット500匹の散布図を描くと、重い方 x&gt;x0 はラット（y=1）、軽い方 x&lt;x0 はマウス（y=0）が多くなるはず。でも軽いラットや重いマウスもいるので、x0 周辺は y=0 だったり y=1 だったりが混じる。これをロジスティック方程式でフィッティングしてパラメータを決めると、マウス・ラット識別機になる。未知の検体の体重 x をロジスティック方程式に入れると、値が 1 ならラット、0 ならマウス、0.5 なら確率半々、みたいな使い方。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624451661.046000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wb5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01F42ZFA73"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Population Dynamics としての意味は、横軸を時間 x、縦軸を個体数 y と見たとき、初期値（この場合は x=0 で y=5）から始まって、時が経つと y は指数関数的に増加し、ただし環境収容力 y0（この場合は y0 = 100）に近づくと増加が鈍って、最終的に x → ∞ で環境収容力に漸近するという性質。指数関数的増加や環境収容力の持つ意味は輪講でやった通り。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Machine Learning の文脈でも２値分類によく出てくる式です。例えば、大きなラットと小さなマウスを体重から推定したいとき、横軸 x に体重、縦軸は y=0 をマウス、y=1 をラットとする。そして、例えば教師データとして、マウス500匹とラット500匹の散布図を描くと、重い方 x>x0 はラット（y=1）、軽い方 x<x0 はマウス（y=0）が多くなるはず。でも軽いラットや重いマウスもいるので、x0 周辺は y=0 だったり y=1 だったりが混じる。これをロジスティック方程式でフィッティングしてパラメータを決めると、マウス・ラット識別機になる。未知の検体の体重 x をロジスティック方程式に入れると、値が 1 ならラット、0 ならマウス、0.5 なら確率半々、みたいな使い方。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624449692.045700",
+        "parent_user_id": "U01F42ZFA73",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U01F42ZFA73"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e093d6c2-a4ed-4b6f-8cf6-a323b14aa94d",
+        "type": "message",
+        "text": "plotlyで1000ノード以上描画すると重いっていう時は、webglで描画させると早くなる。\n\n方法としては\npx.scatterなどであれば\npx.scattter(......, render_mode=\"webgl\")とするだけ。\ngraph_object as goの\ngo.Scatterなどであれば、go.Scattergl\nにするだけ。\n\n内蔵GPUでも体感で早くなるの感じる。",
+        "user": "UQ47R82RW",
+        "ts": "1624515374.049600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G625u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plotlyで1000ノード以上描画すると重いっていう時は、webglで描画させると早くなる。\n\n方法としては\npx.scatterなどであれば\npx.scattter(......, render_mode=\"webgl\")とするだけ。\ngraph_object as goの\ngo.Scatterなどであれば、go.Scattergl\nにするだけ。\n\n内蔵GPUでも体感で早くなるの感じる。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "UPSPAP97D",
+                    "UPRE1RSJW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

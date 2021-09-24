@@ -1,0 +1,838 @@
+[
+    {
+        "client_msg_id": "9ccb97c0-3da1-486b-b66f-333e4eae74c8",
+        "type": "message",
+        "text": "I want you to come to our club, Flight Club.",
+        "user": "UPSPAP97D",
+        "ts": "1622361581.095200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XRi75",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want you to come to our club, Flight Club."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622302377.084000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f43badf7-0898-4479-82fc-d6502ea2b3a4",
+        "type": "message",
+        "text": "`I want you to come to our club, Flight Club.`\nDeepL「私たちのクラブ「フライトクラブ」に来てほしい。」\n\n• 『Flight』だとニュアンスが変わってNGなのか?\n• 『it』を後ろの単語を指すようにするの慣れてない…。\n• 強調は思いつかなかった…。サラッといれれるようになりたい。",
+        "user": "UPSPAP97D",
+        "ts": "1622362535.095400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v5zNv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want you to come to our club, Flight Club.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「私たちのクラブ「フライトクラブ」に来てほしい。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『Flight』だとニュアンスが変わってNGなのか?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『it』を後ろの単語を指すようにするの慣れてない…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "強調は思いつかなかった…。サラッといれれるようになりたい。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622302377.084100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "54b8673a-7d4d-4dbf-8347-71d96497c94e",
+        "type": "message",
+        "text": "Ah…, I hope all of mankind obey me.",
+        "user": "UPSPAP97D",
+        "ts": "1622362769.095600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H8o0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah…, I hope all of mankind obey me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622346832.084800"
+    },
+    {
+        "client_msg_id": "8d04aae1-ac2f-432b-87dc-505255105fca",
+        "type": "message",
+        "text": "`Ah…, I hope all of mankind obey me.`\nDeepL「ああ...、全人類が私に従ってくれることを願っている。」\n\n• 『if only』と『only if』ごっちゃになりそう…。\n<https:\/\/basic-english-learning.com\/2407.html|if_onlyとonly_if>\n• 『grovel』は「ひれ伏す」(新単語！)\n• 『grovel』に 『at my feet』をつけるのは日本語から思いつかんな…。(『to me』とかより 傲慢さ をより強調している?)\n• 回答見た後『obey』も to とか必要だと思ったが、そうではなかった…。自動詞・他動詞覚えるの難しい。\n• 『obey』は意訳だった。\n• 『hope』は今回使うとヤバいやつになるな…。\n<https:\/\/www.makocho0828.net\/entry\/2017-06-14-want、hope、_wishの違いとは？その使い分けを理解しよ|want、hope、_wishの違いとは？その使い分けを理解しよ>",
+        "user": "UPSPAP97D",
+        "ts": "1622364075.095800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "基礎からはじめる英語学習",
+                "title": "If onlyの意味と使い方！only ifとの違いを例文で解説！",
+                "title_link": "https:\/\/basic-english-learning.com\/2407.html",
+                "text": "今回は、「If only～」の意味と使い方について例文で解説していきます。この表現はいわゆる仮定法です。現在や未来について「こうだったらいいのになぁ」と夢や願望を言ったり、過去について「こうだったらよかったのに」と後悔する時に使う表現です。",
+                "fallback": "基礎からはじめる英語学習: If onlyの意味と使い方！only ifとの違いを例文で解説！",
+                "thumb_url": "https:\/\/basic-english-learning.com\/wp-content\/uploads\/2019\/04\/c02a9b7ce15fe98581b6dae1a7265666.jpg",
+                "ts": 1556551593,
+                "from_url": "https:\/\/basic-english-learning.com\/2407.html",
+                "thumb_width": 300,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/basic-english-learning.com\/wp-content\/uploads\/2021\/03\/cropped-1d91fab5033ea04ed51277cb7408f882-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/basic-english-learning.com\/2407.html"
+            },
+            {
+                "service_name": "まこちょ英語ブログ",
+                "title": "want、hope、 wishの違いとは？その使い分けを理解しよう！",
+                "title_link": "https:\/\/www.makocho0828.net\/entry\/2017-06-14-want、hope、_wishの違いとは？その使い分けを理解しよ",
+                "text": "この記事を読むとwant、hope、wishの違いが分かります。● こんにちは、まこちょです。本日は受験生の質問でとても多い、want、hope、wishの違いと使い分けについて徹底解説します。特にhopeに関する質問が多く、受験的に重要な",
+                "fallback": "まこちょ英語ブログ: want、hope、 wishの違いとは？その使い分けを理解しよう！",
+                "image_url": "https:\/\/www.makocho0828.net\/wp-content\/uploads\/hatena\/20170614170610.jpg",
+                "ts": 1497428017,
+                "from_url": "https:\/\/www.makocho0828.net\/entry\/2017-06-14-want、hope、_wishの違いとは？その使い分けを理解しよ",
+                "image_width": 376,
+                "image_height": 250,
+                "image_bytes": 71655,
+                "service_icon": "https:\/\/www.makocho0828.net\/wp-content\/uploads\/2018\/04\/profile.png",
+                "id": 2,
+                "original_url": "https:\/\/www.makocho0828.net\/entry\/2017-06-14-want、hope、_wishの違いとは？その使い分けを理解しよ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fSQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah…, I hope all of mankind obey me.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「ああ...、全人類が私に従ってくれることを願っている。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『if only』と『only if』ごっちゃになりそう…。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/basic-english-learning.com\/2407.html",
+                                "text": "if_onlyとonly_if"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『grovel』は「ひれ伏す」(新単語！)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『grovel』に 『at my feet』をつけるのは日本語から思いつかんな…。(『to me』とかより 傲慢さ をより強調している?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "回答見た後『obey』も to とか必要だと思ったが、そうではなかった…。自動詞・他動詞覚えるの難しい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『obey』は意訳だった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『hope』は今回使うとヤバいやつになるな…。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.makocho0828.net\/entry\/2017-06-14-want、hope、_wishの違いとは？その使い分けを理解しよ",
+                                "text": "want、hope、_wishの違いとは？その使い分けを理解しよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622347857.085200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "いい子じゃないか。守っておやり（おかみさん\/天空の城ラピュタ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1622388777.096100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622388777.096100",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1622523197.110000",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UQ47R82RW",
+            "U01EVRBP38C",
+            "UKH07E67M",
+            "UKUKA65GU",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622391164.096500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622423507.097500"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622427820.098900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622453910.101000"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1622465860.102300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622523197.110000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622523197.110000"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：いい子じゃないか。守っておやり",
+        "user": "U01UMQH4W4B",
+        "ts": "1622388777.096200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622388777.096200",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1622523693.110200",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UQ47R82RW",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UKUKA65GU",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1622388778.096300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622423610.097700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622435170.099100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622435247.099300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622440657.099500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622445744.099700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622454163.101200"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1622466049.103700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622523693.110200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622523693.110200"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "What a pretty girl. Better protect her.",
+        "user": "U01UMQH4W4B",
+        "ts": "1622388778.096300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622388777.096200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f7f1eb10-07a6-4059-b1e9-0dfadbdc0602",
+        "type": "message",
+        "text": "She is a good girl, isn't she? You should protect her.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622391164.096500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1622391180.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "She is a good girl, isn't she? You should protect her."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "4e6a5acb-e98a-4f8e-8c13-e0ea2503ecb2",
+        "type": "message",
+        "text": "Good girl. You have to protect her.",
+        "user": "UQ47R82RW",
+        "ts": "1622423507.097500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good girl. You have to protect her."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "396123b9-c45b-494d-8973-d01e4c3f962f",
+        "type": "message",
+        "text": "`Good girl. You have to protect her.`\nDeep:いい子だ。彼女を守ってあげてください。\n\nwhatをつけることで、強調\nBetterでしたほうが良いことを示しているのかな。",
+        "user": "UQ47R82RW",
+        "ts": "1622423610.097700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=SFI8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good girl. You have to protect her.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeep:いい子だ。彼女を守ってあげてください。\n\nwhatをつけることで、強調\nBetterでしたほうが良いことを示しているのかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "0F2F9F10-1694-4214-8EB5-85DF773A9668",
+        "type": "message",
+        "text": "Good girl. Keep side of her.",
+        "user": "U01EVRBP38C",
+        "ts": "1622427820.098900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F893",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good girl. Keep side of her."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096100",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f22a3bcc-0596-4aa3-beea-aecacc3359ba",
+        "type": "message",
+        "text": "`She is a good girl, isn't she? You should protect her.`\nDeepL：彼女はいい子ですよね。彼女を守ってあげてください。\n\n• これは文脈を思い出せば What a pretty girl 出てきてもよかったなぁ。敗北。\n• 「Better 命令系 = ～しておやり」了。大人目線のカジュアルなアドバイス的な。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622435170.099100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "seY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "She is a good girl, isn't she? You should protect her.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：彼女はいい子ですよね。彼女を守ってあげてください。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "これは文脈を思い出せば What a pretty girl 出てきてもよかったなぁ。敗北。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「Better 命令系 = ～しておやり」了。大人目線のカジュアルなアドバイス的な。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "8f2671ec-8ceb-4f35-8c82-00c03f933258",
+        "type": "message",
+        "text": "<@UQ47R82RW>\n&gt; whatをつけることで、強調\n正確には What a pretty girl she is. 構文。なんて～なんだ。\n別の言い方をすると How pretty she is. とか（ちょっとニュアンス変わるけど）。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622435247.099300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "whatをつけることで、強調"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "正確には What a pretty girl she is. 構文。なんて～なんだ。\n別の言い方をすると How pretty she is. とか（ちょっとニュアンス変わるけど）。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "c5a0276f-5c90-4383-936d-cf6922cc0e17",
+        "type": "message",
+        "text": "なるほど。\nそういう言い回しがあるんですね....\nWhat (強調したい特徴) (誰).\nみたいな感じかなぁ。",
+        "user": "UQ47R82RW",
+        "ts": "1622440657.099500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qqS6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど。\nそういう言い回しがあるんですね....\nWhat (強調したい特徴) (誰).\nみたいな感じかなぁ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622388777.096200",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

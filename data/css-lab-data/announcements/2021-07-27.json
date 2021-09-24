@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "75ace2bd-a301-44ee-bd5d-fcf0821bd4f4",
+        "type": "message",
+        "text": "<!channel> 来週水曜午後（8\/4）にRelaxation Spaceの底上げDIYをしようと思います。工作好きな人が2～3人いればいけそう。有志は:+1:してください。\n1. 図面に合わせてカインズで2x4材を調達\n2. そのままカインズで裁断（できるかな？）\n3. 研究室に運ぶ（軽トラ借りれるかな？）\n4. 組み立て（インパクトドライバーあります）\n無印の本棚も一緒に組み立ててしまいます。（カインズで足を購入して取り付ける）",
+        "user": "UKS1Q2KTQ",
+        "ts": "1627451944.040600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1627452035.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hKKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 来週水曜午後（8\/4）にRelaxation Spaceの底上げDIYをしようと思います。工作好きな人が2～3人いればいけそう。有志は"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "してください。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "図面に合わせてカインズで2x4材を調達"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "そのままカインズで裁断（できるかな？）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "研究室に運ぶ（軽トラ借りれるかな？）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "組み立て（インパクトドライバーあります）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n無印の本棚も一緒に組み立ててしまいます。（カインズで足を購入して取り付ける）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627451944.040600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1627472870.041000",
+        "reply_users": [
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627472870.041000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627472870.041000",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPRE1RSJW",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

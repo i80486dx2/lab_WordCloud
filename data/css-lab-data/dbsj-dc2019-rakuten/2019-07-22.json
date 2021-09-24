@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "59623ac6-b5b2-4a98-bb65-0c365572dc02",
+        "type": "message",
+        "text": "こんな記事がありました。<https:\/\/sports.yahoo.co.jp\/m\/column\/detail\/201907190001-spnavi>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1563797049.000600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "スポーツナビ",
+                "title": "速球は最も飛ぶボール？　球種別で見られる打球特性とは - スポーツナビ",
+                "title_link": "https:\/\/sports.yahoo.co.jp\/m\/column\/detail\/201907190001-spnavi",
+                "text": "　トラックマンやスタットキャスト（Statcast）に代表されるトラッキングシステムの導入により、野球界には「革命」が起…",
+                "fallback": "スポーツナビ: 速球は最も飛ぶボール？　球種別で見られる打球特性とは - スポーツナビ",
+                "image_url": "https:\/\/iwiz-spo.c.yimg.jp\/c\/sports\/text\/images\/2019\/0719\/201907190001-spnavi_2019071900005_view.jpg",
+                "from_url": "https:\/\/sports.yahoo.co.jp\/m\/column\/detail\/201907190001-spnavi",
+                "image_width": 339,
+                "image_height": 250,
+                "image_bytes": 97276,
+                "service_icon": "https:\/\/s.yimg.jp\/images\/sportsnavi\/common\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/sports.yahoo.co.jp\/m\/column\/detail\/201907190001-spnavi"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45E04AAA-A934-4FB9-84B6-398B0572FCD7",
+        "type": "message",
+        "text": "おおお、読んでみます！！！",
+        "user": "UKUKA65GU",
+        "ts": "1563802117.001000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "FE2CE7C1-FDD5-42DE-829A-456DA5939675",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "UKUKA65GU",
+        "ts": "1563802121.001200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

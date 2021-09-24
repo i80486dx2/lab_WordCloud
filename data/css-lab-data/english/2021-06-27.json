@@ -1,0 +1,1588 @@
+[
+    {
+        "client_msg_id": "9AD0DE84-7C7C-49E7-9681-86C9B306BBE1",
+        "type": "message",
+        "text": "it is not effective to cry to me. I do not take off definitely.",
+        "user": "U01F42ZFA73",
+        "ts": "1624791582.219800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e=+6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it is not effective to cry to me. I do not take off definitely."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624715075.213400"
+    },
+    {
+        "client_msg_id": "c802ba43-ff89-4f1f-bd42-357eb32c1928",
+        "type": "message",
+        "text": "`it is not effective to cry to me. I do not take off definitely.`\nDeepL: 私に泣きついても効果はありません。私は絶対に脱がない。\n意思表現=will\n~しても無駄=no use doing, useless to do",
+        "user": "U01F42ZFA73",
+        "ts": "1624791981.220000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1624792268.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hjmk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it is not effective to cry to me. I do not take off definitely.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 私に泣きついても効果はありません。私は絶対に脱がない。\n意思表現=will\n~しても無駄=no use doing, useless to do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624759157.214200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1624798004.220400",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1624798004.220400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624860736.226900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01F42ZFA73",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624804079.220500"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1624850744.224800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624858641.226000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624860736.226900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624860736.226900",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「土方さん、ここは僕が生まれて初めて 喀血した旅館なんです」 <https:\/\/pbs.twimg.com\/media\/E449OfcVIAIaP-K.jpg>",
+                "ts": 1624797999,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1409131058054926341",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1409131058054926341>",
+                "text": "「土方さん、ここは僕が生まれて初めて 喀血した旅館なんです」 <https:\/\/pbs.twimg.com\/media\/E449OfcVIAIaP-K.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1409131058054926341",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E449OfcVIAIaP-K.jpg",
+                "image_width": 400,
+                "image_height": 500,
+                "image_bytes": 41138,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d282006-23ce-4642-8330-a1a317c5ec74",
+        "type": "message",
+        "text": "Mr. Hijikata, this inn is where I bled from my mouth for the first time.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624804079.220500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LMpf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mr. Hijikata, this inn is where I bled from my mouth for the first time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624798004.220400"
+    },
+    {
+        "client_msg_id": "665ed7ff-9fe9-4755-80d9-fd90a5a03d4c",
+        "type": "message",
+        "text": "反省会「土方さん、ここは僕が生まれて初めて 喀血した旅館なんです」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624804097.220800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=8HC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「土方さん、ここは僕が生まれて初めて 喀血した旅館なんです」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624804097.220800",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1624895505.228400",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01F42ZFA73",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624804280.220900"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1624851383.225000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624858980.226200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624861222.227100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624895505.228400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624895505.228400"
+    },
+    {
+        "client_msg_id": "2795c601-a0cf-4e86-aa95-ce169c74173c",
+        "type": "message",
+        "text": "`Mr. Hijikata, this inn is where I bled from my mouth for the first time.`\nDeepL：土方さん、この宿は私が初めて口から血を流した場所です。\n\n• 「喀血する = cough\/vomit up blood」了。そのうち使うか。\n• 「生まれて初めて」in my life をつけ忘れた。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624804280.220900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Sio",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mr. Hijikata, this inn is where I bled from my mouth for the first time.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：土方さん、この宿は私が初めて口から血を流した場所です。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「喀血する = cough\/vomit up blood」了。そのうち使うか。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「生まれて初めて」in my life をつけ忘れた。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624804097.220800",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "夢だ、絶対夢だ！（千尋\/千と千尋の神隠し）",
+        "user": "U01UMQH4W4B",
+        "ts": "1624807978.221300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624807978.221300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624861413.227300",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624823626.224200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624860101.226400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624861413.227300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624861413.227300"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：夢だ、絶対夢だ！",
+        "user": "U01UMQH4W4B",
+        "ts": "1624807978.221400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624807978.221400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624861964.227600",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1624807978.221500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624823988.224400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624860288.226600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624861964.227600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624861964.227600"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "It’s a dream, it’s got to be!",
+        "user": "U01UMQH4W4B",
+        "ts": "1624807978.221500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624807978.221400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "E67C70C5-2ACC-40DE-918F-8BCEB859F5FE",
+        "type": "message",
+        "text": "As The driver of the train fell in a love, the train was delayed more than two hours.",
+        "user": "U01F42ZFA73",
+        "ts": "1624812776.224000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x=FBJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As The driver of the train fell in a love, the train was delayed more than two hours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624592525.209000"
+    },
+    {
+        "client_msg_id": "f3eb2351-be13-4828-9ccf-9fdfebe6a99c",
+        "type": "message",
+        "text": "I must be in a dream. Absolutely this is a dream!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624823626.224200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Thz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I must be in a dream. Absolutely this is a dream!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624807978.221300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "c7032eba-0565-4b4a-80fd-c70c6dbd76ac",
+        "type": "message",
+        "text": "`I must be in a dream. Absolutely this is a dream!`\nDeepL：私は夢の中にいるに違いない。絶対にこれは夢の中です！\n\n• 「...に違いない = have got to be」have to be と interchangeable。パッと使えないなぁ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624823988.224400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vaS8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I must be in a dream. Absolutely this is a dream!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：私は夢の中にいるに違いない。絶対にこれは夢の中です！\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「...に違いない = have got to be」have to be と interchangeable。パッと使えないなぁ。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624807978.221400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "1f9571a7-c6f7-4e43-9062-b2ce68ee0960",
+        "type": "message",
+        "text": "`As The driver of the train fell in a love, the train was delayed more than two hours.`\nDeepL: 運転手が恋に落ちたため、列車は2時間以上も遅れた。\n\n車掌=conductor\nfor=時間を表現する\nasとbecauseの違い=asは相手がその情報を十分に把握している前提、becauseは相手がその情報を把握していないことが前提",
+        "user": "U01F42ZFA73",
+        "ts": "1624850606.224600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ef+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As The driver of the train fell in a love, the train was delayed more than two hours.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 運転手が恋に落ちたため、列車は2時間以上も遅れた。\n\n車掌=conductor\nfor=時間を表現する\nasとbecauseの違い=asは相手がその情報を十分に把握している前提、becauseは相手がその情報を把握していないことが前提"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624615022.209500",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "4aafa3c2-ce3d-48c8-9aa5-ef943aa28907",
+        "type": "message",
+        "text": "Mr. Hijikata, here is the hotel where I lost blood from lungs in the first time from being born.",
+        "user": "U01F42ZFA73",
+        "ts": "1624850744.224800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "60bAa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mr. Hijikata, here is the hotel where I lost blood from lungs in the first time from being born."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624798004.220400"
+    },
+    {
+        "client_msg_id": "3f893320-f048-4248-94a6-6b6a4b1086ae",
+        "type": "message",
+        "text": "Mr. Hijikata, here is the hotel where I lost blood from lungs in the first time from being born.\nDeepL: 土方さん、ここは私が生まれて初めて肺から出血したホテルです。\n\n喀血する=cough up blood\nin the first time ではなくfor the first time\nin my life=生まれて",
+        "user": "U01F42ZFA73",
+        "ts": "1624851383.225000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfEAA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mr. Hijikata, here is the hotel where I lost blood from lungs in the first time from being born.\nDeepL: 土方さん、ここは私が生まれて初めて肺から出血したホテルです。\n\n喀血する=cough up blood\nin the first time ではなくfor the first time\nin my life=生まれて"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624804097.220800",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "292ba3d2-bbeb-49ba-a818-6012177c2036",
+        "type": "message",
+        "text": "It is no means even if you will cry. I never cast off this.",
+        "user": "UKH07E67M",
+        "ts": "1624858098.225200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BJt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is no means even if you will cry. I never cast off this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624715075.213400"
+    },
+    {
+        "client_msg_id": "bcc72ce0-edd2-49b9-97ed-01fca8628f53",
+        "type": "message",
+        "text": "`It is no means even if you will cry. I never cast off this.`\n涙を流しても意味がない。これを捨てたことはない。\n• 最近will neverやったばかりじゃあないか...\n• take off 服を脱ぐ\n• cast off 脱ぎ捨てる、見捨てる、否認する ",
+        "user": "UKH07E67M",
+        "ts": "1624858257.225400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dNVpe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is no means even if you will cry. I never cast off this.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n涙を流しても意味がない。これを捨てたことはない。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "最近will neverやったばかりじゃあないか..."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "take off 服を脱ぐ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "cast off 脱ぎ捨てる、見捨てる、否認する "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624759157.214200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "19b38742-c791-4ed9-9332-d973012a08ad",
+        "type": "message",
+        "text": "I won't recover your shirt.",
+        "user": "UKH07E67M",
+        "ts": "1624858351.225600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IPTPT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I won't recover your shirt."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624721577.213500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "5d8ee04f-f33d-44e1-82df-dcbc8937d5d9",
+        "type": "message",
+        "text": "`I won't recover your shirt.`\nあなたのシャツは回収しません。\n• 誰が直すんだい？⇨わたしゃ直さないよって深読みした\n• mend 縫う、直す\n• sew 縫う、刺す ",
+        "user": "UKH07E67M",
+        "ts": "1624858481.225800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JSJ8S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I won't recover your shirt.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあなたのシャツは回収しません。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "誰が直すんだい？⇨わたしゃ直さないよって深読みした"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "mend 縫う、直す"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "sew 縫う、刺す "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624721577.213600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "a3b79d17-4c0e-4077-a013-9c4dd12c6b37",
+        "type": "message",
+        "text": "Mr. Hijikata, this hotel is that I splashed my blood from my mouth in the first time.",
+        "user": "UKH07E67M",
+        "ts": "1624858641.226000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yNyU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mr. Hijikata, this hotel is that I splashed my blood from my mouth in the first time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624798004.220400"
+    },
+    {
+        "client_msg_id": "92efffd6-4a5a-4dac-8897-be87e9e954fa",
+        "type": "message",
+        "text": "`Mr. Hijikata, this hotel is that I splashed my blood from my mouth in the first time.`\n土方さん、このホテルは私が最初に口から血を飛ばしたホテルです。\n•  in the first time → for the first time\n• where使うなら前の文を少し変えないとだめ\n• *吐血*は吐きけを伴い、大量のときには、普通は下血も伴います。 *喀血*とは、鼻やのどを除く気道や肺から出血した血液が吐き出されることをいいます。 せきとともに起こります。 痰に血液の混じる場合は血痰といい、*喀血*とは区別します。\n• 喀血する　cough up bloodへえええ\n• in my life",
+        "user": "UKH07E67M",
+        "ts": "1624858980.226200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7N3QM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mr. Hijikata, this hotel is that I splashed my blood from my mouth in the first time.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n土方さん、このホテルは私が最初に口から血を飛ばしたホテルです。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " in the first time → for the first time"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "where使うなら前の文を少し変えないとだめ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "吐血",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "は吐きけを伴い、大量のときには、普通は下血も伴います。 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "喀血",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "とは、鼻やのどを除く気道や肺から出血した血液が吐き出されることをいいます。 せきとともに起こります。 痰に血液の混じる場合は血痰といい、"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "喀血",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "とは区別します。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "喀血する　cough up bloodへえええ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "in my life"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624804097.220800",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "278cffa1-0bd4-4cf3-b865-3832e3fda32c",
+        "type": "message",
+        "text": "This is a dream! I won't do mistake!",
+        "user": "UKH07E67M",
+        "ts": "1624860101.226400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SBsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a dream! I won't do mistake!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624807978.221300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "4e706270-042f-4fa8-b651-81360f62d36e",
+        "type": "message",
+        "text": "`This is a dream! I won't do mistake!`\nこれは夢です。ミスはしませんよ。\n• absolutelyいつまで経っても思い出せない\n• 後半、「間違えてない！」って言いたかったけど　<https:\/\/eikaiwa.dmm.com\/uknow\/questions\/556\/>　for sureとかmost definitelyとかで言えるらしい。\n• <https:\/\/gogakuru.com\/english\/phrase\/1574> it is got to be これは間違いない！だな \n• it is じゃない it has!",
+        "user": "UKH07E67M",
+        "ts": "1624860288.226600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1624861911.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "DMM英会話なんてuKnow?",
+                "title": "うん、間違いない。って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "title_link": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/556\/",
+                "text": "自分の好物を食べた時や、好きな曲が流れた時に、好きなことを再確認の意味を込めて、日本語ではよく、 「うん、間違いない」 って言いますよね？英語でも似た言い回しがあるんですか？",
+                "fallback": "DMM英会話なんてuKnow?: うん、間違いない。って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "image_url": "https:\/\/img.eikaiwa.dmm.com\/assets\/uknow\/fb_ogp.png",
+                "from_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/556\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 28296,
+                "service_icon": "https:\/\/eikaiwa.dmm.com\/fav-apple-touch-icon-57x57-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/556\/"
+            },
+            {
+                "service_name": "ゴガクル",
+                "title": "「リトル・チャロ」のフレーズ・例文 ｜語学学習コミュニティ ゴガクル英語",
+                "title_link": "https:\/\/gogakuru.com\/english\/phrase\/1574",
+                "text": "[船 日本] NHK 語学番組で放送された英語のキーフレーズ・例文・表現。発音や解説、動画をチェックして楽しく英語の学習ができる！",
+                "fallback": "ゴガクル: 「リトル・チャロ」のフレーズ・例文 ｜語学学習コミュニティ ゴガクル英語",
+                "image_url": "http:\/\/gogakuru.com\/img\/global\/program\/41_ogp.png",
+                "from_url": "https:\/\/gogakuru.com\/english\/phrase\/1574",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 29699,
+                "service_icon": "https:\/\/gogakuru.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/gogakuru.com\/english\/phrase\/1574"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KAPOI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a dream! I won't do mistake!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれは夢です。ミスはしませんよ。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "absolutelyいつまで経っても思い出せない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "後半、「間違えてない！」って言いたかったけど　"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/556\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "　for sureとかmost definitelyとかで言えるらしい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/gogakuru.com\/english\/phrase\/1574"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " it is got to be これは間違いない！だな "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "it is じゃない it has!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624807978.221400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "2c876e76-7bea-445e-92d4-1c1d0a321e9a",
+        "type": "message",
+        "text": "Mr. Hijikata, this is an inn where I expelled my blood for the first time.",
+        "user": "UPSPAP97D",
+        "ts": "1624860736.226900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jn3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mr. Hijikata, this is an inn where I expelled my blood for the first time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624798004.220400"
+    },
+    {
+        "client_msg_id": "81a1f047-c1a8-4075-8058-130927908c5d",
+        "type": "message",
+        "text": "`Mr. Hijikata, this is an inn where I expelled my blood for the first time.`\nDeepL「土方さん、ここは私が初めて血を流した宿です。」\n\n• 「喀血」の意味・読み方知らなかった… (ウェブ検索しなかったら、「血判」的な訳にしてた)\n• 「喀血する」は『cough up blood』(咳をする+血)\n• 『an inn』ではなく『the』の方が、この旅館を指している感じで良かった?\n• 『for the first time』で「生まれて」も入るかと思ったが、入らなかった",
+        "user": "UPSPAP97D",
+        "ts": "1624861222.227100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kEf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mr. Hijikata, this is an inn where I expelled my blood for the first time.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「土方さん、ここは私が初めて血を流した宿です。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「喀血」の意味・読み方知らなかった… (ウェブ検索しなかったら、「血判」的な訳にしてた)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「喀血する」は『cough up blood』(咳をする+血)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『an inn』ではなく『the』の方が、この旅館を指している感じで良かった?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『for the first time』で「生まれて」も入るかと思ったが、入らなかった"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624804097.220800",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "e094a509-461e-44db-b8c8-e6a3fc2a3ed9",
+        "type": "message",
+        "text": "It is a dream. Surely, it is a dream!",
+        "user": "UPSPAP97D",
+        "ts": "1624861413.227300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eQc6F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is a dream. Surely, it is a dream!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624807978.221300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "89f1a4a9-ec94-42c3-9526-b4e02df10ecd",
+        "type": "message",
+        "text": "`It is a dream. Surely, it is a dream!`\nDeepL「それは夢です。確かに、それは夢です」\n\n• 橋本先生の解説見ないと、『it’s』の『’s』が『is』の短縮に見えてしまい、おかしな訳になる…\n• みんなの訳を見て、『it』より『this』の方が良さそうな気がしたが、文脈上は『it』なのか…\n• 『definitely』の綴り書けなくて、『surely』にしたが少し意味が変わるらしい。\n<https:\/\/ameblo.jp\/azuma-juku\/entry-12121429331.html>",
+        "user": "UPSPAP97D",
+        "ts": "1624861964.227600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "【更新終了】元・東塾（あずまじゅく）塾長の日常",
+                "title": "『surely、certainly、definitely、absolutelyの違い』",
+                "title_link": "https:\/\/ameblo.jp\/azuma-juku\/entry-12121429331.html",
+                "text": "今日は、雪が降るかもと警戒していた割りには、東京は落ち着いた天気でしたね。^^本日は、久ぶりに週末の余暇を楽しめる時間が出来たので、英語のお勉強をしております…",
+                "fallback": "【更新終了】元・東塾（あずまじゅく）塾長の日常: 『surely、certainly、definitely、absolutelyの違い』",
+                "image_url": "https:\/\/stat.profile.ameba.jp\/profile_images\/20190703\/04\/26\/CG\/j\/o10240768p_1562094278205_ichfl.jpg",
+                "from_url": "https:\/\/ameblo.jp\/azuma-juku\/entry-12121429331.html",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 208036,
+                "service_icon": "https:\/\/stat100.ameba.jp\/common_style\/img\/sp\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/ameblo.jp\/azuma-juku\/entry-12121429331.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pEba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is a dream. Surely, it is a dream!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「それは夢です。確かに、それは夢です」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "橋本先生の解説見ないと、『it’s』の『’s』が『is』の短縮に見えてしまい、おかしな訳になる…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "みんなの訳を見て、『it』より『this』の方が良さそうな気がしたが、文脈上は『it』なのか…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『definitely』の綴り書けなくて、『surely』にしたが少し意味が変わるらしい。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ameblo.jp\/azuma-juku\/entry-12121429331.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624807978.221400",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

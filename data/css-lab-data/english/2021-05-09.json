@@ -1,0 +1,1951 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1620564853.330600",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1620564853.330600",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1628484051.023800",
+        "reply_users": [
+            "UQ47R82RW",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1620565604.333400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620568975.334100"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620614173.337200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1620624306.338700"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1628484051.023800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1628484051.023800",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「伊勢海老なんか頭にのせて、どうしたの?」\n「母さん今日当番なのよ」 <https:\/\/pbs.twimg.com\/media\/E08pABsUcAQzoEQ.jpg>",
+                "ts": 1620564847,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1391375930635874311",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1391375930635874311>",
+                "text": "「伊勢海老なんか頭にのせて、どうしたの?」\n「母さん今日当番なのよ」 <https:\/\/pbs.twimg.com\/media\/E08pABsUcAQzoEQ.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1391375930635874311",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E08pABsUcAQzoEQ.jpg",
+                "image_width": 400,
+                "image_height": 550,
+                "image_bytes": 78588,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "786e350f-2a83-479a-bb6c-8cd8870ef02f",
+        "type": "message",
+        "text": "\"What you put  lobster  on your head?\"\n\"I'm in charge today.\"",
+        "user": "UQ47R82RW",
+        "ts": "1620565604.333400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cpxf\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"What you put  lobster  on your head?\"\n\"I'm in charge today.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620564853.330600"
+    },
+    {
+        "client_msg_id": "c5cca517-bcb8-48f3-a101-4c328290b14d",
+        "type": "message",
+        "text": "反省\n「伊勢海老なんか頭にのせて、どうしたの?」\n「母さん今日当番なのよ」",
+        "user": "UQ47R82RW",
+        "ts": "1620565613.333700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaKZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省\n「伊勢海老なんか頭にのせて、どうしたの?」\n「母さん今日当番なのよ」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620565613.333700",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1628484372.024000",
+        "reply_users": [
+            "UQ47R82RW",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1620566519.333800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620569071.334400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620615296.337400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1620624695.338900"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1628484372.024000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1628484372.024000"
+    },
+    {
+        "client_msg_id": "563cf776-c58d-4396-b28e-392445445e17",
+        "type": "message",
+        "text": "```\"What you put lobster on your head?\"\n\"I'm in charge today.\"```\nDeepL:\" ロブスターを頭に乗せるのは？\"\n\"今日は私が担当します\"\n\nどうしたの？はwhat are you doingか。確かに、頭に伊勢海老乗せ出したら何してるの？って言いたくなるよなぁ。\n自分のだと、おかしい英文になってるな。\nWhatじゃなくてWhyのがましだな。\n\n伊勢海老は伊勢の海老だったか。なんか伊勢以外にもいそうな気がするけど...\n\nIse-ebiでもいいのか。\n<https:\/\/eikaiwa.dmm.com\/uknow\/questions\/63880\/>\nlobsterはオマール海老だから違うような気がするけど、lobster使うのか。\nIse-ebi is Japanese shrimp. But Ise-ebi's size like lobster!\n\n\n\nなんでこんな虫みたいな見た目のやつを昔の人は食ったんだろ。\n\n\n当番なの-&gt;私の番なの-&gt; It's my turnかな。\n\nbe in chargeとか使うよりわかりやすいな。\nちなみに\nbe in charge of ~で〜を担当する\n\n実際の当番という意味の訳はbe  on duty.",
+        "user": "UQ47R82RW",
+        "ts": "1620566519.333800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DMM英会話なんてuKnow?",
+                "title": "伊勢海老って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "title_link": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/63880\/",
+                "text": "日本で食べるべきおすすめの海鮮を聞かれた時に、私が大好きな伊勢海老をおすすめしたいです。",
+                "fallback": "DMM英会話なんてuKnow?: 伊勢海老って英語でなんて言うの？ - DMM英会話なんてuKnow?",
+                "image_url": "https:\/\/img.eikaiwa.dmm.com\/assets\/uknow\/fb_ogp.png",
+                "from_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/63880\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 28296,
+                "service_icon": "https:\/\/eikaiwa.dmm.com\/fav-apple-touch-icon-57x57-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/63880\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQFH",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"What you put lobster on your head?\"\n\"I'm in charge today.\""
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DeepL:\" ロブスターを頭に乗せるのは？\"\n\"今日は私が担当します\"\n\nどうしたの？はwhat are you doingか。確かに、頭に伊勢海老乗せ出したら何してるの？って言いたくなるよなぁ。\n自分のだと、おかしい英文になってるな。\nWhatじゃなくてWhyのがましだな。\n\n伊勢海老は伊勢の海老だったか。なんか伊勢以外にもいそうな気がするけど...\n\nIse-ebiでもいいのか。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eikaiwa.dmm.com\/uknow\/questions\/63880\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nlobsterはオマール海老だから違うような気がするけど、lobster使うのか。\nIse-ebi is Japanese shrimp. But Ise-ebi's size like lobster!\n\n\n\nなんでこんな虫みたいな見た目のやつを昔の人は食ったんだろ。\n\n\n当番なの->私の番なの-> It's my turnかな。\n\nbe in chargeとか使うよりわかりやすいな。\nちなみに\nbe in charge of ~で〜を担当する\n\n実際の当番という意味の訳はbe  on duty."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620565613.333700",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "645ade76-5192-4cbe-9933-464dca5c601a",
+        "type": "message",
+        "text": "\"What happened as putting an ISE prawn on your head?\"\n\"I'm (or Your mother is) in charge today.\"",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620568975.334100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1620568996.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JJK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"What happened as putting an ISE prawn on your head?\"\n\"I'm (or Your mother is) in charge today.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620564853.330600"
+    },
+    {
+        "client_msg_id": "cef33bc1-7d82-4b8e-bcbd-79f5b846cc2a",
+        "type": "message",
+        "text": "`\"What happened as putting an ISE prawn on your head?\"`\n`\"I'm (or Your mother is) in charge today.\"`\nDeepL「伊勢海老を頭に乗せるようなことがあったのか？」「今日は私が担当です」\n\n• What are you doing with のくだりが咄嗟に出てこなかった。重症だ…。\n• 「伊勢海老 = an Ise lobster」了。\n• I'm in charge, It's my turn この2つは interchangeable だな。`← I'm on dutyも。`",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620569071.334400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1620569376.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dh0+Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"What happened as putting an ISE prawn on your head?\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"I'm (or Your mother is) in charge today.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「伊勢海老を頭に乗せるようなことがあったのか？」「今日は私が担当です」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What are you doing with のくだりが咄嗟に出てこなかった。重症だ…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「伊勢海老 = an Ise lobster」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I'm in charge, It's my turn この2つは interchangeable だな。"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "← I'm on dutyも。",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620565613.333700",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "腐海を焼き払い、再びこの大地を蘇らすのだ！（クシャナ\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1620574378.334800",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1620574378.334800",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1620658176.340100",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01EP839LHH",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620615713.337700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1620625409.339100"
+            },
+            {
+                "user": "U01EP839LHH",
+                "ts": "1620645018.339600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620658176.340100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620658176.340100"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：腐海を焼き払い、再びこの大地を蘇らすのだ！",
+        "user": "U01UMQH4W4B",
+        "ts": "1620574378.334900",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1620574378.334900",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1620658722.340300",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01EP839LHH",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1620574378.335000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1620616329.337900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1620625932.339300"
+            },
+            {
+                "user": "U01EP839LHH",
+                "ts": "1620645494.339800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620658722.340300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620658722.340300"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "We shall burn away the Sea of Decay and resurrect the earth!",
+        "user": "U01UMQH4W4B",
+        "ts": "1620574378.335000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1620574378.334900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "784a3ea2-8586-4d9e-b6d8-e9b44e479128",
+        "type": "message",
+        "text": "My breads are itchy!",
+        "user": "UPSPAP97D",
+        "ts": "1620607693.335200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "twS5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My breads are itchy!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620315177.312500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "de60b031-dfdf-40b4-9229-e95eea115f44",
+        "type": "message",
+        "text": "`My breads are itchy!`\nDeepL「私のパンはかゆいところに手が届く！？」\n\n• 『bread』は「パン」だった… (ヒゲが「顎髭」『beard』しか思いつかなくて書いたつもりだったのに =&gt; 単語力…)\n• 『itchy』「かゆい」は単語のみ知って、綴り思い出せなくweb検索したが、「ピリピリ」とニュアンスが違うっぽい\n• (猫などの)ヒゲ『whisker』 は数える程しかないから可算？ (となると、僕の『beard』の複数化はあり得なさそう =&gt; そもそも『bread』「パン」も複数化しないが…)",
+        "user": "UPSPAP97D",
+        "ts": "1620608453.335400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1620608721.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pe34",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My breads are itchy!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「私のパンはかゆいところに手が届く！？」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『bread』は「パン」だった… (ヒゲが「顎髭」『beard』しか思いつかなくて書いたつもりだったのに => 単語力…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『itchy』「かゆい」は単語のみ知って、綴り思い出せなくweb検索したが、「ピリピリ」とニュアンスが違うっぽい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(猫などの)ヒゲ『whisker』 は数える程しかないから可算？ (となると、僕の『beard』の複数化はあり得なさそう => そもそも『bread』「パン」も複数化しないが…)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620315178.312600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "043721d8-776f-4661-84c0-7362591a144c",
+        "type": "message",
+        "text": "As I’m afraid to break up our relationship until now in order to convey you my real emotions, I judge you are innocent.",
+        "user": "UPSPAP97D",
+        "ts": "1620609038.335800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yeiFz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As I’m afraid to break up our relationship until now in order to convey you my real emotions, I judge you are innocent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620355787.314000"
+    },
+    {
+        "client_msg_id": "e9be95ed-e6a1-4693-a892-c99e44f9aca1",
+        "type": "message",
+        "text": "`As I'm afraid to break up our relationship until now in order to convey you my real emotions, I judge you are innocent.`\nDeepL「私の本当の気持ちを伝えるために、今までの関係を壊すのが怖かったので、あなたが無実であると判断しました。」\n\n• 『in order to』は「〜するために」(to の副詞的使用で「〜することで」を表せるかと思ったが、ダメだった…)\n• 『real』より『true』の方がニュアンスは正しかった\n<https:\/\/english-fan.com\/real-true\/|realとtrueのニュアンス>\n• 『convey A』で「Aを伝える」なので文法的に間違い（『convey A C』で「AにCを伝える」とできると思ったが…）\n• 『judge A C』で「AにCと判決を下す」と表せるらしいので、be動詞はいらない。\n• 『afraid』の使い方を学ばねば…\n<https:\/\/ameblo.jp\/qlseducation\/entry-12187073838.html|afraid to 対 afraid of>\n• 被告人に向かって話すから youだと思ったが、裁判の性質上『defendant』を使う？(わざわざ冗長的な文章)\n• find の利用は考えもしなかった…\n• 『ruin』「〜を破壊する、〜をダメにする、破壊」",
+        "user": "UPSPAP97D",
+        "ts": "1620610950.336000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "大人の英会話上達法",
+                "title": "realとtrueの違い＆fact・truth・realityの違いと使い方を解説",
+                "title_link": "https:\/\/english-fan.com\/real-true\/",
+                "text": "英語で「本当の」「真実の」と似た意味を持つ、realとtrueの違い、「真実」という意味のfact・truth・realityの違いと使い方について例文を用いて解説しています。脳は関連した情報をセットで覚えると記憶しやすいので、real・true・fact・truth・realityのように類義語をまとめてインプットすることはお勧めの英単語の覚え方です。",
+                "fallback": "大人の英会話上達法: realとtrueの違い＆fact・truth・realityの違いと使い方を解説",
+                "image_url": "https:\/\/english-fan.com\/wp-content\/uploads\/2020\/01\/real-true.jpg",
+                "image_width": 400,
+                "image_height": 250,
+                "ts": 1578024410,
+                "from_url": "https:\/\/english-fan.com\/real-true\/",
+                "image_bytes": 41274,
+                "service_icon": "https:\/\/english-fan.com\/wp-content\/uploads\/2019\/05\/book.gif",
+                "id": 1,
+                "original_url": "https:\/\/english-fan.com\/real-true\/"
+            },
+            {
+                "service_name": "QLS Education",
+                "title": "『I am afraid of\/ I am afraid to って一体何がちがうのか?』",
+                "title_link": "https:\/\/ameblo.jp\/qlseducation\/entry-12187073838.html",
+                "text": "こんにちは、QLS Educationです  お盆前最後の週末ですねお盆休みと有給をつなげて長期休暇を取る方もいらっしゃるのではないでしょうかこの夏休みはカナ…",
+                "fallback": "QLS Education: 『I am afraid of\/ I am afraid to って一体何がちがうのか?』",
+                "image_url": "https:\/\/stat.profile.ameba.jp\/profile_images\/20140905\/23\/a2\/n0\/p\/o018002151409928626872.png",
+                "from_url": "https:\/\/ameblo.jp\/qlseducation\/entry-12187073838.html",
+                "image_width": 180,
+                "image_height": 215,
+                "image_bytes": 4623,
+                "service_icon": "https:\/\/stat100.ameba.jp\/common_style\/img\/sp\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/ameblo.jp\/qlseducation\/entry-12187073838.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YS8dw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As I'm afraid to break up our relationship until now in order to convey you my real emotions, I judge you are innocent.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「私の本当の気持ちを伝えるために、今までの関係を壊すのが怖かったので、あなたが無実であると判断しました。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『in order to』は「〜するために」(to の副詞的使用で「〜することで」を表せるかと思ったが、ダメだった…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『real』より『true』の方がニュアンスは正しかった"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/english-fan.com\/real-true\/",
+                                "text": "realとtrueのニュアンス"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『convey A』で「Aを伝える」なので文法的に間違い（『convey A C』で「AにCを伝える」とできると思ったが…）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『judge A C』で「AにCと判決を下す」と表せるらしいので、be動詞はいらない。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『afraid』の使い方を学ばねば…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ameblo.jp\/qlseducation\/entry-12187073838.html",
+                                "text": "afraid to 対 afraid of"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "被告人に向かって話すから youだと思ったが、裁判の性質上『defendant』を使う？(わざわざ冗長的な文章)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "find の利用は考えもしなかった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『ruin』「〜を破壊する、〜をダメにする、破壊」"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620365085.314400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "529c97f1-1a86-4cd5-9ca1-ff5f155521ed",
+        "type": "message",
+        "text": "Even if our clam vanish, we’ll avenge humans.",
+        "user": "UPSPAP97D",
+        "ts": "1620611779.336300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RC3u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even if our clam vanish, we’ll avenge humans."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620401577.315900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "508047d8-bfb4-47d4-848c-8cfff9e5efa1",
+        "type": "message",
+        "text": "`Even if our clam vanish, we'll avenge humans.`\nDeepL「貝が消えても、人間の仇を取る。」\n\n• 「部族」間違って覚えてた… 正しくは『clan』。『clam』は「クラムチャウダー」とかの綴りw。\n• 『avenge』で「正義による復讐」（某アメコミ映画?）を最近習ったので使ってみたが、正しい使い方ではなかった… 『avenge 目的 on 相手』（自分のやつだと、「人間 が殺されたので復讐」的な意味になる?）\n<https:\/\/eikaiwa.weblio.jp\/column\/phrases\/natural_english\/avenge-revenge|revenge, avengeの使い方>\n• 「滅ぶ」系の単語が思い出せなかった…\n• 復讐相手は指定できるので『the』が必要だった。",
+        "user": "UPSPAP97D",
+        "ts": "1620612939.336500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "＜Weblio英会話コラム＞違いはなに？avenge と revengeの「復讐」の意味",
+                "title_link": "https:\/\/eikaiwa.weblio.jp\/column\/phrases\/natural_english\/avenge-revenge",
+                "text": "avenge と revenge は、単語の形が似ているだけでなく、意味も似ています。両者も「復讐する」という意味があるのです。両者はどのように使い分けられているのでしょうか。",
+                "fallback": "＜Weblio英会話コラム＞違いはなに？avenge と revengeの「復讐」の意味",
+                "image_url": "https:\/\/d3fr49y3ejekk5.cloudfront.net\/column\/wp-content\/uploads\/2016\/04\/05123853\/.jpg",
+                "from_url": "https:\/\/eikaiwa.weblio.jp\/column\/phrases\/natural_english\/avenge-revenge",
+                "image_width": 378,
+                "image_height": 250,
+                "image_bytes": 40545,
+                "service_icon": "https:\/\/eikaiwa.weblio.jp\/favicon.ico",
+                "service_name": "eikaiwa.weblio.jp",
+                "id": 1,
+                "original_url": "https:\/\/eikaiwa.weblio.jp\/column\/phrases\/natural_english\/avenge-revenge"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q5qF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even if our clam vanish, we'll avenge humans.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「貝が消えても、人間の仇を取る。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「部族」間違って覚えてた… 正しくは『clan』。『clam』は「クラムチャウダー」とかの綴りw。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『avenge』で「正義による復讐」（某アメコミ映画?）を最近習ったので使ってみたが、正しい使い方ではなかった… 『avenge 目的 on 相手』（自分のやつだと、「人間 が殺されたので復讐」的な意味になる?）"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eikaiwa.weblio.jp\/column\/phrases\/natural_english\/avenge-revenge",
+                                "text": "revenge, avengeの使い方"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「滅ぶ」系の単語が思い出せなかった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "復讐相手は指定できるので『the』が必要だった。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620401577.316000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "2ad18fe6-47c5-4f93-8988-ed2f400e7447",
+        "type": "message",
+        "text": "Jiji, I have decided to start our plan at tonight. Let’s go now!",
+        "user": "UPSPAP97D",
+        "ts": "1620613184.336800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hjGA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jiji, I have decided to start our plan at tonight. Let’s go now!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487977.328600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "92f98dcf-025c-4dda-9f30-2fae0cb205d7",
+        "type": "message",
+        "text": "`Jiji, I have decided to start our plan at tonight. Let's go now!`\nDeepL「ジイジ、今夜から計画をスタートさせることにしたよ。さあ、行こう。」\n\n• 『decide』を使うと無理矢理にでも to do を入れたくなっちゃうのはいかんな…\n• 「既に予定(準備段階) は始まってる！」的なニュアンスの『be going to do』は日本語訳から推測しにくいな… (そして、短縮系『gonna』『gotta』『wanna』とかに慣れない… 会話文で短縮されやすいからパッと訳せるようにせんとなぁ)",
+        "user": "UPSPAP97D",
+        "ts": "1620613764.337000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOnNj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jiji, I have decided to start our plan at tonight. Let's go now!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「ジイジ、今夜から計画をスタートさせることにしたよ。さあ、行こう。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『decide』を使うと無理矢理にでも to do を入れたくなっちゃうのはいかんな…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「既に予定(準備段階) は始まってる！」的なニュアンスの『be going to do』は日本語訳から推測しにくいな… (そして、短縮系『gonna』『gotta』『wanna』とかに慣れない… 会話文で短縮されやすいからパッと訳せるようにせんとなぁ)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487977.328700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "ff3680c6-288f-486a-bd90-14aa228157ac",
+        "type": "message",
+        "text": "“Why are you doing putting the Ise-ebi on your head?”\n“Mommy, because today is my turn.”",
+        "user": "UPSPAP97D",
+        "ts": "1620614173.337200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DauiX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“Why are you doing putting the Ise-ebi on your head?”\n“Mommy, because today is my turn.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620564853.330600"
+    },
+    {
+        "client_msg_id": "a70a1063-7e7c-42c1-8cfe-eb6fcea1f411",
+        "type": "message",
+        "text": "`\"Why are you doing putting the Ise-ebi on your head?\"`\n`\"Mommy, because today is my turn.\"`\nDeepL「“なんで伊勢海老を頭にのせてるの？”   “ママ、今日は私の番だから“」\n\n• 『what』だと「どうしたの？」（原因追求）をできないと思って『why』にしたが、見事に外した…\n• {藤原を探す電話} の話で 『with』で身につけているを表せれたという反省を覚えてなかった…\n• 初出し文で、かつ「伊勢海老」の中では特定できない (〜博物館に飾られていた などがない) ので『a』？\n• 「エビ」が思いつかなかった…  (『shrimp』『prawn』『lobster』)「伊勢海老」は『Ise lobster』 (=&gt; こうた君の 反省より、Ise-ebi は許されるかも)\n• 『It’s my turn』(It’s で表現) が常套句っぽいかな？\n途中から 前方に立っている人物が母だと思い込み「母が質問、子が 学校で当番」と想像してたが、母が当番だった。(絵をよく見れば エプロン・中肉感 から後ろの人物が母だと類推できたな… 多分)",
+        "user": "UPSPAP97D",
+        "ts": "1620615296.337400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1620615410.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eOMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Why are you doing putting the Ise-ebi on your head?\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Mommy, because today is my turn.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「“なんで伊勢海老を頭にのせてるの？”   “ママ、今日は私の番だから“」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『what』だと「どうしたの？」（原因追求）をできないと思って『why』にしたが、見事に外した…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "{藤原を探す電話} の話で 『with』で身につけているを表せれたという反省を覚えてなかった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "初出し文で、かつ「伊勢海老」の中では特定できない (〜博物館に飾られていた などがない) ので『a』？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「エビ」が思いつかなかった…  (『shrimp』『prawn』『lobster』)「伊勢海老」は『Ise lobster』 (=> こうた君の 反省より、Ise-ebi は許されるかも)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『It’s my turn』(It’s で表現) が常套句っぽいかな？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n途中から 前方に立っている人物が母だと思い込み「母が質問、子が 学校で当番」と想像してたが、母が当番だった。(絵をよく見れば エプロン・中肉感 から後ろの人物が母だと類推できたな… 多分)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620565613.333700",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "7979d8e6-d70c-4f86-b419-139b0e4384f6",
+        "type": "message",
+        "text": "By burning up the Sikai, we’ll revive the ground!",
+        "user": "UPSPAP97D",
+        "ts": "1620615713.337700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cTqKb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "By burning up the Sikai, we’ll revive the ground!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574378.334800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e92d449d-8bcf-4299-8d4f-558170e476c7",
+        "type": "message",
+        "text": "`By burning up the Sikai, we'll revive the ground!`\nDeepL「シカイを燃やすことで、大地を蘇らせる！？」\n\n• 「〜を焼き払う」『burn away 〜』。「(腐海 全てを)焼き尽くす」的な意味で『burn up』を使ったが、今回適切なニュアンスではなかった\n• 『shall』は日本語訳から出てこない (マッカーサー的な発言?)\n• 『resurrect』「〜を生き返らせる、〜を蘇らせる」は初耳。\n• 子供の頃に「腐海」を シカイって聞いた記憶があったのだが、「フカイ」だった。",
+        "user": "UPSPAP97D",
+        "ts": "1620616329.337900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1620616372.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPiE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "By burning up the Sikai, we'll revive the ground!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「シカイを燃やすことで、大地を蘇らせる！？」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「〜を焼き払う」『burn away 〜』。「(腐海 全てを)焼き尽くす」的な意味で『burn up』を使ったが、今回適切なニュアンスではなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『shall』は日本語訳から出てこない (マッカーサー的な発言?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『resurrect』「〜を生き返らせる、〜を蘇らせる」は初耳。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "子供の頃に「腐海」を シカイって聞いた記憶があったのだが、「フカイ」だった。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574378.334900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "43fa7854-1368-434c-9972-b3a5804a52a6",
+        "type": "message",
+        "text": "Jiji, my answer is tonight. We’re going to leave here!",
+        "user": "UKH07E67M",
+        "ts": "1620623263.338200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RY6qg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jiji, my answer is tonight. We’re going to leave here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487977.328600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "04bc76da-8f97-4530-8290-83516e1d3c73",
+        "type": "message",
+        "text": "`Jiji, my answer is tonight. We're going to leave here!`\n Jijiさん、私の答えは今夜です。ここを出よう！と。\n• decide 使って「今夜に決めたわ」の書き方が思いつかなかったのでmy answer\n• 結局「今夜に決めたわ」を作らなくても出題の意図にはそぐわないわけじゃなかった\n• gonnaはwannaの親戚か<https:\/\/eigobu.jp\/magazine\/gonna>\n• departureかー思いつけなかった。出発 departure\n• let’s goでも伝わるなあ\n• ",
+        "user": "UKH07E67M",
+        "ts": "1620623656.338400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WURK",
+                "title": "「gonna」と「wanna」と「gotta」の意味と使い方を詳しく解説！",
+                "title_link": "https:\/\/eigobu.jp\/magazine\/gonna",
+                "text": "映画やテレビでよく使われる表現で「gonna」や「wanna」、「gotta」というものがありますよね。これらはそれぞれ短縮形としてネイティブの人がよく使う表現です。そこで今回は、この「gonna」や「wanna」、「gotta」の意味や使い方を紹介していきます。",
+                "fallback": "WURK: 「gonna」と「wanna」と「gotta」の意味と使い方を詳しく解説！",
+                "image_url": "https:\/\/cdn.eigobu.jp\/images\/article\/ex\/13\/800x600.jpg",
+                "from_url": "https:\/\/eigobu.jp\/magazine\/gonna",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 46288,
+                "id": 1,
+                "original_url": "https:\/\/eigobu.jp\/magazine\/gonna"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1PIq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jiji, my answer is tonight. We're going to leave here!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n Jijiさん、私の答えは今夜です。ここを出よう！と。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "decide 使って「今夜に決めたわ」の書き方が思いつかなかったのでmy answer"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "結局「今夜に決めたわ」を作らなくても出題の意図にはそぐわないわけじゃなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "gonnaはwannaの親戚か"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eigobu.jp\/magazine\/gonna"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "departureかー思いつけなかった。出発 departure"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "let’s goでも伝わるなあ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": []
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620487977.328700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "1cfd2a9d-2dd6-46a1-8c28-d32ac35fd55b",
+        "type": "message",
+        "text": "“What’s up? You put a Ise shulimp at your head of top.” “My mom is  needed today.”",
+        "user": "UKH07E67M",
+        "ts": "1620624306.338700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Da03+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“What’s up? You put a Ise shulimp at your head of top.” “My mom is  needed today.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620564853.330600"
+    },
+    {
+        "client_msg_id": "6acfa357-acfc-4ee7-b91a-6f980ead73ad",
+        "type": "message",
+        "text": "`\"What's up? You put a Ise shulimp at your head of top.\" \"My mom is  needed today.\"`\n“どうしたの？トップの頭に伊勢のシュリンプを置いたんだね。” “今日はママが必要なんだ”\n• 当番が思いつかなかった　on duty, shift 代用は無理やり\n• というか母さん一人称か\n• what’s up は挨拶か最近どう？の意味がほとんどらしく今回には当てはまらない\n• shrimpは小海老。\n• Iseだから冠詞はan",
+        "user": "UKH07E67M",
+        "ts": "1620624695.338900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zgg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"What's up? You put a Ise shulimp at your head of top.\" \"My mom is  needed today.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n“どうしたの？トップの頭に伊勢のシュリンプを置いたんだね。” “今日はママが必要なんだ”\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "当番が思いつかなかった　on duty, shift 代用は無理やり"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "というか母さん一人称か"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "what’s up は挨拶か最近どう？の意味がほとんどらしく今回には当てはまらない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "shrimpは小海老。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Iseだから冠詞はan"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620565613.333700",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "d628452a-bb8c-4eba-bf65-62bc54367418",
+        "type": "message",
+        "text": "We’ll burn Hukai, and we fix here again.",
+        "user": "UKH07E67M",
+        "ts": "1620625409.339100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5rhq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We’ll burn Hukai, and we fix here again."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574378.334800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "d6e4ffc1-4c67-45c6-a0d2-ce5711aef05e",
+        "type": "message",
+        "text": "`We'll burn Hukai, and we fix here again.`\nフカイを燃やして、またここを直すんだ。\n• decay 腐る　腐敗\n• <https:\/\/eigobu.jp\/magazine\/shall> shallの肯定文いつぶりに見ただろう\n• burn away 焼き払う　burn 燃やす　なるほど前者だ\n• resurrect 復活させる　初めて見た\n• reborn は形容詞で復活したかー\n• この大地はこの地球をいうニュアンスか。そういやそんくらいの話のスケールだった気がしてきた\n• fixは不具合を直す意味だから、既に壊れている、腐っている物に対してはresurrectがよい ",
+        "user": "UKH07E67M",
+        "ts": "1620625932.339300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WURK",
+                "title": "【完全版】助動詞「shall」の意味と使い方",
+                "title_link": "https:\/\/eigobu.jp\/magazine\/shall",
+                "text": "「Shall we dance?」というフレーズで「shall」を知っている人も多いと思いますが、「shall」には実は色々な意味と使い方があります。アメリカ人はあまり日常会話に「shall」を使いませんが、聖書などでも出てくる大切なニュアンスが「shall」にはあります。今回は「shall」の意味と使い方を徹底解説したいと思います。",
+                "fallback": "WURK: 【完全版】助動詞「shall」の意味と使い方",
+                "image_url": "https:\/\/cdn.eigobu.jp\/images\/article\/ex\/31\/800x600.jpg",
+                "from_url": "https:\/\/eigobu.jp\/magazine\/shall",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 160434,
+                "id": 1,
+                "original_url": "https:\/\/eigobu.jp\/magazine\/shall"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CoCp1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We'll burn Hukai, and we fix here again.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nフカイを燃やして、またここを直すんだ。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "decay 腐る　腐敗"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/eigobu.jp\/magazine\/shall"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " shallの肯定文いつぶりに見ただろう"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "burn away 焼き払う　burn 燃やす　なるほど前者だ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "resurrect 復活させる　初めて見た"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "reborn は形容詞で復活したかー"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "この大地はこの地球をいうニュアンスか。そういやそんくらいの話のスケールだった気がしてきた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "fixは不具合を直す意味だから、既に壊れている、腐っている物に対してはresurrectがよい "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620574378.334900",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

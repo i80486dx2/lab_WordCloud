@@ -1,0 +1,892 @@
+[
+    {
+        "client_msg_id": "d6ac9ce6-808d-4d04-9405-a4f5ebd5e26e",
+        "type": "message",
+        "text": "Be quiet! If you say bad to my mother, I never agree you.",
+        "user": "UKH07E67M",
+        "ts": "1624707165.213000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oB6R\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Be quiet! If you say bad to my mother, I never agree you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624635177.210700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "6fad31d7-6b26-459b-86ba-d65b8e74f951",
+        "type": "message",
+        "text": "`Be quiet! If you say bad to my mother, I never agree you.`\n静かにしてください。母の悪口を言ったら、絶対に認めません。\n• agree with とか toじゃないと文法的におかしくなる。前者だと〜に合う、後者だと〜に同意賛成する\n• shut up, silenceが黙れ、be quiet は静かに\n• forgiveは過去の過ちに対しての許し、allowは許可\n• trifle with　初めてみた ",
+        "user": "UKH07E67M",
+        "ts": "1624707513.213200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lLJw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Be quiet! If you say bad to my mother, I never agree you.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n静かにしてください。母の悪口を言ったら、絶対に認めません。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "agree with とか toじゃないと文法的におかしくなる。前者だと〜に合う、後者だと〜に同意賛成する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "shut up, silenceが黙れ、be quiet は静かに"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "forgiveは過去の過ちに対しての許し、allowは許可"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "trifle with　初めてみた "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624635177.210800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1624715075.213400",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1624715075.213400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624858098.225200",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "U01F42ZFA73",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624759132.213900"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624774190.215000"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1624791582.219800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624858098.225200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624858098.225200",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「泣いたって無駄だぞ。父さん絶対にはずさないからな」 <https:\/\/pbs.twimg.com\/media\/E40A37gVUAE6I0u.jpg>",
+                "ts": 1624715069,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1408783226139594765",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1408783226139594765>",
+                "text": "「泣いたって無駄だぞ。父さん絶対にはずさないからな」 <https:\/\/pbs.twimg.com\/media\/E40A37gVUAE6I0u.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1408783226139594765",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E40A37gVUAE6I0u.jpg",
+                "image_width": 400,
+                "image_height": 450,
+                "image_bytes": 24042,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "誰がそのシャツを縫うんだい？（おかみさん\/天空の城ラピュタ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1624721577.213500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624721577.213500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624858351.225600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624759579.214500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624774624.215400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624858351.225600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624858351.225600"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：誰がそのシャツを縫うんだい？",
+        "user": "U01UMQH4W4B",
+        "ts": "1624721577.213600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624721577.213600",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624858481.225800",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1624721577.213700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624759639.214700"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624774991.215600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624858481.225800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624858481.225800"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Who’s going to mend that shirt?",
+        "user": "U01UMQH4W4B",
+        "ts": "1624721577.213700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1624721577.213600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "e0fc54af-8dd0-4db9-93ad-e44daed17c8e",
+        "type": "message",
+        "text": "It's useless if you cry. Your dad never puts off this (bra).",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624759132.213900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M0p2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's useless if you cry. Your dad never puts off this (bra)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624715075.213400"
+    },
+    {
+        "client_msg_id": "b5e99d3d-1c70-4328-b993-7ef338c861e4",
+        "type": "message",
+        "text": "反省会「泣いたって無駄だぞ。父さん絶対にはずさないからな」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624759157.214200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SJWEU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「泣いたって無駄だぞ。父さん絶対にはずさないからな」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624759157.214200",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1624858257.225400",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "U01F42ZFA73",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1624759496.214300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1624774511.215200"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1624791981.220000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1624858257.225400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624858257.225400"
+    },
+    {
+        "client_msg_id": "75fa9076-0212-4a40-8e8a-1a873d7144f7",
+        "type": "message",
+        "text": "`It's useless if you cry. Your dad never puts off this (bra).`\nDeepL：泣いてしまっては意味がありません。あなたのお父さんはこれを後回しにしない。\n\n• 脱がない意志だから will。\n• 「服を脱ぐ = take off」は put off とは普通は言わないようだ。知らなかった。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624759496.214300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "647R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's useless if you cry. Your dad never puts off this (bra).",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：泣いてしまっては意味がありません。あなたのお父さんはこれを後回しにしない。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "脱がない意志だから will。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「服を脱ぐ = take off」は put off とは普通は言わないようだ。知らなかった。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624759157.214200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "244f59b1-c1ce-4765-82d6-8dc45dab4464",
+        "type": "message",
+        "text": "Who's going to sew that shirt?",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624759579.214500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b4+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who's going to sew that shirt?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624721577.213500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "3697b1b8-145c-48da-9a8f-981b7c3749b5",
+        "type": "message",
+        "text": "`Who's going to sew that shirt?`\n\n• 惜しい。\n• 単に縫うというより「（縫って）直す」で mend。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624759639.214700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1624759653.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hTmaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who's going to sew that shirt?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "惜しい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "単に縫うというより「（縫って）直す」で mend。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624721577.213600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "0ce2f44d-63b4-4950-9068-2886234ee961",
+        "type": "message",
+        "text": "It is meaningless when you cry. I never put it off.",
+        "user": "UPSPAP97D",
+        "ts": "1624774190.215000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J2vDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is meaningless when you cry. I never put it off."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624715075.213400"
+    },
+    {
+        "client_msg_id": "41065797-17ed-4f7e-ae05-d793fb16adf0",
+        "type": "message",
+        "text": "`It is meaningless when you cry. I never put it off.`\nDeepL「泣いてしまっては意味がありません。後回しにしたことはありません。」\n\n• 『when』と『if』使い所を間違えるのは直したい。\n• 『put off』は使われない。なるほど。(橋本先生の文より)\n• 『it』ではなく、『this』の方が適切そう\n• 「無意味」は『no use』、『useless』が使える。",
+        "user": "UPSPAP97D",
+        "ts": "1624774511.215200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMuO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is meaningless when you cry. I never put it off.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「泣いてしまっては意味がありません。後回しにしたことはありません。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『when』と『if』使い所を間違えるのは直したい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『put off』は使われない。なるほど。(橋本先生の文より)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『it』ではなく、『this』の方が適切そう"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「無意味」は『no use』、『useless』が使える。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624759157.214200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "0704fec8-96f9-4b21-b8a8-9d5969d774b9",
+        "type": "message",
+        "text": "Who do sew this shirt?",
+        "user": "UPSPAP97D",
+        "ts": "1624774624.215400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EjI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who do sew this shirt?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624721577.213500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "99930e2a-66dc-4a37-8849-9cefcb945178",
+        "type": "message",
+        "text": "`Who do sew this shirt?`\nDeepL「このシャツを縫うのは誰？」\n\n• 主語の『who』は『do』とか加えない。中学英語…\n<https:\/\/www.englishcafe.jp\/english3rd\/day13.html>\n• 「その」(手元にない様子)だから『that』だった。\n• 『is going to』がないと、「縫う係は誰？」的なニュアンスになる？(今日も明日も縫う係的な)",
+        "user": "UPSPAP97D",
+        "ts": "1624774991.215600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "whoの疑問文（疑問詞）　基礎からの英語学習　英語喫茶～英語・英文法・英会話～",
+                "title_link": "https:\/\/www.englishcafe.jp\/english3rd\/day13.html",
+                "text": "疑問詞whoによる疑問文についてです。84回のレッスンで英文法をマスター。英語喫茶の内容は、大学の多数の先生方の協力により細部までチェックを入れて作成しております。",
+                "fallback": "whoの疑問文（疑問詞）　基礎からの英語学習　英語喫茶～英語・英文法・英会話～",
+                "from_url": "https:\/\/www.englishcafe.jp\/english3rd\/day13.html",
+                "service_name": "englishcafe.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.englishcafe.jp\/english3rd\/day13.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PVYI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who do sew this shirt?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「このシャツを縫うのは誰？」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "主語の『who』は『do』とか加えない。中学英語…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.englishcafe.jp\/english3rd\/day13.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「その」(手元にない様子)だから『that』だった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『is going to』がないと、「縫う係は誰？」的なニュアンスになる？(今日も明日も縫う係的な)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624721577.213600",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

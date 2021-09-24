@@ -1,0 +1,295 @@
+[
+    {
+        "client_msg_id": "D58366A8-55B3-4282-B7CC-335C4FC14360",
+        "type": "message",
+        "text": "授業が被ってるのですが、どうしたらいいですか？",
+        "user": "U01EP8BUKQT",
+        "ts": "1617071430.012300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ged914d7ba7b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed914d7ba7bbb4f21370d607232d99bf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "上田　健登",
+            "real_name": "上田　健登",
+            "display_name": "kento",
+            "team": "TKS1Q2JUE",
+            "name": "ueken110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "授業が被ってるのですが、どうしたらいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616985271.009900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "c50a386a-5a12-45ff-b9cd-a0fcffd52529",
+        "type": "message",
+        "text": "<@U01EP8BUKQT> もう始まってましたか。後ろにずらしたら大丈夫だったりしますか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617071557.012500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhHqr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もう始まってましたか。後ろにずらしたら大丈夫だったりしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616985271.009900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "E182BC35-7444-4BA7-B61E-E9145D4742F4",
+        "type": "message",
+        "text": "17:00〜からだったら大丈夫です",
+        "user": "U01EP8BUKQT",
+        "ts": "1617071834.013200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ged914d7ba7b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed914d7ba7bbb4f21370d607232d99bf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "上田　健登",
+            "real_name": "上田　健登",
+            "display_name": "kento",
+            "team": "TKS1Q2JUE",
+            "name": "ueken110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0Pt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "17:00〜からだったら大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1616985271.009900",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U01EP8BUKQT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d78d9373-07fb-4df3-91d2-f1132ebe69bb",
+        "type": "message",
+        "text": "<!channel> 初回の研究室会ですが、授業と被ってる方がいるようなので 17時開始に変更できればと思いますが、他の方は大丈夫でしょうか？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617072088.013500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "deq9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 初回の研究室会ですが、授業と被ってる方がいるようなので 17時開始に変更できればと思いますが、他の方は大丈夫でしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "U01EL0SAUTF",
+                    "U01FP2RDV44",
+                    "U01EP8BUKQT",
+                    "U01F31EEVNV",
+                    "UPSPAP97D",
+                    "U01EPKVACEN",
+                    "UKUKA65GU",
+                    "U01EVRBP38C",
+                    "U01EV766AH2",
+                    "U01EP839LHH"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b88036f9-8851-417d-bf54-720fa3cad69e",
+        "type": "message",
+        "text": "<!channel> 概ね皆さん大丈夫そうですので、初回研究室会の時間を以下に変更します：\n4月7日（水）17:00～18:30",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617083454.015400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jFUWC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 概ね皆さん大丈夫そうですので、初回研究室会の時間を以下に変更します：\n4月7日（水）17:00～18:30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617083454.015400",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1617780818.021900",
+        "reply_users": [
+            "U01FP2RDV44",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01FP2RDV44",
+                "ts": "1617780386.021000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617780436.021200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617780445.021400"
+            },
+            {
+                "user": "U01FP2RDV44",
+                "ts": "1617780818.021900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617780818.021900",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAMY7M",
+                    "U01EVRBP38C",
+                    "U01FP2RDV44",
+                    "UPRE1RSJW",
+                    "U01EL0SAUTF",
+                    "U01EP8BUKQT",
+                    "UPSPAP97D",
+                    "U01EV766AH2",
+                    "UKH07E67M",
+                    "U01EP839LHH",
+                    "U01F42ZFA73",
+                    "UKUKA65GU"
+                ],
+                "count": 13
+            }
+        ]
+    }
+]

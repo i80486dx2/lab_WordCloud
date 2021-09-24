@@ -1,0 +1,536 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1605257019.021100",
+        "user": "U01EP839LHH",
+        "text": "<@U01EP839LHH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1605257272.021300",
+        "user": "U01EP8BUKQT",
+        "text": "<@U01EP8BUKQT> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1605257409.021500",
+        "user": "U01EV766AH2",
+        "text": "<@U01EV766AH2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1605258264.021700",
+        "user": "U01EL0SAUTF",
+        "text": "<@U01EL0SAUTF> has joined the channel"
+    },
+    {
+        "client_msg_id": "44dc75e9-6898-4090-97e8-23347ef3cb53",
+        "type": "message",
+        "text": "畠先生の研究室に配属された2年の上田健登です。よろしくお願いします。",
+        "user": "U01EP8BUKQT",
+        "ts": "1605258860.023000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ged914d7ba7b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed914d7ba7bbb4f21370d607232d99bf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "上田　健登",
+            "real_name": "上田　健登",
+            "display_name": "kento",
+            "team": "TKS1Q2JUE",
+            "name": "ueken110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2bMDo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "畠先生の研究室に配属された2年の上田健登です。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UKS1Q2KTQ",
+                    "UKUKA65GU",
+                    "U01EP839LHH",
+                    "U01EL0SAUTF",
+                    "UQ47R82RW",
+                    "UQ63J44BZ",
+                    "UPRE1RSJW",
+                    "UPSPAMY7M",
+                    "UPSPAP97D",
+                    "U01EVRBP38C",
+                    "U01F42ZFA73",
+                    "U01EV766AH2"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8F1B82E1-4670-45CB-93D5-A6999B095107",
+        "type": "message",
+        "text": "橋本先生の研究室に配属された2年の本田大貴です。\nよろしくお願いします！",
+        "user": "U01EL0SAUTF",
+        "ts": "1605259146.025900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YzQ=h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "橋本先生の研究室に配属された2年の本田大貴です。\nよろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UQ47R82RW",
+                    "U01EP839LHH",
+                    "UKUKA65GU",
+                    "UKS1Q2KTQ",
+                    "UQ63J44BZ",
+                    "UPRE1RSJW",
+                    "UPSPAMY7M",
+                    "UPSPAP97D",
+                    "U01EVRBP38C",
+                    "U01F42ZFA73",
+                    "U01EV766AH2"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68BC3FE5-5407-49B7-B8C2-001C8316FE3D",
+        "type": "message",
+        "text": "橋本先生の研究室でお世話になります、2年の平川令祐です。よろしくお願いします。",
+        "user": "U01EP839LHH",
+        "ts": "1605259155.026100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "10f8072a6377",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-02-10\/1728126443014_10f8072a637710127d26_72.png",
+            "first_name": "平川　令祐",
+            "real_name": "平川　令祐",
+            "display_name": "ryosuke",
+            "team": "TKS1Q2JUE",
+            "name": "s1270080",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WEAqM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "橋本先生の研究室でお世話になります、2年の平川令祐です。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UQ47R82RW",
+                    "UKUKA65GU",
+                    "U01EL0SAUTF",
+                    "UKS1Q2KTQ",
+                    "UQ63J44BZ",
+                    "UPRE1RSJW",
+                    "UPSPAMY7M",
+                    "UPSPAP97D",
+                    "U01EVRBP38C",
+                    "U01F42ZFA73",
+                    "U01EV766AH2"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1605274643.028600",
+        "user": "U01EPKVACEN",
+        "text": "<@U01EPKVACEN> has joined the channel"
+    },
+    {
+        "client_msg_id": "0ff65d56-6124-4dfe-a487-92c99d4f266c",
+        "type": "message",
+        "text": "新しく畠先生の研究室に配属されました、学部２年の髙橋麻衣と申します。\n以後よろしくお願いします。",
+        "user": "U01EPKVACEN",
+        "ts": "1605275206.030600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zrx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新しく畠先生の研究室に配属されました、学部２年の髙橋麻衣と申します。\n以後よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAMY7M",
+                    "U01EP839LHH",
+                    "U01EVRBP38C",
+                    "UPSPAP97D",
+                    "U01EL0SAUTF",
+                    "UKS1Q2KTQ",
+                    "U01F42ZFA73",
+                    "UKUKA65GU",
+                    "UKH07E67M",
+                    "U01EV766AH2"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1605275263.030900",
+        "user": "U01EVRBP38C",
+        "text": "<@U01EVRBP38C> has joined the channel"
+    },
+    {
+        "client_msg_id": "6AECFCE7-C3C7-4F90-BB78-88B7940B11A5",
+        "type": "message",
+        "text": "橋本先生の研究室でお世話になります、学部2年C4クラスの櫻井正(さくらい•まさし)です。よろしくお願いします。",
+        "user": "U01EVRBP38C",
+        "ts": "1605289056.033500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "橋本先生の研究室でお世話になります、学部2年C4クラスの櫻井正(さくらい•まさし)です。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "U01EL0SAUTF",
+                    "UKS1Q2KTQ",
+                    "U01EP839LHH",
+                    "U01F42ZFA73",
+                    "UKUKA65GU",
+                    "UKH07E67M",
+                    "UPSPAMY7M",
+                    "U01EV766AH2"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1605289359.033700",
+        "user": "U01F31EEVNV",
+        "text": "<@U01F31EEVNV> has joined the channel"
+    },
+    {
+        "client_msg_id": "3a826b96-9d8e-4355-aafc-e7b1154e0bce",
+        "type": "message",
+        "text": "<!channel> 新メンバーの皆さん、どうぞよろしく！\n\nアカウント名に関して、Display name（左の一覧やメッセージ内でメンションする名前）は小文字始まりのアルファベット、姓か名のどちらか（名優先、かぶりにくい、短い、の基準で）にしてください。Display nameとは別にProfileにFull nameを書くところがあるので、そこにはフルネーム (ex. Yasuhiro Hashimoto)を書いておいてください。メッセージの中で誰かにnotificationを送りたい場合は@の後にDisplay nameの最初の文字を入れると候補者をサジェストしてくれるはず。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1605322282.039100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wCbI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 新メンバーの皆さん、どうぞよろしく！\n\nアカウント名に関して、Display name（左の一覧やメッセージ内でメンションする名前）は小文字始まりのアルファベット、姓か名のどちらか（名優先、かぶりにくい、短い、の基準で）にしてください。Display nameとは別にProfileにFull nameを書くところがあるので、そこにはフルネーム (ex. Yasuhiro Hashimoto)を書いておいてください。メッセージの中で誰かにnotificationを送りたい場合は@の後にDisplay nameの最初の文字を入れると候補者をサジェストしてくれるはず。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U01EL0SAUTF",
+                    "U01EP8BUKQT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9766aa5b-8ca4-4b37-a5a0-82f68b675242",
+        "type": "message",
+        "text": "<!channel> チャンネルは大きくは <#CKPT140M6|announcement> (公式性の高い全体連絡)、<#CKS1Q31GE|random> (雑談：ほぼこれ)、<#CLBRA6QJ3|seminar> (研究室会や輪講の案内や調整)、<#CLLBGS8H5|purchase> (研究室で買って欲しいもののリクエスト) の4つです。適宜使い分けてください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1605323095.041800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fWg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " チャンネルは大きくは "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKPT140M6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (公式性の高い全体連絡)、"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CKS1Q31GE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (雑談：ほぼこれ)、"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CLBRA6QJ3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (研究室会や輪講の案内や調整)、"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CLLBGS8H5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (研究室で買って欲しいもののリクエスト) の4つです。適宜使い分けてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01EVRBP38C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1605325998.042000",
+        "user": "U01F42ZFA73",
+        "text": "<@U01F42ZFA73> has joined the channel"
+    },
+    {
+        "client_msg_id": "c022a474-51c8-4aa8-84ae-23a6176b8436",
+        "type": "message",
+        "text": "橋本先生の研究室に所属します。2年の林　蓮です。よろしくお願いします。",
+        "user": "U01F42ZFA73",
+        "ts": "1605326740.042900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Xp3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "橋本先生の研究室に所属します。2年の林　蓮です。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW",
+                    "U01EP839LHH",
+                    "UKS1Q2KTQ",
+                    "UPSPAP97D",
+                    "U01EL0SAUTF",
+                    "UKUKA65GU",
+                    "UPSPAMY7M",
+                    "UKH07E67M",
+                    "U01EVRBP38C"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

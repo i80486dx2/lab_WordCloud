@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "83749613-76df-480f-bb1d-b1db5fe49419",
+        "type": "message",
+        "text": "次回ゼミは一応7\/25（木）10:00を予定しておきます。内容は鈴木君の輪講の続きと、あと何か考えておきます。もし何かあればDBSJの話もOK。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1563451360.010700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "558ED3B2-34A5-4940-98E7-B2B181B9DB8A",
+        "type": "message",
+        "text": "承知しました。来週もよろしくお願いします。出張どうぞお気をつけて。",
+        "user": "UKUKA65GU",
+        "ts": "1563453895.011300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

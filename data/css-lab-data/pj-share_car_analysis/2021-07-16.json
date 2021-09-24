@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "c431f02b-c634-4601-9cee-ef90d8ad4b45",
+        "type": "message",
+        "text": "• 寄与率の値が前回と同じだけど、前回も同じように標準化された対数値を使ったということであってますか？\n• ちなみに一番寄与率の高い固有値に対応する固有ベクトルはどんなもんですか？\n• 次元削減できないということは各計測値間にほとんど相関がない（全部をバラバラに考慮しないといけない）ということですが、直感的にはどうですか？\n• クラスタリングの結果は何かしら数値的に評価した方がいいです。例えば　<https:\/\/soonraah.hatenablog.com\/entry\/2014\/05\/06\/192258|https:\/\/soonraah.hatenablog.com\/entry\/2014\/05\/06\/192258>\n• 同様に、例えばデータ点をPC1とPC2をxy軸にとって散布図を描いてみる。クラスタらしきものが見えるかどうか。ほんとはUMAPなんかで埋め込みしてみるのがいいですが。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626422597.060400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "froglog",
+                "title": "クラスタリング結果の評価の尺度基準 - froglog",
+                "title_link": "https:\/\/soonraah.hatenablog.com\/entry\/2014\/05\/06\/192258",
+                "text": "このエントリについて クラスタリングの結果を定量評価するときの基準を数年に1回ぐらい調べてる気がするのと、日本語であまりまとまった情報を見ない気がしたので挙げてみます。今回挙げるのはハード（クリスプ）クラスタリングについての指標です。後で追加するかも。 クラスタ内距離二乗和 という呼び方が正しいのかどうかわかりませんが、k-means 法の場合はこの値を繰り返し処理の結果、極小化するようになっており*1、重要な指標となります。 クラスタ内の凝集性を表現します。 \\( P_k = \\sum_{i=1}^k \\sum_{x \\in C_{i} } \\left( d(x, c_i) \\right) …",
+                "fallback": "froglog: クラスタリング結果の評価の尺度基準 - froglog",
+                "image_url": "https:\/\/ogimage.blog.st-hatena.com\/12921228815721440094\/12921228815723333871\/1399371778",
+                "ts": 1399371778,
+                "from_url": "https:\/\/soonraah.hatenablog.com\/entry\/2014\/05\/06\/192258",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 42374,
+                "service_icon": "https:\/\/soonraah.hatenablog.com\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/soonraah.hatenablog.com\/entry\/2014\/05\/06\/192258"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p8SlB",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "寄与率の値が前回と同じだけど、前回も同じように標準化された対数値を使ったということであってますか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ちなみに一番寄与率の高い固有値に対応する固有ベクトルはどんなもんですか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "次元削減できないということは各計測値間にほとんど相関がない（全部をバラバラに考慮しないといけない）ということですが、直感的にはどうですか？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "クラスタリングの結果は何かしら数値的に評価した方がいいです。例えば　"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/soonraah.hatenablog.com\/entry\/2014\/05\/06\/192258",
+                                        "text": "https:\/\/soonraah.hatenablog.com\/entry\/2014\/05\/06\/192258"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "同様に、例えばデータ点をPC1とPC2をxy軸にとって散布図を描いてみる。クラスタらしきものが見えるかどうか。ほんとはUMAPなんかで埋め込みしてみるのがいいですが。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626240349.057700",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

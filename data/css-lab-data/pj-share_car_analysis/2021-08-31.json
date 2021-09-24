@@ -1,0 +1,251 @@
+[
+    {
+        "client_msg_id": "f3f0316e-f83c-409e-8697-0b92cac32e6a",
+        "type": "message",
+        "text": "<@UPRE1RSJW> keplerでデフォルトで表示されているのはtotal objectsですか？",
+        "user": "UPSPAMY7M",
+        "ts": "1630394457.002800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAMY7M",
+            "ts": "1630394559.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1hxiE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " keplerでデフォルトで表示されているのはtotal objectsですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630394457.002800",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1630395882.003500",
+        "reply_users": [
+            "UPRE1RSJW",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1630394624.003100"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1630395743.003300"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1630395882.003500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ff973955-8407-4f22-bd47-60370edc40df",
+        "type": "message",
+        "text": "そうですね。“Color Based On”のところを変えれば他の項目に変更することも出来ます。",
+        "user": "UPRE1RSJW",
+        "ts": "1630394624.003100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RkXz6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね。“Color Based On”のところを変えれば他の項目に変更することも出来ます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630394457.002800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "1353eb23-665b-4015-a506-044065150c35",
+        "type": "message",
+        "text": "やっぱり駅前とかは車の出現が多いですね。\nオブジェクト出現指標　⇄   運転特性の相関　→  時系列変化　→   マップの特性との因果関係（考察の最後で）あたりのストーリーでいけそうな感じします。\n例えば路上で出会う車の数(or人の数)とアクセル頻度を比べるとして、アクセルペダルの踏み込み量の立ち上がりの数を30秒区間でトータルしながら時間シフトして時系列データ化すると車の数（or人の数）と相関関係がありそうな波形のペアになるなんてことないでしょうか？",
+        "user": "UPSPAMY7M",
+        "ts": "1630395743.003300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iWNgo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やっぱり駅前とかは車の出現が多いですね。\nオブジェクト出現指標　⇄   運転特性の相関　→  時系列変化　→   マップの特性との因果関係（考察の最後で）あたりのストーリーでいけそうな感じします。\n例えば路上で出会う車の数(or人の数)とアクセル頻度を比べるとして、アクセルペダルの踏み込み量の立ち上がりの数を30秒区間でトータルしながら時間シフトして時系列データ化すると車の数（or人の数）と相関関係がありそうな波形のペアになるなんてことないでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630394457.002800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "16029996-a9b1-4a1a-b020-262e69b108a7",
+        "type": "message",
+        "text": "なるほど。ちょっとやってみます。",
+        "user": "UPRE1RSJW",
+        "ts": "1630395882.003500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WkD0j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど。ちょっとやってみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630394457.002800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "b215a981-9323-4551-92ac-1200306fa827",
+        "type": "message",
+        "text": "会津大発の経路をDTWでクラスタリングして、大学から出発して大体どの方面に向かうのかを調べました。\nクラスターの数は3,4,5で試しました。\n<https:\/\/kepler.gl\/demo\/map?mapUrl=https:\/\/dl.dropboxusercontent.com\/s\/99gy4us1e8rsx9y\/keplergl_x5hymn4.json>",
+        "user": "UPRE1RSJW",
+        "ts": "1630468813.005100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "kepler.gl",
+                "title": "Large-scale WebGL-powered Geospatial Data Visualization Tool",
+                "title_link": "https:\/\/kepler.gl\/demo\/map?mapUrl=https:\/\/dl.dropboxusercontent.com\/s\/99gy4us1e8rsx9y\/keplergl_x5hymn4.json",
+                "text": "<http:\/\/Kepler.gl|Kepler.gl> is a powerful web-based geospatial data analysis tool. Built on a high performance rendering engine and designed for large-scale data sets.",
+                "fallback": "kepler.gl: Large-scale WebGL-powered Geospatial Data Visualization Tool",
+                "image_url": "https:\/\/d1a3f4spazzrp4.cloudfront.net\/kepler.gl\/kepler.gl-meta-tag.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/kepler.gl\/demo\/map?mapUrl=https:\/\/dl.dropboxusercontent.com\/s\/99gy4us1e8rsx9y\/keplergl_x5hymn4.json",
+                "image_bytes": 200408,
+                "service_icon": "https:\/\/kepler.gl\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/kepler.gl\/demo\/map?mapUrl=https:\/\/dl.dropboxusercontent.com\/s\/99gy4us1e8rsx9y\/keplergl_x5hymn4.json"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PFPt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "会津大発の経路をDTWでクラスタリングして、大学から出発して大体どの方面に向かうのかを調べました。\nクラスターの数は3,4,5で試しました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kepler.gl\/demo\/map?mapUrl=https:\/\/dl.dropboxusercontent.com\/s\/99gy4us1e8rsx9y\/keplergl_x5hymn4.json"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

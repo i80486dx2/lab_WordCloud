@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "7a4e3b52-2f75-446d-8803-51e0d57f9b9d",
+        "type": "message",
+        "text": "<@UPRE1RSJW> 先程の件ですが、以下のリンク先のfacedemoのディレクトリ内に表情認識と顔の向きを推定するソフトウェアが入っています。readmeにしたがってライブラリなどをインストールすれば動作するかと思います。ちなみにrequirments.txtの中に必要なライブラリのバージョンなど書いてありますが、現行の最新バージョンより古いと思うので適宜書き換えて使ってください。\n<https:\/\/www.dropbox.com\/sh\/7jgw0scv6pqmr60\/AAA8ht0szgAFOgpUYyG8LyNla?dl=0>",
+        "user": "UPSPAMY7M",
+        "ts": "1617258019.015500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WR9is",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 先程の件ですが、以下のリンク先のfacedemoのディレクトリ内に表情認識と顔の向きを推定するソフトウェアが入っています。readmeにしたがってライブラリなどをインストールすれば動作するかと思います。ちなみにrequirments.txtの中に必要なライブラリのバージョンなど書いてありますが、現行の最新バージョンより古いと思うので適宜書き換えて使ってください。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/sh\/7jgw0scv6pqmr60\/AAA8ht0szgAFOgpUYyG8LyNla?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abd58a69-6cb2-48d7-99b6-f05e83eda333",
+        "type": "message",
+        "text": "ありがとうございます。",
+        "user": "UPRE1RSJW",
+        "ts": "1617258128.015700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LhRjl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

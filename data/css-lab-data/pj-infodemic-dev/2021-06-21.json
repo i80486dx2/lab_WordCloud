@@ -1,0 +1,206 @@
+[
+    {
+        "client_msg_id": "a44bba3e-01d3-40af-863f-1889b8979a02",
+        "type": "message",
+        "text": "<@UPSPAP97D> この間話したのは、コミュニティの色をグラデーションにするという意味ではなくて、抽出するコミュニティを上位〇％ではなく、例えばノード数100以上のようにした上で、コミュニティ数が増えて色が足らなくなった場合に\nパレットの数を大きなものを使おう、という意味でした。例えば\n<https:\/\/matplotlib.org\/1.2.1\/examples\/pylab_examples\/show_colormaps.html>\nこんな風なパレットの色数が多いものを選べば、コミュニティごとに多少被りはでても、\n結構色分けできるのでは？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624266965.077500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2udB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " この間話したのは、コミュニティの色をグラデーションにするという意味ではなくて、抽出するコミュニティを上位〇％ではなく、例えばノード数100以上のようにした上で、コミュニティ数が増えて色が足らなくなった場合に\nパレットの数を大きなものを使おう、という意味でした。例えば\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/matplotlib.org\/1.2.1\/examples\/pylab_examples\/show_colormaps.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこんな風なパレットの色数が多いものを選べば、コミュニティごとに多少被りはでても、\n結構色分けできるのでは？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624254652.077300",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "953D4AA5-589A-4F07-BCC2-451B9375934F",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ>　なるほどです。勘違いしてました。\n\nothersの分類は残すが、選出方法はノード数に変更。その後、コミュニティ色付けをURL先で言えば『hsv』や『gist_ncor』とかの色が多いやつでindex的な色付けを試す。（色が分かりにくい場合は閾値を上げてみる）\n\nという感じですかね？",
+        "user": "UPSPAP97D",
+        "ts": "1624268157.086100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v4j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　なるほどです。勘違いしてました。\n\nothersの分類は残すが、選出方法はノード数に変更。その後、コミュニティ色付けをURL先で言えば『hsv』や『gist_ncor』とかの色が多いやつでindex的な色付けを試す。（色が分かりにくい場合は閾値を上げてみる）\n\nという感じですかね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624254652.077300",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "215f0f9a-3f10-42f3-b59b-29dcc68069f6",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> index的な色付けを試してみました。\n\n結果としては、\n• コミュニティ数 40～60辺りなら色による大まかなコミュニティ識別が可能 (かなり大雑把な判断なら、120コミュニティでも読み取れる?)\n• コミュニティ数が 15超えると完全な色の識別が難しくなりそう\n(『gist_ncar』の色付け+僕の色識別能力 での話)\n<https:\/\/www.notion.so\/matplotlib-index-791cd49f220a483ba8c8ea6fe8505b38>",
+        "user": "UPSPAP97D",
+        "ts": "1624334662.086400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Murakami's Notion on Notion",
+                "title": "matplotlibでのindex色付けの限界",
+                "title_link": "https:\/\/www.notion.so\/matplotlib-index-791cd49f220a483ba8c8ea6fe8505b38",
+                "text": "データ:",
+                "fallback": "Murakami's Notion on Notion: matplotlibでのindex色付けの限界",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9082a9ba-3ea6-4f2d-81d5-3bc7e3e2fe08%2Finfomap_info.png?table=block&id=7adff2d7-2f8a-402b-981e-7533521013a2&width=2050&userId=&cache=v2",
+                "from_url": "https:\/\/www.notion.so\/matplotlib-index-791cd49f220a483ba8c8ea6fe8505b38",
+                "image_width": 753,
+                "image_height": 250,
+                "image_bytes": 36112,
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/matplotlib-index-791cd49f220a483ba8c8ea6fe8505b38"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGso",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " index的な色付けを試してみました。\n\n結果としては、\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "コミュニティ数 40～60辺りなら色による大まかなコミュニティ識別が可能 (かなり大雑把な判断なら、120コミュニティでも読み取れる?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "コミュニティ数が 15超えると完全な色の識別が難しくなりそう"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(『gist_ncar』の色付け+僕の色識別能力 での話)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/matplotlib-index-791cd49f220a483ba8c8ea6fe8505b38"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624254652.077300",
+        "parent_user_id": "UPSPAP97D"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1617786681.031500",
+        "user": "U01EPKVACEN",
+        "text": "<@U01EPKVACEN> has joined the channel",
+        "team": "TKS1Q2JUE"
+    }
+]

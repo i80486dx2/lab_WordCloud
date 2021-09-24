@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "6ddd5adb-0758-4f76-84ac-7785c5d99612",
+        "type": "message",
+        "text": "<@UPSPAP97D> すみません、話し込んでたら遅くなりました。前回と同じアドレスで↑",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623820135.006100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nksxQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません、話し込んでたら遅くなりました。前回と同じアドレスで↑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1623397878.003300",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

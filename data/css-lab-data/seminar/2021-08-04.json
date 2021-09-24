@@ -1,0 +1,175 @@
+[
+    {
+        "client_msg_id": "65eb6ed9-52d9-428d-ad86-b1948f725c96",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01EP8BUKQT> <@U01EV766AH2> <@U01F31EEVNV> <@U01EPKVACEN>\n次回のVR輪講の論文はリンクの通りです。今回はCAVEシステムというゴーグルを使わないVRです（要するにプロジェクションマッピング）。各自間が開くため分量重めなので発表はスライド３枚までOKとします。\n<https:\/\/www.dropbox.com\/s\/unsvaqn8vi5cvpq\/Examining_Rotation_Gain_in_CAVE-like_Virtual_Environments.pdf?dl=0>\n割り当ては\n\n<@U01EV766AH2>　→ 1 INTRODUCTION &amp; 2 RELATED WORK\n<@UPSPAP97D> → 3 ROTATION GAIN DEFINITION AND IMPLEMENTATION &amp; 4 CONSIDERATIONS &amp; 5 PILOT STUDY （各セクションは短いですが、全体的にサラッとでお願いします）\n<@U01EPKVACEN> → 6 STUDY\n<@U01F31EEVNV>　→ 7 MAIN RESULTS\n<@U01EP8BUKQT>　→ 8 SECONDARY RESULTS\n\n\n次回は\n８月２４日（火）16:30〜　オンライン開催予定\nよろしくお願いします。\n\n【過去資料の置き場所を以下のGoogleDriveに設定しました】\n<https:\/\/drive.google.com\/drive\/folders\/1Bo8wFQhgqGN_QRdu6KBDUFM-dWFZ2pCe?usp=sharing>\n輪講で使用した資料をアップしてください。\nファイル名は輪講のあった日時と名前としてください。整理は私がしておきます。\nex) 2021年7月13日の輪講資料　→　20210713_hata.pdf（ファイル形式はPDF統一とします）\n※今回は各自スライド３枚までOKにします\n※VR輪講メンバーに割当たっていない学生も参加OKです",
+        "user": "UPSPAMY7M",
+        "ts": "1628141060.003900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D6f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n次回のVR輪講の論文はリンクの通りです。今回はCAVEシステムというゴーグルを使わないVRです（要するにプロジェクションマッピング）。各自間が開くため分量重めなので発表はスライド３枚までOKとします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/unsvaqn8vi5cvpq\/Examining_Rotation_Gain_in_CAVE-like_Virtual_Environments.pdf?dl=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n割り当ては\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　→ 1 INTRODUCTION & 2 RELATED WORK\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " → 3 ROTATION GAIN DEFINITION AND IMPLEMENTATION & 4 CONSIDERATIONS & 5 PILOT STUDY （各セクションは短いですが、全体的にサラッとでお願いします）\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " → 6 STUDY\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　→ 7 MAIN RESULTS\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　→ 8 SECONDARY RESULTS\n\n\n次回は\n８月２４日（火）16:30〜　オンライン開催予定\nよろしくお願いします。\n\n【過去資料の置き場所を以下のGoogleDriveに設定しました】\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1Bo8wFQhgqGN_QRdu6KBDUFM-dWFZ2pCe?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n輪講で使用した資料をアップしてください。\nファイル名は輪講のあった日時と名前としてください。整理は私がしておきます。\nex) 2021年7月13日の輪講資料　→　20210713_hata.pdf（ファイル形式はPDF統一とします）\n※今回は各自スライド３枚までOKにします\n※VR輪講メンバーに割当たっていない学生も参加OKです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628141060.003900",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1629181759.009600",
+        "reply_users": [
+            "U01EP8BUKQT",
+            "U01EPKVACEN",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "U01EP8BUKQT",
+                "ts": "1628921619.008400"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1628931909.008600"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1628943399.008800"
+            },
+            {
+                "user": "U01EP8BUKQT",
+                "ts": "1629006911.009300"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1629181759.009600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "U01EP8BUKQT"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

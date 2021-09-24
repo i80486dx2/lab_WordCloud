@@ -1,0 +1,360 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583998204.000200",
+        "user": "UPSPAMY7M",
+        "text": "<@UPSPAMY7M> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583998240.000400",
+        "user": "UPSPAP97D",
+        "text": "<@UPSPAP97D> has joined the channel",
+        "inviter": "UPSPAMY7M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583998240.000600",
+        "user": "UPRE1RSJW",
+        "text": "<@UPRE1RSJW> has joined the channel",
+        "inviter": "UPSPAMY7M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583998241.000800",
+        "user": "UKS1Q2KTQ",
+        "text": "<@UKS1Q2KTQ> has joined the channel",
+        "inviter": "UPSPAMY7M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583998241.001000",
+        "user": "UKUKA65GU",
+        "text": "<@UKUKA65GU> has joined the channel",
+        "inviter": "UPSPAMY7M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583998241.001200",
+        "user": "UKH07E67M",
+        "text": "<@UKH07E67M> has joined the channel",
+        "inviter": "UPSPAMY7M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583998241.001400",
+        "user": "UQ47R82RW",
+        "text": "<@UQ47R82RW> has joined the channel",
+        "inviter": "UPSPAMY7M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583998241.001600",
+        "user": "UQ63J44BZ",
+        "text": "<@UQ63J44BZ> has joined the channel",
+        "inviter": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "a5a7539d-01cc-4eb2-bbe5-9e25a9260000",
+        "type": "message",
+        "text": "<!channel> <@UPRE1RSJW> <@UPSPAP97D> <@UKUKA65GU> シェアカーのデータ解析を依頼している研究補助アルバイトに関するチャンネルです。データ、ソースコード、進捗などアップしてください。",
+        "user": "UPSPAMY7M",
+        "ts": "1583998307.002800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XXjn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " シェアカーのデータ解析を依頼している研究補助アルバイトに関するチャンネルです。データ、ソースコード、進捗などアップしてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "アクセルの可視化です。\n(pandasとfolium[地図にプロット]を使用します)\n\n※ヨークベニマルのチャンネルから移行してアップしたものです。",
+        "files": [
+            {
+                "id": "FVB923EBZ",
+                "created": 1583998863,
+                "timestamp": 1583998863,
+                "name": "accelVmap.ipynb",
+                "title": "accelVmap.ipynb",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UPSPAP97D",
+                "editable": true,
+                "size": 397673,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FVB923EBZ\/accelvmap.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FVB923EBZ\/download\/accelvmap.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/FVB923EBZ\/accelvmap.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-FVB923EBZ-97aa911a8f",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/FVB923EBZ\/accelvmap.ipynb\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7J33",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アクセルの可視化です。\n(pandasとfolium[地図にプロット]を使用します)\n\n※ヨークベニマルのチャンネルから移行してアップしたものです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAP97D",
+        "display_as_bot": false,
+        "ts": "1583998865.002900",
+        "client_msg_id": "0e956118-5c3a-4db9-8a30-f238dded05ee"
+    },
+    {
+        "client_msg_id": "e3526b00-5b6f-4277-be84-a724c46ae973",
+        "type": "message",
+        "text": "<@UPSPAP97D> 共有ありがとうございます。確認してみます。",
+        "user": "UPSPAMY7M",
+        "ts": "1583999220.003500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 共有ありがとうございます。確認してみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583999220.003500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1583999585.003700",
+        "reply_users": [
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1583999585.003700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02ceae9d-e3f8-4729-9d94-2251c39f0b35",
+        "type": "message",
+        "text": "もし、このプログラム中のコメントで何を言っているのか分からない所や、エラーがあれば教えて下さい。",
+        "user": "UPSPAP97D",
+        "ts": "1583999585.003700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1583999776.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L7ZJM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もし、このプログラム中のコメントで何を言っているのか分からない所や、エラーがあれば教えて下さい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583999220.003500",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "type": "message",
+        "text": "ブレーキの可視化です。(アクセルのプログラムの流用品です)\n\n\nブレーキのデータで0より大きい値を集め、そのまま10等分した場合、327680の値が多い為、色分けグループ3,4,5番目の最大値が一致してしまう。この分類をどうするかも課題の一つですかね？\n[一番最後の地図のバーから読み取れる、色ごとの最大値より]",
+        "files": [
+            {
+                "id": "FVBAC188P",
+                "created": 1584000725,
+                "timestamp": 1584000725,
+                "name": "brakeVmap.ipynb",
+                "title": "brakeVmap.ipynb",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UPSPAP97D",
+                "editable": true,
+                "size": 777591,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FVBAC188P\/brakevmap.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-FVBAC188P\/download\/brakevmap.ipynb?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/FVBAC188P\/brakevmap.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-FVBAC188P-e4783d110e",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPSPAP97D\/FVBAC188P\/brakevmap.ipynb\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZUq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ブレーキの可視化です。(アクセルのプログラムの流用品です)\n\n\nブレーキのデータで0より大きい値を集め、そのまま10等分した場合、327680の値が多い為、色分けグループ3,4,5番目の最大値が一致してしまう。この分類をどうするかも課題の一つですかね？\n[一番最後の地図のバーから読み取れる、色ごとの最大値より]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPSPAP97D",
+        "display_as_bot": false,
+        "ts": "1584000727.004000",
+        "client_msg_id": "6912ca8f-9b79-42f7-87ec-b4cabc8b4a7e"
+    }
+]

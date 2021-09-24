@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "97f9f3c3-067c-4ebb-b88d-1e502dbc1e72",
+        "type": "message",
+        "text": "こんにちは、s1280166　坂本　りょうじです",
+        "user": "U01UYS5QBH8",
+        "ts": "1618989514.039700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "219187d76b41",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-21\/1970119070471_219187d76b41acde0582_72.png",
+            "first_name": "ryoji",
+            "real_name": "ryoji sakamoto 坂本　凌司",
+            "display_name": "ryoji",
+            "team": "TKS1Q2JUE",
+            "name": "ryoji_sakamoto",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "39Au",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんにちは、s1280166　坂本　りょうじです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01FP2RDV44",
+                    "UKS1Q2KTQ",
+                    "UKUKA65GU",
+                    "U01TMSLEBUH"
+                ],
+                "count": 4
+            },
+            {
+                "name": "rugby_football",
+                "users": [
+                    "U01FP2RDV44",
+                    "UKH07E67M",
+                    "UKUKA65GU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6be9067-b740-4440-9cf6-1ff0b6fb885e",
+        "type": "message",
+        "text": "↑武道場の新人です。元ラガーマン。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1618989657.040500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "menWN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑武道場の新人です。元ラガーマン。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

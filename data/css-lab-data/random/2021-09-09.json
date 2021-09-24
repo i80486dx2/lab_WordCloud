@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "b238059d-9ce8-49de-bef3-8fdd722f4433",
+        "type": "message",
+        "text": "二部探索は値の探索だけにしか使えないと思いがちだが、解を仮定することで正しい解を求めることもできる。その確認ができる良い問題。\n<https:\/\/atcoder.jp\/contests\/abc192\/tasks\/abc192_d>",
+        "user": "U01F42ZFA73",
+        "ts": "1631243160.017500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "AtCoder",
+                "title": "D - Base n",
+                "title_link": "https:\/\/atcoder.jp\/contests\/abc192\/tasks\/abc192_d",
+                "text": "AtCoder is a programming contest site for anyone from beginners to experts. We hold weekly programming contests online.",
+                "fallback": "AtCoder: D - Base n",
+                "thumb_url": "https:\/\/img.atcoder.jp\/assets\/atcoder.png",
+                "from_url": "https:\/\/atcoder.jp\/contests\/abc192\/tasks\/abc192_d",
+                "thumb_width": 280,
+                "thumb_height": 280,
+                "service_icon": "http:\/\/img.atcoder.jp\/assets\/atcoder.png",
+                "id": 1,
+                "original_url": "https:\/\/atcoder.jp\/contests\/abc192\/tasks\/abc192_d"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "feA\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "二部探索は値の探索だけにしか使えないと思いがちだが、解を仮定することで正しい解を求めることもできる。その確認ができる良い問題。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atcoder.jp\/contests\/abc192\/tasks\/abc192_d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

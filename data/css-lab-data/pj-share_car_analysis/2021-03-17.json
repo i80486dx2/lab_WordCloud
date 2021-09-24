@@ -1,0 +1,210 @@
+[
+    {
+        "type": "message",
+        "text": "2019年11月16日〜2020年８月18日のデータを分析しました。\n*<http:\/\/kepler.gl|kepler.gl>*\nkepler.glではどこにクルマが停車していたのかを、運転開始時と運転終了時でプロットしました。\n*サンキーダイアグラム*\nサンキーダイアグラムでもプロットしました。A→B地点の移動を街区レベルで分類しました。A→B地点の移動記録は２回以上の走行が記録されたものをプロットしてます。青色のノードが会津若松市内でそれ以外は緑色になっています。jupyterでホバーすると、その区間の走行回数が表示されます。",
+        "files": [
+            {
+                "id": "F01R75X6PTR",
+                "created": 1616030476,
+                "timestamp": 1616030476,
+                "name": "kepler.gl.html",
+                "title": "kepler.gl.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "UPRE1RSJW",
+                "editable": true,
+                "size": 232938,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01R75X6PTR\/kepler.gl.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01R75X6PTR\/download\/kepler.gl.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01R75X6PTR\/kepler.gl.html",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01R75X6PTR-dd63c7c4a6",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01R75X6PTR\/kepler.gl.html\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01RF5XG630",
+                "created": 1616030724,
+                "timestamp": 1616030724,
+                "name": "sharecar_sankey_hover.png",
+                "title": "sharecar_sankey_hover.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 481259,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01RF5XG630\/sharecar_sankey_hover.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01RF5XG630\/download\/sharecar_sankey_hover.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XG630-707158e038\/sharecar_sankey_hover_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XG630-707158e038\/sharecar_sankey_hover_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XG630-707158e038\/sharecar_sankey_hover_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 134,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XG630-707158e038\/sharecar_sankey_hover_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 178,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XG630-707158e038\/sharecar_sankey_hover_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XG630-707158e038\/sharecar_sankey_hover_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 267,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XG630-707158e038\/sharecar_sankey_hover_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 297,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XG630-707158e038\/sharecar_sankey_hover_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 356,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XG630-707158e038\/sharecar_sankey_hover_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 380,
+                "original_w": 1946,
+                "original_h": 722,
+                "thumb_tiny": "AwARADDSOOtL0oIyKimLBQFDc91HSgCXNAIIyKiViwOVkH1FOUYHfP0oAfR1pihsYY5\/CnKMDFAC0UUUAFFFFABRRRQB\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01RF5XG630\/sharecar_sankey_hover.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01RF5XG630-cd9900692d",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01RF5XJSJJ",
+                "created": 1616030727,
+                "timestamp": 1616030727,
+                "name": "sharecar_sankey.png",
+                "title": "sharecar_sankey.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 448295,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01RF5XJSJJ\/sharecar_sankey.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01RF5XJSJJ\/download\/sharecar_sankey.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XJSJJ-eeed8f853e\/sharecar_sankey_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XJSJJ-eeed8f853e\/sharecar_sankey_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XJSJJ-eeed8f853e\/sharecar_sankey_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 134,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XJSJJ-eeed8f853e\/sharecar_sankey_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 178,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XJSJJ-eeed8f853e\/sharecar_sankey_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XJSJJ-eeed8f853e\/sharecar_sankey_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 267,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XJSJJ-eeed8f853e\/sharecar_sankey_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 297,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XJSJJ-eeed8f853e\/sharecar_sankey_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 356,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01RF5XJSJJ-eeed8f853e\/sharecar_sankey_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 380,
+                "original_w": 1946,
+                "original_h": 722,
+                "thumb_tiny": "AwARADDSOOtL0oIyKZIG24BI9xQA\/NAII4pn\/fX5UAYHfP0oAfR1pihsYY5\/CnKMDFAC0UUUAFFFFABRRRQB\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01RF5XJSJJ\/sharecar_sankey.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01RF5XJSJJ-d4e63245db",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oUMB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2019年11月16日〜2020年８月18日のデータを分析しました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/kepler.gl",
+                                "text": "kepler.gl",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nkepler.glではどこにクルマが停車していたのかを、運転開始時と運転終了時でプロットしました。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "サンキーダイアグラム",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nサンキーダイアグラムでもプロットしました。A→B地点の移動を街区レベルで分類しました。A→B地点の移動記録は２回以上の走行が記録されたものをプロットしてます。青色のノードが会津若松市内でそれ以外は緑色になっています。jupyterでホバーすると、その区間の走行回数が表示されます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1616030872.004400",
+        "edited": {
+            "user": "UPRE1RSJW",
+            "ts": "1616030967.000000"
+        },
+        "thread_ts": "1616030872.004400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1616980071.013000",
+        "reply_users": [
+            "UPSPAMY7M",
+            "UPRE1RSJW",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1616121378.005200"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1616124696.005400"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1616980071.013000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1616980071.013000"
+    }
+]

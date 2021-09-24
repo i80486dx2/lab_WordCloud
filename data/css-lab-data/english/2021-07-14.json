@@ -1,0 +1,2327 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1626261648.316300",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1626261648.316300",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626319917.326800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01F42ZFA73",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626278485.324600"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626317067.325700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1626319269.326200"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626319917.326800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626319917.326800",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「ワシがわびって言ったら、わびなの！」利休は奇声を上げながらパタパタと跳ね、泣き崩れた。 <https:\/\/pbs.twimg.com\/media\/E6QMifUUYAc-beE.jpg>",
+                "ts": 1626261634,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1415269990593224714",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1415269990593224714>",
+                "text": "「ワシがわびって言ったら、わびなの！」利休は奇声を上げながらパタパタと跳ね、泣き崩れた。 <https:\/\/pbs.twimg.com\/media\/E6QMifUUYAc-beE.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1415269990593224714",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E6QMifUUYAc-beE.jpg",
+                "image_width": 400,
+                "image_height": 480,
+                "image_bytes": 35951,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "111529FA-1164-4E18-9665-AD0BDC132977",
+        "type": "message",
+        "text": "I won’t to talk anything until my lawyer coming.",
+        "user": "U01EVRBP38C",
+        "ts": "1626261837.318100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7=U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I won’t to talk anything until my lawyer coming."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625801169.282600"
+    },
+    {
+        "client_msg_id": "078279F2-31E0-4C8F-983C-63F34F24A3E7",
+        "type": "message",
+        "text": "He was fired of the bread factory because he had given his face to an antisocial party.",
+        "user": "U01EVRBP38C",
+        "ts": "1626262718.320800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6iv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He was fired of the bread factory because he had given his face to an antisocial party."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626007086.305200"
+    },
+    {
+        "client_msg_id": "DDB4E83C-BB85-4FE4-9625-016F0B6F63F3",
+        "type": "message",
+        "text": "She has awful characteristics but has strongest shoulders.",
+        "user": "U01EVRBP38C",
+        "ts": "1626263568.323400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "my8wo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "She has awful characteristics but has strongest shoulders."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626146189.309900"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "おじいさん、そのブラシを貸してください！（キキ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1626276778.323800",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1626276778.323800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1626323423.329100",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626281708.324800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626320923.327200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1626323423.329100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626323423.329100"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：おじいさん、そのブラシを貸してください！",
+        "user": "U01UMQH4W4B",
+        "ts": "1626276778.323900",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1626276778.323900",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626323715.329300",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1626276778.324000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626281911.325000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626321319.328000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1626323715.329300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626323715.329300"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Please, sir, may I borrow your broom?",
+        "user": "U01UMQH4W4B",
+        "ts": "1626276778.324000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1626276778.323900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b505caf4-4f58-4336-9bfb-222224b1e99b",
+        "type": "message",
+        "text": "Swift wrote about Laputa in his novel \"Gulliver's Travel Diary\", which is only an imagination.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626277970.324200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9G=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Swift wrote about Laputa in his novel \"Gulliver's Travel Diary\", which is only an imagination."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626190378.314600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "af68b52a-14f9-43a5-96f8-26309b955579",
+        "type": "message",
+        "text": "`Swift wrote about Laputa in his novel \"Gulliver's Travel Diary\", which is only an imagination.`\nDeepL：スウィフトは小説「ガリバー旅行記」でラピュタのことを書いているが、これはあくまでも想像である。\n\n• 模範解答シンプルだな…。\n• a Laputa？ラピュタは countable！？\n• 「ガリバー旅行記 = Gulliver's Travels」惜しい。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626278122.324400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JOQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Swift wrote about Laputa in his novel \"Gulliver's Travel Diary\", which is only an imagination.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：スウィフトは小説「ガリバー旅行記」でラピュタのことを書いているが、これはあくまでも想像である。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "模範解答シンプルだな…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "a Laputa？ラピュタは countable！？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「ガリバー旅行記 = Gulliver's Travels」惜しい。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626190378.314700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "47a2af22-c5b0-45ae-9e87-05fdd9f71224",
+        "type": "message",
+        "text": "When I say Wabi, I definitely meant Wabi!\" Rikyu squealed, rampaged, and tumbled down into tears.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626278485.324600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iaPD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I say Wabi, I definitely meant Wabi!\" Rikyu squealed, rampaged, and tumbled down into tears."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626261648.316300"
+    },
+    {
+        "client_msg_id": "0e216100-902b-4001-a25a-ded22b6e1e95",
+        "type": "message",
+        "text": "Grandpa, please lend that brush to me!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626281708.324800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "urZ1D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Grandpa, please lend that brush to me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626276778.323800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b8a0b011-8e14-4b1a-80d8-b36672d9f761",
+        "type": "message",
+        "text": "`Grandpa, please lend that brush to me!`\nDeepL：おじいちゃん、そのブラシを私に貸してください。\n\n• 知らないおじいちゃんは Sir。あと Sir の位置。\n• broom だと箒だろう…。映画のシーンではデッキブラシじゃなかったかな？\n• 「そのブラシ」は「your ブラシ」でした。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626281911.325000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4XA2f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Grandpa, please lend that brush to me!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：おじいちゃん、そのブラシを私に貸してください。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "知らないおじいちゃんは Sir。あと Sir の位置。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "broom だと箒だろう…。映画のシーンではデッキブラシじゃなかったかな？"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「そのブラシ」は「your ブラシ」でした。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626276778.323900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "98af804b-be4e-4244-a965-7cb2bb944b8c",
+        "type": "message",
+        "text": "反省会：「ワシがわびって言ったら、わびなの！」利休は奇声を上げながらパタパタと跳ね、泣き崩れた。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626281928.325400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q1lbF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：「ワシがわびって言ったら、わびなの！」利休は奇声を上げながらパタパタと跳ね、泣き崩れた。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626281928.325400",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626329483.329900",
+        "reply_users": [
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1626319707.326600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626320700.327000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626322869.328900"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626329483.329900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626329483.329900"
+    },
+    {
+        "client_msg_id": "b3b11185-026d-4753-b253-79d04ae61f9a",
+        "type": "message",
+        "text": "ラピュタは複数あったのか...",
+        "user": "UKH07E67M",
+        "ts": "1626307325.325500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HEE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ラピュタは複数あったのか..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626190378.314700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "20b79147-4147-4f01-810d-48f108c758fe",
+        "type": "message",
+        "text": "\"If I say \"Wabi\", it is \"Wabi\" !\". Rikyu cried and kneeled with squealing and jumping.",
+        "user": "U01F42ZFA73",
+        "ts": "1626317067.325700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y8csz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"If I say \"Wabi\", it is \"Wabi\" !\". Rikyu cried and kneeled with squealing and jumping."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626261648.316300"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1626318379.325900",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1626318379.325900",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626329949.330200",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626320966.327400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626321574.328500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1626324183.329500"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626329949.330200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626329949.330200",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「ごめん！今の法螺貝なし！まだ攻め込まないで！藤吉郎がうんこだって！」 <https:\/\/pbs.twimg.com\/media\/E6Tk-8EUUAAkuSL.jpg>",
+                "ts": 1626318373,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1415507970629140480",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1415507970629140480>",
+                "text": "「ごめん！今の法螺貝なし！まだ攻め込まないで！藤吉郎がうんこだって！」 <https:\/\/pbs.twimg.com\/media\/E6Tk-8EUUAAkuSL.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1415507970629140480",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E6Tk-8EUUAAkuSL.jpg",
+                "image_width": 400,
+                "image_height": 550,
+                "image_bytes": 86248,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93072e05-aabe-40c8-aec5-467be19d353a",
+        "type": "message",
+        "text": "In the Travel Daily of Galliver, Swifts wrote Laputa, but it’s just imagine.",
+        "user": "UPSPAP97D",
+        "ts": "1626319003.326000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HTL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the Travel Daily of Galliver, Swifts wrote Laputa, but it’s just imagine."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626190378.314600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "894f35b4-8d44-45d4-b6b0-243a1d87f7a6",
+        "type": "message",
+        "text": "\"When I said Wabi, this is Wabi !\" Rikyu downed with crying after he jumped with screaming.",
+        "user": "UKH07E67M",
+        "ts": "1626319269.326200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56HvH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"When I said Wabi, this is Wabi !\" Rikyu downed with crying after he jumped with screaming."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626261648.316300"
+    },
+    {
+        "client_msg_id": "ead00ce7-233b-47ed-a916-5f4bfef4fc92",
+        "type": "message",
+        "text": "`In the Travel Daily of Galliver, Swifts wrote Laputa, but it's just imagine.`\nDeepL「ガリバーの旅行日誌では、スイフトがラピュタを書いていましたが、あくまでも想像です。」\n\n• 「ガリバー旅行記」は『Gulliver’s Travels』(色んな旅行の話なので、travelは複数形?)\n• 「書いている」を「---は〜にある」の『there is --- in 〜』 文にするのは思いつかない…\n• 『imagine』は「(〜を)想像する」で動詞。\n• 『make ~ up』で「〜をでっち上げる」",
+        "user": "UPSPAP97D",
+        "ts": "1626319617.326400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lrk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the Travel Daily of Galliver, Swifts wrote Laputa, but it's just imagine.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「ガリバーの旅行日誌では、スイフトがラピュタを書いていましたが、あくまでも想像です。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「ガリバー旅行記」は『Gulliver’s Travels』(色んな旅行の話なので、travelは複数形?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「書いている」を「---は〜にある」の『there is --- in 〜』 文にするのは思いつかない…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『imagine』は「(〜を)想像する」で動詞。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『make ~ up』で「〜をでっち上げる」"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626190378.314700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "a315cdf9-4ff9-4a56-8686-6fa8e14d2542",
+        "type": "message",
+        "text": "`\"When I said Wabi, this is Wabi !\" Rikyu downed with crying after he jumped with screaming.`\n「侘びと言えば、これが侘びだ！」。叫びながらジャンプした後、泣きながらダウンする利休さん。\n• そっか、「言ったら」っていうifだから現在形か\n• わびなの！　→私は意味する。なーる\n•  声をあげる→raiseでいいんだ\n• weird 奇怪な\n• flop バタバタ動く、ゴロリと横になる、どかりと座る、どぶんと飛び込む、突然態度を変える、失敗に終わる、潰れる、寝入る。　たくさんあるけど、不貞腐れたガキの行動を表す便利な言葉。自分もよく使いそう\n• collapse into tears 泣き崩れる　便利",
+        "user": "UKH07E67M",
+        "ts": "1626319707.326600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6QrSl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"When I said Wabi, this is Wabi !\" Rikyu downed with crying after he jumped with screaming.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n「侘びと言えば、これが侘びだ！」。叫びながらジャンプした後、泣きながらダウンする利休さん。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "そっか、「言ったら」っていうifだから現在形か"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "わびなの！　→私は意味する。なーる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 声をあげる→raiseでいいんだ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "weird 奇怪な"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "flop バタバタ動く、ゴロリと横になる、どかりと座る、どぶんと飛び込む、突然態度を変える、失敗に終わる、潰れる、寝入る。　たくさんあるけど、不貞腐れたガキの行動を表す便利な言葉。自分もよく使いそう"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "collapse into tears 泣き崩れる　便利"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626281928.325400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "b895e563-da87-4799-9dce-edc05f7bb6d3",
+        "type": "message",
+        "text": "“If I say Wabi, it’s completely Wabi!” Rikyu jumped, quarreled and felt down with his tear.",
+        "user": "UPSPAP97D",
+        "ts": "1626319917.326800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ox5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“If I say Wabi, it’s completely Wabi!” Rikyu jumped, quarreled and felt down with his tear."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626261648.316300"
+    },
+    {
+        "client_msg_id": "f8b83c4f-0e05-409f-87d0-834722bcf79f",
+        "type": "message",
+        "text": "`\"If I say Wabi, it's completely Wabi!\" Rikyu jumped, quarreled and felt down with his tear.`\nDeepL「“私が侘びと言えば、完全に侘びなのだ！” 利休はジャンプしたり、けんかしたり、涙を流して落ち込んだりしました。」\n\n• 『felt』は「feel」の過去形。『fell』が「fall」の過去形。({出ない英語: だるまさん編} と同じミス…)\n• 『when』と『if』の使い分け、上手くいかない…\n• 『weird』は「変な、不気味、おかしな」。(新単語！？) \n• 「奇声」は『weird cry』\n• 『quarrel』は「口論、喧嘩」。『squeal』が「金切り声で叫ぶ」\n• 「泣き崩れる」は『collapse into tears』。(涙は複数形)\n• 『flop』が「パタパタ動く」。ぐずるような動きも可能。(蒼紫くんの文より)",
+        "user": "UPSPAP97D",
+        "ts": "1626320700.327000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"If I say Wabi, it's completely Wabi!\" Rikyu jumped, quarreled and felt down with his tear.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「“私が侘びと言えば、完全に侘びなのだ！” 利休はジャンプしたり、けんかしたり、涙を流して落ち込んだりしました。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『felt』は「feel」の過去形。『fell』が「fall」の過去形。({出ない英語: だるまさん編} と同じミス…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『when』と『if』の使い分け、上手くいかない…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『weird』は「変な、不気味、おかしな」。(新単語！？) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「奇声」は『weird cry』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『quarrel』は「口論、喧嘩」。『squeal』が「金切り声で叫ぶ」"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「泣き崩れる」は『collapse into tears』。(涙は複数形)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『flop』が「パタパタ動く」。ぐずるような動きも可能。(蒼紫くんの文より)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626281928.325400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "24cf563e-2404-4b6a-a8c2-5dee908f6479",
+        "type": "message",
+        "text": "Hey, please borrow me the brush!",
+        "user": "UPSPAP97D",
+        "ts": "1626320923.327200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/e4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, please borrow me the brush!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626276778.323800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "8329d82d-398b-4006-9966-30e8245d6f97",
+        "type": "message",
+        "text": "Sorry! Forget the earlier conch horn! Don't attack yet! Tokichiro says he needs to poo!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626320966.327400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z2g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! Forget the earlier conch horn! Don't attack yet! Tokichiro says he needs to poo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626318379.325900"
+    },
+    {
+        "client_msg_id": "be7779a6-65b8-4e36-8a79-4c7657f24c00",
+        "type": "message",
+        "text": "反省会「ごめん！今の法螺貝なし！まだ攻め込まないで！藤吉郎がうんこだって！」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626320982.327700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O7Fqo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「ごめん！今の法螺貝なし！まだ攻め込まないで！藤吉郎がうんこだって！」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626320982.327700",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1626330430.330400",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPSPAP97D",
+            "UKH07E67M",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1626321248.327800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1626322343.328700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1626324353.329700"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626330430.330400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626330430.330400"
+    },
+    {
+        "client_msg_id": "82d2a99e-8885-4a7a-bc0d-250acee3ef0b",
+        "type": "message",
+        "text": "`Sorry! Forget the earlier conch horn! Don't attack yet! Tokichiro says he needs to poo!`\nDeepL：申し訳ありません。先ほどの法螺貝は忘れてください。まだ攻撃するな！藤吉郎がうんちをしたいと言っています!\n\n• DeepL訳が人格破綻してるな…。\n• 「今の（法螺貝）」は直近の意味で this か。\n• 「（藤吉郎がうんこ）だって」を be going to と割り切るセンス。\n• 「うんこをする = take a dump」了。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626321248.327800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1626321411.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NvK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! Forget the earlier conch horn! Don't attack yet! Tokichiro says he needs to poo!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：申し訳ありません。先ほどの法螺貝は忘れてください。まだ攻撃するな！藤吉郎がうんちをしたいと言っています!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "DeepL訳が人格破綻してるな…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「今の（法螺貝）」は直近の意味で this か。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「（藤吉郎がうんこ）だって」を be going to と割り切るセンス。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「うんこをする = take a dump」了。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626320982.327700",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "6d9849fa-f00d-4fad-8c4b-439d84203239",
+        "type": "message",
+        "text": "`Hey, please borrow me the brush!`\nDeepL「ねえ、ブラシを貸してくださいよ。」\n\n• 『borrow』は後ろに借りる対象が来るので不適切。\n<https:\/\/career-picks.com\/business-yougo\/borrow\/>\n• 『sir』で男性に対し、丁寧な呼びかけになる。\n• 初対面なので、『may I』の方が丁寧でよろしい+ 『borrow』文が作りやすい\n• 『broom』は「箒」(新単語！)",
+        "user": "UPSPAP97D",
+        "ts": "1626321319.328000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Career-Picks",
+                "title": "「borrow」の意味やlendとの違い！貸し借りで使う単語は？",
+                "title_link": "https:\/\/career-picks.com\/business-yougo\/borrow\/",
+                "text": "Can I borrow your phone? （電話を借りてもいい？） 「borrow」は、 「～を借りる」という意味です。 貸し借りのシーンで使う英単語には「borrow」の他にも「lend」な",
+                "fallback": "Career-Picks: 「borrow」の意味やlendとの違い！貸し借りで使う単語は？",
+                "thumb_url": "https:\/\/career-picks.com\/wp-content\/uploads\/2019\/01\/borrow.003.jpeg",
+                "ts": 1547178872,
+                "from_url": "https:\/\/career-picks.com\/business-yougo\/borrow\/",
+                "thumb_width": 700,
+                "thumb_height": 460,
+                "service_icon": "https:\/\/career-picks.com\/wp-content\/themes\/career_pick_1\/assets\/images\/favicon_v2.png",
+                "id": 1,
+                "original_url": "https:\/\/career-picks.com\/business-yougo\/borrow\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sqlHf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, please borrow me the brush!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「ねえ、ブラシを貸してくださいよ。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『borrow』は後ろに借りる対象が来るので不適切。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/career-picks.com\/business-yougo\/borrow\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『sir』で男性に対し、丁寧な呼びかけになる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "初対面なので、『may I』の方が丁寧でよろしい+ 『borrow』文が作りやすい"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『broom』は「箒」(新単語！)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626276778.323900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "1dc7cff3-5bdd-4000-85c7-e3c7324efcd9",
+        "type": "message",
+        "text": "“Sorry! Forget that spiral horn! Don’t attack us yet!  Tokitiro is popping now!”",
+        "user": "UPSPAP97D",
+        "ts": "1626321574.328500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xtm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“Sorry! Forget that spiral horn! Don’t attack us yet!  Tokitiro is popping now!”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626318379.325900"
+    },
+    {
+        "client_msg_id": "913cc7bd-6adf-4e1f-ae53-2e2e07c96994",
+        "type": "message",
+        "text": "`\"Sorry! Forget that spiral horn! Don't attack us yet!  Tokitiro is popping now!\"`\nDeepL 「“ごめんなさい！スパイラルホーンのことは忘れろ! まだ攻撃しないで!  トキチロが今、飛び出した！“」\n\n• 「法螺貝の音」は『conch shell horn』(hornしか覚えてなかった…)\n• 「うんこする」は『take a dump』\n• 『pop』で、何故か「うんこする」と訳せると思ってしまった…。『pop』は「飛び出る、(ポンと)音を立てる」など、突然動く+それに付随する音など を表す。\n• 『forget』の後ろに 『that』「あの」を置くと、接続詞? と紛らわしいのでよろしくなかった?\n• 「藤吉郎」はうんこを出している最中とは限らないので『is going to』?",
+        "user": "UPSPAP97D",
+        "ts": "1626322343.328700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Ci",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Sorry! Forget that spiral horn! Don't attack us yet!  Tokitiro is popping now!\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL 「“ごめんなさい！スパイラルホーンのことは忘れろ! まだ攻撃しないで!  トキチロが今、飛び出した！“」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「法螺貝の音」は『conch shell horn』(hornしか覚えてなかった…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「うんこする」は『take a dump』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『pop』で、何故か「うんこする」と訳せると思ってしまった…。『pop』は「飛び出る、(ポンと)音を立てる」など、突然動く+それに付随する音など を表す。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『forget』の後ろに 『that』「あの」を置くと、接続詞? と紛らわしいのでよろしくなかった?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「藤吉郎」はうんこを出している最中とは限らないので『is going to』?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626320982.327700",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "fba2ad30-774b-4981-ad37-9d85fdcdf278",
+        "type": "message",
+        "text": "`When I say Wabi, I definitely meant Wabi!\" Rikyu squealed, rampaged, and tumbled down into tears.`\nDeepL：「侘びと言えば、絶対に侘びだ！」利休は鳴いて暴れて、泣き崩れた。\n\n• なぜ mean を過去形にしてしまったのか。\n• 「奇声をあげて泣く = raise a weird cry」使う機会はあまりなさそう。\n• 「ドタバタと動き回る = flop around」了。\n• 「泣き崩れる = collapse into tears」喉元まで出てたのに…。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1626322869.328900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7VoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I say Wabi, I definitely meant Wabi!\" Rikyu squealed, rampaged, and tumbled down into tears.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：「侘びと言えば、絶対に侘びだ！」利休は鳴いて暴れて、泣き崩れた。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "なぜ mean を過去形にしてしまったのか。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「奇声をあげて泣く = raise a weird cry」使う機会はあまりなさそう。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「ドタバタと動き回る = flop around」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「泣き崩れる = collapse into tears」喉元まで出てたのに…。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626281928.325400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "db367631-a791-430e-94d7-1219a099a7ce",
+        "type": "message",
+        "text": "Gentlemen, let me use the blush!",
+        "user": "UKH07E67M",
+        "ts": "1626323423.329100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lJiG4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gentlemen, let me use the blush!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626276778.323800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "68239860-180b-42ab-af8c-759d3a107b3e",
+        "type": "message",
+        "text": "`Gentlemen, let me use the blush!`\n皆さん、私にチークを使わせてください\n• men -&gt; man\n• sir\n• blush 名赤面動恥じらう\n• broomではない\n•  may icani思いつかなかった",
+        "user": "UKH07E67M",
+        "ts": "1626323715.329300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t9gD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gentlemen, let me use the blush!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n皆さん、私にチークを使わせてください\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "men -> man"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "sir"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "blush 名赤面動恥じらう"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "broomではない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " may icani思いつかなかった"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626276778.323900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "9bfb55e9-c08e-40f4-a83a-b7791ff7fb23",
+        "type": "message",
+        "text": "Sorry! Now's shell is fail! Please don't attack! Hujikichiro is resting time now!",
+        "user": "UKH07E67M",
+        "ts": "1626324183.329500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3tM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! Now's shell is fail! Please don't attack! Hujikichiro is resting time now!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626318379.325900"
+    },
+    {
+        "client_msg_id": "1dc68306-28c6-49ef-a3e0-bfa83f8d53b2",
+        "type": "message",
+        "text": "`Sorry! Now's shell is fail! Please don't attack! Hujikichiro is resting time now!`\n申し訳ありません。今のシェルは失敗だ！攻撃しないでください。虹一郎は今、休息の時間だ!\n• conch shell horn!!!!!!!\n•  grammarlyは反応なし\n• は無し！→忘れて！\n• take a dump うんこをす",
+        "user": "UKH07E67M",
+        "ts": "1626324353.329700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WjSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! Now's shell is fail! Please don't attack! Hujikichiro is resting time now!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n申し訳ありません。今のシェルは失敗だ！攻撃しないでください。虹一郎は今、休息の時間だ!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "conch shell horn!!!!!!!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " grammarlyは反応なし"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "は無し！→忘れて！"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "take a dump うんこをす"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626320982.327700",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "d59c92b6-9a3e-4709-89ae-e081277beff3",
+        "type": "message",
+        "text": "`\"If I say \"Wabi\", it is \"Wabi\" !\". Rikyu cried and kneeled with squealing and jumping.`\nDeepL:\"Wabi \"と言えば、\"Wabi \"なのだ！」。利休は泣いて、鳴いて、跳んで膝をついた。\n• 分詞構文が使われていることを忘れない\n1. 分詞構文は情報を付け足す用法\n2. 分詞構文は文頭・文中・文末に置かれる\n3. 時、原因・理由、付帯状況、条件、譲歩などの意味がある\n4. 否定や受動態の分詞構文を作れる\n5. Beingは省略されることがある",
+        "user": "U01F42ZFA73",
+        "ts": "1626329483.329900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01F42ZFA73",
+            "ts": "1626329590.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "McU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"If I say \"Wabi\", it is \"Wabi\" !\". Rikyu cried and kneeled with squealing and jumping.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL:\"Wabi \"と言えば、\"Wabi \"なのだ！」。利休は泣いて、鳴いて、跳んで膝をついた。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "分詞構文が使われていることを忘れない"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "分詞構文は情報を付け足す用法"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "分詞構文は文頭・文中・文末に置かれる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "時、原因・理由、付帯状況、条件、譲歩などの意味がある"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "否定や受動態の分詞構文を作れる"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Beingは省略されることがある"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626281928.325400",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "d93a14ca-ab50-4b3b-879e-d583f9c879ef",
+        "type": "message",
+        "text": "Sorry! forget conch the shell horn! don't attack yet! Toukitirou is in rest room!",
+        "user": "U01F42ZFA73",
+        "ts": "1626329949.330200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oU3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! forget conch the shell horn! don't attack yet! Toukitirou is in rest room!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626318379.325900"
+    },
+    {
+        "client_msg_id": "07ce441f-3165-4684-a68b-59eb84fb9d7d",
+        "type": "message",
+        "text": "`Sorry! forget conch the shell horn! don't attack yet! Toukitirou is in rest room!`\nDeepL:すみません！コンク・ザ・シェル・ホーンを忘れていました！まだ攻撃しないでください。トウキチロウはトイレにいる!\n• theの置き方を間違えた。実際は、「すみません！法螺貝の角を忘れてしまいました！まだ攻撃しないでくださいね。トウキチロウはトイレにいる!」となる。\n• 6\/30\/2021の英文の亜種。\n• 英語と関係ないが、木下藤吉郎は豊臣秀吉の若い時の名前らしい ",
+        "user": "U01F42ZFA73",
+        "ts": "1626330430.330400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EItvw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry! forget conch the shell horn! don't attack yet! Toukitirou is in rest room!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL:すみません！コンク・ザ・シェル・ホーンを忘れていました！まだ攻撃しないでください。トウキチロウはトイレにいる!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "theの置き方を間違えた。実際は、「すみません！法螺貝の角を忘れてしまいました！まだ攻撃しないでくださいね。トウキチロウはトイレにいる!」となる。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "6\/30\/2021の英文の亜種。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "英語と関係ないが、木下藤吉郎は豊臣秀吉の若い時の名前らしい "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1626320982.327700",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

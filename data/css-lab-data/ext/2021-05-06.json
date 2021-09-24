@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "1bae2e2b-94ec-4a45-ac00-757284273f27",
+        "type": "message",
+        "text": "コロナの部活動自粛の案内とか来てるので、来週は稽古なしかな。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620367708.053700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KjT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コロナの部活動自粛の案内とか来てるので、来週は稽古なしかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "U01EVRBP38C",
+                    "UKH07E67M",
+                    "U01RVMS0XBL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "scream",
+                "users": [
+                    "U01FP2RDV44",
+                    "U01TM5AESRE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77842480-db2d-4a9a-8dc1-39c032d1fee4",
+        "type": "message",
+        "text": "仕方ないですね…:sob:",
+        "user": "U01RVMS0XBL",
+        "ts": "1620368377.054800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "5be9452389a3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-20\/1881726444851_5be9452389a3277ddc65_72.png",
+            "first_name": "Misaki",
+            "real_name": "Misaki Kozakai",
+            "display_name": "missaa",
+            "team": "TKS1Q2JUE",
+            "name": "s1250194",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9jHX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "仕方ないですね…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

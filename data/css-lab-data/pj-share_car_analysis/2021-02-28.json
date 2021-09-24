@@ -1,0 +1,473 @@
+[
+    {
+        "type": "message",
+        "text": "現状のデータを使ってクラスタリングしました。2020年4月以前の文字化けを含むデータも、うまく文字化けを取り除いて合計300件以上の目的地を集めました。GPSのズレやAPIの精度もあって仮想データほど綺麗な結果ではありませんが、スーパーで買い物をするような使い方があまりされていないのが驚きました。",
+        "files": [
+            {
+                "id": "F01PZR3V44R",
+                "created": 1614499116,
+                "timestamp": 1614499116,
+                "name": "real_network.png",
+                "title": "real_network.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 572218,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PZR3V44R\/real_network.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PZR3V44R\/download\/real_network.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 2880,
+                "original_h": 2880,
+                "thumb_tiny": "AwAwADDOijaaQIgyx6VY\/s65\/uD\/AL6FJp3\/AB\/R\/j\/Kt2gDD\/s65\/uD\/voUf2dc\/wBwf99Ctv8AGgGgDE\/s65\/uD\/voVDPBJAwWQYJGeua6IVkav\/x8J\/u\/1oAh07\/j+j\/H+VbtYWnf8f0f4\/yrdoAjckN7U5RgU6igArI1f\/j4T\/c\/rWvWRq\/\/AB8J\/uf1oAh07\/j+j\/H+Vbtc3HI0Th0OGHQ1P\/aF1\/z0\/wDHRQBu0Vhf2hdf89P\/AB0Uf2hdf89P\/HRQBu1kav8A8fCf7v8AWof7Quv+en\/joqKaeSdg0jbiBjpQB\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01PZR3V44R\/real_network.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01PZR3V44R-54aa5d97ac",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01PED7PMAS",
+                "created": 1614499121,
+                "timestamp": 1614499121,
+                "name": "unique.csv",
+                "title": "unique.csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "UPRE1RSJW",
+                "editable": true,
+                "size": 4424,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PED7PMAS\/unique.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PED7PMAS\/download\/unique.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01PED7PMAS\/unique.csv",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01PED7PMAS-4987955fff",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01PED7PMAS\/unique.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mT2VH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現状のデータを使ってクラスタリングしました。2020年4月以前の文字化けを含むデータも、うまく文字化けを取り除いて合計300件以上の目的地を集めました。GPSのズレやAPIの精度もあって仮想データほど綺麗な結果ではありませんが、スーパーで買い物をするような使い方があまりされていないのが驚きました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1614499365.003900",
+        "thread_ts": "1614499365.003900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1614570161.007200",
+        "reply_users": [
+            "UPRE1RSJW",
+            "UPSPAMY7M"
+        ],
+        "replies": [
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1614562923.006800"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1614570161.007200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6f4b2a27-cb80-41c2-b2bf-895a223a30e7",
+        "type": "message",
+        "text": "ありがとうございます！○○エリアというところはGPS座標での範囲という感じですか？思ったよりそれっぽくなっている感じはします。仮説なんですが、MATLABのドライバーモデルで同定したパラメータと、ネットワークでクラスタリングした結果に依存関係がある・・・というのがあるといいと思っています。",
+        "user": "UPSPAMY7M",
+        "ts": "1614515596.006500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VPOzI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！○○エリアというところはGPS座標での範囲という感じですか？思ったよりそれっぽくなっている感じはします。仮説なんですが、MATLABのドライバーモデルで同定したパラメータと、ネットワークでクラスタリングした結果に依存関係がある・・・というのがあるといいと思っています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614515596.006500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1614560542.006600",
+        "reply_users": [
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1614560542.006600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f658f7fd-77f4-4361-9503-5ac5d4053daf",
+        "type": "message",
+        "text": "〇〇エリアは、住宅地や間違った施設を提示された場合に、計測されたGPS座標から町丁レベルでエリア分けしたものです。",
+        "user": "UPRE1RSJW",
+        "ts": "1614560542.006600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pn4VU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "〇〇エリアは、住宅地や間違った施設を提示された場合に、計測されたGPS座標から町丁レベルでエリア分けしたものです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614515596.006500",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "type": "message",
+        "text": "小改良バージョン",
+        "files": [
+            {
+                "id": "F01PN9D2RT5",
+                "created": 1614562899,
+                "timestamp": 1614562899,
+                "name": "real_network2.png",
+                "title": "real_network2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 443117,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PN9D2RT5\/real_network2.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PN9D2RT5\/download\/real_network2.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PN9D2RT5-941b356f7b\/real_network2_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PN9D2RT5-941b356f7b\/real_network2_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PN9D2RT5-941b356f7b\/real_network2_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PN9D2RT5-941b356f7b\/real_network2_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PN9D2RT5-941b356f7b\/real_network2_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PN9D2RT5-941b356f7b\/real_network2_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PN9D2RT5-941b356f7b\/real_network2_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PN9D2RT5-941b356f7b\/real_network2_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PN9D2RT5-941b356f7b\/real_network2_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 2160,
+                "original_h": 2160,
+                "thumb_tiny": "AwAwADDOijaaQIgyx6VY\/s65\/uD\/AL6FJp3\/AB\/R\/j\/Kt2gDD\/s65\/uD\/voUf2dc\/wBwf99Ctw1GJFLYNAGP\/Z1z\/cH\/AH0KhngkgYLIMEjPXNdFmsjV\/wDj4T\/d\/rQBDp3\/AB\/R\/j\/Kt38KwtO\/4\/o\/x\/lW7QAjYxzio1QElsfrUhFH0oAWsjV\/+PhP9z+ta9ZGr\/8AHwn+7\/WgCHTv+P6P8f5VuY5zXORyNE4dDhh0NT\/2hdf89P8Ax0UAbvUUfSsL+0Lr\/np\/46KP7Quv+en\/AI6KAN2sjV\/+PhP93+tQ\/wBoXX\/PT\/x0VFNPJOwaRtxAx0oA\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01PN9D2RT5\/real_network2.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01PN9D2RT5-4e68e85b3f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hvUP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "小改良バージョン"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "display_as_bot": false,
+        "ts": "1614562923.006800",
+        "thread_ts": "1614499365.003900",
+        "parent_user_id": "UPRE1RSJW",
+        "subtype": "thread_broadcast",
+        "root": {
+            "type": "message",
+            "text": "現状のデータを使ってクラスタリングしました。2020年4月以前の文字化けを含むデータも、うまく文字化けを取り除いて合計300件以上の目的地を集めました。GPSのズレやAPIの精度もあって仮想データほど綺麗な結果ではありませんが、スーパーで買い物をするような使い方があまりされていないのが驚きました。",
+            "files": [
+                {
+                    "id": "F01PZR3V44R",
+                    "created": 1614499116,
+                    "timestamp": 1614499116,
+                    "name": "real_network.png",
+                    "title": "real_network.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "UPRE1RSJW",
+                    "editable": false,
+                    "size": 572218,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PZR3V44R\/real_network.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PZR3V44R\/download\/real_network.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 800,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01PZR3V44R-e587da6b03\/real_network_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 1024,
+                    "original_w": 2880,
+                    "original_h": 2880,
+                    "thumb_tiny": "AwAwADDOijaaQIgyx6VY\/s65\/uD\/AL6FJp3\/AB\/R\/j\/Kt2gDD\/s65\/uD\/voUf2dc\/wBwf99Ctv8AGgGgDE\/s65\/uD\/voVDPBJAwWQYJGeua6IVkav\/x8J\/u\/1oAh07\/j+j\/H+VbtYWnf8f0f4\/yrdoAjckN7U5RgU6igArI1f\/j4T\/c\/rWvWRq\/\/AB8J\/uf1oAh07\/j+j\/H+Vbtc3HI0Th0OGHQ1P\/aF1\/z0\/wDHRQBu0Vhf2hdf89P\/AB0Uf2hdf89P\/HRQBu1kav8A8fCf7v8AWof7Quv+en\/joqKaeSdg0jbiBjpQB\/\/Z",
+                    "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01PZR3V44R\/real_network.png",
+                    "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01PZR3V44R-54aa5d97ac",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                },
+                {
+                    "id": "F01PED7PMAS",
+                    "created": 1614499121,
+                    "timestamp": 1614499121,
+                    "name": "unique.csv",
+                    "title": "unique.csv",
+                    "mimetype": "text\/csv",
+                    "filetype": "csv",
+                    "pretty_type": "CSV",
+                    "user": "UPRE1RSJW",
+                    "editable": true,
+                    "size": 4424,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PED7PMAS\/unique.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01PED7PMAS\/download\/unique.csv?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                    "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01PED7PMAS\/unique.csv",
+                    "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01PED7PMAS-4987955fff",
+                    "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F01PED7PMAS\/unique.csv\/edit",
+                    "is_starred": false,
+                    "has_rich_preview": false
+                }
+            ],
+            "upload": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mT2VH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "現状のデータを使ってクラスタリングしました。2020年4月以前の文字化けを含むデータも、うまく文字化けを取り除いて合計300件以上の目的地を集めました。GPSのズレやAPIの精度もあって仮想データほど綺麗な結果ではありませんが、スーパーで買い物をするような使い方があまりされていないのが驚きました。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "user": "UPRE1RSJW",
+            "ts": "1614499365.003900",
+            "thread_ts": "1614499365.003900",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1614570161.007200",
+            "reply_users": [
+                "UPRE1RSJW",
+                "UPSPAMY7M"
+            ],
+            "replies": [
+                {
+                    "user": "UPRE1RSJW",
+                    "ts": "1614562923.006800"
+                },
+                {
+                    "user": "UPSPAMY7M",
+                    "ts": "1614570161.007200"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        }
+    },
+    {
+        "client_msg_id": "8543d298-4f89-46b8-b150-9792faa10096",
+        "type": "message",
+        "text": "大学を出発して行きやすいエリアとかわかりやすくなりましたね。ちなみにですが、データのアップロードがなぜかエラーばかりで、２６〜３７、１４及び１５の番号がついているZipファイルは最近アップロードしたものになります。まだアップロードは続いています。",
+        "user": "UPSPAMY7M",
+        "ts": "1614570161.007200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X6j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大学を出発して行きやすいエリアとかわかりやすくなりましたね。ちなみにですが、データのアップロードがなぜかエラーばかりで、２６〜３７、１４及び１５の番号がついているZipファイルは最近アップロードしたものになります。まだアップロードは続いています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614499365.003900",
+        "parent_user_id": "UPRE1RSJW",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UPRE1RSJW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

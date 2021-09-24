@@ -1,0 +1,118 @@
+[
+    {
+        "client_msg_id": "fb559f0b-75dc-4823-96af-c8e43e78ce47",
+        "type": "message",
+        "text": "<!channel> 毎年、東大の情報学環のM1が企画してるメディアアートの制作展。インスピレーション？につながるものがあるかも。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624872286.061100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3af",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 毎年、東大の情報学環のM1が企画してるメディアアートの制作展。インスピレーション？につながるものがあるかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U01EPKVACEN"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "UPSPAP97D",
+                    "U01FP2RDV44",
+                    "U01EL0SAUTF",
+                    "UKH07E67M"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c543f48-aac3-4c00-85ea-942482935553",
+        "type": "message",
+        "text": "<https:\/\/iiiexhibition.com\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624872297.061300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "東京大学制作展Extra 2021 0PUNK",
+                "title_link": "https:\/\/iiiexhibition.com\/",
+                "text": "東京大学制作展は、メディアアートを中心とした展示会です。2021年7月9日(金)〜7月12日(月) オンライン開催",
+                "fallback": "東京大学制作展Extra 2021 0PUNK",
+                "image_url": "https:\/\/iiiexhibition.com\/teaser_img\/ogp.jpg",
+                "from_url": "https:\/\/iiiexhibition.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 231768,
+                "service_icon": "https:\/\/iiiexhibition.com\/teaser_img\/favicon.png",
+                "service_name": "iiiexhibition.com",
+                "id": 1,
+                "original_url": "https:\/\/iiiexhibition.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+2wz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/iiiexhibition.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

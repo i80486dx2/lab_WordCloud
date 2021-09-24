@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "e6522a61-ea23-4304-9e9e-ca500643cb48",
+        "type": "message",
+        "text": "エンジン始動、停止位置のツリーマップを作ってみました。\n<https:\/\/www.dropbox.com\/sh\/96vdltffuns9aqk\/AABSFvAVx7hWoueF6Riy5IW1a?dl=0>",
+        "user": "UPRE1RSJW",
+        "ts": "1620466409.039500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "snV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "エンジン始動、停止位置のツリーマップを作ってみました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/sh\/96vdltffuns9aqk\/AABSFvAVx7hWoueF6Riy5IW1a?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620466409.039500",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1620705329.041000",
+        "reply_users": [
+            "UPSPAMY7M",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1620624764.039800"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1620626823.040000"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1620693119.040200"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1620698930.040500"
+            },
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1620703343.040700"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1620705329.041000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

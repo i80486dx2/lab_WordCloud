@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "122030c6-cfa2-48ad-8445-9c01e86b3960",
+        "type": "message",
+        "text": "<@U01EP8BUKQT> <@U01EPKVACEN> 了解です！事前準備とかは特にないので、もうちょっと詳細決まったら声かけます。来週再来週あたりのどこかでMTGしましょう！",
+        "user": "UPSPAMY7M",
+        "ts": "1610410783.087700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VWalW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です！事前準備とかは特にないので、もうちょっと詳細決まったら声かけます。来週再来週あたりのどこかでMTGしましょう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1610005344.086400",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01EPKVACEN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

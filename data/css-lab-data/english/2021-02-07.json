@@ -1,0 +1,514 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612685062.024100",
+        "bot_id": "B01LQNFU9A9",
+        "thread_ts": "1612685062.024100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1612685696.024700",
+        "reply_users": [
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UKUKA65GU",
+                "ts": "1612685696.024700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 4.「ニック、もしよかったら今夜一緒にボブの基本的人権蹂躙しに行かない？」「いいね！まず幸福追求権から剥奪しよう！」",
+                "ts": 1612685056,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358325695181594624",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358325695181594624>",
+                "text": "4.「ニック、もしよかったら今夜一緒にボブの基本的人権蹂躙しに行かない？」「いいね！まず幸福追求権から剥奪しよう！」",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358325695181594624",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FBC064EC-9DF3-4C92-9F4C-244A26319F0E",
+        "type": "message",
+        "text": "英訳うんぬんよりそもそも漢字が読めない...笑",
+        "user": "UKUKA65GU",
+        "ts": "1612685696.024700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKUKA65GU",
+            "ts": "1612685710.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I58s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "英訳うんぬんよりそもそも漢字が読めない...笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612685062.024100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612688672.025000",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 5．\"It's not a matter of can or can't.If you're a pervert,it's a matter of do or don't.\"Wearing only a bra,Bob headed for the president's room",
+                "ts": 1612688666,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358340834828029954",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358340834828029954>",
+                "text": "5．\"It's not a matter of can or can't.If you're a pervert,it's a matter of do or don't.\"Wearing only a bra,Bob headed for the president's room",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358340834828029954",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612702611.025100",
+        "bot_id": "B01LRDQ2E3F",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 新米看護師のクリスティは、時速160キロでしびんを投げることができます。 <https:\/\/pbs.twimg.com\/media\/EtoA9awVkAId6x8.jpg>",
+                "ts": 1612702605,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1358399300108079104",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1358399300108079104>",
+                "text": "新米看護師のクリスティは、時速160キロでしびんを投げることができます。 <https:\/\/pbs.twimg.com\/media\/EtoA9awVkAId6x8.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1358399300108079104",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EtoA9awVkAId6x8.jpg",
+                "image_width": 400,
+                "image_height": 480,
+                "image_bytes": 24264,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612704917.025200",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 5. 「出来るか出来ないかじゃねえよ。変態ならやるかやらねぇかのどっちかしかねぇだろが」\nボブはブラジャー１枚だけまとい、社長室に向かった。",
+                "ts": 1612704911,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358408971694997504",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358408971694997504>",
+                "text": "5. 「出来るか出来ないかじゃねえよ。変態ならやるかやらねぇかのどっちかしかねぇだろが」\nボブはブラジャー１枚だけまとい、社長室に向かった。",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358408971694997504",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612708567.025300",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 6．\"I made up my mind the first moment I saw you.I find the defendant guilty!\"\nThe presiding judge said,blushing in embarrassment.",
+                "ts": 1612708561,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358424280980094980",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358424280980094980>",
+                "text": "6．\"I made up my mind the first moment I saw you.I find the defendant guilty!\"\nThe presiding judge said,blushing in embarrassment.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358424280980094980",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612710170.025400",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 6.「第一印象から決めていました。被告人を有罪とする」\n裁判長は恥ずかしそうに頬を赤らめた。",
+                "ts": 1612710164,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358431005330182144",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358431005330182144>",
+                "text": "6.「第一印象から決めていました。被告人を有罪とする」\n裁判長は恥ずかしそうに頬を赤らめた。",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358431005330182144",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612712013.025500",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 7．\"A state of emergency has been declared.All residents must evacuate to their designated shelters immediately.Try to stay calm and eat deep-fried chicken.\"",
+                "ts": 1612712007,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358438734111199233",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358438734111199233>",
+                "text": "7．\"A state of emergency has been declared.All residents must evacuate to their designated shelters immediately.Try to stay calm and eat deep-fried chicken.\"",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358438734111199233",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612715636.025600",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 7.「緊急事態宣言が出されました。住民の方々は速やかに指定のシェルターに避難し、落ち着いて唐揚げを食べてください」",
+                "ts": 1612715630,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358453931215446016",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358453931215446016>",
+                "text": "7.「緊急事態宣言が出されました。住民の方々は速やかに指定のシェルターに避難し、落ち着いて唐揚げを食べてください」",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358453931215446016",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612717468.025700",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 8．The new Yakult Lady Yoshiko can throw a Yakult bottle 130yards and bring down a moving cat.",
+                "ts": 1612717462,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358461613171306497",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358461613171306497>",
+                "text": "8．The new Yakult Lady Yoshiko can throw a Yakult bottle 130yards and bring down a moving cat.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358461613171306497",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612719241.025800",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 8.新米ヤクルトレディの芳子は、ヤクルトを１３０ヤード投げ、走っている猫を仕留めることができます。",
+                "ts": 1612719235,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358469050641252354",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358469050641252354>",
+                "text": "8.新米ヤクルトレディの芳子は、ヤクルトを１３０ヤード投げ、走っている猫を仕留めることができます。",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358469050641252354",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612721067.025900",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 9．As all board members wet their pants and fainted at the sight of a cockroach,the annual conference was postponed.",
+                "ts": 1612721061,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358476708534382593",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358476708534382593>",
+                "text": "9．As all board members wet their pants and fainted at the sight of a cockroach,the annual conference was postponed.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358476708534382593",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612726441.026000",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 9.ゴキブリを見た途端、役員全員が失禁して気絶したため、年次会議が延期された。",
+                "ts": 1612726435,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358499251756560384",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358499251756560384>",
+                "text": "9.ゴキブリを見た途端、役員全員が失禁して気絶したため、年次会議が延期された。",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358499251756560384",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612728253.026100",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 10.High levels of MIKI Prune were detected in the groundwater of Kiichi Nakai's house",
+                "ts": 1612728248,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358506853701885952",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358506853701885952>",
+                "text": "10.High levels of MIKI Prune were detected in the groundwater of Kiichi Nakai's house",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358506853701885952",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612730071.026200",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 10.高いレベルのミキプルーンが、中居貴一の家の地下水で検出された。",
+                "ts": 1612730065,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358514476723576832",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358514476723576832>",
+                "text": "10.高いレベルのミキプルーンが、中居貴一の家の地下水で検出された。",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358514476723576832",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612739160.026300",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 11.The receptionist,Catherine,tried to make an outdoor air conditioner,but ended up creating a humanoid robot by chance.",
+                "ts": 1612739154,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358552597339140096",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358552597339140096>",
+                "text": "11.The receptionist,Catherine,tried to make an outdoor air conditioner,but ended up creating a humanoid robot by chance.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358552597339140096",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612742694.026400",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 11.受付嬢のキャサリンは、エアコンの室外機を自作しようとして偶然、人造人間を作り出した。",
+                "ts": 1612742688,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358567418172301314",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358567418172301314>",
+                "text": "11.受付嬢のキャサリンは、エアコンの室外機を自作しようとして偶然、人造人間を作り出した。",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358567418172301314",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612766050.026500",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 12.Miss Fukuda is the first financial planner to split a giant squid in half with her bare hands.",
+                "ts": 1612766044,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358665382937063436",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358665382937063436>",
+                "text": "12.Miss Fukuda is the first financial planner to split a giant squid in half with her bare hands.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358665382937063436",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1612769685.026600",
+        "bot_id": "B01LQNFU9A9",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/OutEnglishword|@OutEnglishword>: 12.福田さんはダイオウイカを素手で真っ二つに引き裂いた、初めてのファイナンシャルプランナーです。",
+                "ts": 1612769679,
+                "author_name": "試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/OutEnglishword\/status\/1358680628330258432",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/685096509080076288\/ntd9cizQ_normal.jpg",
+                "author_subname": "@OutEnglishword",
+                "pretext": "<https:\/\/twitter.com\/OutEnglishword\/status\/1358680628330258432>",
+                "text": "12.福田さんはダイオウイカを素手で真っ二つに引き裂いた、初めてのファイナンシャルプランナーです。",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/OutEnglishword\/status\/1358680628330258432",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

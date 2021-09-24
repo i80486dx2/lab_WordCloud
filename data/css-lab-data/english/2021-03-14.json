@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "384b412a-c02a-45e9-a8f8-4fee0515bac6",
+        "type": "message",
+        "text": "<@UQ47R82RW> まずはニュアンスの固定した決まり文句で覚えていくのがよいね。\"そうはいうものの...\"→\"That being said...\"、みたいに。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1615713744.039600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TcbCZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " まずはニュアンスの固定した決まり文句で覚えていくのがよいね。\"そうはいうものの...\"→\"That being said...\"、みたいに。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615696684.037600",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aed9a6a5-6ead-41ca-bc52-379fa1fc9633",
+        "type": "message",
+        "text": "<@UKH07E67M> 元の文をできるだけ残して改善するなら\nShe cannot come to the phone because she is praying for rain right now. I'm sorry it's a bad timing.\nかなぁ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1615716246.040300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 元の文をできるだけ残して改善するなら\nShe cannot come to the phone because she is praying for rain right now. I'm sorry it's a bad timing.\nかなぁ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615620042.034400",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4C5E4F84-16CD-45EF-A6F1-02D0F06B0A70",
+        "type": "message",
+        "text": "修正\nI will come if I could.",
+        "user": "U01EVRBP38C",
+        "ts": "1615739293.041900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BULl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正\nI will come if I could."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615696684.037600",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

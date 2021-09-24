@@ -1,0 +1,392 @@
+[
+    {
+        "client_msg_id": "2cd1faf6-7d42-4782-9d8c-6e4f206e2885",
+        "type": "message",
+        "text": "<@UPRE1RSJW> <@U01FP2RDV44> 調べついているかもしれませんが、実用化を目指すのであれば導電糸、導電インク、導電布も有用かと思います。\n<https:\/\/www.switch-science.com\/catalog\/911\/>\n<https:\/\/www.switch-science.com\/catalog\/1529\/>\n<https:\/\/www.switch-science.com\/catalog\/3242\/>",
+        "user": "UPSPAMY7M",
+        "ts": "1612182929.011400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "スイッチサイエンス",
+                "title": "導電糸ボビン - スイッチサイエンス",
+                "title_link": "https:\/\/www.switch-science.com\/catalog\/911\/",
+                "text": "導電糸30ft（約9メートル）をボビンに巻いてあります。Lilypadやスマートフォン用手袋などのちょっとした工作に是非。極細タイプ。",
+                "fallback": "スイッチサイエンス: 導電糸ボビン - スイッチサイエンス",
+                "thumb_url": "https:\/\/d2air1d4eqhwg2.cloudfront.net\/images\/911\/500x500\/26d4b8e8-89ff-44b7-a01b-1ff75104eae6.jpg",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "fields": [
+                    {
+                        "title": "価格",
+                        "value": "420 円",
+                        "short": true
+                    },
+                    {
+                        "title": "在庫",
+                        "value": "多数",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.switch-science.com\/catalog\/911\/",
+                "service_icon": "http:\/\/docid81hrs3j1.cloudfront.net\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.switch-science.com\/catalog\/911\/"
+            },
+            {
+                "service_name": "スイッチサイエンス",
+                "title": "導電インクペン 10ml - スイッチサイエンス",
+                "title_link": "https:\/\/www.switch-science.com\/catalog\/1529\/",
+                "text": "導電インクのペンタイプです紙の上で回路を描くことはもちろん、金属やプラスチックにも使えます。LEDなどの小さなパーツを、紙に描いた回路や、基板にくっつけるための導電接着剤としても使うことができます。",
+                "fallback": "スイッチサイエンス: 導電インクペン 10ml - スイッチサイエンス",
+                "thumb_url": "https:\/\/d2air1d4eqhwg2.cloudfront.net\/images\/1529\/500x500\/3d68d0d5-82e4-4775-9030-51ab0c630602.jpg",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "fields": [
+                    {
+                        "title": "価格",
+                        "value": "1,202 円",
+                        "short": true
+                    },
+                    {
+                        "title": "在庫",
+                        "value": "多数",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.switch-science.com\/catalog\/1529\/",
+                "service_icon": "http:\/\/docid81hrs3j1.cloudfront.net\/apple-touch-icon-57x57.png",
+                "id": 2,
+                "original_url": "https:\/\/www.switch-science.com\/catalog\/1529\/"
+            },
+            {
+                "service_name": "スイッチサイエンス",
+                "title": "EeonTex 導電布 - スイッチサイエンス",
+                "title_link": "https:\/\/www.switch-science.com\/catalog\/3242\/",
+                "text": "導電性の不織布（マイクロファイバー）です。ウェアラブルやe-テキスタイルに幅広く利用できます。",
+                "fallback": "スイッチサイエンス: EeonTex 導電布 - スイッチサイエンス",
+                "thumb_url": "https:\/\/d2air1d4eqhwg2.cloudfront.net\/images\/3242\/500x500\/67171ec7-6ba4-4189-a385-702c313b056b.jpg",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "fields": [
+                    {
+                        "title": "価格",
+                        "value": "1,748 円",
+                        "short": true
+                    },
+                    {
+                        "title": "在庫",
+                        "value": "2",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.switch-science.com\/catalog\/3242\/",
+                "service_icon": "http:\/\/docid81hrs3j1.cloudfront.net\/apple-touch-icon-57x57.png",
+                "id": 3,
+                "original_url": "https:\/\/www.switch-science.com\/catalog\/3242\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6SNh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01FP2RDV44"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 調べついているかもしれませんが、実用化を目指すのであれば導電糸、導電インク、導電布も有用かと思います。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.switch-science.com\/catalog\/911\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.switch-science.com\/catalog\/1529\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.switch-science.com\/catalog\/3242\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "B57564D9-114A-4A1F-AB00-25CC05036B28",
+        "type": "message",
+        "text": "ありがとうございます。\nこの導電インクはプリンテッドエレクトロニクスのようなものですか？",
+        "user": "U01FP2RDV44",
+        "ts": "1612184180.012600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KGge",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。\nこの導電インクはプリンテッドエレクトロニクスのようなものですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "a76d4e5e-60a9-4488-bed8-384eb7e082c3",
+        "type": "message",
+        "text": "&gt; プリンテッドエレクトロニクス\n上記はあくまで基板上に回路を印刷する技術で回路はSolidですが、導電インクはliquidなので紙やテーブルにも回路を構成できますし、布も染み込ませれば回路を構成することができます。抵抗率が高いので使いこなすには工夫が必要そうですが・・・",
+        "user": "UPSPAMY7M",
+        "ts": "1612184902.012800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAMY7M",
+            "ts": "1612184963.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LhlN",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プリンテッドエレクトロニクス"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上記はあくまで基板上に回路を印刷する技術で回路はSolidですが、導電インクはliquidなので紙やテーブルにも回路を構成できますし、布も染み込ませれば回路を構成することができます。抵抗率が高いので使いこなすには工夫が必要そうですが・・・"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "F00214BD-5E35-4A00-A8F6-717BFD152763",
+        "type": "message",
+        "text": "そうなんですね。\nありがとうございます。",
+        "user": "U01FP2RDV44",
+        "ts": "1612186848.013700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうなんですね。\nありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "b8b579b7-c57f-45e7-bf8e-2cf25f1d83ba",
+        "type": "message",
+        "text": "僕も導電性の高いマテリアルを探してて、セメダインが出してるやつを見つけてはいました。\n<https:\/\/www.cemedine.co.jp\/technology\/elastic\/sxeca\/sxeca48.html>",
+        "user": "UPRE1RSJW",
+        "ts": "1612218532.013900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "SX-ECA48",
+                "title_link": "https:\/\/www.cemedine.co.jp\/technology\/elastic\/sxeca\/sxeca48.html",
+                "text": "柔軟性と耐久性に優れる低温硬化型フレキシブル導電性接着剤SX-ECA48。セメダイン株式会社が運営する接着剤、シーリング材に関する総合サイト。",
+                "fallback": "SX-ECA48",
+                "image_url": "https:\/\/www.cemedine.co.jp\/items\/d_t_elastic_sxeca_sxeca48_og.jpg",
+                "from_url": "https:\/\/www.cemedine.co.jp\/technology\/elastic\/sxeca\/sxeca48.html",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 20106,
+                "service_icon": "https:\/\/www.cemedine.co.jp\/favicon.ico",
+                "service_name": "cemedine.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.cemedine.co.jp\/technology\/elastic\/sxeca\/sxeca48.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mPkAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕も導電性の高いマテリアルを探してて、セメダインが出してるやつを見つけてはいました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cemedine.co.jp\/technology\/elastic\/sxeca\/sxeca48.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    },
+    {
+        "client_msg_id": "27a027e6-0415-43bf-a18a-f9cf8d9199b8",
+        "type": "message",
+        "text": "<@UPRE1RSJW> セメダインもこんなの出しているんですね。はんだ付けしないでこれでLED接続できると楽そうですね。",
+        "user": "UPSPAMY7M",
+        "ts": "1612233025.014200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vQB4E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " セメダインもこんなの出しているんですね。はんだ付けしないでこれでLED接続できると楽そうですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608480687.120400",
+        "parent_user_id": "U01FP2RDV44"
+    }
+]

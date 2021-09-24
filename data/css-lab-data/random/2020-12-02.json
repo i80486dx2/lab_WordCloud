@@ -1,0 +1,1086 @@
+[
+    {
+        "client_msg_id": "4282bfeb-e5ef-4fad-97cd-ed830ef8a880",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/youwht\/items\/92056e63498c36de4e3b>\n言語処理の記事で知っているやつ。\n青空文庫の文章分析の記事をずっと探しているけど(qiita)見つからないいい",
+        "user": "UKH07E67M",
+        "ts": "1606903488.044700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "AIが三国志を読んだら、孔明が知力100、関羽が武力99、を求められるのか？をガチで考える物語（自然言語処理編） - Qiita",
+                "title_link": "https:\/\/qiita.com\/youwht\/items\/92056e63498c36de4e3b",
+                "text": "背景 関羽「どれどれ、拙者たち英傑の活躍は後世では 　　　どのように伝えられているのかな？」 孔明「なんとっ・・！！？扇からビーム出しとる？ 　　　そしてSDガンダムと融合しとる！？ 　　　あまつさえ、女体化して萌キャラなっとる...",
+                "fallback": "Qiita: AIが三国志を読んだら、孔明が知力100、関羽が武力99、を求められるのか？をガチで考える物語（自然言語処理編） - Qiita",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3DAI%25E3%2581%258C%25E4%25B8%2589%25E5%259B%25BD%25E5%25BF%2597%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A0%25E3%2582%2589%25E3%2580%2581%25E5%25AD%2594%25E6%2598%258E%25E3%2581%258C%25E7%259F%25A5%25E5%258A%259B100%25E3%2580%2581%25E9%2596%25A2%25E7%25BE%25BD%25E3%2581%258C%25E6%25AD%25A6%25E5%258A%259B99%25E3%2580%2581%25E3%2582%2592%25E6%25B1%2582%25E3%2582%2581%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E3%2582%2592%25E3%2582%25AC%25E3%2583%2581%25E3%2581%25A7%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%25E7%2589%25A9%25E8%25AA%259E%25EF%25BC%2588%25E8%2587%25AA%25E7%2584%25B6%25E8%25A8%2580%25E8%25AA%259E%25E5%2587%25A6%25E7%2590%2586%25E7%25B7%25A8%25EF%25BC%2589%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3Da44d399f33d4c8ab7438615b1e5ab477&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540youwht%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D79d19875232f19055ee94ce0170dc502&blend-align=center%2Cmiddle&blend-mode=normal&s=99211fdb07864ed3925d9c152f02d3e6",
+                "from_url": "https:\/\/qiita.com\/youwht\/items\/92056e63498c36de4e3b",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 94290,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/youwht\/items\/92056e63498c36de4e3b"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6dU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/youwht\/items\/92056e63498c36de4e3b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n言語処理の記事で知っているやつ。\n青空文庫の文章分析の記事をずっと探しているけど(qiita)見つからないいい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606903488.044700",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1606909617.046200",
+        "reply_users": [
+            "UQ47R82RW",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1606904302.045000"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1606904355.045200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1606904513.045400"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1606904584.045600"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1606904635.045800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1606909577.046000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1606909617.046200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a8d17e2-864d-4078-9ffd-ce7ba49ee647",
+        "type": "message",
+        "text": "読んでみた感じ題名からわかるけどキャラ分析かぁ。\n面白いからやってみたい感はあるけど、そもそものキャラ名がないと厳しいよなぁ...",
+        "user": "UQ47R82RW",
+        "ts": "1606904302.045000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "読んでみた感じ題名からわかるけどキャラ分析かぁ。\n面白いからやってみたい感はあるけど、そもそものキャラ名がないと厳しいよなぁ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606903488.044700",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "7425be43-8c61-44af-b4c1-f1590657475b",
+        "type": "message",
+        "text": "形態素解析でやればいい感じにできるかなぁ....",
+        "user": "UQ47R82RW",
+        "ts": "1606904355.045200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LN4+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "形態素解析でやればいい感じにできるかなぁ...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606903488.044700",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "4cee5032-7a6b-428b-bc7f-7d4aef1fab5e",
+        "type": "message",
+        "text": "やり方たくさんありそうだし基準難しそうだ",
+        "user": "UKH07E67M",
+        "ts": "1606904513.045400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uXxz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やり方たくさんありそうだし基準難しそうだ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606903488.044700",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "d1ea4250-20e0-4662-98ad-293399f24376",
+        "type": "message",
+        "text": "どっちかというとmain subjectみたいな形にしちゃった方がいいのかも",
+        "user": "UQ47R82RW",
+        "ts": "1606904584.045600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UC0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どっちかというとmain subjectみたいな形にしちゃった方がいいのかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606903488.044700",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "f336f2f0-fc54-4bb8-acdf-e0152989c0c8",
+        "type": "message",
+        "text": "太郎、花子とかと山、川とかをごっちゃにして",
+        "user": "UQ47R82RW",
+        "ts": "1606904635.045800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "太郎、花子とかと山、川とかをごっちゃにして"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606903488.044700",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "3814a256-eaad-41a2-813b-c648534e6ac3",
+        "type": "message",
+        "text": "名詞,動詞内でのジャンル分けか",
+        "user": "UKH07E67M",
+        "ts": "1606909577.046000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iiqC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "名詞,動詞内でのジャンル分けか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606903488.044700",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "6f88dba6-a2c1-4c4c-8a4f-8a939d6fbf50",
+        "type": "message",
+        "text": "その記事がqiitaにあった筈なんだあああ。qiitaの脆弱性が話題になる前に",
+        "user": "UKH07E67M",
+        "ts": "1606909617.046200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3xHc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その記事がqiitaにあった筈なんだあああ。qiitaの脆弱性が話題になる前に"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606903488.044700",
+        "parent_user_id": "UKH07E67M",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "UQ47R82RW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "一応、読点(,と、)句点(.と。)の個数について作品ごとにカウントし、その作品の文字数でわったもの(つまり、その作品の1文字当たりの読点、句点が出現する割合)を月ごとにまとめて、それらの標準偏差\/平均でだしてみました。\n\nやはりなにかしらによる作品ごとの読点、句点のばらつきの増加がみてとれますね..",
+        "files": [
+            {
+                "id": "F01G1N5D726",
+                "created": 1606965545,
+                "timestamp": 1606965545,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 135777,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01G1N5D726\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01G1N5D726\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1N5D726-6b5c3a29ae\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1N5D726-6b5c3a29ae\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1N5D726-6b5c3a29ae\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 185,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1N5D726-6b5c3a29ae\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 246,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1N5D726-6b5c3a29ae\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1N5D726-6b5c3a29ae\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 370,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1N5D726-6b5c3a29ae\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 411,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1N5D726-6b5c3a29ae\/image_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 493,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1N5D726-6b5c3a29ae\/image_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 526,
+                "original_w": 1188,
+                "original_h": 610,
+                "thumb_tiny": "AwAYADDSpcCgUUAJjBo70hPzfhTh1NABgU0jHrTqaxAIFAC5xSFqVqSgBAPn3Hr0p2cUg60p7UAIW9KbjLbifoKdR6UAf\/\/Z",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F01G1N5D726\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01G1N5D726-7d995d429a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XPn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応、読点(,と、)句点(.と。)の個数について作品ごとにカウントし、その作品の文字数でわったもの(つまり、その作品の1文字当たりの読点、句点が出現する割合)を月ごとにまとめて、それらの標準偏差\/平均でだしてみました。\n\nやはりなにかしらによる作品ごとの読点、句点のばらつきの増加がみてとれますね.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1606965707.047800",
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1606965888.000000"
+        },
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "e2657f18-e928-41a4-8d34-d2f4462bd9c5",
+        "type": "message",
+        "text": "相対分散だと少し値のばらつきが大きすぎたので、標準偏差にしてます。",
+        "user": "UQ47R82RW",
+        "ts": "1606965793.048200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DHD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "相対分散だと少し値のばらつきが大きすぎたので、標準偏差にしてます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "text": "読点、句点の出現割合の平均です。\nこっちでも確かに増加してるのがわかりますね",
+        "files": [
+            {
+                "id": "F01FYKSS8A1",
+                "created": 1606965904,
+                "timestamp": 1606965904,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 143380,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01FYKSS8A1\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01FYKSS8A1\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01FYKSS8A1-caeb98dc43\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01FYKSS8A1-caeb98dc43\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01FYKSS8A1-caeb98dc43\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 185,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01FYKSS8A1-caeb98dc43\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 246,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01FYKSS8A1-caeb98dc43\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01FYKSS8A1-caeb98dc43\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 370,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01FYKSS8A1-caeb98dc43\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 411,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01FYKSS8A1-caeb98dc43\/image_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 493,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01FYKSS8A1-caeb98dc43\/image_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 526,
+                "original_w": 1188,
+                "original_h": 610,
+                "thumb_tiny": "AwAYADDSFLikFLQAhAzQOtI3UUo70ALikIFLSMen1oAT25o\/E\/lS0UAJgZzyTR0paDQAn4n8qTAznkmnUUAf\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F01FYKSS8A1\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01FYKSS8A1-5fdeef34d5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L1Tn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "読点、句点の出現割合の平均です。\nこっちでも確かに増加してるのがわかりますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1606965962.048500",
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "text": "２作品以上出している人のみを抽出した場合の平均もプロットしてみました。\n\nばちばちに影響受けてそうですね。",
+        "files": [
+            {
+                "id": "F01G20VLTTM",
+                "created": 1606968928,
+                "timestamp": 1606968928,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 207989,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01G20VLTTM\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01G20VLTTM\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G20VLTTM-bdcba5d30d\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G20VLTTM-bdcba5d30d\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G20VLTTM-bdcba5d30d\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 185,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G20VLTTM-bdcba5d30d\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 246,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G20VLTTM-bdcba5d30d\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G20VLTTM-bdcba5d30d\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 370,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G20VLTTM-bdcba5d30d\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 411,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G20VLTTM-bdcba5d30d\/image_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 493,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G20VLTTM-bdcba5d30d\/image_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 526,
+                "original_w": 1188,
+                "original_h": 610,
+                "thumb_tiny": "AwAYADDSAoKg0DpS54oAQgCjvSMeQKUd6AAjNIQAKcelNY9BQAe3P4UAcdWp1FADMDOeSaXp\/wDWp1FADfxP5UmBnPJNPooA\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F01G20VLTTM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01G20VLTTM-21b8073400",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHZ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "２作品以上出している人のみを抽出した場合の平均もプロットしてみました。\n\nばちばちに影響受けてそうですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1606968997.048900",
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "208a2aed-0f2d-4909-a396-386ffb9a6a4a",
+        "type": "message",
+        "text": "<@UQ47R82RW> 明らかに上昇してるのは2018年以降くらいですね。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1606969073.049300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pirjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明らかに上昇してるのは2018年以降くらいですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "23dfd46f-7cb7-4c24-8d32-90a5b365e474",
+        "type": "message",
+        "text": "ですね。\nそのころに何があったんだろう..",
+        "user": "UQ47R82RW",
+        "ts": "1606969109.049500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPoDs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ですね。\nそのころに何があったんだろう.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "714f7ff1-2c2c-4e9b-8d09-b301ec782d3d",
+        "type": "message",
+        "text": "<@UQ47R82RW> 2018年前後で、同一作者の句読点数が変化してるか見てみては？　←　私の予想は「変化していない」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1606969336.049700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1606969366.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNgzQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2018年前後で、同一作者の句読点数が変化してるか見てみては？　←　私の予想は「変化していない」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "de01a78e-9951-45f5-bdbe-b070a60d4c54",
+        "type": "message",
+        "text": "わかりましたー",
+        "user": "UQ47R82RW",
+        "ts": "1606969355.049900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MrY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "text": "ぱっとできる形でさっきのを月ごとではなく年ごとにしてみた感じです。\nあとで、個別にみたものもつくってみます。",
+        "files": [
+            {
+                "id": "F01G21642SF",
+                "created": 1606969466,
+                "timestamp": 1606969466,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 147840,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01G21642SF\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01G21642SF\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G21642SF-0420b2014b\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G21642SF-0420b2014b\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G21642SF-0420b2014b\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 185,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G21642SF-0420b2014b\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 246,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G21642SF-0420b2014b\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G21642SF-0420b2014b\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 370,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G21642SF-0420b2014b\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 411,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G21642SF-0420b2014b\/image_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 493,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G21642SF-0420b2014b\/image_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 526,
+                "original_w": 1188,
+                "original_h": 610,
+                "thumb_tiny": "AwAYADDRUDFKVoXpS0ANIAFCjrmlNIvegBStIVAFOpDQA3IHBNLlfWmN96imIfuHrzSZxTR1FDdaAH7h6\/pRuHrTKB1FAH\/\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F01G21642SF\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01G21642SF-740c31e19a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e0K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ぱっとできる形でさっきのを月ごとではなく年ごとにしてみた感じです。\nあとで、個別にみたものもつくってみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1606969505.050200",
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "f05642b4-83fb-4531-a40b-cea405906dcc",
+        "type": "message",
+        "text": "関数の都合上、プロットした日付はそれぞれ12\/31なので、x軸は少しずれてます",
+        "user": "UQ47R82RW",
+        "ts": "1606969617.050600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZbYN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "関数の都合上、プロットした日付はそれぞれ12\/31なので、x軸は少しずれてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "54181bd8-74c5-4e4e-8ed1-7b721f7bc68a",
+        "type": "message",
+        "text": "今年のデータ数が少なくておかしいだけなような気もしてきた。",
+        "user": "UQ47R82RW",
+        "ts": "1606969674.050800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今年のデータ数が少なくておかしいだけなような気もしてきた。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "text": "個人ごとにプロットしてみましたが、外れ値があるのでもしかしたらプログラムが間違っているかも….",
+        "files": [
+            {
+                "id": "F01G1SRAN90",
+                "created": 1606973050,
+                "timestamp": 1606973050,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 107142,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01G1SRAN90\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01G1SRAN90\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1SRAN90-a8abbf2456\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1SRAN90-a8abbf2456\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1SRAN90-a8abbf2456\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 244,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1SRAN90-a8abbf2456\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 325,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1SRAN90-a8abbf2456\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01G1SRAN90-a8abbf2456\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 488,
+                "original_w": 738,
+                "original_h": 500,
+                "thumb_tiny": "AwAgADDSHU80uKQdTS0AGKMUUUAIeBQelDHAozlaAAdTS0hJGTSbjx70AOo6U3LdOPypCzbaAFYjikjOYhTGR243DP0p0YYDBII+mKAP\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F01G1SRAN90\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01G1SRAN90-bbb95e32d0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gvKg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個人ごとにプロットしてみましたが、外れ値があるのでもしかしたらプログラムが間違っているかも…."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1606973077.051000",
+        "thread_ts": "1599572842.003900",
+        "parent_user_id": "UQ47R82RW"
+    }
+]

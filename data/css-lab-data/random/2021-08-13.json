@@ -1,0 +1,289 @@
+[
+    {
+        "client_msg_id": "57210725-a3a1-4a26-9084-bff928157e58",
+        "type": "message",
+        "text": "前回のゼミでダンバー数というものが出てきたが、それに対する反論群の内の一つがこれに書かれているらしい。<https:\/\/www.amazon.co.jp\/gp\/product\/0321804112\/ref=as_li_ss_tl?ie=UTF8&amp;tag=itblogjijicom-22&amp;linkCode=as2&amp;camp=247&amp;creative=7399&amp;creativeASIN=0321804112|https:\/\/www.amazon.co.jp\/gp\/product\/0321804112\/ref=as_li_ss_tl?ie=UTF8&amp;tag=itblogjiji[…]&amp;linkCode=as2&amp;camp=247&amp;creative=7399&amp;creativeASIN=0321804112>\nダンバー数は人間の人脈の大きさは脳を基に考えると150程度と考えるものだが、この本には5-15-50-150-500という関係性があると答えている...らしい。\n<http:\/\/techwave.jp\/archives\/51739226.html>\nこれで見ただけなので、全く違う本の可能性はありますが、考えても良い一つの話題な気がします。",
+        "user": "UKH07E67M",
+        "ts": "1628842697.033400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1628842730.000000"
+        },
+        "attachments": [
+            {
+                "title": "Grouped: How small groups of friends are the key to influence on the social web (Voices That Matter)",
+                "title_link": "https:\/\/www.amazon.co.jp\/gp\/product\/0321804112\/ref=as_li_ss_tl?ie=UTF8&tag=itblogjijicom-22&linkCode=as2&camp=247&creative=7399&creativeASIN=0321804112",
+                "text": "Grouped: How small groups of friends are the key to influence on the social web (Voices That Matter)",
+                "fallback": "Grouped: How small groups of friends are the key to influence on the social web (Voices That Matter)",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/41BsJIkd1yL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA48%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/gp\/product\/0321804112\/ref=as_li_ss_tl?ie=UTF8&tag=itblogjijicom-22&linkCode=as2&camp=247&creative=7399&creativeASIN=0321804112",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 66230,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/gp\/product\/0321804112\/ref=as_li_ss_tl?ie=UTF8&amp;tag=itblogjijicom-22&amp;linkCode=as2&amp;camp=247&amp;creative=7399&amp;creativeASIN=0321804112"
+            },
+            {
+                "service_name": "TechWave（テックウェーブ）",
+                "title": "インフルエンサーより「仲のいい少人数グループ重視」の時代へ 書評「Grouped」【湯川】 | TechWave（テックウェーブ）",
+                "title_link": "http:\/\/techwave.jp\/archives\/51739226.html",
+                "text": "[読了時間：4分] インターネット上では情報が上から下の一方通行ではなく、相互に横に流れるー。そう言われるよ […]",
+                "fallback": "TechWave（テックウェーブ）: インフルエンサーより「仲のいい少人数グループ重視」の時代へ 書評「Grouped」【湯川】 | TechWave（テックウェーブ）",
+                "thumb_url": "https:\/\/techwave.jp\/images_inbox\/2016\/05\/3fa5a735.png",
+                "ts": 1333944046,
+                "from_url": "http:\/\/techwave.jp\/archives\/51739226.html",
+                "thumb_width": 273,
+                "thumb_height": 278,
+                "service_icon": "https:\/\/techwave.jp\/images_inbox\/2019\/03\/favicon_152x152@2x.png",
+                "id": 2,
+                "original_url": "http:\/\/techwave.jp\/archives\/51739226.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RmC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前回のゼミでダンバー数というものが出てきたが、それに対する反論群の内の一つがこれに書かれているらしい。"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/gp\/product\/0321804112\/ref=as_li_ss_tl?ie=UTF8&tag=itblogjijicom-22&linkCode=as2&camp=247&creative=7399&creativeASIN=0321804112",
+                                "text": "https:\/\/www.amazon.co.jp\/gp\/product\/0321804112\/ref=as_li_ss_tl?ie=UTF8&tag=itblogjiji[…]&linkCode=as2&camp=247&creative=7399&creativeASIN=0321804112"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nダンバー数は人間の人脈の大きさは脳を基に考えると150程度と考えるものだが、この本には5-15-50-150-500という関係性があると答えている...らしい。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/techwave.jp\/archives\/51739226.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれで見ただけなので、全く違う本の可能性はありますが、考えても良い一つの話題な気がします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4bc8c5f1-626c-4af7-9daf-e9969ca11c92",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> ラボのscrapboxがアクセス出来なくなってます。",
+        "user": "UPRE1RSJW",
+        "ts": "1628923775.034500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D9nv8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ラボのscrapboxがアクセス出来なくなってます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628923775.034500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1628923845.035000",
+        "reply_users": [
+            "UQ47R82RW",
+            "UKS1Q2KTQ",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UQ47R82RW",
+                "ts": "1628923805.034600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1628923825.034800"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1628923845.035000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1628923845.035000"
+    },
+    {
+        "client_msg_id": "506f3924-40b1-4af4-944e-d5163aa5fa08",
+        "type": "message",
+        "text": "<@UPRE1RSJW> 前にURL変更したからじゃない？",
+        "user": "UQ47R82RW",
+        "ts": "1628923805.034600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "03=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 前にURL変更したからじゃない？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628923775.034500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "6a7f8888-3a17-4e02-996f-c53efd04f878",
+        "type": "message",
+        "text": "<https:\/\/scrapbox.io\/css-lab\/>\nこちらで。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1628923825.034800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jGu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scrapbox.io\/css-lab\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこちらで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628923775.034500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "d6cdec70-1ad5-4392-b6b8-8d2bb9d306c5",
+        "type": "message",
+        "text": "あ、すいません。忘れてました。",
+        "user": "UPRE1RSJW",
+        "ts": "1628923845.035000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ROZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、すいません。忘れてました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1628923775.034500",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

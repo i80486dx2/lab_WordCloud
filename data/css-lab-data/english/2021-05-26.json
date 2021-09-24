@@ -1,0 +1,805 @@
+[
+    {
+        "client_msg_id": "a2c0d86e-c24d-4182-853c-0f0023391235",
+        "type": "message",
+        "text": "My father cleaned up hands, attached a mask, turned up the table.",
+        "user": "UQ47R82RW",
+        "ts": "1622015746.058200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rjb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My father cleaned up hands, attached a mask, turned up the table."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621943467.047500"
+    },
+    {
+        "client_msg_id": "c0fd61ce-3312-4eb3-bb5a-7e63801d18de",
+        "type": "message",
+        "text": "My father cleaned up hands, attached a mask, turned up the table.\nDeepL;父は手を洗って、マスクをつけて、テーブルを上げた。\n\n手を消毒する sanitize\n〜を身に着ける put on\nマスク-&gt; face mask\n\nひっくり返すはflip over\n\nsanitizeは聞き馴染みがないなぁ。\nひっくり返すの意味の言葉どこかで聞いた覚えがあったが、出てこなかった。",
+        "user": "UQ47R82RW",
+        "ts": "1622015925.058400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uyKrX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My father cleaned up hands, attached a mask, turned up the table.\nDeepL;父は手を洗って、マスクをつけて、テーブルを上げた。\n\n手を消毒する sanitize\n〜を身に着ける put on\nマスク-> face mask\n\nひっくり返すはflip over\n\nsanitizeは聞き馴染みがないなぁ。\nひっくり返すの意味の言葉どこかで聞いた覚えがあったが、出てこなかった。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621944097.047900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "92E234B1-BEC4-4FA8-A21B-1A27346B8D93",
+        "type": "message",
+        "text": "I don’t want anyone to be sacrificed anymore.",
+        "user": "U01EVRBP38C",
+        "ts": "1622026234.060600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mTR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t want anyone to be sacrificed anymore."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621956777.048900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1622031446.060800",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1622031446.060800",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1626940139.356600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UQ47R82RW",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622033847.060900"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622106405.067800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622170166.069600"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622349070.087100"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626940139.356600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626940139.356600",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「炎上なら、信頼と実績の本能寺にお任せ下さい」 <https:\/\/pbs.twimg.com\/media\/E2UDpWFUUAY8m0S.jpg>",
+                "ts": 1622031441,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1397527273415188482",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1397527273415188482>",
+                "text": "「炎上なら、信頼と実績の本能寺にお任せ下さい」 <https:\/\/pbs.twimg.com\/media\/E2UDpWFUUAY8m0S.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1397527273415188482",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E2UDpWFUUAY8m0S.jpg",
+                "image_width": 400,
+                "image_height": 450,
+                "image_bytes": 38159,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a7c3cd4-fb87-4237-b5f5-8d0bcdc74651",
+        "type": "message",
+        "text": "When it comes to flaming, count on Honnouji-Temple with trust and confidence.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622033847.060900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=J1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When it comes to flaming, count on Honnouji-Temple with trust and confidence."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622031446.060800"
+    },
+    {
+        "client_msg_id": "00d30b0e-5991-407d-838d-b7e6466e9750",
+        "type": "message",
+        "text": "反省会「炎上なら、信頼と実績の本能寺にお任せ下さい」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622033883.061200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZlEG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「炎上なら、信頼と実績の本能寺にお任せ下さい」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622033883.061200",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1626940663.356800",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UQ47R82RW",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622034056.061300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622106687.068000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622171049.069900"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622349468.087300"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626940663.356800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626940663.356800"
+    },
+    {
+        "client_msg_id": "b7a4741a-9702-4f2d-9320-e8a246f729b1",
+        "type": "message",
+        "text": "`When it comes to flaming, count on Honnouji-Temple with trust and confidence.`\nDeepL：炎上といえば、信頼と安心の本能寺天主堂。\n\n• これやったやつや…。そして不正解。\n• 「...にお任せください = you can count on」命令形もギリセーフ。\n• 「信頼と実績の... = trusted and proven ...」了。心に刻むのだ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622034056.061300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "evRaS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When it comes to flaming, count on Honnouji-Temple with trust and confidence.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：炎上といえば、信頼と安心の本能寺天主堂。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "これやったやつや…。そして不正解。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「...にお任せください = you can count on」命令形もギリセーフ。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「信頼と実績の... = trusted and proven ...」了。心に刻むのだ。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622033883.061200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "猫って気楽ね。今にホットケーキみたいにまんまるくなっても知らないから！（キキ\/魔女の宅急便）",
+        "user": "U01UMQH4W4B",
+        "ts": "1622043177.061900",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622043177.061900",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1622349569.087600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01EVRBP38C",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622074530.062300"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622082218.065300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622106960.068300"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622171416.070100"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622349569.087600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622349569.087600"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：猫って気楽ね。今にホットケーキみたいにまんまるくなっても知らないから！",
+        "user": "U01UMQH4W4B",
+        "ts": "1622043178.062000",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622043178.062000",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1622349804.087800",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1622043178.062100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622074903.062500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622107517.068500"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622172778.070300"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622349804.087800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622349804.087800"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "You’re no help. When you get fat, see if I care.",
+        "user": "U01UMQH4W4B",
+        "ts": "1622043178.062100",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622043178.062000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "dfb9d6c3-af13-4885-9f59-d0446b24aa51",
+        "type": "message",
+        "text": "Cats live easily, don't they? I don't care if you became chubby like a hotcake eventually.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622074530.062300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jDDd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cats live easily, don't they? I don't care if you became chubby like a hotcake eventually."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622043177.061900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "8fe38b92-1d15-4eee-b9b1-b265177863fd",
+        "type": "message",
+        "text": "`Cats live easily, don't they? I don't care if you became chubby like a hotcake eventually.`\nDeepL：猫は簡単に生きていますよね。そのうちホットケーキのようにぽっちゃりしてきても気にしない。\n\n• no help は「どうしようもない」という意味だが、こういう使い方もあるか…。\n• 「see if I care = 私が気にするか見てみなさい（気にしないから）」→「どうなっても知らないから！」了。\n• 「まんまるくなる」を get fat にするのは趣にかけるなぁ。\n• 「ホットケーキ」はどこにいった。\n• 全体的にこの模範解答は原文のノリとだいぶ違う。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622074903.062500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nVouy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cats live easily, don't they? I don't care if you became chubby like a hotcake eventually.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：猫は簡単に生きていますよね。そのうちホットケーキのようにぽっちゃりしてきても気にしない。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "no help は「どうしようもない」という意味だが、こういう使い方もあるか…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「see if I care = 私が気にするか見てみなさい（気にしないから）」→「どうなっても知らないから！」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「まんまるくなる」を get fat にするのは趣にかけるなぁ。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「ホットケーキ」はどこにいった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "全体的にこの模範解答は原文のノリとだいぶ違う。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622043178.062000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "B450482F-850F-43F4-B9C9-B5B1E7A861C9",
+        "type": "message",
+        "text": "Cats are optimistic. I don’t care if you are obey like pancakes.",
+        "user": "U01EVRBP38C",
+        "ts": "1622082218.065300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QsJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cats are optimistic. I don’t care if you are obey like pancakes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622043177.061900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1622085777.065600",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1622085777.065600",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1626851682.351400",
+        "reply_users": [
+            "U01EVRBP38C",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UQ47R82RW",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622098486.065800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622102705.067000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622107792.068800"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622173479.070500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622349880.088000"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626851682.351400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626851682.351400",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「冷たいものとスケベなもので、袋を分けますか？」 <https:\/\/pbs.twimg.com\/media\/E2XS1H-VoAARaak.jpg>",
+                "ts": 1622085771,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1397755149762764800",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1397755149762764800>",
+                "text": "「冷たいものとスケベなもので、袋を分けますか？」 <https:\/\/pbs.twimg.com\/media\/E2XS1H-VoAARaak.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1397755149762764800",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E2XS1H-VoAARaak.jpg",
+                "image_width": 400,
+                "image_height": 530,
+                "image_bytes": 70467,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "def455fa-a053-4adc-8875-2fcf3c6a300f",
+        "type": "message",
+        "text": "Would you like to separate these into something cold and sexy?",
+        "user": "U01EVRBP38C",
+        "ts": "1622098486.065800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R\/=o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like to separate these into something cold and sexy?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622085777.065600"
+    }
+]

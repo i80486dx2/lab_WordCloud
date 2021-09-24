@@ -1,0 +1,217 @@
+[
+    {
+        "client_msg_id": "3c968751-c961-464c-b2d1-1559a90353a5",
+        "type": "message",
+        "text": "<@UPSPAMY7M> \n明日の12:30ごろに判子いただけないでしょうか？\nもし無理そうであれば明日か、明後日の都合のよい時間を教えていただけませんか？",
+        "user": "UQ47R82RW",
+        "ts": "1585657251.002600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2hCKP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n明日の12:30ごろに判子いただけないでしょうか？\nもし無理そうであれば明日か、明後日の都合のよい時間を教えていただけませんか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585194675.000400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "e437a725-958c-46d1-99d2-c4461116cb1f",
+        "type": "message",
+        "text": "<@UQ47R82RW> 大丈夫です！その時間あたりにラボに行きます。",
+        "user": "UPSPAMY7M",
+        "ts": "1585699332.002800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kn7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 大丈夫です！その時間あたりにラボに行きます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585194675.000400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "client_msg_id": "40d994e8-3437-40fb-b108-75db23224f97",
+        "type": "message",
+        "text": "ありがとうございます！よろしくお願いします！",
+        "user": "UQ47R82RW",
+        "ts": "1585699378.003000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qr=O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585194675.000400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0115NEE66Q",
+                "created": 1585712852,
+                "timestamp": 1585712852,
+                "name": "研究補助業務出役確認表（ID-POS）-3.xlsx",
+                "title": "研究補助業務出役確認表（ID-POS）-3.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 46272,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0115NEE66Q\/____________________________________id-pos___-3.xlsx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0115NEE66Q\/download\/____________________________________id-pos___-3.xlsx?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0115NEE66Q-1457b92522\/____________________________________id-pos___-3_converted.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0115NEE66Q-1457b92522\/____________________________________id-pos___-3_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F0115NEE66Q\/____________________________________id-pos___-3.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0115NEE66Q-01cd647cfd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1585712856.003200",
+        "client_msg_id": "2409ad32-8aa7-4975-949a-50c31177e1ad",
+        "thread_ts": "1585194675.000400",
+        "parent_user_id": "UQ47R82RW"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0118411VCN",
+                "created": 1585712991,
+                "timestamp": 1585712991,
+                "name": "研究補助業務出役確認表（ID-POS）-3.pdf",
+                "title": "研究補助業務出役確認表（ID-POS）-3.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UPSPAMY7M",
+                "editable": false,
+                "size": 209176,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0118411VCN\/____________________________________id-pos___-3.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0118411VCN\/download\/____________________________________id-pos___-3.pdf?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0118411VCN-590a5e5df3\/____________________________________id-pos___-3_thumb_pdf.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPSPAMY7M\/F0118411VCN\/____________________________________id-pos___-3.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0118411VCN-56249eda1f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UPSPAMY7M",
+        "display_as_bot": false,
+        "ts": "1585712993.003600",
+        "client_msg_id": "f1f8273c-acdc-4db0-8382-e28f8abe822f",
+        "thread_ts": "1585194675.000400",
+        "parent_user_id": "UQ47R82RW"
+    }
+]

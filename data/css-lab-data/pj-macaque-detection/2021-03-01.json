@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "f75c2745-576f-46de-bdaa-0e488fe58334",
+        "type": "message",
+        "text": "<@U01EPKVACEN> 了解です！う〜ん、とりあえず夕方開催にしましょうか。<@U01EP8BUKQT> くん次第で！\n\n<@U01EP8BUKQT> 都合のいい日時などあるでしょうか？",
+        "user": "UPSPAMY7M",
+        "ts": "1614643008.002700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "agYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です！う〜ん、とりあえず夕方開催にしましょうか。"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " くん次第で！\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 都合のいい日時などあるでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1614515122.002400",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

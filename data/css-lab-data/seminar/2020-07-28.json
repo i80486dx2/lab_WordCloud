@@ -1,0 +1,764 @@
+[
+    {
+        "client_msg_id": "43371de6-9b77-438f-87b3-280c4d5c79b2",
+        "type": "message",
+        "text": "<!channel> 明日の研究室会（15:30～16:30）は、現在東大の博士課程で文化進化の研究をしている佐藤寛紀さんに、先日ALIFEの国際会議で発表した内容を解説してもらいます。卒論のテーマの一つにしたいと考えています。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595920827.101000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1595921045.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uXP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 明日の研究室会（15:30～16:30）は、現在東大の博士課程で文化進化の研究をしている佐藤寛紀さんに、先日ALIFEの国際会議で発表した内容を解説してもらいます。卒論のテーマの一つにしたいと考えています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595920827.101000",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1595997336.112000",
+        "reply_users": [
+            "UPSPAMY7M",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAMY7M",
+                "ts": "1595922112.102000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1595922142.102200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1595997336.112000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595997336.112000",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UQ47R82RW",
+                    "UPSPAMY7M",
+                    "UKH07E67M",
+                    "UKUKA65GU"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85f25838-a6d9-4ef2-b8a2-cbbb85f53c58",
+        "type": "message",
+        "text": "今日の輪講のアドレス：<https:\/\/us02web.zoom.us\/j\/82445581309?pwd=RUt5K0V1YkpCc2xvbWJQVVZmRDdzdz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595921126.101300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHy0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の輪講のアドレス："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/82445581309?pwd=RUt5K0V1YkpCc2xvbWJQVVZmRDdzdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595403224.095300",
+        "parent_user_id": "UKUKA65GU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UQ47R82RW",
+                    "UKH07E67M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7309ec47-2292-465c-88a2-4c8da400db7d",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> すみません、１６時から委員会なので冒頭のみ聞かせていただきます！(委員会の方を忘れておりました)",
+        "user": "UPSPAMY7M",
+        "ts": "1595922112.102000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N3p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " すみません、１６時から委員会なので冒頭のみ聞かせていただきます！(委員会の方を忘れておりました)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595920827.101000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "fb38ace8-3ac8-4cfd-bf37-b78f89b97192",
+        "type": "message",
+        "text": "<@UPSPAMY7M> はい！お疲れ様です。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595922142.102200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2Kgt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " はい！お疲れ様です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595920827.101000",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "3718c32f-a207-4850-b237-fa6ee279c4dc",
+        "type": "message",
+        "text": ":tada:祝:tada:　完走！\n皆さんお疲れ様でした〜:raised_hands:\n<http:\/\/networksciencebook.com>",
+        "user": "UKUKA65GU",
+        "ts": "1595931495.103500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BarabásiLab",
+                "title": "Network Science by Albert-László Barabási",
+                "title_link": "http:\/\/networksciencebook.com\/",
+                "text": "The power of network science, the beauty of network visualization.",
+                "fallback": "BarabásiLab: Network Science by Albert-László Barabási",
+                "image_url": "http:\/\/networksciencebook.com\/images\/networksciencebook.jpg",
+                "from_url": "http:\/\/networksciencebook.com\/",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 93066,
+                "id": 1,
+                "original_url": "http:\/\/networksciencebook.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "le6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "text",
+                                "text": "祝"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　完走！\n皆さんお疲れ様でした〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/networksciencebook.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UKS1Q2KTQ",
+                    "UKUKA65GU",
+                    "UPSPAP97D"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb5ddef8-da24-4053-bdcd-da05fb5801f7",
+        "type": "message",
+        "text": "とりあえず、思いつくものでアンケートを\nメインはどんなもの？複数回答ありで\n魚→:fish:\n肉→:meat_on_bone:\nイタリアン→:spaghetti:\nフレンチ→:fr:\nカレー→:curry:\nラーメン→:ramen:\n和食→:bento:\n鍋(大丈夫かな)→:stew:\n\nほかあったら教えてください。",
+        "user": "UKH07E67M",
+        "ts": "1595931807.107700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N4Rm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "とりあえず、思いつくものでアンケートを\nメインはどんなもの？複数回答ありで\n魚→"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fish"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n肉→"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meat_on_bone"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nイタリアン→"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spaghetti"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nフレンチ→"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fr"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nカレー→"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "curry"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nラーメン→"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ramen"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n和食→"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bento"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n鍋(大丈夫かな)→"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stew"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nほかあったら教えてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595931807.107700",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1596089878.116900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1596013692.114000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1596014097.114300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1596015382.114600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1596015432.114800"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1596085434.116700"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1596089878.116900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1596089878.116900",
+        "reactions": [
+            {
+                "name": "meat_on_bone",
+                "users": [
+                    "UQ47R82RW",
+                    "UKS1Q2KTQ",
+                    "UKH07E67M",
+                    "UKUKA65GU",
+                    "UPSPAP97D"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ramen",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UKH07E67M",
+                    "UPSPAP97D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fish",
+                "users": [
+                    "UKH07E67M",
+                    "UQ47R82RW",
+                    "UKS1Q2KTQ",
+                    "UKUKA65GU",
+                    "UPSPAP97D"
+                ],
+                "count": 5
+            },
+            {
+                "name": "spaghetti",
+                "users": [
+                    "UKH07E67M",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "curry",
+                "users": [
+                    "UQ47R82RW",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pig2",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UKH07E67M",
+                    "UKUKA65GU",
+                    "UPSPAP97D",
+                    "UQ47R82RW"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4C91E716-1557-48CC-B3B9-9320839239AE",
+        "type": "message",
+        "text": ":pig2:とは....!?",
+        "user": "UKUKA65GU",
+        "ts": "1595932766.110400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "epw8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "pig2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とは....!?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595932766.110400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1595932791.110900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKUKA65GU"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1595932778.110500"
+            },
+            {
+                "user": "UKUKA65GU",
+                "ts": "1595932791.110900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595932791.110900"
+    },
+    {
+        "client_msg_id": "7470d054-4ed5-46d8-af2d-704a115e6e1a",
+        "type": "message",
+        "text": "カツ丼？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595932778.110500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BZaXR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カツ丼？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595932766.110400",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "7008B060-DB60-4BBD-9728-5867FE9500A3",
+        "type": "message",
+        "text": "あぁ〜なるほど！",
+        "user": "UKUKA65GU",
+        "ts": "1595932791.110900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あぁ〜なるほど！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595932766.110400",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "今日の研究室会はここで：<https:\/\/us02web.zoom.us\/j\/84429527193?pwd=SnZWZEZyck56QWtXN2kyZHZ3Vi9Sdz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1595997336.112000",
+        "thread_ts": "1595920827.101000",
+        "root": {
+            "client_msg_id": "43371de6-9b77-438f-87b3-280c4d5c79b2",
+            "type": "message",
+            "text": "<!channel> 明日の研究室会（15:30～16:30）は、現在東大の博士課程で文化進化の研究をしている佐藤寛紀さんに、先日ALIFEの国際会議で発表した内容を解説してもらいます。卒論のテーマの一つにしたいと考えています。",
+            "user": "UKS1Q2KTQ",
+            "ts": "1595920827.101000",
+            "team": "TKS1Q2JUE",
+            "edited": {
+                "user": "UKS1Q2KTQ",
+                "ts": "1595921045.000000"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "uXP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 明日の研究室会（15:30～16:30）は、現在東大の博士課程で文化進化の研究をしている佐藤寛紀さんに、先日ALIFEの国際会議で発表した内容を解説してもらいます。卒論のテーマの一つにしたいと考えています。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1595920827.101000",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1595997336.112000",
+            "reply_users": [
+                "UPSPAMY7M",
+                "UKS1Q2KTQ"
+            ],
+            "replies": [
+                {
+                    "user": "UPSPAMY7M",
+                    "ts": "1595922112.102000"
+                },
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1595922142.102200"
+                },
+                {
+                    "user": "UKS1Q2KTQ",
+                    "ts": "1595997336.112000"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1595997336.112000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8BVc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の研究室会はここで："
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/84429527193?pwd=SnZWZEZyck56QWtXN2kyZHZ3Vi9Sdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "47796bc3-4ba8-4b54-977d-9ab835da9612",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D",
+                    "UKUKA65GU",
+                    "UQ47R82RW",
+                    "UPSPAMY7M",
+                    "UPRE1RSJW"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "client_msg_id": "09b1285b-43dc-4134-acc6-2663c6de66ee",
+        "type": "message",
+        "text": "<!channel>\nUBICのモーションキャプチャールームの見学会を開催します。モーションキャプチャルームには赤外線反射マーカーを利用した動作解析システム VICONと、床面にかかる力を計測するフォースプレートシステムがあります。VICONの使い方、フォースプレートの使い方、データの取扱などやっていこうと思います。\n\n（できることの例）\n・VICONで動作計測をしてUnity\/VRコンテンツとして動かす\n・VICONとフォースプレートを利用して動作の重心バランスや床への力のかかり方などを評価\n・VRゴーグルを装着して仮想空間上で地震を起こし、現実の身体にどんな影響があるか客観評価\n\n下記の時間場所で行いますので参加したい方は現地集合でよろしくお願いします。\n時間：６月２２日（火）16:00〜18:00\n場所：UBIC　運動解析室（わからない場合はUBICの玄関まで迎えに行きます）\n\n※VR輪講を受けている学生は全員参加予定です\n※申し込みなどは必要ありません",
+        "user": "UPSPAMY7M",
+        "ts": "1623741937.016100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ojb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nUBICのモーションキャプチャールームの見学会を開催します。モーションキャプチャルームには赤外線反射マーカーを利用した動作解析システム VICONと、床面にかかる力を計測するフォースプレートシステムがあります。VICONの使い方、フォースプレートの使い方、データの取扱などやっていこうと思います。\n\n（できることの例）\n・VICONで動作計測をしてUnity\/VRコンテンツとして動かす\n・VICONとフォースプレートを利用して動作の重心バランスや床への力のかかり方などを評価\n・VRゴーグルを装着して仮想空間上で地震を起こし、現実の身体にどんな影響があるか客観評価\n\n下記の時間場所で行いますので参加したい方は現地集合でよろしくお願いします。\n時間：６月２２日（火）16:00〜18:00\n場所：UBIC　運動解析室（わからない場合はUBICの玄関まで迎えに行きます）\n\n※VR輪講を受けている学生は全員参加予定です\n※申し込みなどは必要ありません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01EP8BUKQT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ",
+                    "UPSPAP97D",
+                    "U01EV766AH2"
+                ],
+                "count": 3
+            },
+            {
+                "name": "goggles",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c873f88-024c-4ee1-b517-c5ece1be1061",
+        "type": "message",
+        "text": "<!channel> 研究室に夜間残る人で空調が必要な場合、「時間外空調申請書」を私に出してくれれば提出しておきます（私の印鑑が必要）。２週間分くらいまとめて申請できるようです。\n<https:\/\/www.dropbox.com\/s\/7a9owjugxecn81x\/%E6%99%82%E9%96%93%E5%A4%96%E7%A9%BA%E8%AA%BF%E7%94%B3%E8%AB%8B%E6%9B%B8.doc?dl=0>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1623815901.018400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "blocks": [
+                    {
+                        "type": "file",
+                        "block_id": "I=AJD",
+                        "external_id": "1-a6e1c71179d9f1a4e8d3d4a2b773c71b2d328ddbaa77d2e9a9bd832da2aa89d6",
+                        "source": "remote",
+                        "file_id": "F0256BWD56W",
+                        "file": {
+                            "id": "F0256BWD56W",
+                            "created": 1623815908,
+                            "timestamp": 1623815908,
+                            "name": "_________________________doc",
+                            "title": "時間外空調申請書.doc",
+                            "mimetype": "application\/msword",
+                            "filetype": "doc",
+                            "pretty_type": "Word Document",
+                            "user": "UL7ALT9L5",
+                            "editable": false,
+                            "size": 97208,
+                            "mode": "external",
+                            "is_external": true,
+                            "external_type": "app",
+                            "is_public": true,
+                            "public_url_shared": false,
+                            "display_as_bot": false,
+                            "username": "",
+                            "url_private": "https:\/\/www.dropbox.com\/s\/7a9owjugxecn81x\/%E6%99%82%E9%96%93%E5%A4%96%E7%A9%BA%E8%AA%BF%E7%94%B3%E8%AB%8B%E6%9B%B8.doc?dl=0",
+                            "media_display_type": "unknown",
+                            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0256BWD56W-4ae9441a0b\/_________________________doc_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0256BWD56W-4ae9441a0b\/_________________________doc_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0256BWD56W-4ae9441a0b\/_________________________doc_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_360_w": 360,
+                            "thumb_360_h": 180,
+                            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0256BWD56W-4ae9441a0b\/_________________________doc_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_480_w": 480,
+                            "thumb_480_h": 240,
+                            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0256BWD56W-4ae9441a0b\/_________________________doc_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0256BWD56W-4ae9441a0b\/_________________________doc_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_720_w": 720,
+                            "thumb_720_h": 360,
+                            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0256BWD56W-4ae9441a0b\/_________________________doc_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_800_w": 800,
+                            "thumb_800_h": 400,
+                            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F0256BWD56W-4ae9441a0b\/_________________________doc_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                            "thumb_960_w": 960,
+                            "thumb_960_h": 480,
+                            "original_w": 1000,
+                            "original_h": 500,
+                            "thumb_tiny": "AwAYADDTpMn0\/Wg9KQfU0AKM\/SkLDONxFH1JowOvegBcj1pabgY4OaBkHk0AK3SkPWlPSg9aAE\/z0oPX\/wCtRR3oAP8APSl7j60lHcUAf\/\/Z",
+                            "permalink": "https:\/\/css-uoa.slack.com\/files\/UL7ALT9L5\/F0256BWD56W\/_________________________doc",
+                            "comments_count": 0,
+                            "shares": {},
+                            "channels": [],
+                            "groups": [],
+                            "ims": [],
+                            "external_id": "1-a6e1c71179d9f1a4e8d3d4a2b773c71b2d328ddbaa77d2e9a9bd832da2aa89d6",
+                            "external_url": "https:\/\/www.dropbox.com\/s\/7a9owjugxecn81x\/%E6%99%82%E9%96%93%E5%A4%96%E7%A9%BA%E8%AA%BF%E7%94%B3%E8%AB%8B%E6%9B%B8.doc?dl=0",
+                            "has_rich_preview": true
+                        }
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BL0VDTHH7",
+                "app_unfurl_url": "https:\/\/www.dropbox.com\/s\/7a9owjugxecn81x\/%E6%99%82%E9%96%93%E5%A4%96%E7%A9%BA%E8%AA%BF%E7%94%B3%E8%AB%8B%E6%9B%B8.doc?dl=0",
+                "is_app_unfurl": true
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/cN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 研究室に夜間残る人で空調が必要な場合、「時間外空調申請書」を私に出してくれれば提出しておきます（私の印鑑が必要）。２週間分くらいまとめて申請できるようです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dropbox.com\/s\/7a9owjugxecn81x\/%E6%99%82%E9%96%93%E5%A4%96%E7%A9%BA%E8%AA%BF%E7%94%B3%E8%AB%8B%E6%9B%B8.doc?dl=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "UPSPAP97D",
+                    "U01EPKVACEN",
+                    "UKUKA65GU"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

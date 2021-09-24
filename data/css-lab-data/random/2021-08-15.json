@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "c8aba38e-7a1e-48a4-ab7d-cdc84d25690d",
+        "type": "message",
+        "text": "数理モデルによって社会現象の傾向や面白い結果が得られてて数理モデルすげぇなって思った。\n説明が丁寧で、中高生でもわかるような良い講演なので暇な方はぜひ見てみてください笑\n個人的激アツポイントは<https:\/\/youtu.be\/YTtoFv_SEcA?t=1240|20:40>あたりからです笑\n<https:\/\/youtu.be\/YTtoFv_SEcA>",
+        "user": "U01EP8BUKQT",
+        "ts": "1629089203.041800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ged914d7ba7b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed914d7ba7bbb4f21370d607232d99bf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "上田　健登",
+            "real_name": "上田　健登",
+            "display_name": "kento",
+            "team": "TKS1Q2JUE",
+            "name": "ueken110",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "最先端技術のミニトーク「感染症の数理モデル入門～感染症のひろがりを数学で解き明かす～」羽田野 直道 教授",
+                "title_link": "https:\/\/youtu.be\/YTtoFv_SEcA?t=1240",
+                "author_name": "東京大学 生産技術研究所",
+                "author_link": "https:\/\/www.youtube.com\/c\/UTokyoIIS",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/YTtoFv_SEcA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 最先端技術のミニトーク「感染症の数理モデル入門～感染症のひろがりを数学で解き明かす～」羽田野 直道 教授",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/YTtoFv_SEcA?start=1240&feature=oembed&start=1240&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/YTtoFv_SEcA?t=1240",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/YTtoFv_SEcA?t=1240"
+            },
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "最先端技術のミニトーク「感染症の数理モデル入門～感染症のひろがりを数学で解き明かす～」羽田野 直道 教授",
+                "title_link": "https:\/\/youtu.be\/YTtoFv_SEcA",
+                "author_name": "東京大学 生産技術研究所",
+                "author_link": "https:\/\/www.youtube.com\/c\/UTokyoIIS",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/YTtoFv_SEcA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 最先端技術のミニトーク「感染症の数理モデル入門～感染症のひろがりを数学で解き明かす～」羽田野 直道 教授",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/YTtoFv_SEcA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/YTtoFv_SEcA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/youtu.be\/YTtoFv_SEcA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "数理モデルによって社会現象の傾向や面白い結果が得られてて数理モデルすげぇなって思った。\n説明が丁寧で、中高生でもわかるような良い講演なので暇な方はぜひ見てみてください笑\n個人的激アツポイントは"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/YTtoFv_SEcA?t=1240",
+                                "text": "20:40"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あたりからです笑\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/YTtoFv_SEcA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01EVRBP38C",
+                    "UPSPAP97D",
+                    "U01F42ZFA73"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "client_msg_id": "96b4b99e-a4dc-4889-a9d6-e5539e6735c0",
+        "type": "message",
+        "text": "<!channel> このチャンネルでの勉強法について\n• （当たり前だが）先に答えを見ない。人間は「納得」では学習しない。「予測」をして外れることが学習効果を最大にする。\n• 語彙が足らなくても、知っている単語を駆使して、なんとか言いたいことを表現する。\n• 複数の言い回しを考えた上で、その中から吟味して選ぶ。\n• 単に当たった・外れたではなく、間違った箇所をレビューすることが重要。\n• 反省を共有するとアドバイスをもらえるかも。自作英文をDeepLで翻訳してみるのもあり。\n単語の意味は英和辞書ではなく英英辞書・類義語ベースで覚えるとニュアンスを理解できてよい。\n参考サイト：\n• <https:\/\/skell.sketchengine.eu\/#home>\n• <https:\/\/www.thesaurus.com\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1616928250.062000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1618396294.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Thesaurus.com",
+                "title": "Thesaurus.com - The world's favorite online thesaurus!",
+                "title_link": "https:\/\/www.thesaurus.com\/",
+                "text": "<http:\/\/Thesaurus.com|Thesaurus.com> is the world’s leading online source for synonyms, antonyms, and more.",
+                "fallback": "Thesaurus.com: Thesaurus.com - The world's favorite online thesaurus!",
+                "thumb_url": "https:\/\/www.thesaurus.com\/hp-assets\/_next\/static\/images\/thesaurus_social_logo-0bb8f9375748a874b7dbe7fcee29f592.png",
+                "from_url": "https:\/\/www.thesaurus.com\/",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/www.thesaurus.com\/hp-assets\/_next\/static\/images\/tcom_favicon-0d297be7e698b98c9da809d355171253.png",
+                "id": 1,
+                "original_url": "https:\/\/www.thesaurus.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LkyQp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " このチャンネルでの勉強法について\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "（当たり前だが）先に答えを見ない。人間は「納得」では学習しない。「予測」をして外れることが学習効果を最大にする。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "語彙が足らなくても、知っている単語を駆使して、なんとか言いたいことを表現する。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "複数の言い回しを考えた上で、その中から吟味して選ぶ。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "単に当たった・外れたではなく、間違った箇所をレビューすることが重要。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "反省を共有するとアドバイスをもらえるかも。自作英文をDeepLで翻訳してみるのもあり。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n単語の意味は英和辞書ではなく英英辞書・類義語ベースで覚えるとニュアンスを理解できてよい。\n参考サイト：\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/skell.sketchengine.eu\/#home"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.thesaurus.com\/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "U01EVRBP38C",
+                    "UKH07E67M",
+                    "UKUKA65GU",
+                    "UPSPAP97D"
+                ],
+                "count": 5
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "U01EVRBP38C",
+                    "UKUKA65GU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1616933105.062300",
+        "user": "UKS1Q2KTQ",
+        "text": "<@UKS1Q2KTQ> has renamed the channel from \"denai_english\" to \"english\"",
+        "old_name": "denai_english",
+        "name": "english"
+    }
+]

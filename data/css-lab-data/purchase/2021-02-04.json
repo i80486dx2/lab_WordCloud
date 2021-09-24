@@ -1,0 +1,155 @@
+[
+    {
+        "client_msg_id": "3A701A8E-F059-4541-9364-81A643679F63",
+        "type": "message",
+        "text": "この本読んでみたいです\n<https:\/\/www.amazon.co.jp\/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6-%E4%BA%8B%E6%A5%AD%E6%88%A6%E7%95%A5%E3%83%BBIT%E9%96%8B%E7%99%BA%E3%83%BBUX%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%8B%E3%82%89%E3%83%81%E3%83%BC%E3%83%A0%E3%83%BB%E7%B5%84%E7%B9%94%E9%81%8B%E5%96%B6%E3%81%BE%E3%81%A7-%E5%8F%8A%E5%B7%9D-%E5%8D%93%E4%B9%9F\/dp\/4798166391?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;dchild=1&amp;keywords=%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6&amp;qid=1612483127&amp;sr=8-2&amp;linkCode=sl1&amp;tag=seaa-22&amp;linkId=3b8bcda666a59e1c31fabf8b857b4188&amp;language=ja_JP&amp;ref_=as_li_ss_tl&amp;fbclid=IwAR2FLrb-juZiDDL_hRKFNvTW_HR6Gx-IjSx5CW2oua5L_PYT7_PrQ20DUyc|https:\/\/www.amazon.co.jp\/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6-%E4%BA%8B%E6%A5%AD%E6%88%A6%E7%95%A5%E3%83%BBIT%E9%96%8B%E7%99%BA%E3%83%BBUX%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%8B%E3%82%89%E3%83%81%E3%83%BC%E3%83%A0%E3%83%BB%E7%B5%84%E7%B9%94%E9%81%8B%E5%96%B6%E3%81%BE%E3%81%A7-%E5%8F%8A%E5%B7%9D-%E5%8D%93%E4%B9%9F\/dp\/4798166391?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;dchild=1&amp;keywords=%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6&amp;qid=1612483127&amp;sr=8-2&amp;linkCode=sl1&amp;tag=seaa-22&amp;linkId=3b8bcda666a59e1c31fabf8b857b4188&amp;language=ja_JP&amp;ref_=as_li_ss_tl&amp;fbclid=IwAR2FLrb-juZiDDL_hRKFNvTW_HR6Gx-IjSx5CW2oua5L_PYT7_PrQ20DUyc>",
+        "user": "UPRE1RSJW",
+        "ts": "1612509934.000500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2tzpP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この本読んでみたいです\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6-%E4%BA%8B%E6%A5%AD%E6%88%A6%E7%95%A5%E3%83%BBIT%E9%96%8B%E7%99%BA%E3%83%BBUX%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%8B%E3%82%89%E3%83%81%E3%83%BC%E3%83%A0%E3%83%BB%E7%B5%84%E7%B9%94%E9%81%8B%E5%96%B6%E3%81%BE%E3%81%A7-%E5%8F%8A%E5%B7%9D-%E5%8D%93%E4%B9%9F\/dp\/4798166391?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6&qid=1612483127&sr=8-2&linkCode=sl1&tag=seaa-22&linkId=3b8bcda666a59e1c31fabf8b857b4188&language=ja_JP&ref_=as_li_ss_tl&fbclid=IwAR2FLrb-juZiDDL_hRKFNvTW_HR6Gx-IjSx5CW2oua5L_PYT7_PrQ20DUyc",
+                                "text": "https:\/\/www.amazon.co.jp\/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6-%E4%BA%8B%E6%A5%AD%E6%88%A6%E7%95%A5%E3%83%BBIT%E9%96%8B%E7%99%BA%E3%83%BBUX%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%8B%E3%82%89%E3%83%81%E3%83%BC%E3%83%A0%E3%83%BB%E7%B5%84%E7%B9%94%E9%81%8B%E5%96%B6%E3%81%BE%E3%81%A7-%E5%8F%8A%E5%B7%9D-%E5%8D%93%E4%B9%9F\/dp\/4798166391?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6&qid=1612483127&sr=8-2&linkCode=sl1&tag=seaa-22&linkId=3b8bcda666a59e1c31fabf8b857b4188&language=ja_JP&ref_=as_li_ss_tl&fbclid=IwAR2FLrb-juZiDDL_hRKFNvTW_HR6Gx-IjSx5CW2oua5L_PYT7_PrQ20DUyc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612509934.000500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1612514373.005100",
+        "reply_users": [
+            "U01FP2RDV44",
+            "UKS1Q2KTQ",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "U01FP2RDV44",
+                "ts": "1612510407.000900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1612511831.001100"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1612514373.005100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1612514373.005100"
+    },
+    {
+        "client_msg_id": "8FE08CF8-0DCB-450A-A553-B58FD151061B",
+        "type": "message",
+        "text": "ぼくも読みたいです！",
+        "user": "U01FP2RDV44",
+        "ts": "1612510407.000900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "6c402b6825af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-26\/1543484684737_6c402b6825affd75c93e_72.png",
+            "first_name": "谷川直弥",
+            "real_name": "谷川直弥",
+            "display_name": "naoya",
+            "team": "TKS1Q2JUE",
+            "name": "s1280208",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aq6h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ぼくも読みたいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612509934.000500",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "e547d82c-e708-40e1-a162-82c6d169ab92",
+        "type": "message",
+        "text": "リンクのURL長すぎw 3月発売なんですね。予約しておきます。\nでもどうしてこの本？何かでお薦めされた？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1612511831.001100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1612511919.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L0Mjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リンクのURL長すぎw 3月発売なんですね。予約しておきます。\nでもどうしてこの本？何かでお薦めされた？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1612509934.000500",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "1e66390e-757e-4411-ac10-c7f195b08349",
+        "type": "message",
+        "text": "<!channel>\n\npopulation dynamics(<https:\/\/compu-soceco.slack.com\/archives\/CL7A4B596\/p1606196181006900>)\n7回目 2\/5(金)　:17:00~\nChap11(途中から)\nChap12(途中から)\nChap13\nChap14\n時間あるようであれば\nchap17?\n\nscrapbox\n<https:\/\/scrapbox.io\/cse-lab\/%E8%BC%AA%E8%AC%9B> （",
+        "user": "UQ47R82RW",
+        "ts": "1611915337.006300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1612192184.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/compu-soceco.slack.com\/archives\/CL7A4B596\/p1606196181006900",
+                "fallback": "[November 23rd, 2020 9:36 PM] yasuhirohashimoto: <@UQ47R82RW> <@UQ63J44BZ> 論文ではないですが、この教科書？勉強になるので少しずつ輪講しませんか？（論文はまた別で）\n<https:\/\/www.dropbox.com\/s\/6jl4permide50vs\/Bacaer%202011.pdf?dl=0>",
+                "ts": "1606196181.006900",
+                "author_id": "UKS1Q2KTQ",
+                "author_subname": "Yasuhiro Hashimoto",
+                "channel_id": "CL7A4B596",
+                "channel_name": "articles",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<@UQ47R82RW> <@UQ63J44BZ> 論文ではないですが、この教科書？勉強になるので少しずつ輪講しませんか？（論文はまた別で）\n<https:\/\/www.dropbox.com\/s\/6jl4permide50vs\/Bacaer%202011.pdf?dl=0>",
+                "author_name": "Yasuhiro Hashimoto",
+                "author_link": "https:\/\/compu-soceco.slack.com\/team\/UKS1Q2KTQ",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/compu-soceco.slack.com\/archives\/CL7A4B596\/p1606196181006900",
+                "footer": "Thread in #articles"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYKVY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\npopulation dynamics("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/compu-soceco.slack.com\/archives\/CL7A4B596\/p1606196181006900"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n7回目 2\/5(金)　:17:00~\nChap11(途中から)\nChap12(途中から)\nChap13\nChap14\n時間あるようであれば\nchap17?\n\nscrapbox\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scrapbox.io\/cse-lab\/%E8%BC%AA%E8%AC%9B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " （"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

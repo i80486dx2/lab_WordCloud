@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "C8DF031A-53F4-4E89-8D77-2549B157B4A5",
+        "type": "message",
+        "text": "2\/3(水)終日、2\/4(木)16:00~18:00、2\/5(金)17:00~、2\/6(土)、2\/7(日)終日が可能です:man-gesturing-ok:",
+        "user": "U01EL0SAUTF",
+        "ts": "1612185520.014800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "97f546e52313",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1499146897842_97f546e523132e359093_72.png",
+            "first_name": "Honda",
+            "real_name": "Honda Daiki",
+            "display_name": "daiki",
+            "team": "TKS1Q2JUE",
+            "name": "s1270123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "itY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2\/3(水)終日、2\/4(木)16:00~18:00、2\/5(金)17:00~、2\/6(土)、2\/7(日)終日が可能です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-gesturing-ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b101e31e-75fb-40d8-97bb-a05f52d71220",
+        "type": "message",
+        "text": "<@U01KC41PR9C> <@U01EL0SAUTF> では木曜(2\/4)の16:30～17:30でお願いします！オンラインがよい場合はアドレスを作るので言ってください。大学に来るなら私のオフィスで。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1612222303.016400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uD6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01KC41PR9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " では木曜(2\/4)の16:30～17:30でお願いします！オンラインがよい場合はアドレスを作るので言ってください。大学に来るなら私のオフィスで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01KC41PR9C",
+                    "U01EL0SAUTF"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

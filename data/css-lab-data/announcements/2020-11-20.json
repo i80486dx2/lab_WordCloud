@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "80d7b5c2-a9d3-4310-ad3a-793e3be1a084",
+        "type": "message",
+        "text": "<@UPSPAP97D> youtube配信することになったようです。\n<https:\/\/www.youtube.com\/watch?v=dHvayq2dcPE>\nオフィスに来てくれてもいいですが、好きに観てもらって結構です。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1605930224.063500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SrS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " youtube配信することになったようです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=dHvayq2dcPE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nオフィスに来てくれてもいいですが、好きに観てもらって結構です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605341463.045200",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "client_msg_id": "d9c6dbcf-b730-49e7-9f96-383d4cff8399",
+        "type": "message",
+        "text": "<@UQ47R82RW>  <@UPSPAP97D> <@UKH07E67M> 10:00からのミーティングは以下で：\n<https:\/\/us02web.zoom.us\/j\/86299519951?pwd=QThrY1V4TmFKVGdVeGV5Tlp0MFRFZz09>\n\nミーティングID: 862 9951 9951\nパスワード: 979139",
+        "user": "UKS1Q2KTQ",
+        "ts": "1592873486.021700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HvQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10:00からのミーティングは以下で：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/86299519951?pwd=QThrY1V4TmFKVGdVeGV5Tlp0MFRFZz09"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nミーティングID: 862 9951 9951\nパスワード: 979139"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592646750.016300",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M",
+                    "UPSPAP97D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9881ffd-2c9c-483f-92f6-5d6679da399b",
+        "type": "message",
+        "text": "蒼紫君は既にアルバイトの契約をしているのでNDAは不要です。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1592873508.021900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ov0P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "蒼紫君は既にアルバイトの契約をしているのでNDAは不要です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1592646750.016300",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

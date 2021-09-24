@@ -1,0 +1,793 @@
+[
+    {
+        "client_msg_id": "d7f19e7b-5d9a-4b22-9c15-07de5624628d",
+        "type": "message",
+        "text": "MLに書きましたが、以下を購入予定。希望があればここに書いてください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1575092965.003200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1575093483.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ul",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MLに書きましたが、以下を購入予定。希望があればここに書いてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575092965.003200",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1575103709.008400",
+        "reply_users": [
+            "UKH07E67M",
+            "UQ63J44BZ",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1575093056.004900"
+            },
+            {
+                "user": "UQ63J44BZ",
+                "ts": "1575093504.006600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1575103709.008400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1575103709.008400"
+    },
+    {
+        "client_msg_id": "b703f786-3893-416c-89c9-de66298b7c47",
+        "type": "message",
+        "text": "<https:\/\/www.muji.net\/store\/cmdty\/section\/S2000103|https:\/\/www.muji.net\/store\/cmdty\/section\/S2000103>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1575092972.003500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "ソファベンチ 通販 | 無印良品",
+                "title_link": "https:\/\/www.muji.net\/store\/cmdty\/section\/S2000103",
+                "text": "ソファベンチの通販なら無印良品 公式ネットストア。座ることはもちろん、寝そべったり、遊んだり、食事したり。そんな暮らしの在り方を見つめなおして作ったソファです。カバーは着脱式で、お好みに合った生地が選べます。",
+                "fallback": "ソファベンチ 通販 | 無印良品",
+                "from_url": "https:\/\/www.muji.net\/store\/cmdty\/section\/S2000103",
+                "service_icon": "https:\/\/www.muji.net\/favicon.ico",
+                "service_name": "muji.net",
+                "id": 1,
+                "original_url": "https:\/\/www.muji.net\/store\/cmdty\/section\/S2000103"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tv92",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.muji.net\/store\/cmdty\/section\/S2000103",
+                                "text": "https:\/\/www.muji.net\/store\/cmdty\/section\/S2000103"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "372c8946-574c-4361-b099-9419a51d8b1d",
+        "type": "message",
+        "text": "<https:\/\/www.muji.net\/store\/cmdty\/section\/S10305|https:\/\/www.muji.net\/store\/cmdty\/section\/S10305>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1575093013.004000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "体にフィットするソファ 通販 | 無印良品",
+                "title_link": "https:\/\/www.muji.net\/store\/cmdty\/section\/S10305",
+                "text": "体にフィットするソファの通販なら無印良品 公式ネットストア。くつろぎのかたちに合わせて、自由に変形する体にフィットするソファ。微粒子ビーズが入っているので、体型に合わせて包み込まれる座り心地です。置き方によって座り心地が選べます。",
+                "fallback": "体にフィットするソファ 通販 | 無印良品",
+                "from_url": "https:\/\/www.muji.net\/store\/cmdty\/section\/S10305",
+                "service_icon": "https:\/\/www.muji.net\/favicon.ico",
+                "service_name": "muji.net",
+                "id": 1,
+                "original_url": "https:\/\/www.muji.net\/store\/cmdty\/section\/S10305"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aJIm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.muji.net\/store\/cmdty\/section\/S10305",
+                                "text": "https:\/\/www.muji.net\/store\/cmdty\/section\/S10305"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7dea35c4-8b11-4ff4-98ea-e82354ca9cbc",
+        "type": "message",
+        "text": "<https:\/\/www.muji.net\/store\/cmdty\/detail\/4550002528270|https:\/\/www.muji.net\/store\/cmdty\/detail\/4550002528270>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1575093046.004700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "折りたたみローテーブル・幅１２０ｃｍ・オーク材幅１２０×奥行７０×高さ３５ｃｍ 通販 | 無印良品",
+                "title_link": "https:\/\/www.muji.net\/store\/cmdty\/detail\/4550002528270",
+                "text": "脚部が折りたたみできるローテーブルです。脚部を閉じれば省スペースに収納することができます。",
+                "fallback": "折りたたみローテーブル・幅１２０ｃｍ・オーク材幅１２０×奥行７０×高さ３５ｃｍ 通販 | 無印良品",
+                "image_url": "https:\/\/img.muji.net\/img\/item\/4550002528270_1260.jpg",
+                "from_url": "https:\/\/www.muji.net\/store\/cmdty\/detail\/4550002528270",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 47114,
+                "service_icon": "https:\/\/www.muji.net\/cache\/m\/img\/apple-touch-icon.png",
+                "service_name": "muji.net",
+                "id": 1,
+                "original_url": "https:\/\/www.muji.net\/store\/cmdty\/detail\/4550002528270"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UCFV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.muji.net\/store\/cmdty\/detail\/4550002528270",
+                                "text": "https:\/\/www.muji.net\/store\/cmdty\/detail\/4550002528270"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27ea4c2c-ae10-4873-ba00-8b82bb67293b",
+        "type": "message",
+        "text": "メーリングリスト読みました。\n大変申し訳ないのですが、来週水曜日は個人の都合であいていません。\n自分は設置する時手伝う方に当てて欲しいです。\nもしくは別の日程(月曜午後)などなら参加できます。",
+        "user": "UKH07E67M",
+        "ts": "1575093056.004900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h36r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メーリングリスト読みました。\n大変申し訳ないのですが、来週水曜日は個人の都合であいていません。\n自分は設置する時手伝う方に当てて欲しいです。\nもしくは別の日程(月曜午後)などなら参加できます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575092965.003200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "684e3f77-5d3f-4f41-a1a0-811dffcb4101",
+        "type": "message",
+        "text": "<https:\/\/www.muji.net\/store\/cmdty\/detail\/4547315874873|https:\/\/www.muji.net\/store\/cmdty\/detail\/4547315874873>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1575093226.005300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "オーク材コートハンガー幅４４×奥行５３．５×高さ１５０．５ｃｍ 通販 | 無印良品",
+                "title_link": "https:\/\/www.muji.net\/store\/cmdty\/detail\/4547315874873",
+                "text": "北米産のホワイトオーク材を使用しています。便利な棚板付きです。耐荷重：ハンガー部分１０ｋｇ、棚板１０ｋｇ。",
+                "fallback": "オーク材コートハンガー幅４４×奥行５３．５×高さ１５０．５ｃｍ 通販 | 無印良品",
+                "image_url": "https:\/\/img.muji.net\/img\/item\/4547315874873_1260.jpg",
+                "from_url": "https:\/\/www.muji.net\/store\/cmdty\/detail\/4547315874873",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 88369,
+                "service_icon": "https:\/\/www.muji.net\/cache\/m\/img\/apple-touch-icon.png",
+                "service_name": "muji.net",
+                "id": 1,
+                "original_url": "https:\/\/www.muji.net\/store\/cmdty\/detail\/4547315874873"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ruD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.muji.net\/store\/cmdty\/detail\/4547315874873",
+                                "text": "https:\/\/www.muji.net\/store\/cmdty\/detail\/4547315874873"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a645d2c-af62-48a2-a44c-e1d40c008c86",
+        "type": "message",
+        "text": "電気ケトルが欲しいです。\n<https:\/\/www.amazon.co.jp\/%E3%83%89%E3%83%AA%E3%83%86%E3%83%83%E3%82%AF-%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB-%E3%83%A9%E3%83%9F%E3%83%B3-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88-PO-323WT\/dp\/B00BQ3XOBC\/ref=sr_1_7?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB&amp;qid=1575093159&amp;sr=8-7>\n安いのであればこんな感じのが",
+        "user": "UKH07E67M",
+        "ts": "1575093242.005800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "ドリテック 電気ケトル(1．0L) ラミン ホワイト PO-323WT",
+                "title_link": "https:\/\/www.amazon.co.jp\/%E3%83%89%E3%83%AA%E3%83%86%E3%83%83%E3%82%AF-%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB-%E3%83%A9%E3%83%9F%E3%83%B3-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88-PO-323WT\/dp\/B00BQ3XOBC\/ref=sr_1_7?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB&qid=1575093159&sr=8-7",
+                "text": "ドリテック 電気ケトル(1．0L) ラミン ホワイト PO-323WT",
+                "fallback": "ドリテック 電気ケトル(1．0L) ラミン ホワイト PO-323WT",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/31ycc4Usu4L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(762%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/%E3%83%89%E3%83%AA%E3%83%86%E3%83%83%E3%82%AF-%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB-%E3%83%A9%E3%83%9F%E3%83%B3-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88-PO-323WT\/dp\/B00BQ3XOBC\/ref=sr_1_7?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB&qid=1575093159&sr=8-7",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 8885,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/%E3%83%89%E3%83%AA%E3%83%86%E3%83%83%E3%82%AF-%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB-%E3%83%A9%E3%83%9F%E3%83%B3-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88-PO-323WT\/dp\/B00BQ3XOBC\/ref=sr_1_7?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB&amp;qid=1575093159&amp;sr=8-7"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/RJ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電気ケトルが欲しいです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/%E3%83%89%E3%83%AA%E3%83%86%E3%83%83%E3%82%AF-%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB-%E3%83%A9%E3%83%9F%E3%83%B3-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88-PO-323WT\/dp\/B00BQ3XOBC\/ref=sr_1_7?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB&qid=1575093159&sr=8-7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n安いのであればこんな感じのが"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575093242.005800",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1575352102.010900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1575093303.006000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1575093391.006200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1575093569.006800"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1575093582.007100"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1575093948.007400"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1575094052.008000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1575096650.008200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1575264873.009900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1575346172.010300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1575352102.010900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1575352102.010900"
+    },
+    {
+        "client_msg_id": "5c3bd5a7-faae-4357-8f7d-7067cf107ffb",
+        "type": "message",
+        "text": "good idea. 値段はあまり気にせずに使いやすいものを買おう。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1575093303.006000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KhL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good idea. 値段はあまり気にせずに使いやすいものを買おう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575093242.005800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "85a033cc-4bf1-4296-b980-4b2d568148f6",
+        "type": "message",
+        "text": "ならティファールとかでしょうか？\n一般家庭サイズだと１Lですが、それより大きいの探したほうがいいかもって思ってます。",
+        "user": "UKH07E67M",
+        "ts": "1575093391.006200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Muz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ならティファールとかでしょうか？\n一般家庭サイズだと１Lですが、それより大きいの探したほうがいいかもって思ってます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575093242.005800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "5610db16-dc1b-42d1-8c0e-2c0b3b66007d",
+        "type": "message",
+        "text": "水曜日の午後はバイトがあるので手伝いに行くのは難しいです。来週は水曜日の午前中しか空いてません:sob::sob:",
+        "user": "UQ63J44BZ",
+        "ts": "1575093504.006600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "ga9b63d7dd65",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a9b63d7dd659a49eab0c736a1f46dfa1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "蜂谷亜里珠",
+            "real_name": "蜂谷亜里珠",
+            "display_name": "alice",
+            "team": "TKS1Q2JUE",
+            "name": "s1260245",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575092965.003200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "7eef5d8a-2748-4c00-91b0-c4bc90f8aa9e",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.co.jp\/%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB-%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB-1-5L-%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E-KO1541JP\/dp\/B07G138PV3\/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=22T4XA3W19G1Z&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB+2l&qid=1575093404&sprefix=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%80%80+2%2Caps%2C273&sr=8-5>\n↑ティファール1.5L\n<https:\/\/www.amazon.co.jp\/%E6%80%A5%E9%80%9F%E5%8A%A0%E7%86%B1%E7%94%A8%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B1%E3%83%88%E3%83%AB-%E6%B8%A9%E6%B0%B4%E3%83%9C%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88-%E8%87%AA%E5%8B%95%E3%82%B7%E3%83%A3%E3%83%83%E3%83%88%E3%82%AA%E3%83%95-%E6%B2%B8%E9%A8%B0%E5%BE%8C%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AA%E9%9B%BB%E6%BA%90%E5%88%87%E3%82%8A-%E5%AE%B6%E5%BA%AD%E3%80%81%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E9%81%A9%E7%94%A8\/dp\/B07QC15B74\/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=22T4XA3W19G1Z&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB+2l&qid=1575093404&sprefix=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%80%80+2%2Caps%2C273&sr=8-6>\n↑どっかのメーカーの2L",
+        "user": "UKH07E67M",
+        "ts": "1575093569.006800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKH07E67M",
+            "ts": "1575093584.000000"
+        },
+        "attachments": [
+            {
+                "title": "ティファール 電気ケトル 1.5L オンライン限定デザイン パフォーマ ホワイト KO1541JP",
+                "title_link": "https:\/\/www.amazon.co.jp\/%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB-%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB-1-5L-%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E-KO1541JP\/dp\/B07G138PV3\/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=22T4XA3W19G1Z&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB+2l&qid=1575093404&sprefix=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%80%80+2%2Caps%2C273&sr=8-5",
+                "text": "ティファール 電気ケトル 1.5L オンライン限定デザイン パフォーマ ホワイト KO1541JP",
+                "fallback": "ティファール 電気ケトル 1.5L オンライン限定デザイン パフォーマ ホワイト KO1541JP",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/31Gp9pmNzVL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(2738%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB-%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB-1-5L-%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E-KO1541JP\/dp\/B07G138PV3\/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=22T4XA3W19G1Z&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB+2l&qid=1575093404&sprefix=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%80%80+2%2Caps%2C273&sr=8-5",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 10093,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB-%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB-1-5L-%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E-KO1541JP\/dp\/B07G138PV3\/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;crid=22T4XA3W19G1Z&amp;keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB+2l&amp;qid=1575093404&amp;sprefix=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%80%80+2%2Caps%2C273&amp;sr=8-5"
+            },
+            {
+                "title": "電気ケトル 2L大容量 900W ガラス 電気 湯沸かし ティー ポット 急速加熱用ウォーターヒーターケトル 温水ボイラーポット 沸騰乾燥防止 自動シャットオフ 沸騰後自動的な電源切り 家庭、オフィスなどに適用 PSE規格品",
+                "title_link": "https:\/\/www.amazon.co.jp\/%E6%80%A5%E9%80%9F%E5%8A%A0%E7%86%B1%E7%94%A8%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B1%E3%83%88%E3%83%AB-%E6%B8%A9%E6%B0%B4%E3%83%9C%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88-%E8%87%AA%E5%8B%95%E3%82%B7%E3%83%A3%E3%83%83%E3%83%88%E3%82%AA%E3%83%95-%E6%B2%B8%E9%A8%B0%E5%BE%8C%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AA%E9%9B%BB%E6%BA%90%E5%88%87%E3%82%8A-%E5%AE%B6%E5%BA%AD%E3%80%81%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E9%81%A9%E7%94%A8\/dp\/B07QC15B74\/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=22T4XA3W19G1Z&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB+2l&qid=1575093404&sprefix=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%80%80+2%2Caps%2C273&sr=8-6",
+                "text": "特徴 1.【厚いマンガンのシリコーンガラス】ガラスは赤ちゃんのボトルのヒースグレードの材料と同じです。水と接触しているすべての場所は全て健康クラスの材料です。耐性温度500℃、低温マイナス20℃、滑らかで簡単な洗浄、非吸着、非腐食を持っています。 2.【ブルーの輝きの沸騰水】ケトルに通電すると、青い光が現れ、水が沸きます。 ブルーレイダンス。100度沸騰、沸騰後30秒以内に自動パワーオフ。 実用的で美しい、二重の利益を持っています。 3.【三重の親密な保護】1.沸騰後自動パワーオフ2.空焚き時電源が自動オフ3.ホットオートパワーオフ。もっと安心して、事故を避ける。乾いたときの加熱を避ける...",
+                "fallback": "電気ケトル 2L大容量 900W ガラス 電気 湯沸かし ティー ポット 急速加熱用ウォーターヒーターケトル 温水ボイラーポット 沸騰乾燥防止 自動シャットオフ 沸騰後自動的な電源切り 家庭、オフィスなどに適用 PSE規格品",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/41-cvUpF6ML._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(26%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/%E6%80%A5%E9%80%9F%E5%8A%A0%E7%86%B1%E7%94%A8%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B1%E3%83%88%E3%83%AB-%E6%B8%A9%E6%B0%B4%E3%83%9C%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88-%E8%87%AA%E5%8B%95%E3%82%B7%E3%83%A3%E3%83%83%E3%83%88%E3%82%AA%E3%83%95-%E6%B2%B8%E9%A8%B0%E5%BE%8C%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AA%E9%9B%BB%E6%BA%90%E5%88%87%E3%82%8A-%E5%AE%B6%E5%BA%AD%E3%80%81%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E9%81%A9%E7%94%A8\/dp\/B07QC15B74\/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=22T4XA3W19G1Z&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB+2l&qid=1575093404&sprefix=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%80%80+2%2Caps%2C273&sr=8-6",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 14221,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 2,
+                "original_url": "https:\/\/www.amazon.co.jp\/%E6%80%A5%E9%80%9F%E5%8A%A0%E7%86%B1%E7%94%A8%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B1%E3%83%88%E3%83%AB-%E6%B8%A9%E6%B0%B4%E3%83%9C%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88-%E8%87%AA%E5%8B%95%E3%82%B7%E3%83%A3%E3%83%83%E3%83%88%E3%82%AA%E3%83%95-%E6%B2%B8%E9%A8%B0%E5%BE%8C%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AA%E9%9B%BB%E6%BA%90%E5%88%87%E3%82%8A-%E5%AE%B6%E5%BA%AD%E3%80%81%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E9%81%A9%E7%94%A8\/dp\/B07QC15B74\/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;crid=22T4XA3W19G1Z&amp;keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB+2l&amp;qid=1575093404&amp;sprefix=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%80%80+2%2Caps%2C273&amp;sr=8-6"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KsVdc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB-%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB-1-5L-%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E-KO1541JP\/dp\/B07G138PV3\/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=22T4XA3W19G1Z&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB+2l&qid=1575093404&sprefix=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%80%80+2%2Caps%2C273&sr=8-5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n↑ティファール1.5L\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/%E6%80%A5%E9%80%9F%E5%8A%A0%E7%86%B1%E7%94%A8%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B1%E3%83%88%E3%83%AB-%E6%B8%A9%E6%B0%B4%E3%83%9C%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%9D%E3%83%83%E3%83%88-%E8%87%AA%E5%8B%95%E3%82%B7%E3%83%A3%E3%83%83%E3%83%88%E3%82%AA%E3%83%95-%E6%B2%B8%E9%A8%B0%E5%BE%8C%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AA%E9%9B%BB%E6%BA%90%E5%88%87%E3%82%8A-%E5%AE%B6%E5%BA%AD%E3%80%81%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%81%AA%E3%81%A9%E3%81%AB%E9%81%A9%E7%94%A8\/dp\/B07QC15B74\/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=22T4XA3W19G1Z&keywords=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB+2l&qid=1575093404&sprefix=%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%80%80+2%2Caps%2C273&sr=8-6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n↑どっかのメーカーの2L"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575093242.005800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "46789f04-8cdc-4e85-aec1-0d67ec39e2ae",
+        "type": "message",
+        "text": "電気ケトルはすぐに沸くから5〜6人分が一回で沸けば十分じゃない？",
+        "user": "UKS1Q2KTQ",
+        "ts": "1575093582.007100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kR+r0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電気ケトルはすぐに沸くから5〜6人分が一回で沸けば十分じゃない？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575093242.005800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "602addc5-2995-438b-a86e-d3e11e6e407f",
+        "type": "message",
+        "text": "だいたいカップ麺一つあたり0.3から0.6って考えると\nやっぱ1Lでは足りないですね。\n2Lくらいあったほうがいいのかと思います。",
+        "user": "UKH07E67M",
+        "ts": "1575093948.007400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yTd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "だいたいカップ麺一つあたり0.3から0.6って考えると\nやっぱ1Lでは足りないですね。\n2Lくらいあったほうがいいのかと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575093242.005800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "5d00bfa2-d363-4e93-b991-6981af23ebb0",
+        "type": "message",
+        "text": "なぜかカップ麺換算で考えていましたが、コーヒー等であればそんないらないのでした。\n1.5ぐらいで十分な気がしてきました。",
+        "user": "UKH07E67M",
+        "ts": "1575094052.008000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yGJ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なぜかカップ麺換算で考えていましたが、コーヒー等であればそんないらないのでした。\n1.5ぐらいで十分な気がしてきました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575093242.005800",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "35bbce05-856a-4840-984f-9b32b9782901",
+        "type": "message",
+        "text": "ok. let's give some further thoughts to it!",
+        "user": "UKS1Q2KTQ",
+        "ts": "1575096650.008200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOow9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok. let's give some further thoughts to it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1575093242.005800",
+        "parent_user_id": "UKH07E67M"
+    }
+]

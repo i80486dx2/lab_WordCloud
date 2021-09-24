@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "5727b4c5-6865-4cf1-a138-bdbd512dc05a",
+        "type": "message",
+        "text": "確率統計の講義を言語レベルで理解できないまま単位だけ持っているので勉強するよ\nメインは 機械学習のための確率と統計 : 杉山将\nサブで 統計解析入門 : 篠崎信雄\nを使うよ",
+        "user": "U01EPKVACEN",
+        "ts": "1630314290.005000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SaL5q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確率統計の講義を言語レベルで理解できないまま単位だけ持っているので勉強するよ\nメインは 機械学習のための確率と統計 : 杉山将\nサブで 統計解析入門 : 篠崎信雄\nを使うよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1630314290.005000",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1630588933.008600",
+        "reply_users": [
+            "U01EPKVACEN"
+        ],
+        "replies": [
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1630414815.005800"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1630588933.008600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKUKA65GU",
+                    "U01FP2RDV44",
+                    "UQ47R82RW",
+                    "U01F42ZFA73"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

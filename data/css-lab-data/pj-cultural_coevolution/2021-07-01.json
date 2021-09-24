@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "b705c8f0-183b-4458-947f-dfc24aaa85ea",
+        "type": "message",
+        "text": "こちらいつでも大丈夫なので、合図いただければ伺います。",
+        "user": "UKH07E67M",
+        "ts": "1625206294.009600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I707r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こちらいつでも大丈夫なので、合図いただければ伺います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1625206294.009600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1625210677.009900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1625210663.009700"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1625210677.009900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1625210677.009900"
+    }
+]

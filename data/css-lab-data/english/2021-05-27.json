@@ -1,0 +1,2842 @@
+[
+    {
+        "client_msg_id": "C5796B9D-07FB-4E8C-8A3A-F14EE191A68F",
+        "type": "message",
+        "text": "反省会：「冷たいものとスケベなもので、袋を分けますか？」",
+        "user": "U01EVRBP38C",
+        "ts": "1622099085.066500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4DDe+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会：「冷たいものとスケベなもので、袋を分けますか？」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622099085.066500",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1626852313.351600",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UPSPAP97D",
+            "UQ47R82RW",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622103053.067200"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622108052.069000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622174184.070700"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622349991.088300"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626852313.351600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626852313.351600"
+    },
+    {
+        "client_msg_id": "dbb69972-ca32-4b55-82c5-15e6cc03dd55",
+        "type": "message",
+        "text": "After my father washed his hands and putted on a face mask, he turned over the table.",
+        "user": "UKH07E67M",
+        "ts": "1622101937.066600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "After my father washed his hands and putted on a face mask, he turned over the table."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621943467.047500"
+    },
+    {
+        "client_msg_id": "eb28234b-4c6a-488f-b812-33efecba8c9e",
+        "type": "message",
+        "text": "`After my father washed his hands and putted on a face mask, he turned over the table.`\n父は手を洗い、フェイスマスクをした後、テーブルをひっくり返した。\n•  put put put…\n• woarでも良かった\n• ひっくり返す　flip over。turn overでもいいっぽいミスチルで覚えれてた\n• 消毒　sanitize せぇいにたいず　初めて聞いた",
+        "user": "UKH07E67M",
+        "ts": "1622102222.066800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I\/u1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "After my father washed his hands and putted on a face mask, he turned over the table.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n父は手を洗い、フェイスマスクをした後、テーブルをひっくり返した。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " put put put…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "woarでも良かった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ひっくり返す　flip over。turn overでもいいっぽいミスチルで覚えれてた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "消毒　sanitize せぇいにたいず　初めて聞いた"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621944097.047900",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "80d56fdd-867e-4940-84e7-11c9ed4ed2ce",
+        "type": "message",
+        "text": "Would you like to have cold and sexual stuff in separate bags?",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622102705.067000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xfyrA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like to have cold and sexual stuff in separate bags?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622085777.065600"
+    },
+    {
+        "client_msg_id": "50214c65-374e-4fd2-94a7-a395ff8fb2fa",
+        "type": "message",
+        "text": "`Would you like to have cold and sexual stuff in separate bags?`\nDeepL：冷たいものと性的なものを別々の袋に入れるのはいかがでしょうか？\n\n• Would you like に名詞＋受動態を続けるのはナチュラルだなぁ。\n• 「スケベな = sexy」了。sexual は生々しい感じなのか…。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622103053.067200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1LR2T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like to have cold and sexual stuff in separate bags?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：冷たいものと性的なものを別々の袋に入れるのはいかがでしょうか？\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Would you like に名詞＋受動態を続けるのはナチュラルだなぁ。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「スケベな = sexy」了。sexual は生々しい感じなのか…。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622099085.066500",
+        "parent_user_id": "U01EVRBP38C"
+    },
+    {
+        "client_msg_id": "a61f042c-2880-4374-bb77-6f56bb08ccd0",
+        "type": "message",
+        "text": "I don’t wanna see more damaged people… please.",
+        "user": "UKH07E67M",
+        "ts": "1622105879.067400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ueztP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t wanna see more damaged people… please."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621956777.048900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "3725fe50-00bc-44de-90c9-579fd16cb569",
+        "type": "message",
+        "text": "`I don't wanna see more damaged people… please.`\nこれ以上、傷ついた人を見たくない...お願いします。\n• 立場がわからずどう書けばいいのか悩んだ結果、「見たくない」とした\n• sacrificeって生贄だけしかしらなkった。犠牲\n• anymoreとかの副詞を思い出さなければ\n• pleaseでいいんだ ",
+        "user": "UKH07E67M",
+        "ts": "1622106029.067600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=sN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't wanna see more damaged people… please.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこれ以上、傷ついた人を見たくない...お願いします。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "立場がわからずどう書けばいいのか悩んだ結果、「見たくない」とした"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "sacrificeって生贄だけしかしらなkった。犠牲"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "anymoreとかの副詞を思い出さなければ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pleaseでいいんだ "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621956777.049000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "4b20baf9-a24a-4e5c-a84d-fcf1dfa00d3f",
+        "type": "message",
+        "text": "If you want fire up, please ask Honnou temple that has beliefs and experiences.",
+        "user": "UKH07E67M",
+        "ts": "1622106405.067800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QCkw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want fire up, please ask Honnou temple that has beliefs and experiences."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622031446.060800"
+    },
+    {
+        "client_msg_id": "e3250068-11d1-480b-af05-b54360fd1ff8",
+        "type": "message",
+        "text": "`If you want fire up, please ask Honnou temple that has beliefs and experiences.`\n火をつけたいときは、信念と経験のある本能寺に聞いてみてください。\n• 炎上なら、を炎上の時は来てって感じでcome toで表現してたっけ…\n• 炎上 flaming\n•  count on 頼る　全く思いつかなかった。学習なし\n• 信頼　trust　なんで即座にbeliefにしたんだ<https:\/\/www.abc-academy.jp\/blog\/2017\/12\/23\/believe-trust\/>\n• proven 実績=証明済み　ああああ\n• 前よりの成長点がほとんどない…",
+        "user": "UKH07E67M",
+        "ts": "1622106687.068000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ABCアカデミーブログ",
+                "title": "英会話初心者が間違えやすい！？「Believe」と「Trust」の違い",
+                "title_link": "https:\/\/www.abc-academy.jp\/blog\/2017\/12\/23\/believe-trust\/",
+                "text": "  「ビリーヴ」と「トラスト」 どちらもカタカナ英語として使用するので 初心者の方でも意味はご存知だと思いますが では違いはご存知ですか？ 今回は二つの違いについて学びましょう。     believe （信じる、正しいと思う）   「相手が話した内容を信じる」というニュアンスです。 相手が言ったことに重点が置いてありますので、 相手自身を信頼している…",
+                "fallback": "ABCアカデミーブログ: 英会話初心者が間違えやすい！？「Believe」と「Trust」の違い",
+                "image_url": "https:\/\/www.abc-academy.jp\/blog\/wp-content\/uploads\/2017\/12\/business-2703167_960_720.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1514003863,
+                "from_url": "https:\/\/www.abc-academy.jp\/blog\/2017\/12\/23\/believe-trust\/",
+                "image_bytes": 121684,
+                "service_icon": "https:\/\/www.abc-academy.jp\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.abc-academy.jp\/blog\/2017\/12\/23\/believe-trust\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JvtH=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want fire up, please ask Honnou temple that has beliefs and experiences.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n火をつけたいときは、信念と経験のある本能寺に聞いてみてください。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "炎上なら、を炎上の時は来てって感じでcome toで表現してたっけ…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "炎上 flaming"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " count on 頼る　全く思いつかなかった。学習なし"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "信頼　trust　なんで即座にbeliefにしたんだ"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.abc-academy.jp\/blog\/2017\/12\/23\/believe-trust\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "proven 実績=証明済み　ああああ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "前よりの成長点がほとんどない…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622033883.061200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "92512797-f014-4711-ac0a-23120d8049e2",
+        "type": "message",
+        "text": "Cats easily live, aren’t it.I wont help you even if you’ll become ball like a pancake!",
+        "user": "UKH07E67M",
+        "ts": "1622106960.068300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZtlrA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cats easily live, aren’t it.I wont help you even if you’ll become ball like a pancake!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622043177.061900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "41099a58-79f1-4b23-9168-aca4434aec7c",
+        "type": "message",
+        "text": "`Cats easily live, aren't it.I wont help you even if you'll become ball like a pancake!`\n猫は簡単に生きられるんですね。パンケーキのように丸くなっても助けませんよ。\n• no help この「気楽ね」は皮肉だから直接救えないっていってもいいのか\n• isn’t itの使い方間違ってたことに気づけた\n• see if I care 先生の見て納得。これはまだ書けないな\n• まんまるになるを考えた結果なぜか冠詞なしball…\n• 知らないから！を助けないから！にしたのはおかしくないと思っている\n• pancakeとhotcakeて別物なの？！<https:\/\/macaro-ni.jp\/29888>　なんか知らないこと知った",
+        "user": "UKH07E67M",
+        "ts": "1622107517.068500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "macaroni [マカロニ]",
+                "title": "なるほどそこか…！「パンケーキとホットケーキ」の違い、知ってた？ - macaroni",
+                "title_link": "https:\/\/macaro-ni.jp\/29888",
+                "text": "「パンケーキ」と「ホットケーキ」。小麦粉を混ぜてフライパンで焼く料理としておなじみですが、このふたつにはどのような違いがあるのでしょうか？今回は、それぞれの由来や使い分けなどをご紹介します。意外な歴史も判明しましたよ。",
+                "fallback": "macaroni [マカロニ]: なるほどそこか…！「パンケーキとホットケーキ」の違い、知ってた？ - macaroni",
+                "image_url": "https:\/\/cdn.macaro-ni.jp\/image\/summary\/29\/29888\/8f53ce1e96f1ed5d518944f3535f51cc.jpg",
+                "from_url": "https:\/\/macaro-ni.jp\/29888",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 62194,
+                "service_icon": "https:\/\/cdn.macaro-ni.jp\/assets\/img\/top\/icon_round.png",
+                "id": 1,
+                "original_url": "https:\/\/macaro-ni.jp\/29888"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ufQz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cats easily live, aren't it.I wont help you even if you'll become ball like a pancake!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n猫は簡単に生きられるんですね。パンケーキのように丸くなっても助けませんよ。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "no help この「気楽ね」は皮肉だから直接救えないっていってもいいのか"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "isn’t itの使い方間違ってたことに気づけた"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "see if I care 先生の見て納得。これはまだ書けないな"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "まんまるになるを考えた結果なぜか冠詞なしball…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "知らないから！を助けないから！にしたのはおかしくないと思っている"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "pancakeとhotcakeて別物なの？！"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/macaro-ni.jp\/29888"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "　なんか知らないこと知った"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622043178.062000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "06c54076-7f2d-476f-9faf-8f383a14aff3",
+        "type": "message",
+        "text": "Would you like to add a plastic bag to split colds and sukebes?",
+        "user": "UKH07E67M",
+        "ts": "1622107792.068800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "69Q=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like to add a plastic bag to split colds and sukebes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622085777.065600"
+    },
+    {
+        "client_msg_id": "4352854a-8149-4796-a1c7-d19548b2c147",
+        "type": "message",
+        "text": "`Would you like to add a plastic bag to split colds and sukebes?`\n風邪やすけべを分けるために、ビニール袋を追加しませんか？\n• 助平な　sexy\n• item 思い付けなかったあああああ\n•  coldsで冷たいもの担ってくれないかなと期待した失敗した\n• 分ける　in separate ~ ~で分ける\n• ",
+        "user": "UKH07E67M",
+        "ts": "1622108052.069000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like to add a plastic bag to split colds and sukebes?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n風邪やすけべを分けるために、ビニール袋を追加しませんか？\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "助平な　sexy"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "item 思い付けなかったあああああ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " coldsで冷たいもの担ってくれないかなと期待した失敗した"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "分ける　in separate ~ ~で分ける"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": []
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622099085.066500",
+        "parent_user_id": "U01EVRBP38C"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "大地の毒を体に取り込んで、綺麗な結晶にしてから死んで砂になっていくんだわ（ナウシカ\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1622129577.069200",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622129577.069200",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1622350238.088500",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622174471.070900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622175277.071300"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622181012.079100"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622350238.088500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622350238.088500"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：大地の毒を体に取り込んで、綺麗な結晶にしてから死んで砂になっていくんだわ",
+        "user": "U01UMQH4W4B",
+        "ts": "1622129578.069300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622129578.069300",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1622350449.088700",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "UKH07E67M",
+            "UQ47R82RW"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1622129578.069400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622175213.071100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622175450.071500"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622182760.081500"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622350449.088700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1622350449.088700"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "They absorb toxins from the earth, generate pure crystals, die and turn to sand.",
+        "user": "U01UMQH4W4B",
+        "ts": "1622129578.069400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1622129578.069300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "ae45028e-de31-4746-9a16-ff3c4c5eab04",
+        "type": "message",
+        "text": "For flaming, count on the faithfull and accomplishment honnouzi temple.",
+        "user": "UPSPAP97D",
+        "ts": "1622170166.069600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vfnvn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For flaming, count on the faithfull and accomplishment honnouzi temple."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622031446.060800"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1622170441.069800",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1622170441.069800",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1626768775.349600",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "U01EVRBP38C",
+            "UKH07E67M",
+            "UQ47R82RW",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622175457.071700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622175651.072900"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622179577.075800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622182956.081800"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622350660.088900"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626768775.349600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626768775.349600",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「絶対、長袖持って行った方がいいよ」うちの猫が初めて言葉を話した。 <https:\/\/pbs.twimg.com\/media\/E2cV21vVIAYSmEP.jpg>",
+                "ts": 1622170436,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1398110259302920196",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1398110259302920196>",
+                "text": "「絶対、長袖持って行った方がいいよ」うちの猫が初めて言葉を話した。 <https:\/\/pbs.twimg.com\/media\/E2cV21vVIAYSmEP.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1398110259302920196",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E2cV21vVIAYSmEP.jpg",
+                "image_width": 400,
+                "image_height": 497,
+                "image_bytes": 31566,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc937032-08f7-44d7-a586-ae2943442d74",
+        "type": "message",
+        "text": "`For flaming, count on the faithfull and accomplishment honnouzi temple.`\nDeepL「炎上するには、忠実で達成感のある本能寺を頼りに。」\n\n• 『faithful』で「忠実な、信頼できる」。(L が一つ多い…)。「忠実」を軸にしているっぽいので、ニュアンスが変わりそう?\n• 『accomplishment』だと名詞なのでいれれなかった….。\n• 『trusted』で「信頼された」。\n• 『proven』で「(良いものだと)証明された」。\n• 『For flaming』だと言葉足らずだっった。",
+        "user": "UPSPAP97D",
+        "ts": "1622171049.069900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FiP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For flaming, count on the faithfull and accomplishment honnouzi temple.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「炎上するには、忠実で達成感のある本能寺を頼りに。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『faithful』で「忠実な、信頼できる」。(L が一つ多い…)。「忠実」を軸にしているっぽいので、ニュアンスが変わりそう?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『accomplishment』だと名詞なのでいれれなかった….。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『trusted』で「信頼された」。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『proven』で「(良いものだと)証明された」。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『For flaming』だと言葉足らずだっった。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622033883.061200",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "18a80159-58c1-4b79-9f5b-c8cd2bb071f4",
+        "type": "message",
+        "text": "Cats look stressless. I don’t help you whether you transform a round same as a hot-cake.",
+        "user": "UPSPAP97D",
+        "ts": "1622171416.070100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Je\/6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cats look stressless. I don’t help you whether you transform a round same as a hot-cake."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622043177.061900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b5c9263c-bbbd-4c2f-8ac4-f86e98a1aa41",
+        "type": "message",
+        "text": "`Cats look stressless. I don't help you whether you transform a round same as a hot-cake.`\nDeepL「猫はストレスを感じていないようだ。丸いものをホットケーキのように変身させても役には立ちません。」\n\n• 『don’t』ではなく、『won’t』の方が意思があって適切。\n• この日本語訳が「太っても知らない」っていう意味を持っていたのに気づけなかった…。\n• 『transform』の後に何かしら前置詞を入れるべきなのかも…?\n• 『whether』は二つの中から選ぶニュアンス。「丸くなっても、たとえ ならなかったとしても」的な捉え方を表現したつもりだが、『if』の「もしなっても」の方が日本語としても正しそう。\n• 『same as』より『like』の方が、完全一致してないニュアンスでよろしい。\n• 『no help』,『see if I care』は今回の日本語から出てこないな…。\n• 「パンケーキ」って和製英語だと思っていたが、『pan』(フライパン) だったのか！(蒼紫君のurlより)",
+        "user": "UPSPAP97D",
+        "ts": "1622172778.070300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0OG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cats look stressless. I don't help you whether you transform a round same as a hot-cake.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「猫はストレスを感じていないようだ。丸いものをホットケーキのように変身させても役には立ちません。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『don’t』ではなく、『won’t』の方が意思があって適切。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "この日本語訳が「太っても知らない」っていう意味を持っていたのに気づけなかった…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『transform』の後に何かしら前置詞を入れるべきなのかも…?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『whether』は二つの中から選ぶニュアンス。「丸くなっても、たとえ ならなかったとしても」的な捉え方を表現したつもりだが、『if』の「もしなっても」の方が日本語としても正しそう。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『same as』より『like』の方が、完全一致してないニュアンスでよろしい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『no help』,『see if I care』は今回の日本語から出てこないな…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「パンケーキ」って和製英語だと思っていたが、『pan』(フライパン) だったのか！(蒼紫君のurlより)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622043178.062000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "abf2fbdf-d114-45cf-b409-7266aa6bf68c",
+        "type": "message",
+        "text": "Would you like to divide plastic bags, cold things and under-culture things?",
+        "user": "UPSPAP97D",
+        "ts": "1622173479.070500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WgAYI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like to divide plastic bags, cold things and under-culture things?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622085777.065600"
+    },
+    {
+        "client_msg_id": "139e03a3-7f8f-406c-a447-f4703188145f",
+        "type": "message",
+        "text": "`Would you like to divide plastic bags, cold things and under-culture things?`\nDeepL「ビニール袋、冷たいもの、アンダーカルチャーのものを分けてみませんか？」\n\n• 「スケベな」は『sexy』。\n• 『item』『stuff』で「商品、物」を表すのは思いつかなかった…\n• 『separate』で「別々の」の形容詞利用があるとは… (動詞しか知らなかった勢)\n• コンマで意味を繋げれないかに逃げてしまい、結果はよろしくなかった。『divide cold and sexy things into each plastic bags』の方が数倍マシなはず。",
+        "user": "UPSPAP97D",
+        "ts": "1622174184.070700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pndq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you like to divide plastic bags, cold things and under-culture things?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「ビニール袋、冷たいもの、アンダーカルチャーのものを分けてみませんか？」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「スケベな」は『sexy』。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『item』『stuff』で「商品、物」を表すのは思いつかなかった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『separate』で「別々の」の形容詞利用があるとは… (動詞しか知らなかった勢)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "コンマで意味を繋げれないかに逃げてしまい、結果はよろしくなかった。『divide cold and sexy things into each plastic bags』の方が数倍マシなはず。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622099085.066500",
+        "parent_user_id": "U01EVRBP38C"
+    },
+    {
+        "client_msg_id": "1a11f821-aea8-496d-b984-0bd2d4b51fb7",
+        "type": "message",
+        "text": "Taking into the toxic in the earth, Changing it into beautiful structures, they dead and become sands.",
+        "user": "UPSPAP97D",
+        "ts": "1622174471.070900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RmAJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Taking into the toxic in the earth, Changing it into beautiful structures, they dead and become sands."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622129577.069200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "5c96fa7c-b77b-487d-b3d1-25d02ebc3a97",
+        "type": "message",
+        "text": "`Taking into the toxic in the earth, Changing it into beautiful structures, they dead and become sands.`\nDeepL「大地の有毒なものを取り込み、美しい構造物に変えても、枯れて砂になってしまう。」\n\n• 『toxic』は「有毒の」で形容詞。『toxics』は「有毒物質」。『toxin』は「毒素」(知らなかった)\n• 「結晶」は『crystal』\n• 『dead』は名詞・形容詞。『die』が「死ぬ」。\n• 砂は不可算名詞でした。\n• 『absorb』『generate』『turn to』は思いつかなかった。\n• 出来事を時系列のように述べているので『~, ~, and ~』の形が良い？",
+        "user": "UPSPAP97D",
+        "ts": "1622175213.071100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3smRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Taking into the toxic in the earth, Changing it into beautiful structures, they dead and become sands.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「大地の有毒なものを取り込み、美しい構造物に変えても、枯れて砂になってしまう。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『toxic』は「有毒の」で形容詞。『toxics』は「有毒物質」。『toxin』は「毒素」(知らなかった)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「結晶」は『crystal』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『dead』は名詞・形容詞。『die』が「死ぬ」。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "砂は不可算名詞でした。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『absorb』『generate』『turn to』は思いつかなかった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "出来事を時系列のように述べているので『~, ~, and ~』の形が良い？"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622129578.069300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "77455d54-9eb6-4b31-b63d-6f0545e0f336",
+        "type": "message",
+        "text": "I suppose that they intake the poison of the soil to turn it into clean crystals, then die to be sands.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622175277.071300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H5DIB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I suppose that they intake the poison of the soil to turn it into clean crystals, then die to be sands."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622129577.069200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "5fed1a2f-70ad-4aaf-bf8d-a22f43e30a4e",
+        "type": "message",
+        "text": "`I suppose that they intake the poison of the soil to turn it into clean crystals, then die to be sands.`\nDeepL：土の毒を摂取してきれいな結晶にして、死んで砂になるのだろう。\n\n• 取り込む、結晶にする、死ぬ、砂になる、は全部主語が同じなので、単純に並置するのがいいのかな。\n• 「毒（毒素）= toxin」了。poison とほぼ interchangeable だが「毒素」というニュアンスがあるらしい。\n• 「大地 = the earth」前回に続いてまた soil としてしまった。\n• 「綺麗な結晶」の「綺麗」は「毒がない」意味で clean にしたが、pure の方がベターかな。\n• ここでの「砂」は概念（材質）としての砂と捉えて無冠詞か。`←追記：間違ってた。数えきれないくらい多いものは不可算名詞になるようだ。`",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622175450.071500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1622178015.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dIyA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I suppose that they intake the poison of the soil to turn it into clean crystals, then die to be sands.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：土の毒を摂取してきれいな結晶にして、死んで砂になるのだろう。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "取り込む、結晶にする、死ぬ、砂になる、は全部主語が同じなので、単純に並置するのがいいのかな。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「毒（毒素）= toxin」了。poison とほぼ interchangeable だが「毒素」というニュアンスがあるらしい。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「大地 = the earth」前回に続いてまた soil としてしまった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「綺麗な結晶」の「綺麗」は「毒がない」意味で clean にしたが、pure の方がベターかな。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ここでの「砂」は概念（材質）としての砂と捉えて無冠詞か。"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "←追記：間違ってた。数えきれないくらい多いものは不可算名詞になるようだ。",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622129578.069300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "6812e971-9e5f-4188-9cf4-c1ca9d8e1af3",
+        "type": "message",
+        "text": "“Absolutely, You’ve better bring a long T-shirt.” the cat, which is my pet, speaks a language in the first time.",
+        "user": "UPSPAP97D",
+        "ts": "1622175457.071700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vig\/I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“Absolutely, You’ve better bring a long T-shirt.” the cat, which is my pet, speaks a language in the first time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622170441.069800"
+    },
+    {
+        "client_msg_id": "135abf5d-46c1-40f9-a407-f9aae36a9d65",
+        "type": "message",
+        "text": "反省会:「絶対、長袖持っていった方がいいよ」うちの猫が初めて言葉を話した。",
+        "user": "UPSPAP97D",
+        "ts": "1622175524.072800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7\/Tc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会:「絶対、長袖持っていった方がいいよ」うちの猫が初めて言葉を話した。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622175524.072800",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1626769547.349800",
+        "reply_users": [
+            "UPSPAP97D",
+            "UKS1Q2KTQ",
+            "U01EVRBP38C",
+            "UKH07E67M",
+            "UQ47R82RW",
+            "U01F42ZFA73"
+        ],
+        "replies": [
+            {
+                "user": "UPSPAP97D",
+                "ts": "1622176403.073100"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622180363.078100"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622180366.078300"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622180434.078500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1622180652.078900"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1622181341.080600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1622183450.082000"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1622350742.089100"
+            },
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1626769547.349800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1626769547.349800"
+    },
+    {
+        "client_msg_id": "16670d38-8d45-4a7a-9dda-8b2a19eb92c3",
+        "type": "message",
+        "text": "\"I bet you'd better bring a long sleave shirt.\" My cat pronounced words for the first time.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622175651.072900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ubw0e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I bet you'd better bring a long sleave shirt.\" My cat pronounced words for the first time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622170441.069800"
+    },
+    {
+        "client_msg_id": "2812e075-bacb-4fa6-af39-6c4ea91214b0",
+        "type": "message",
+        "text": "`\"Absolutely, You've better bring a long T-shirt.\" the cat, which is my pet, speaks a language in the first time.` \nDeepL「“絶対に、長袖のTシャツを持ってきた方がいいですよ。” 私のペットである猫は、初めて言葉を話します。」\n\n• 地の文で 過去形忘れ+先頭を大文字忘れ… 直さねば。\n• 「絶対に」は『definitely』。『Absolutely』はニュアンスが心配…。\n• 「長袖」は『long sleeves』(袖が二つで複数系)\n• 「(文章の)言葉」は『words』でOK。\n• 『in the first time』って書いたが、正しい使い方なのか?\n• 全体的に文が長くなってしまった…\n• `追記:『had better』だった。`",
+        "user": "UPSPAP97D",
+        "ts": "1622176403.073100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UPSPAP97D",
+            "ts": "1622181697.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JI5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Absolutely, You've better bring a long T-shirt.\" the cat, which is my pet, speaks a language in the first time. ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "DeepL「“絶対に、長袖のTシャツを持ってきた方がいいですよ。” 私のペットである猫は、初めて言葉を話します。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "地の文で 過去形忘れ+先頭を大文字忘れ… 直さねば。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「絶対に」は『definitely』。『Absolutely』はニュアンスが心配…。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「長袖」は『long sleeves』(袖が二つで複数系)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「(文章の)言葉」は『words』でOK。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『in the first time』って書いたが、正しい使い方なのか?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "全体的に文が長くなってしまった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "追記:『had better』だった。",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622175524.072800",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "68AE6A07-A2F1-42F0-BC51-337D2D8241A5",
+        "type": "message",
+        "text": "“You should definitely take a T-shirt.” My cat spoke at first.",
+        "user": "U01EVRBP38C",
+        "ts": "1622179577.075800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tw9T1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“You should definitely take a T-shirt.” My cat spoke at first."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622170441.069800"
+    },
+    {
+        "client_msg_id": "1c0919e8-bf57-4eea-b083-3b9c854f1900",
+        "type": "message",
+        "text": "`\"I bet you'd better bring a long sleave shirt.\" My cat pronounced words for the first time.`\nDeepL：「長袖のシャツを持ってきた方がいいに決まっている。」うちの猫は初めて言葉を発音した。\n\n• 「初めて言葉を発する = say one's first words」シンプル。\n• 「長袖のシャツ = long sleeves」了。スペルミス＋複数形。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622180363.078100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I bet you'd better bring a long sleave shirt.\" My cat pronounced words for the first time.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：「長袖のシャツを持ってきた方がいいに決まっている。」うちの猫は初めて言葉を発音した。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「初めて言葉を発する = say one's first words」シンプル。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「長袖のシャツ = long sleeves」了。スペルミス＋複数形。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622175524.072800",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "4DDD1D9D-5E01-4CBF-BAF0-97D4018DED89",
+        "type": "message",
+        "text": "`“You should definitely take a T-shirt.” My cat spoke at first.`\nDeepl : \"Tシャツは絶対に着たほうがいい\"最初は愛猫が話してくれました。\n\n・初めて= for the first time\n・long sleeves\n・*`なぜbring? わかる人いたら教えてください`*",
+        "user": "U01EVRBP38C",
+        "ts": "1622180366.078300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nds5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“You should definitely take a T-shirt.” My cat spoke at first.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Deepl : \"Tシャツは絶対に着たほうがいい\"最初は愛猫が話してくれました。\n\n・初めて= for the first time\n・long sleeves\n・"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なぜbring? わかる人いたら教えてください",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622175524.072800",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "3427f7a0-e53b-4bc8-955b-1acde78aeb11",
+        "type": "message",
+        "text": "<@UPSPAP97D>\n&gt; in the first time』って書いたが、正しい使い方なのか?\nfor the first time.\n\n&gt; 「絶対に」は『definitely』。『Absolutely』はニュアンスが心配…。\nそれらは interchangeable ですね。certainly, surely, etc.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622180434.078500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZZd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in the first time』って書いたが、正しい使い方なのか?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for the first time.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「絶対に」は『definitely』。『Absolutely』はニュアンスが心配…。"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それらは interchangeable ですね。certainly, surely, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622175524.072800",
+        "parent_user_id": "UPSPAP97D",
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65013ff3-921e-4a61-a2f2-c0aed5af04e7",
+        "type": "message",
+        "text": "<@U01EVRBP38C>\n&gt; なぜbring? わかる人いたら教えてください\nこの場合、take もありなんじゃないかな。視点が持って行った先にあれば bring。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1622180652.078900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aDGa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EVRBP38C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なぜbring? わかる人いたら教えてください"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この場合、take もありなんじゃないかな。視点が持って行った先にあれば bring。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622175524.072800",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "c4ce7b9d-6392-4e3f-b48e-7b8ab930a202",
+        "type": "message",
+        "text": "To charge poison of world, and after be beautiful stone, died to sand.",
+        "user": "UKH07E67M",
+        "ts": "1622181012.079100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "csmK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To charge poison of world, and after be beautiful stone, died to sand."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622129577.069200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "3007DC02-415F-4E42-AC47-5C8FF7E6DBA1",
+        "type": "message",
+        "text": "やっぱ文脈次第ってことですよね\nありがとうございます:blush:",
+        "user": "U01EVRBP38C",
+        "ts": "1622181341.080600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pLBY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やっぱ文脈次第ってことですよね\nありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622175524.072800",
+        "parent_user_id": "UPSPAP97D"
+    },
+    {
+        "client_msg_id": "f496679a-ba25-4c55-b6dc-57ba0fff33d5",
+        "type": "message",
+        "text": "`To charge poison of world, and after be beautiful stone, died to sand.`\n世界の毒をチャージして、美しい石になった後、砂になって死んでいく。\n• be -&gt; being grammaly文法ミス。…なんで？<http:\/\/www.eigo-gate.com\/blog\/bunpo-juzoku\/setsuzoku-after\/> 忘れてた…\n•  absorb 吸収\n• toxin(s) 毒素\n• この文での綺麗は確かにpureだ\n• crystal 結晶\n• die and turn to sand すごい綺麗な文。思いつけるようにしたい",
+        "user": "UKH07E67M",
+        "ts": "1622182760.081500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "はじめての英文法",
+                "title": "「～の後に」を表現する接続詞 「after」",
+                "title_link": "http:\/\/www.eigo-gate.com\/blog\/bunpo-juzoku\/setsuzoku-after\/",
+                "text": "今回は、「～の後に」を表現する接続詞 “ after ”を覚えます。が、使い方は、前回の記事で覚えた、接続詞としての“ before ”と同じなのでまずは前回の記事を読んでみてください。前回の記事　⇒　「～の前に」を表現",
+                "fallback": "はじめての英文法: 「～の後に」を表現する接続詞 「after」",
+                "thumb_url": "http:\/\/www.eigo-gate.com\/blog\/wp-content\/uploads\/2013\/04\/eigakan.jpg",
+                "from_url": "http:\/\/www.eigo-gate.com\/blog\/bunpo-juzoku\/setsuzoku-after\/",
+                "thumb_width": 600,
+                "thumb_height": 338,
+                "id": 1,
+                "original_url": "http:\/\/www.eigo-gate.com\/blog\/bunpo-juzoku\/setsuzoku-after\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BO+T5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To charge poison of world, and after be beautiful stone, died to sand.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n世界の毒をチャージして、美しい石になった後、砂になって死んでいく。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "be -> being grammaly文法ミス。…なんで？"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/www.eigo-gate.com\/blog\/bunpo-juzoku\/setsuzoku-after\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 忘れてた…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " absorb 吸収"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "toxin(s) 毒素"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "この文での綺麗は確かにpureだ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "crystal 結晶"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "die and turn to sand すごい綺麗な文。思いつけるようにしたい"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622129578.069300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "f9b98be0-cf42-4279-b7a9-441a496ec21a",
+        "type": "message",
+        "text": "“You should take a long wearing” My cat said the first time.",
+        "user": "UKH07E67M",
+        "ts": "1622182956.081800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vmizp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“You should take a long wearing” My cat said the first time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622170441.069800"
+    },
+    {
+        "client_msg_id": "03f52b04-f2dd-47d0-b758-e6860ef47dfe",
+        "type": "message",
+        "text": "`\"You should take a long wearing\" My cat said the first time.`\n「ロングウェアを着た方がいい」愛猫が初めて言った言葉です。\n• sayの後ろにwords入れて他動詞として動かさないと\n• My cat said words first time.\n• 絶対　definitely\n• <https:\/\/sandwicheikaiwa.com\/grammar\/bring-take\/#:~:text=Bring%20%E3%81%A8%20Take%20%E3%81%AE%E9%81%95%E3%81%84&amp;text=Bring%20%E3%81%AF%E3%80%81%E8%A9%B1%E3%81%97%E6%89%8B%E3%83%BB%E8%81%9E%E3%81%8D%E6%89%8B%E3%81%AE,%E5%A0%B4%E6%89%80%E3%81%B8%E5%8B%95%E3%81%8F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%99%E3%80%82|https:\/\/sandwicheikaiwa.com\/grammar\/bring-take\/#:~:text=Bring%20%E3%81%A8%20Take%20%E3%81%AE%E9%[…]3%A1%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%99%E3%80%82> takeでもいいだろうな\n• long sleeves 複数形なのはいつもの二つ袖があるからか。気をつけなきゃ",
+        "user": "UKH07E67M",
+        "ts": "1622183450.082000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "英会話教材 - サンドイッチ英会話",
+                "title": "Bring と Take の使い分け | 英会話教材 - サンドイッチ英会話",
+                "title_link": "https:\/\/sandwicheikaiwa.com\/grammar\/bring-take\/#:~:text=Bring%20%E3%81%A8%20Take%20%E3%81%AE%E9%81%95%E3%81%84&text=Bring%20%E3%81%AF%E3%80%81%E8%A9%B1%E3%81%97%E6%89%8B%E3%83%BB%E8%81%9E%E3%81%8D%E6%89%8B%E3%81%AE,%E5%A0%B4%E6%89%80%E3%81%B8%E5%8B%95%E3%81%8F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%99%E3%80%82",
+                "text": "Bring と Take がごちゃごちゃになってしまうことがありませんか？ どちらも似たような意味なので間違いやすいですね。Bring と Take の使い分けの鍵は、「どこへ」です。このように覚えましょう。",
+                "fallback": "英会話教材 - サンドイッチ英会話: Bring と Take の使い分け | 英会話教材 - サンドイッチ英会話",
+                "from_url": "https:\/\/sandwicheikaiwa.com\/grammar\/bring-take\/#:~:text=Bring%20%E3%81%A8%20Take%20%E3%81%AE%E9%81%95%E3%81%84&text=Bring%20%E3%81%AF%E3%80%81%E8%A9%B1%E3%81%97%E6%89%8B%E3%83%BB%E8%81%9E%E3%81%8D%E6%89%8B%E3%81%AE,%E5%A0%B4%E6%89%80%E3%81%B8%E5%8B%95%E3%81%8F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%99%E3%80%82",
+                "service_icon": "https:\/\/sandwicheikaiwa.com\/wp-content\/uploads\/2014\/03\/cropped-sandwich-eikaiwa-300x300.png",
+                "id": 1,
+                "original_url": "https:\/\/sandwicheikaiwa.com\/grammar\/bring-take\/#:~:text=Bring%20%E3%81%A8%20Take%20%E3%81%AE%E9%81%95%E3%81%84&amp;text=Bring%20%E3%81%AF%E3%80%81%E8%A9%B1%E3%81%97%E6%89%8B%E3%83%BB%E8%81%9E%E3%81%8D%E6%89%8B%E3%81%AE,%E5%A0%B4%E6%89%80%E3%81%B8%E5%8B%95%E3%81%8F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%99%E3%80%82"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T0gU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"You should take a long wearing\" My cat said the first time.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n「ロングウェアを着た方がいい」愛猫が初めて言った言葉です。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "sayの後ろにwords入れて他動詞として動かさないと"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "My cat said words first time."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "絶対　definitely"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/sandwicheikaiwa.com\/grammar\/bring-take\/#:~:text=Bring%20%E3%81%A8%20Take%20%E3%81%AE%E9%81%95%E3%81%84&text=Bring%20%E3%81%AF%E3%80%81%E8%A9%B1%E3%81%97%E6%89%8B%E3%83%BB%E8%81%9E%E3%81%8D%E6%89%8B%E3%81%AE,%E5%A0%B4%E6%89%80%E3%81%B8%E5%8B%95%E3%81%8F%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%99%E3%80%82",
+                                        "text": "https:\/\/sandwicheikaiwa.com\/grammar\/bring-take\/#:~:text=Bring%20%E3%81%A8%20Take%20%E3%81%AE%E9%[…]3%A1%E3%83%BC%E3%82%B8%E3%81%A7%E3%81%99%E3%80%82"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " takeでもいいだろうな"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "long sleeves 複数形なのはいつもの二つ袖があるからか。気をつけなきゃ"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1622175524.072800",
+        "parent_user_id": "UPSPAP97D"
+    }
+]

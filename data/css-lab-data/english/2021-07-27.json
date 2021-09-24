@@ -1,0 +1,301 @@
+[
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "ここから飛べるか？（アスベル\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1627399978.376600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1627399978.376600",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1627733705.005000",
+        "reply_users": [
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "UKH07E67M",
+                "ts": "1627440176.377000"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627536612.379400"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627733705.005000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627733705.005000"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：ここから飛べるか？",
+        "user": "U01UMQH4W4B",
+        "ts": "1627399978.376700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1627399978.376700",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1627734230.005200",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKH07E67M",
+            "UKS1Q2KTQ",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1627399978.376800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1627440562.377200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627536744.379600"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627734230.005200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627734230.005200"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Can you launch from here?",
+        "user": "U01UMQH4W4B",
+        "ts": "1627399978.376800",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1627399978.376700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "27e3fa38-ef7c-47d5-957d-8f6a87b1b9ce",
+        "type": "message",
+        "text": "Are you able to fly from here?",
+        "user": "UKH07E67M",
+        "ts": "1627440176.377000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hcnU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you able to fly from here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627399978.376600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "83ca357b-381c-4925-965c-5b23a2c771ce",
+        "type": "message",
+        "text": "`Are you able to fly from here?`\ndeepl:ここから飛行機に乗れるのですか？\ngoogle:ここから飛べますか？\n元ネタの部分\n急いで。\nナウシカさん、ここから出してあげます。谷へ知らせに行って。あなたの凧ならまだ間に合うかもしれない。用意してあります。アスベルからみんな聞きました。\n私が身代わりになるから、早くこれを。\nあなたは？\nラステルの母です。\nお母様…！\n本当にごめんなさい。私達のしたことはみんな間違いです。\n早く！\n\nあの子は？\n大丈夫。心配しないで。\n\n気をつけてね。\n酷い仕打ちを許しておくれ。\nナウシカこっちだ！\nさあ。\n急げ！\n皆さん！ありがとう！\nすまない。遅くなっちまって。\nここから飛べるか！\nやってみる！\n\n• 自問自答ではなかった\n• 意味としては「ここから離陸できるか」が強く、ゆえにlaunch",
+        "user": "UKH07E67M",
+        "ts": "1627440562.377200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "42b0524c15ef",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-12-22\/1589400144565_42b0524c15efa13345bf_72.png",
+            "first_name": "Aoshi",
+            "real_name": "Aoshi Suzuki",
+            "display_name": "aoshi",
+            "team": "TKS1Q2JUE",
+            "name": "s1260241",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mGAx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you able to fly from here?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ndeepl:ここから飛行機に乗れるのですか？\ngoogle:ここから飛べますか？\n元ネタの部分\n急いで。\nナウシカさん、ここから出してあげます。谷へ知らせに行って。あなたの凧ならまだ間に合うかもしれない。用意してあります。アスベルからみんな聞きました。\n私が身代わりになるから、早くこれを。\nあなたは？\nラステルの母です。\nお母様…！\n本当にごめんなさい。私達のしたことはみんな間違いです。\n早く！\n\nあの子は？\n大丈夫。心配しないで。\n\n気をつけてね。\n酷い仕打ちを許しておくれ。\nナウシカこっちだ！\nさあ。\n急げ！\n皆さん！ありがとう！\nすまない。遅くなっちまって。\nここから飛べるか！\nやってみる！\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "自問自答ではなかった"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "意味としては「ここから離陸できるか」が強く、ゆえにlaunch"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1627399978.376700",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1627444551.377400",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1627444551.377400",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1627734627.005600",
+        "reply_users": [
+            "U01F42ZFA73",
+            "UKS1Q2KTQ",
+            "U01EPKVACEN",
+            "UKH07E67M",
+            "UPSPAP97D"
+        ],
+        "replies": [
+            {
+                "user": "U01F42ZFA73",
+                "ts": "1627532423.377900"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1627536830.379800"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1627537748.380600"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1627542830.381000"
+            },
+            {
+                "user": "UPSPAP97D",
+                "ts": "1627734627.005600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1627734627.005600",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「え？今からでも入れる保険があるんですか？」 <https:\/\/pbs.twimg.com\/media\/E7WtABYUUAAKujO.jpg>",
+                "ts": 1627444546,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1420231480693837824",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1420231480693837824>",
+                "text": "「え？今からでも入れる保険があるんですか？」 <https:\/\/pbs.twimg.com\/media\/E7WtABYUUAAKujO.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1420231480693837824",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E7WtABYUUAAKujO.jpg",
+                "image_width": 400,
+                "image_height": 462,
+                "image_bytes": 30136,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "e6e25c0a-e9bf-483a-9f48-1dc0e1365140",
+        "type": "message",
+        "text": "今日の研究室会はこちらで：\n<https:\/\/zoom.us\/j\/93622695624?pwd=RnRhNnVZeDU1YSs1V0FER24vRFM4dz09>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1586921466.004000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ukA=u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の研究室会はこちらで：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/93622695624?pwd=RnRhNnVZeDU1YSs1V0FER24vRFM4dz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586763429.001300",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "828b46e1-ed1e-475b-8a5c-c609a7f8cc92",
+        "type": "message",
+        "text": "すいません、今日スマホで参加します",
+        "user": "UQ47R82RW",
+        "ts": "1586923524.004200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wJjm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません、今日スマホで参加します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586763429.001300",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

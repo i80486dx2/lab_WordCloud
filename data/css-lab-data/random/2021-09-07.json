@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "61d598a5-5333-4a44-911a-1eb67b7d4dd4",
+        "type": "message",
+        "text": "割と結果がそれっぽい。\n<https:\/\/qiita.com\/Hirata-Masato\/items\/775ecd86f26f305fd393>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631059441.008100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Qiita: ビーフストロガノフはどのくらい強いのか - Qiita",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTg0MCZoPTM4MCZ0eHQ2ND00NE9UNDRPODQ0T1Y0NEs1NDRPSTQ0T3Q0NEtzNDRPTzQ0T1Y0NEd2NDRHcDQ0R3U0NEdQNDRLSjQ0R0U1YnkzNDRHRTQ0R3U0NEdMJnR4dC1jb2xvcj0lMjMzMzMmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTQmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWNlbnRlciUyQ21pZGRsZSZzPTAxOTJhZmYwNmM2ODhjZDNhZDFlM2E1YmM3MjhlNWIy&mark-align=center%2Cmiddle&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTg0MCZoPTUwMCZ0eHQ2ND1RRWhwY21GMFlTMU5ZWE5oZEc4JnR4dC1jb2xvcj0lMjMzMzMmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NDUmdHh0LWFsaWduPXJpZ2h0JTJDYm90dG9tJnM9MmQ3OWNlMWI4NGMyODExZDEwMGNhZmIxNjhhZTg0Njc&blend-align=center%2Cmiddle&blend-mode=normal&s=f8ed3c0b7d11150556ca4f400c06ceed",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 42144,
+                "from_url": "https:\/\/qiita.com\/Hirata-Masato\/items\/775ecd86f26f305fd393",
+                "service_name": "Qiita",
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "title": "ビーフストロガノフはどのくらい強いのか - Qiita",
+                "title_link": "https:\/\/qiita.com\/Hirata-Masato\/items\/775ecd86f26f305fd393",
+                "text": "食べ物で強そうな名前のものは？というお題があったときに出がちなのは「ビーフストロガノフ」です。確かに強そうですが、もっと強そうな食べ物もあるような気がします。 今回はディープラーニングの一種であるLSTMとライブラリKerasを使って...",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/Hirata-Masato\/items\/775ecd86f26f305fd393"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JSX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "割と結果がそれっぽい。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/Hirata-Masato\/items\/775ecd86f26f305fd393"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPSPAP97D",
+                    "UQ47R82RW",
+                    "UKH07E67M",
+                    "UKUKA65GU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UKUKA65GU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

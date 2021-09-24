@@ -1,0 +1,303 @@
+[
+    {
+        "client_msg_id": "b8b9ef0a-394a-48fb-a32a-95f8ad768f70",
+        "type": "message",
+        "text": "<@UKS1Q2KTQ> 了解です！開始するときにスケジュールお伝えします。",
+        "user": "UPSPAMY7M",
+        "ts": "1615868341.000100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQht",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKS1Q2KTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です！開始するときにスケジュールお伝えします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7968d775-c6e4-4782-9e10-fe5cd549a4cf",
+        "type": "message",
+        "text": "<@UPSPAP97D> <@U01EPKVACEN> <@U01EP8BUKQT> <@U01F31EEVNV> <@U01EV766AH2>\n参加希望了解です。とりあえず輪講の内容についてオリエンテーションしようと思うので、13時〜15時の時間帯で、１８日（木）、１９日（金）、２２日（月）、２３日（火）の中で都合のいい日などありますか？１時間くらいで終わるようにします。",
+        "user": "UPSPAMY7M",
+        "ts": "1615868511.000300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5W8r5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EPKVACEN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EP8BUKQT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EV766AH2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n参加希望了解です。とりあえず輪講の内容についてオリエンテーションしようと思うので、13時〜15時の時間帯で、１８日（木）、１９日（金）、２２日（月）、２３日（火）の中で都合のいい日などありますか？１時間くらいで終わるようにします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "0639FAFD-3C51-444B-AC97-8C9B2267E21C",
+        "type": "message",
+        "text": "すみません！22日しか空いてません",
+        "user": "U01F31EEVNV",
+        "ts": "1615869320.002300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "c88f5b74bab6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-20\/1517069025650_c88f5b74bab6133b247c_72.png",
+            "first_name": "Aida",
+            "real_name": "Aida Takumi",
+            "display_name": "takumi",
+            "team": "TKS1Q2JUE",
+            "name": "makers510x",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ReqK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません！22日しか空いてません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "F82B6E9D-905C-4322-B9A1-129EAF836D3C",
+        "type": "message",
+        "text": "<@UPSPAMY7M>僕はどの時間帯でも大丈夫なので、他の方の希望に合わせます。",
+        "user": "UPSPAP97D",
+        "ts": "1615869378.002500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6sbM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "僕はどの時間帯でも大丈夫なので、他の方の希望に合わせます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "8e144100-96a2-43fe-be10-b3626ee7cf2c",
+        "type": "message",
+        "text": "<@U01F31EEVNV> 了解です。ちなみにどうしても合わない場合は個別でも対応します。",
+        "user": "UPSPAMY7M",
+        "ts": "1615869436.002700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iYOVM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01F31EEVNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です。ちなみにどうしても合わない場合は個別でも対応します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    },
+    {
+        "client_msg_id": "dc04de61-3dea-4e41-a5a3-64a9a77da363",
+        "type": "message",
+        "text": "<@UPSPAP97D> 了解です！",
+        "user": "UPSPAMY7M",
+        "ts": "1615869455.003000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3CU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAP97D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 了解です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1615346110.003800",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]

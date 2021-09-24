@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "b6608f23-0d3c-43c7-b7c6-e672d4abd64c",
+        "type": "message",
+        "text": "<@U01EL0SAUTF> いまチャート描画はなんのフレームワークを使ってるんでしたっけ？Plotly.js？この２～３年でチャート系JSが急増していて追いかけてないですが、Chart.jsというのを久しぶりに触った感じ、割とよさげでした。あとで描画コンポーネントをいろいろ試せるように、検索クエリーを投げるところと、描画コンポーネントの動作の切り分けを確実にしておくのがよいですね。\n\n<https:\/\/www.chartjs.org\/docs\/latest\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1620628029.063300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1620628037.000000"
+        },
+        "attachments": [
+            {
+                "title": "Chart.js | Chart.js",
+                "title_link": "https:\/\/www.chartjs.org\/docs\/latest\/",
+                "text": "Open source HTML5 Charts for your website",
+                "fallback": "Chart.js | Chart.js",
+                "from_url": "https:\/\/www.chartjs.org\/docs\/latest\/",
+                "service_icon": "https:\/\/www.chartjs.org\/docs\/latest\/favicon.ico",
+                "service_name": "chartjs.org",
+                "id": 1,
+                "original_url": "https:\/\/www.chartjs.org\/docs\/latest\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hWxek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EL0SAUTF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " いまチャート描画はなんのフレームワークを使ってるんでしたっけ？Plotly.js？この２～３年でチャート系JSが急増していて追いかけてないですが、Chart.jsというのを久しぶりに触った感じ、割とよさげでした。あとで描画コンポーネントをいろいろ試せるように、検索クエリーを投げるところと、描画コンポーネントの動作の切り分けを確実にしておくのがよいですね。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.chartjs.org\/docs\/latest\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1620628029.063300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1620658013.064100",
+        "reply_users": [
+            "U01EL0SAUTF",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1620655856.063600"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1620657920.063800"
+            },
+            {
+                "user": "U01EL0SAUTF",
+                "ts": "1620658013.064100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1620658013.064100"
+    }
+]

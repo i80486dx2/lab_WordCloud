@@ -1,0 +1,153 @@
+[
+    {
+        "client_msg_id": "8eaf92a1-ee34-4e2f-a489-97255fe9a738",
+        "type": "message",
+        "text": "面白そう（直感）\n<https:\/\/mas.kke.co.jp\/fukuzatsu\/>",
+        "user": "U01F42ZFA73",
+        "ts": "1608365615.110500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MPLDe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "面白そう（直感）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mas.kke.co.jp\/fukuzatsu\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UPSPAP97D",
+                    "U01EL0SAUTF",
+                    "UKUKA65GU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "blue_book",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "986bb6da-29f2-4254-8d4a-5b5fa5f1717e",
+        "type": "message",
+        "text": "スポーツデータはやっぱり楽しそうですね（分析自体はとくに高度ではないです）\n<https:\/\/qiita.com\/ta93_osugi\/items\/988d782f6f7e11c1623d>\nLDAというのはクラスタリングのようなものです。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1608440245.112000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1608440327.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "LDAでサッカー選手のプレーエリアからポジションを分類してみた - Qiita",
+                "title_link": "https:\/\/qiita.com\/ta93_osugi\/items\/988d782f6f7e11c1623d",
+                "text": "はじめに こちらは、NTTドコモ R&amp;D Advent Calendar 2020の12日目の記事となります。 こんにちは！NTTドコモの大杉です。 昨年度は、socceractionというサッカーのデータ分析に関す...",
+                "fallback": "Qiita: LDAでサッカー選手のプレーエリアからポジションを分類してみた - Qiita",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3DLDA%25E3%2581%25A7%25E3%2582%25B5%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E9%2581%25B8%25E6%2589%258B%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25A8%25E3%2583%25AA%25E3%2582%25A2%25E3%2581%258B%25E3%2582%2589%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E5%2588%2586%25E9%25A1%259E%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3D57971dc17beac20d469edf842ea4ab4c&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540ta93_osugi%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D47bd99dd1d727be90a279d6108a9dee7&blend-align=center%2Cmiddle&blend-mode=normal&s=33deaa885dbb8c50eca08b3bd5127797",
+                "from_url": "https:\/\/qiita.com\/ta93_osugi\/items\/988d782f6f7e11c1623d",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 62884,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/ta93_osugi\/items\/988d782f6f7e11c1623d"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JL9AF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スポーツデータはやっぱり楽しそうですね（分析自体はとくに高度ではないです）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/ta93_osugi\/items\/988d782f6f7e11c1623d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLDAというのはクラスタリングのようなものです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_monocle",
+                "users": [
+                    "UKH07E67M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "blue_book",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U01EL0SAUTF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

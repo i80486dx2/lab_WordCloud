@@ -1,0 +1,123 @@
+[
+    {
+        "type": "message",
+        "text": "観光地などを点ではなく、面でスポット単位で表現しました。アニメーション では24時間の様子をプロットしています。篠田さんが用意してくださったxlsxファイルを元に作りました。(主要スポットの来訪人数推移)また、<@UKH07E67M> にも手伝ってもらって、それに加えていくつかのスポット(七日町、神明通り)も追加しました。geojsonを使って建物の敷地を忠実に再現することが出来ました。ただし、七日町、神明通りに関してはアルゴリズムの動作に不安定さが残るので参考程度に。日付は2019年5月3日。テレビ映えする内容にしてみました。",
+        "files": [
+            {
+                "id": "F0170UNFESX",
+                "created": 1594670564,
+                "timestamp": 1594670564,
+                "name": "polygon.html",
+                "title": "polygon.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "UPRE1RSJW",
+                "editable": true,
+                "size": 260545,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0170UNFESX\/polygon.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F0170UNFESX\/download\/polygon.html?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F0170UNFESX\/polygon.html",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F0170UNFESX-2c751a2134",
+                "edit_link": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F0170UNFESX\/polygon.html\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F016U145RPG",
+                "created": 1594670578,
+                "timestamp": 1594670578,
+                "name": "polygon.mov",
+                "title": "polygon.mov",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "UPRE1RSJW",
+                "editable": false,
+                "size": 10077789,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016U145RPG\/polygon.mov?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F016U145RPG\/download\/polygon.mov?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F016U145RPG-39e0f54b26\/polygon_thumb_video.jpeg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UPRE1RSJW\/F016U145RPG\/polygon.mov",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F016U145RPG-9d9387a3fa",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Leb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "観光地などを点ではなく、面でスポット単位で表現しました。アニメーション では24時間の様子をプロットしています。篠田さんが用意してくださったxlsxファイルを元に作りました。(主要スポットの来訪人数推移)また、"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKH07E67M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " にも手伝ってもらって、それに加えていくつかのスポット(七日町、神明通り)も追加しました。geojsonを使って建物の敷地を忠実に再現することが出来ました。ただし、七日町、神明通りに関してはアルゴリズムの動作に不安定さが残るので参考程度に。日付は2019年5月3日。テレビ映えする内容にしてみました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UPRE1RSJW",
+        "ts": "1594671128.101700",
+        "thread_ts": "1594671128.101700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1594712178.102700",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UPRE1RSJW"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1594711272.102500"
+            },
+            {
+                "user": "UPRE1RSJW",
+                "ts": "1594712178.102700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1594712178.102700",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKH07E67M",
+                    "UPSPAP97D",
+                    "UQ47R82RW"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

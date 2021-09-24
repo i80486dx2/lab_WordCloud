@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "abd1c45b-d242-4310-8cf9-73f1ce5a6114",
+        "type": "message",
+        "text": "<@UPRE1RSJW> こちらコメント遅れました。ウィンカー点灯時間って交差点での点灯ということですか？",
+        "user": "UPSPAMY7M",
+        "ts": "1621909421.000100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KA4ou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちらコメント遅れました。ウィンカー点灯時間って交差点での点灯ということですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621213093.053400",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "3e673e6b-a7bb-4dbf-a95d-7161762e70da",
+        "type": "message",
+        "text": "そうですね。ウインカー点灯開始からハンドルを切り始めるまでを点灯時間にしてます。",
+        "user": "UPRE1RSJW",
+        "ts": "1621909501.000300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lik+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね。ウインカー点灯開始からハンドルを切り始めるまでを点灯時間にしてます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621213093.053400",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "ac7a236f-6717-484f-8245-2caca2481992",
+        "type": "message",
+        "text": "これって信号が赤で点滅しっぱなしというのはサンプルに入れないようにしているとかですか？",
+        "user": "UPSPAMY7M",
+        "ts": "1621909554.000500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJlXA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これって信号が赤で点滅しっぱなしというのはサンプルに入れないようにしているとかですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621213093.053400",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "41e13bdf-2ae0-4ddd-b9da-e4d8e4eee544",
+        "type": "message",
+        "text": "今回は大学のLictia前の交差点なので信号はありませんが、歩行者の横断などを待ってるケースは除きました。それでも、人によってはゆっくり曲がる人や直前でウインカーを出す人やスピードを出す人などで点灯時間には差が生まれるようです。",
+        "user": "UPRE1RSJW",
+        "ts": "1621909786.000700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erUIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今回は大学のLictia前の交差点なので信号はありませんが、歩行者の横断などを待ってるケースは除きました。それでも、人によってはゆっくり曲がる人や直前でウインカーを出す人やスピードを出す人などで点灯時間には差が生まれるようです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1621213093.053400",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

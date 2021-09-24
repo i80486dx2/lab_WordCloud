@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "405ec060-8291-4fdf-a252-aab6c4f3b030",
+        "type": "message",
+        "text": "使い方の説明がありました：\n<https:\/\/web-int.u-aizu.ac.jp\/official\/organization\/ipc\/index.html>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1631093240.008100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tMMK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "使い方の説明がありました：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/web-int.u-aizu.ac.jp\/official\/organization\/ipc\/index.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631067168.007100",
+        "parent_user_id": "UKS1Q2KTQ"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "464330ba-f3a1-4125-be3d-30fcf66d4828",
+        "type": "message",
+        "text": "明日のお昼から夕方くらいまで、ACM CHI2021（Human-Computer Interaction系の国際会議）の勉強会がYouTubeのライブストリーミングであるようです。VRや可視化のトピックもあるので興味があれば：\n<https:\/\/sigchi.jp\/seminar\/chi2021\/>\n<https:\/\/pgl.jp\/seminars\/chi2021>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1624625700.051600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "CHI勉強会2021 | 2021年6月26日（土）今年もオンライン開催！",
+                "title_link": "https:\/\/sigchi.jp\/seminar\/chi2021\/",
+                "text": "The ACM CHI Conference on Human Factors in Computing Systemsの論文（Proceedingsに入っているPapers）、747本を一気に概観します！",
+                "fallback": "CHI勉強会2021 | 2021年6月26日（土）今年もオンライン開催！",
+                "image_url": "http:\/\/sigchi.jp\/seminar\/chi2021\/img\/chi2021j-ogp.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/sigchi.jp\/seminar\/chi2021\/",
+                "image_bytes": 112367,
+                "service_name": "sigchi.jp",
+                "id": 1,
+                "original_url": "https:\/\/sigchi.jp\/seminar\/chi2021\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nKq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日のお昼から夕方くらいまで、ACM CHI2021（Human-Computer Interaction系の国際会議）の勉強会がYouTubeのライブストリーミングであるようです。VRや可視化のトピックもあるので興味があれば：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sigchi.jp\/seminar\/chi2021\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pgl.jp\/seminars\/chi2021"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPSPAP97D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

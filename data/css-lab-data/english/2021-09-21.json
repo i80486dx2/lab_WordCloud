@@ -1,0 +1,2666 @@
+[
+    {
+        "client_msg_id": "f3854c3a-dd2b-4bde-9392-1759139f9e00",
+        "type": "message",
+        "text": "\"I'd inform you. Because of an result of Deciding King Game, Tetuya Yamamoto, who is six grades, will charge for the pilot. Please enjoy your sky trip with thrilling\"",
+        "user": "UPSPAP97D",
+        "ts": "1632208361.083000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4yua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I'd inform you. Because of an result of Deciding King Game, Tetuya Yamamoto, who is six grades, will charge for the pilot. Please enjoy your sky trip with thrilling\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629083666.060700"
+    },
+    {
+        "client_msg_id": "47b6d98f-efc9-4e26-8dd6-3519c0330550",
+        "type": "message",
+        "text": "`\"I'd inform you. Because of an result of Deciding King Game, Tetuya Yamamoto, who is six grades, will charge for the pilot. Please enjoy your sky trip with thrilling\"`\nDeepL「“お知らせ “です。王様決定戦の結果により、小学6年生の山本哲也さんがパイロットを担当することになりました。ドキドキしながら空の旅を楽しんでください。」\n\n• 『This is ~ speaking』は知らなかった….\n    ◦ <http:\/\/everydayhomework.seesaa.net\/article\/403824451.html>\n• 『who is』付けなくてもいいのか…\n    ◦ 「六年生の」は 『sixth-grade student』\n• 「スリリングな空の旅」は『thrilling flight』\n    ◦ 『flight』で「空の旅」\n    ◦ 『thrilling』を形容詞的に前付け \n• 「〜を引き継ぐ→〜を(新たに)担当する」で『take over as』\n• なぜ『an result』にしたんだ…",
+        "user": "UPSPAP97D",
+        "ts": "1632209253.083200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "【Kei式-突然話し掛けられた】vol.411 なぜ電話でThis is Kei speaking: 【Kei式】カドを立てない英会話術辞典",
+                "title_link": "http:\/\/everydayhomework.seesaa.net\/article\/403824451.html",
+                "text": "【Kei式-突然話し掛けられた】vol.411 なぜ電話でThis is Kei speaking,英語だからといって、Yes\/Noをハッキリいうわけもなく、曖昧（ambiguously）に、間接的（indirectly）に話し、謙遜（being modest）もたくさんします。　「本音と建前」（Stated principles &amp; Real intentions）も当然あります。　それがなければ喧嘩ばかりになります。　こういった「常識的」な会話を習得すると、言語は自分のモノになりますよね。",
+                "fallback": "【Kei式-突然話し掛けられた】vol.411 なぜ電話でThis is Kei speaking: 【Kei式】カドを立てない英会話術辞典",
+                "from_url": "http:\/\/everydayhomework.seesaa.net\/article\/403824451.html",
+                "service_icon": "https:\/\/blog.seesaa.jp\/img\/iphone\/apple-touch-icon.png",
+                "service_name": "everydayhomework.seesaa.net",
+                "id": 1,
+                "original_url": "http:\/\/everydayhomework.seesaa.net\/article\/403824451.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sma",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I'd inform you. Because of an result of Deciding King Game, Tetuya Yamamoto, who is six grades, will charge for the pilot. Please enjoy your sky trip with thrilling\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「“お知らせ “です。王様決定戦の結果により、小学6年生の山本哲也さんがパイロットを担当することになりました。ドキドキしながら空の旅を楽しんでください。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『This is ~ speaking』は知らなかった…."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/everydayhomework.seesaa.net\/article\/403824451.html"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『who is』付けなくてもいいのか…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「六年生の」は 『sixth-grade student』"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「スリリングな空の旅」は『thrilling flight』"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『flight』で「空の旅」"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『thrilling』を形容詞的に前付け "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「〜を引き継ぐ→〜を(新たに)担当する」で『take over as』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "なぜ『an result』にしたんだ…"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629186950.062900",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "88e97a52-57f9-45b5-8378-ba6de2002abc",
+        "type": "message",
+        "text": "The monster of the ancient world which asleep in an underground of Pezite City was dug up.",
+        "user": "UPSPAP97D",
+        "ts": "1632209516.083500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uDbj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The monster of the ancient world which asleep in an underground of Pezite City was dug up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629127977.060800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "b2f0c7b4-2e79-4d34-b991-14a28028c5cd",
+        "type": "message",
+        "text": "\"How sad the Jizos is. They seem cold.\" old man made them wear MA-1.",
+        "user": "U01F42ZFA73",
+        "ts": "1632210118.083700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eob5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"How sad the Jizos is. They seem cold.\" old man made them wear MA-1."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632194260.082300"
+    },
+    {
+        "client_msg_id": "936d690e-6044-48e9-ab4a-4ac8867932c7",
+        "type": "message",
+        "text": "`The monster of the ancient world which asleep in an underground of Pezite City was dug up.`\nDeepL「ペジテ市の地下に眠っていた古代世界の怪物が掘り起こされた。」\n\n• 『asleep』は「休止して{副詞}、眠っている状態{形容詞}」\n• 「旧世界の」は『from』か… 確かに、そっちの方が良さそう (生まれた世界的なニュアンス?)\n• 『beneath』ってどっかで出た気がするが、忘れていた… (ミキプルーンだったっけ?)\n• 『unearth』で「〜を掘り出す、〜を明るみに出す」(新単語！)\n• 文章初めの『That』がよくわかってない…  (be動詞とか必要なのでは…?)",
+        "user": "UPSPAP97D",
+        "ts": "1632210293.083900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yLU1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The monster of the ancient world which asleep in an underground of Pezite City was dug up.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「ペジテ市の地下に眠っていた古代世界の怪物が掘り起こされた。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『asleep』は「休止して{副詞}、眠っている状態{形容詞}」"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「旧世界の」は『from』か… 確かに、そっちの方が良さそう (生まれた世界的なニュアンス?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『beneath』ってどっかで出た気がするが、忘れていた… (ミキプルーンだったっけ?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『unearth』で「〜を掘り出す、〜を明るみに出す」(新単語！)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "文章初めの『That』がよくわかってない…  (be動詞とか必要なのでは…?)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629127977.060900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "47cf36dc-ce92-49b1-9ce2-30fcc1347c63",
+        "type": "message",
+        "text": "“I’m afraid, but we have seventeen Sato, … yes, yes, …, I’m sorry we have four Sato who can right their own hip hole.”",
+        "user": "UPSPAP97D",
+        "ts": "1632210568.084100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HY=j\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“I’m afraid, but we have seventeen Sato, … yes, yes, …, I’m sorry we have four Sato who can right their own hip hole.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629196410.063600"
+    },
+    {
+        "client_msg_id": "8bf46ec1-ed1a-4fed-9aa1-7d307e311a5d",
+        "type": "message",
+        "text": "We have the fate which the bad sea will cover and collapse us as a species of the humanity.",
+        "user": "U01F42ZFA73",
+        "ts": "1632210615.084300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nUhG6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have the fate which the bad sea will cover and collapse us as a species of the humanity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632065577.077800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "658997e2-5cbc-4258-85c5-43e7e5ce3c8a",
+        "type": "message",
+        "text": "Sea of decay was born and has the reason for removing the world which is dirty by the humanity.",
+        "user": "U01F42ZFA73",
+        "ts": "1632210850.084500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cCw4K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sea of decay was born and has the reason for removing the world which is dirty by the humanity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632151977.081900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "8777c831-819f-4ddf-9c8d-8c0475c45fed",
+        "type": "message",
+        "text": "`\"I'm afraid, but we have seventeen Sato, … yes, yes, …, I'm sorry we have four Sato who can right their own hip hole.\"`\nDeepL「“恐れ入りますが、私たちには17人の佐藤がいます。・・・はい、はい、・・・申し訳ありませんが、私たちには自分の腰の穴を直すことができる4人の佐藤がいます。“」\n\n• 『right』→ 『light』\n• 人物名に 複数形できたの！?\n• 「肛門」は『anus』(どっかで見たな)\n• 『whose』は使い慣れてない…\n• thereだったか… (会社は weで表現できた記憶があったのだが…)",
+        "user": "UPSPAP97D",
+        "ts": "1632210959.084700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E=xV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I'm afraid, but we have seventeen Sato, … yes, yes, …, I'm sorry we have four Sato who can right their own hip hole.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「“恐れ入りますが、私たちには17人の佐藤がいます。・・・はい、はい、・・・申し訳ありませんが、私たちには自分の腰の穴を直すことができる4人の佐藤がいます。“」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『right』→ 『light』"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "人物名に 複数形できたの！?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「肛門」は『anus』(どっかで見たな)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『whose』は使い慣れてない…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "thereだったか… (会社は weで表現できた記憶があったのだが…)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629198472.063900",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "eee26ab7-7383-4e05-90e0-0abff5eaac81",
+        "type": "message",
+        "text": "San, I live my life enough.",
+        "user": "UPSPAP97D",
+        "ts": "1632211087.084900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xEgou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "San, I live my life enough."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629214377.064500",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "6ef06628-0777-40e3-a6c4-a4b9d38deb2e",
+        "type": "message",
+        "text": "`San, I live my life enough.`\nDeepL「サン、私は自分の人生を十分に生きています。」\n\n• 完了系だな… (昔から今を一貫して見ている感じ)\n• 「既に」で『already』",
+        "user": "UPSPAP97D",
+        "ts": "1632211204.085100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAMF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "San, I live my life enough.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「サン、私は自分の人生を十分に生きています。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "完了系だな… (昔から今を一貫して見ている感じ)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「既に」で『already』"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629214378.064600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "6c37f579-d1e9-47ba-8abe-57254cdaf60b",
+        "type": "message",
+        "text": "“Air connection place,  air connection place. I said twice because it’s an important thing”",
+        "user": "UPSPAP97D",
+        "ts": "1632211454.085300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0l8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“Air connection place,  air connection place. I said twice because it’s an important thing”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629289904.067000"
+    },
+    {
+        "client_msg_id": "91e5ec9f-6dc9-49d8-bce6-5d8b9bb26a9f",
+        "type": "message",
+        "text": "`\"Air connection place,  air connection place. I said twice because it's an important thing\"`\nDeepL「“Air connection place, air connection place. 大事なことなので2回言いました“」\n\n• 「放送席」は『broadcasting seat』\n    ◦ 『air』で電波的な単語だと思ったので、それと組み合わせて魔改造したがダメダメだった…\n    ◦ 『air』で「〜を放送する」とか『on air』「放送中」とかだった\n• 『important』の形容詞だけでも良かった",
+        "user": "UPSPAP97D",
+        "ts": "1632211748.085500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J0CSK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Air connection place,  air connection place. I said twice because it's an important thing\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「“Air connection place, air connection place. 大事なことなので2回言いました“」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「放送席」は『broadcasting seat』"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『air』で電波的な単語だと思ったので、それと組み合わせて魔改造したがダメダメだった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『air』で「〜を放送する」とか『on air』「放送中」とかだった"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『important』の形容詞だけでも良かった"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629290761.067500",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "864d7fc4-4ece-4f4e-ad2c-2ea006382af2",
+        "type": "message",
+        "text": "Zizi, what should I do if customers didn’t come here until becoming old and we always only ate pun cakes.",
+        "user": "UPSPAP97D",
+        "ts": "1632212109.085700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQhA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zizi, what should I do if customers didn’t come here until becoming old and we always only ate pun cakes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629300777.067800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "03b1652d-3d31-4359-9930-a2840732ace3",
+        "type": "message",
+        "text": "`Zizi, what should I do if customers didn't come here until becoming old and we always only ate pun cakes.`\nDeepL「Ziziさん、年をとるまでお客さんが来なくて、いつも駄菓子しか食べられなかったのはどうしたらいいのでしょうか。」\n\n• 『nobody』で「誰も〜ない」(思いつかない…)\n    ◦ 単数になる\n• 『pancake』、綴りミス+連結\n• and で ifを2つみたいにしたくなるが、「客来ない→ホットケーキ地獄」にするのか…. \n• 仮定法だと思ったら、現実味があるから? 現在形だった",
+        "user": "UPSPAP97D",
+        "ts": "1632212553.085900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zizi, what should I do if customers didn't come here until becoming old and we always only ate pun cakes.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「Ziziさん、年をとるまでお客さんが来なくて、いつも駄菓子しか食べられなかったのはどうしたらいいのでしょうか。」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『nobody』で「誰も〜ない」(思いつかない…)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "単数になる"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『pancake』、綴りミス+連結"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "and で ifを2つみたいにしたくなるが、「客来ない→ホットケーキ地獄」にするのか…. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "仮定法だと思ったら、現実味があるから? 現在形だった"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629300777.067900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "a6a4445a-8814-4283-a00f-40b799bce3c9",
+        "type": "message",
+        "text": "“She can’t hang up a phone because she’s struggling in a her-likely’s prison which has been built with no conscious”",
+        "user": "UPSPAP97D",
+        "ts": "1632212765.086100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ysal",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“She can’t hang up a phone because she’s struggling in a her-likely’s prison which has been built with no conscious”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629374774.069700"
+    },
+    {
+        "client_msg_id": "b797d5b5-1cc4-46da-9f0d-14446af5dceb",
+        "type": "message",
+        "text": "`\"She can't hang up a phone because she's struggling in a her-likely's prison which has been built with no conscious\"`\nDeepL「“彼女は電話を切ることができません。” “意識せずに作られた彼女らしい刑務所で苦労しているからです。“」\n\n• 『hang up』は「電話を切る{自動詞}」だった…\n• 『conscious』は「自覚している」(形容詞)\n    ◦ 『consciousness』が「意識」\n• 「自分らしさの檻」は『cage of herself』 (herselfの置き方そうするのか…)\n• 「知らぬ間に」は『unknowingly』\n    ◦ 『which』を主語にしないとは… ",
+        "user": "UPSPAP97D",
+        "ts": "1632213394.086300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b09c08e50940",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-15\/837678602742_b09c08e50940786c015b_72.png",
+            "first_name": "村上",
+            "real_name": "村上 弥夢",
+            "display_name": "hiromu",
+            "team": "TKS1Q2JUE",
+            "name": "s1260166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OM8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"She can't hang up a phone because she's struggling in a her-likely's prison which has been built with no conscious\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL「“彼女は電話を切ることができません。” “意識せずに作られた彼女らしい刑務所で苦労しているからです。“」\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『hang up』は「電話を切る{自動詞}」だった…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『conscious』は「自覚している」(形容詞)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『consciousness』が「意識」"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「自分らしさの檻」は『cage of herself』 (herselfの置き方そうするのか…)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「知らぬ間に」は『unknowingly』"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "『which』を主語にしないとは… "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629530453.072400",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "ffe95a09-4977-4bb2-a0fd-ee4868939860",
+        "type": "message",
+        "text": "`\"How sad the Jizos is. They seem cold.\" old man made them wear MA-1.`\nDeepL: \"地蔵は何とも寂しい。寒そうだ」と言って、老人は彼らにMA-1を着せた。\npoor==可哀想な\nex) The kitten is soaking wet because of the rain. Poor thing.",
+        "user": "U01F42ZFA73",
+        "ts": "1632217055.086500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"How sad the Jizos is. They seem cold.\" old man made them wear MA-1.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: \"地蔵は何とも寂しい。寒そうだ」と言って、老人は彼らにMA-1を着せた。\npoor==可哀想な\nex) The kitten is soaking wet because of the rain. Poor thing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632203486.082400",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "afa84355-0ec1-4270-bc74-ad6cf0ffef94",
+        "type": "message",
+        "text": "`\"Honor! Please tell me wifi password.\"\"Put away your smart phone.\"`\nDeepL: \"your Honor! 無線LANのパスワードを教えてください。\" \"スマートフォンを片付けろ\"\n• 4\/24\/2021の再掲",
+        "user": "U01F42ZFA73",
+        "ts": "1632217315.086700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s2c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Honor! Please tell me wifi password.\"\"Put away your smart phone.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: \"your Honor! 無線LANのパスワードを教えてください。\" \"スマートフォンを片付けろ\"\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "4\/24\/2021の再掲"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632053830.076700",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "faeac574-5abd-4dc4-9cb5-b7916245f091",
+        "type": "message",
+        "text": "`Stop. first eat it with nothing.`\nDeepL: ストップ。まずは何もつけずに食べてください。\n• withoutで否定的な意味合いを持つからanyを使う。\n• ex) *We arrived in Los Angeles without any trouble.* ",
+        "user": "U01F42ZFA73",
+        "ts": "1632217549.086900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9d3i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Stop. first eat it with nothing.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: ストップ。まずは何もつけずに食べてください。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "withoutで否定的な意味合いを持つからanyを使う。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "We arrived in Los Angeles without any trouble.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632053848.076900",
+        "parent_user_id": "U01F42ZFA73"
+    },
+    {
+        "client_msg_id": "3a77ba27-10ba-4647-be0c-54cde7cdf2e7",
+        "type": "message",
+        "text": "`\"I want to know defeating.\" He, befizs virus, is only the survivor in the bowel.`\nDeepL: \"敗北を知りたい\" ウィルスに侵された彼は、腸内で唯一の生存者です。\n•  ex) Researches have shown that high bacteroid and \" Clostridium \" counts accompanied by low \" Bifidobacterium \" counts can lead to an altered immune responses in infants.",
+        "user": "U01F42ZFA73",
+        "ts": "1632218525.087100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XM4=U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I want to know defeating.\" He, befizs virus, is only the survivor in the bowel.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: \"敗北を知りたい\" ウィルスに侵された彼は、腸内で唯一の生存者です。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " ex) Researches have shown that high bacteroid and \" Clostridium \" counts accompanied by low \" Bifidobacterium \" counts can lead to an altered immune responses in infants."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631857021.069000",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1632227408.087300",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1632227408.087300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1632230376.093100",
+        "reply_users": [
+            "UKUKA65GU",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKUKA65GU",
+                "ts": "1632228463.088200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1632230376.093100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1632230376.093100",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: NASAは2025年までに、月に石原軍団を送る予定です。\n\n#中秋の名月 <https:\/\/pbs.twimg.com\/media\/E_zyHXQUUA841sp.jpg>",
+                "ts": 1632227401,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1440292231529725963",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1440292231529725963>",
+                "text": "NASAは2025年までに、月に石原軍団を送る予定です。\n\n#中秋の名月 <https:\/\/pbs.twimg.com\/media\/E_zyHXQUUA841sp.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1440292231529725963",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/E_zyHXQUUA841sp.jpg",
+                "image_width": 400,
+                "image_height": 550,
+                "image_bytes": 90397,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58292A43-97A1-4058-9F45-3606C885137E",
+        "type": "message",
+        "text": "Nasa will send the Ishihara Group to the moon until 2025.",
+        "user": "UKUKA65GU",
+        "ts": "1632228463.088200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lxssm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nasa will send the Ishihara Group to the moon until 2025."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632227408.087300"
+    },
+    {
+        "client_msg_id": "0ACADE86-A2D3-4083-8083-1E41F99DCC7A",
+        "type": "message",
+        "text": "反省会 「NASAは2025までに、月に石原軍団を送る予定です。」",
+        "user": "UKUKA65GU",
+        "ts": "1632228531.089000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Tzm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会 「NASAは2025までに、月に石原軍団を送る予定です。」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632228531.089000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1632230790.093300",
+        "reply_users": [
+            "UKUKA65GU",
+            "UKS1Q2KTQ"
+        ],
+        "replies": [
+            {
+                "user": "UKUKA65GU",
+                "ts": "1632229026.091700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1632230790.093300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1632230790.093300"
+    },
+    {
+        "client_msg_id": "5D150354-4654-47A9-BEF9-C18A36DE1906",
+        "type": "message",
+        "text": "`Nasa will send the Ishihara Group to the moon until 2025.`\nDEEPL「NASAは2025年までに石原グループを月に送る」\n軍団: corps なるほど。\n文章的にも、これではNASAって人が石原軍団を送る感じなので、計画しているって書くならplanの方がいいかも",
+        "user": "UKUKA65GU",
+        "ts": "1632229026.091700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4wfBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nasa will send the Ishihara Group to the moon until 2025.\n",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "DEEPL「NASAは2025年までに石原グループを月に送る」\n軍団: corps なるほど。\n文章的にも、これではNASAって人が石原軍団を送る感じなので、計画しているって書くならplanの方がいいかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632228531.089000",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "client_msg_id": "f0533031-d941-464e-b3c6-2580c537848d",
+        "type": "message",
+        "text": "Are we, mankind, a species that is destined to perish as getting swamped by the Sea of Decay like this?",
+        "user": "UKS1Q2KTQ",
+        "ts": "1632229368.091900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VbIz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we, mankind, a species that is destined to perish as getting swamped by the Sea of Decay like this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632065577.077800",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "04f59b84-d75c-4dfe-ac5d-c83007a046af",
+        "type": "message",
+        "text": "`Are we, mankind, a species that is destined to perish as getting swamped by the Sea of Decay like this?`\nDeepL：私たち人類は、このように崩壊の海に押し流されて滅びる運命にある種族なのでしょうか。\n\n• swallowed and ruined by か。なるほどなー。\n• 人類を tribe と呼ぶのは違和感あるなぁ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1632229459.092100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oRl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we, mankind, a species that is destined to perish as getting swamped by the Sea of Decay like this?",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：私たち人類は、このように崩壊の海に押し流されて滅びる運命にある種族なのでしょうか。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "swallowed and ruined by か。なるほどなー。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "人類を tribe と呼ぶのは違和感あるなぁ。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632065578.077900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "cd6cc90c-4b56-4c5a-be31-9da51298ec0f",
+        "type": "message",
+        "text": "The trees of the Sea of Decay were born to purify this world that humans polluted.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1632229779.092300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gohFT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The trees of the Sea of Decay were born to purify this world that humans polluted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632151977.081900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "54687e53-aa3a-46fc-bbbe-1d2325bf8e5e",
+        "type": "message",
+        "text": "`The trees of the Sea of Decay were born to purify this world that humans polluted.`\nDeepL：腐海の木々は、人間が汚したこの世界を浄化するために生まれました。\n\n• 「...を洗浄する = cleanse」了。発音はクレンズ。クレンザーの語源か！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1632229879.092500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=vGQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The trees of the Sea of Decay were born to purify this world that humans polluted.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：腐海の木々は、人間が汚したこの世界を浄化するために生まれました。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「...を洗浄する = cleanse」了。発音はクレンズ。クレンザーの語源か！"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632151977.082000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "55a130b3-2151-43ba-9a53-6992b7be537a",
+        "type": "message",
+        "text": "\"Pity monk statues. It must be cold for you.\" The elderly man kindly put MA-1 on them.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1632230135.092700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6uEFN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Pity monk statues. It must be cold for you.\" The elderly man kindly put MA-1 on them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632194260.082300"
+    },
+    {
+        "client_msg_id": "da66186a-51fc-4fba-bb8d-e5cd54d8473d",
+        "type": "message",
+        "text": "`\"Pity monk statues. It must be cold for you.\" The elderly man kindly put MA-1 on them.`\nDeepL：\"僧侶の彫像に哀れみを。寒いだろうに\" 老人は親切にもMA-1をかけてあげました。\n\n• Jizos かよ。\n• you must be cold でいいのか。深読みしてしまった。\n• MA-1 は MA-1 bomber jacket。分かるかよ。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1632230260.092900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oz6L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Pity monk statues. It must be cold for you.\" The elderly man kindly put MA-1 on them.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：\"僧侶の彫像に哀れみを。寒いだろうに\" 老人は親切にもMA-1をかけてあげました。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Jizos かよ。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "you must be cold でいいのか。深読みしてしまった。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MA-1 は MA-1 bomber jacket。分かるかよ。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632203486.082400",
+        "parent_user_id": "UKH07E67M"
+    },
+    {
+        "client_msg_id": "906e7ea3-4547-4060-96d9-80ff587eae5a",
+        "type": "message",
+        "text": "NASA is planning to send ISHIHARA  squad to the moon by 2025.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1632230376.093100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ZS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NASA is planning to send ISHIHARA  squad to the moon by 2025."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632227408.087300"
+    },
+    {
+        "client_msg_id": "2b2dd200-9eec-4a73-a212-9435f3290ad6",
+        "type": "message",
+        "text": "`NASA is planning to send ISHIHARA  squad to the moon by 2025.`\nDeepL：NASAは2025年までに石原隊を月に送ることを計画している。\n\n• 「予定している」は現在進行形ではない。\n• 「石原軍団 = the Ishihara Corps」了。\n• squad（分隊・班）は10人程度、corps（軍団）は30,000人程度。他に division（師団）は10,000人程度、company（中隊）は100人程度。石原軍団はどう考えても10人規模だろ！",
+        "user": "UKS1Q2KTQ",
+        "ts": "1632230790.093300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nCc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NASA is planning to send ISHIHARA  squad to the moon by 2025.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL：NASAは2025年までに石原隊を月に送ることを計画している。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「予定している」は現在進行形ではない。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「石原軍団 = the Ishihara Corps」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "squad（分隊・班）は10人程度、corps（軍団）は30,000人程度。他に division（師団）は10,000人程度、company（中隊）は100人程度。石原軍団はどう考えても10人規模だろ！"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632228531.089000",
+        "parent_user_id": "UKUKA65GU"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "巨神兵なんか掘り起こすからいけないのよ！（ナウシカ\/風の谷のナウシカ）",
+        "user": "U01UMQH4W4B",
+        "ts": "1632238378.093500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：巨神兵なんか掘り起こすからいけないのよ！",
+        "user": "U01UMQH4W4B",
+        "ts": "1632238378.093600",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1632238378.093600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1632238378.093700",
+        "reply_users": [
+            "U01UMQH4W4B"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1632238378.093700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "Why did you dig up that Giant Warrior!",
+        "user": "U01UMQH4W4B",
+        "ts": "1632238378.093700",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1632238378.093600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "82957d95-c226-4b41-afbd-d9f0dbdf0445",
+        "type": "message",
+        "text": "`Sea of decay was born and has the reason for removing the world which is dirty by the humanity.`\nDeepL: 崩壊の海が生まれたのは、人類が汚した世界を取り除くためである。\n• cleanse==浄化する\n• ex) cleanse my mind of illusion. ",
+        "user": "U01F42ZFA73",
+        "ts": "1632255260.093900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aNeKF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sea of decay was born and has the reason for removing the world which is dirty by the humanity.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 崩壊の海が生まれたのは、人類が汚した世界を取り除くためである。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "cleanse==浄化する"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) cleanse my mind of illusion. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632151977.082000",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "1545b935-32f2-4e81-99fe-af58eb4e4ec0",
+        "type": "message",
+        "text": "`We have the fate which the bad sea will cover and collapse us as a species of the humanity.`\nDeepL: 私たちは、悪い海に覆われ、人類という種として崩壊してしまう運命にあります。\n•  decay==腐る、腐敗\n• ex) I have dental decay.\n• swallow==飲み込む\n• ex) The medicine is hard to swallow.\n• destine==運命づける\n• ex)His father destined him for the church.",
+        "user": "U01F42ZFA73",
+        "ts": "1632255751.094100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DY38",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have the fate which the bad sea will cover and collapse us as a species of the humanity.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 私たちは、悪い海に覆われ、人類という種として崩壊してしまう運命にあります。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " decay==腐る、腐敗"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) I have dental decay."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "swallow==飲み込む"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) The medicine is hard to swallow."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "destine==運命づける"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex)His father destined him for the church."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1632065578.077900",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "4175e63d-8a62-4d3c-ad58-e0b0414f7ebd",
+        "type": "message",
+        "text": "`I don't think such it. I think that to leave here should be held more carefully and formally.`\nDeepL: 私はそうは思いません。ここを去ることは、もっと慎重に、正式に行われるべきだと思います。\n•  decorum==礼儀正しさ\n• ex) The tea ceremony is supposed to develop decorum.\n• dignity==威厳\n• ex) Dentistry had a long history before it attained the dignity of a profession.",
+        "user": "U01F42ZFA73",
+        "ts": "1632256262.094300",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vs3n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think such it. I think that to leave here should be held more carefully and formally.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 私はそうは思いません。ここを去ることは、もっと慎重に、正式に行われるべきだと思います。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " decorum==礼儀正しさ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) The tea ceremony is supposed to develop decorum."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "dignity==威厳"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) Dentistry had a long history before it attained the dignity of a profession."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631979178.074200",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "37be63c0-8028-477a-b5da-7f01ed35f7bd",
+        "type": "message",
+        "text": "`I like a hot cake except it baked over.`\nDeepL: 私はホットケーキが好きですが、それは焼き過ぎです。\n•  ex) the dinner was superb.\n• ex) burn a piece of toast black.",
+        "user": "U01F42ZFA73",
+        "ts": "1632256939.094500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uTL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like a hot cake except it baked over.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 私はホットケーキが好きですが、それは焼き過ぎです。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " ex) the dinner was superb."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex) burn a piece of toast black."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631892778.072300",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "63070687-91ec-448d-ab66-620f0856d1a7",
+        "type": "message",
+        "text": "the insects protect the forest.",
+        "user": "U01F42ZFA73",
+        "ts": "1632257006.094700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R0Wx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the insects protect the forest."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631806377.067600",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "8035c01f-622f-4dce-b0ea-cfb6c45b6bb2",
+        "type": "message",
+        "text": "`we have no parents.`\nDeepL: 私たちには親がいません。\n•  ex) there is a helpless orphan.",
+        "user": "U01F42ZFA73",
+        "ts": "1632257563.094900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1h\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we have no parents.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: 私たちには親がいません。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " ex) there is a helpless orphan."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1631719977.063500",
+        "parent_user_id": "U01UMQH4W4B"
+    }
+]

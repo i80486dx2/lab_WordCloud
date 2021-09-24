@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "844954b7-8ad1-4c02-8668-9d06e104e291",
+        "type": "message",
+        "text": "<@UPRE1RSJW> 予算余りそうだから、勉強代にこの4Kを注文してみました。\n<https:\/\/www.amazon.co.jp\/gp\/product\/B086ZNZXXN\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1611023369.000800",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "モバイルモニター モバイルディスプレイ 15.6インチ cocoparスイッチ用モニター 4K IPSパネル 薄い 軽量3840*2160FHD\/USB Type-C\/標準HDMI\/mini DP\/カバー付3年保証付 (4K)",
+                "title_link": "https:\/\/www.amazon.co.jp\/gp\/product\/B086ZNZXXN\/",
+                "text": "モバイルモニター モバイルディスプレイ 15.6インチ cocoparスイッチ用モニター 4K IPSパネル 薄い 軽量3840*2160FHD\/USB Type-C\/標準HDMI\/mini DP\/カバー付3年保証付 (4K)",
+                "fallback": "モバイルモニター モバイルディスプレイ 15.6インチ cocoparスイッチ用モニター 4K IPSパネル 薄い 軽量3840*2160FHD\/USB Type-C\/標準HDMI\/mini DP\/カバー付3年保証付 (4K)",
+                "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/51l2pWiTDbL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA475%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                "from_url": "https:\/\/www.amazon.co.jp\/gp\/product\/B086ZNZXXN\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 99005,
+                "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                "service_name": "amazon.co.jp",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.co.jp\/gp\/product\/B086ZNZXXN\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hSxZs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 予算余りそうだから、勉強代にこの4Kを注文してみました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/gp\/product\/B086ZNZXXN\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "UKUKA65GU",
+                    "UPRE1RSJW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

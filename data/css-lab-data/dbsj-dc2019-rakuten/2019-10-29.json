@@ -1,0 +1,9 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1572347054.000100",
+        "user": "UKS1Q2KTQ",
+        "text": "<@UKS1Q2KTQ> archived the channel"
+    }
+]

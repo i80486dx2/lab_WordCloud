@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "2e8cc7d5-1496-4ff6-aefd-be8d91e6a00f",
+        "type": "message",
+        "text": "<!channel> ぶっつけ輪講の次回はこれでいこうと思います：「Open-endedness: The last grand challenge you’ve never heard of」\n<https:\/\/www.oreilly.com\/radar\/open-endedness-the-last-grand-challenge-youve-never-heard-of\/>",
+        "user": "UKS1Q2KTQ",
+        "ts": "1578582272.001000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "O’Reilly Media",
+                "title": "Open-endedness: The last grand challenge you’ve never heard of",
+                "title_link": "https:\/\/www.oreilly.com\/radar\/open-endedness-the-last-grand-challenge-youve-never-heard-of\/",
+                "text": "While open-endedness could be a force for discovering intelligence, it could also be a component of AI itself.",
+                "fallback": "O’Reilly Media: Open-endedness: The last grand challenge you’ve never heard of",
+                "image_url": "https:\/\/www.oreilly.com\/radar\/wp-content\/uploads\/sites\/3\/2019\/06\/fractal-287827_crop-373aed3c0b7c2a0cfd65868486313e2c-1.jpg",
+                "ts": 1513717200,
+                "from_url": "https:\/\/www.oreilly.com\/radar\/open-endedness-the-last-grand-challenge-youve-never-heard-of\/",
+                "image_width": 368,
+                "image_height": 250,
+                "image_bytes": 160168,
+                "service_icon": "http:\/\/www.oreilly.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.oreilly.com\/radar\/open-endedness-the-last-grand-challenge-youve-never-heard-of\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NXx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ぶっつけ輪講の次回はこれでいこうと思います：「Open-endedness: The last grand challenge you’ve never heard of」\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.oreilly.com\/radar\/open-endedness-the-last-grand-challenge-youve-never-heard-of\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24349ff4-5204-4a02-ad96-d12d5152616d",
+        "type": "message",
+        "text": "希望者は都合のよい時間帯を教えてください。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1578582293.001600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xr+KC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "希望者は都合のよい時間帯を教えてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

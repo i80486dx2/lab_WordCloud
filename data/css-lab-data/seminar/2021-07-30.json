@@ -1,0 +1,158 @@
+[
+    {
+        "client_msg_id": "547d3ade-6ea6-44ea-b22d-899071072e05",
+        "type": "message",
+        "text": "show members randomly",
+        "user": "UKUKA65GU",
+        "ts": "1627639541.000200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mVJTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "show members randomly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01NH91SKU3",
+        "type": "message",
+        "text": "hiromu sota sukegawa kota aoshi Takahashi azuma TAKUMI sakurai naoya ren Kento ryosuke daiki ",
+        "user": "U01NA9N25GE",
+        "ts": "1627639543.000300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01NH91SKU3",
+            "deleted": false,
+            "name": "say_QuickUpdateList",
+            "updated": 1613624621,
+            "app_id": "A01NE06SQKF",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_36.png",
+                "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/bot_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/plugins\/app\/service_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@UKUKA65GU>\n行列累乗を使うとこんな感じで計算ができると思います。変数の使い方がPPと異なるかもしれません(それ以前に間違った考察をしていたらすみません)がこのような感覚で計算できると思います。\n繰り返し二乗法については例えば <https:\/\/algo-logic.info\/calc-pow\/> この記事などで概要がわかると思います。",
+        "files": [
+            {
+                "id": "F029MEWK4KF",
+                "created": 1627652875,
+                "timestamp": 1627652875,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01EP839LHH",
+                "editable": false,
+                "size": 335417,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F029MEWK4KF\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F029MEWK4KF\/download\/ios__________.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F029MEWK4KF-1953440325\/ios___________64.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F029MEWK4KF-1953440325\/ios___________80.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F029MEWK4KF-1953440325\/ios___________360.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F029MEWK4KF-1953440325\/ios___________480.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F029MEWK4KF-1953440325\/ios___________160.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F029MEWK4KF-1953440325\/ios___________720.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F029MEWK4KF-1953440325\/ios___________800.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F029MEWK4KF-1953440325\/ios___________960.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F029MEWK4KF-1953440325\/ios___________1024.jpg?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACQSGPaPkHSneVH\/AHF\/KnJ9xfoKWgBAiD+FfyoeKMqDsGc+lOFK\/wBwfWgBgijx9xfypfKj\/uL+VOHSloAYPuj6ClpB0H0paAClP3ce9FLj5fxoAB0paAKMUARqeKcMGsr7TKP46X7VN\/fNAGpin\/wVk\/ap\/wDnoaPtU+P9YaANfFGKqRSlo1O9mPc0\/efVvzoA\/9k=",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/U01EP839LHH\/F029MEWK4KF\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F029MEWK4KF-0bb9fbdafe",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "14hl7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKUKA65GU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n行列累乗を使うとこんな感じで計算ができると思います。変数の使い方がPPと異なるかもしれません(それ以前に間違った考察をしていたらすみません)がこのような感覚で計算できると思います。\n繰り返し二乗法については例えば "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/algo-logic.info\/calc-pow\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " この記事などで概要がわかると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01EP839LHH",
+        "display_as_bot": false,
+        "ts": "1627653096.003300",
+        "edited": {
+            "user": "U01EP839LHH",
+            "ts": "1627653305.000000"
+        },
+        "client_msg_id": "DBA9C258-DFC1-4DD7-9BB0-2F76CFBAABC3",
+        "thread_ts": "1627390624.075800",
+        "parent_user_id": "UKUKA65GU"
+    }
+]

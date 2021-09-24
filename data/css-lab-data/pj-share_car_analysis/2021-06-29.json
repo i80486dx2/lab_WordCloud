@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "441897d0-0d0d-48b8-8e8d-948056d8872d",
+        "type": "message",
+        "text": "[1]の物体検出に関しては出来ると思います。",
+        "user": "UPRE1RSJW",
+        "ts": "1625014009.047200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fyp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[1]の物体検出に関しては出来ると思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1624604732.046100",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

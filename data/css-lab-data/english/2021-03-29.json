@@ -1,0 +1,839 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1617005863.063000",
+        "bot_id": "B01LRDQ2E3F",
+        "thread_ts": "1617005863.063000",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1617171453.088300",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01EPKVACEN",
+            "UQ47R82RW",
+            "U01EVRBP38C",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617007934.063100"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1617012009.063900"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1617019220.064500"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1617066313.069000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1617171453.088300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617171453.088300",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/NISE_TOEIC|@NISE_TOEIC>: 「肉は肉の日に買うから、それは戻してきて」\n\n#肉の日 #29日 <https:\/\/pbs.twimg.com\/media\/Exogi4CVoAEn0m3.jpg>",
+                "ts": 1617005857,
+                "author_name": "出ない順 試験に出ない英単語",
+                "author_link": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1376448448560422917",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/717723029078302720\/zinnDK-v_normal.jpg",
+                "author_subname": "@NISE_TOEIC",
+                "pretext": "<https:\/\/twitter.com\/NISE_TOEIC\/status\/1376448448560422917>",
+                "text": "「肉は肉の日に買うから、それは戻してきて」\n\n#肉の日 #29日 <https:\/\/pbs.twimg.com\/media\/Exogi4CVoAEn0m3.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/NISE_TOEIC\/status\/1376448448560422917",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Exogi4CVoAEn0m3.jpg",
+                "image_width": 400,
+                "image_height": 500,
+                "image_bytes": 37511,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b75f0e70-d4e6-4334-aec0-ef183c62fb50",
+        "type": "message",
+        "text": "We have bought meat only on the meat day. Accordingly, put it back, please.",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617007934.063100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TObpg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have bought meat only on the meat day. Accordingly, put it back, please."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617005863.063000"
+    },
+    {
+        "client_msg_id": "8bc94d0f-9e39-4dd2-9ef6-2acf7b48b35c",
+        "type": "message",
+        "text": "反省会「肉は肉の日に買うから、それは戻してきて」",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617007990.063500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dv\/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "反省会「肉は肉の日に買うから、それは戻してきて」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617007990.063500",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1617084194.080400",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "U01EPKVACEN",
+            "UQ47R82RW",
+            "U01EVRBP38C"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617008113.063600"
+            },
+            {
+                "user": "U01EPKVACEN",
+                "ts": "1617012625.064100"
+            },
+            {
+                "user": "UQ47R82RW",
+                "ts": "1617019466.064700"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617021865.065200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617022156.065400"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1617067507.077200"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1617080312.077500"
+            },
+            {
+                "user": "U01EVRBP38C",
+                "ts": "1617084194.080400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617084194.080400"
+    },
+    {
+        "client_msg_id": "6ac4fb29-408d-475b-bdc8-0ee2c165edb3",
+        "type": "message",
+        "text": "`We have bought meat only on the meat day. Accordingly, put it back, please.`\nくどくなってしまった…。簡潔さと正確さの匙加減が難しい。\n• 「肉の日 = Meat Day」了。\n• ここでの「肉を肉の日に買う」は生活実態ではなく意志だから have bought ではなく buy、または will buy か。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617008113.063600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1617015984.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zeh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have bought meat only on the meat day. Accordingly, put it back, please.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nくどくなってしまった…。簡潔さと正確さの匙加減が難しい。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「肉の日 = Meat Day」了。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ここでの「肉を肉の日に買う」は生活実態ではなく意志だから have bought ではなく buy、または will buy か。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617007990.063500",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01EVRBP38C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "201add63-991c-4041-a6d4-8c0f1990f457",
+        "type": "message",
+        "text": "I will buy meat on meat day, return it.",
+        "user": "U01EPKVACEN",
+        "ts": "1617012009.063900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "muQ9o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will buy meat on meat day, return it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617005863.063000"
+    },
+    {
+        "client_msg_id": "fc34aca1-c590-40cb-88d3-ec7908e16872",
+        "type": "message",
+        "text": "`I will buy meat on meat day, return it.`\n物理的にもとの位置に戻すのはput it backの方が適切そう\nmeat day　普通に冠詞を忘れてた\n英語の固有名詞の概念も忘れてた",
+        "user": "U01EPKVACEN",
+        "ts": "1617012625.064100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "554507e9ba3d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-07-26\/2311482833331_554507e9ba3d3cf47776_72.png",
+            "first_name": "Mai",
+            "real_name": "Mai Takahashi",
+            "display_name": "Takahashi",
+            "team": "TKS1Q2JUE",
+            "name": "uaprac503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OYOD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will buy meat on meat day, return it.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n物理的にもとの位置に戻すのはput it backの方が適切そう\nmeat day　普通に冠詞を忘れてた\n英語の固有名詞の概念も忘れてた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617007990.063500",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01EVRBP38C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d158060-2381-46d1-826e-83aff53aa29a",
+        "type": "message",
+        "text": "I will buy a meat on the meat day, so return it.",
+        "user": "UQ47R82RW",
+        "ts": "1617019220.064500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i=ejU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will buy a meat on the meat day, so return it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617005863.063000"
+    },
+    {
+        "type": "message",
+        "text": "`I will buy a meat on the meat day, so return it.`\nthe meat dayだと特定のお肉の日になるので、不適なのだろう。\nここだと、いつのお肉の日か特定していないのでtheがいらない(はず)。\n\nreturn だと、自分に帰ってくるという意味なので、不適。\nどこかに置いてくるという方がいいので、put it backが最適なのだろうなぁ。\nt",
+        "files": [
+            {
+                "id": "F01S8TJT28P",
+                "created": 1617019402,
+                "timestamp": 1617019402,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQ47R82RW",
+                "editable": false,
+                "size": 490298,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01S8TJT28P\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TKS1Q2JUE-F01S8TJT28P\/download\/image.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01S8TJT28P-7351b2e1cd\/image_64.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01S8TJT28P-7351b2e1cd\/image_80.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01S8TJT28P-7351b2e1cd\/image_360.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01S8TJT28P-7351b2e1cd\/image_480.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01S8TJT28P-7351b2e1cd\/image_160.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01S8TJT28P-7351b2e1cd\/image_720.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01S8TJT28P-7351b2e1cd\/image_800.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01S8TJT28P-7351b2e1cd\/image_960.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TKS1Q2JUE-F01S8TJT28P-7351b2e1cd\/image_1024.png?t=xoxe-672058086966-2523672994084-2517456103667-564347be5337331371fc88513b8caa70",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 2386,
+                "original_h": 1790,
+                "thumb_tiny": "AwAkADC+Y3LZEpHtihQyt8zluPSpKjbO7OaAJKKAcjNFABRRRQAVFyfpQ8bsciQ49KYYZCSd4HOeM0ATMwjj3HJA9OaXJPQfmajWOQNnf\/wEdKk3Dvx9aAD5vajPOCMUbh6ikJ3cD86AGszA8GkLtgHND9aafuigBwdjnmpF5UZqEd6mT7ooAWiiigD\/2Q==",
+                "permalink": "https:\/\/css-uoa.slack.com\/files\/UQ47R82RW\/F01S8TJT28P\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TKS1Q2JUE-F01S8TJT28P-ae3349375e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will buy a meat on the meat day, so return it.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nthe meat dayだと特定のお肉の日になるので、不適なのだろう。\nここだと、いつのお肉の日か特定していないのでtheがいらない(はず)。\n\nreturn だと、自分に帰ってくるという意味なので、不適。\nどこかに置いてくるという方がいいので、put it backが最適なのだろうなぁ。\nt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UQ47R82RW",
+        "display_as_bot": false,
+        "ts": "1617019466.064700",
+        "edited": {
+            "user": "UQ47R82RW",
+            "ts": "1617019618.000000"
+        },
+        "thread_ts": "1617007990.063500",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01EVRBP38C",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b4a708f-59d8-445d-a231-0076a9f0bd79",
+        "type": "message",
+        "text": "簡単な問題でも学びはいろいろあるなぁ…",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617021865.065200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P1ey",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "簡単な問題でも学びはいろいろあるなぁ…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617007990.063500",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "52e1f3a0-48e8-48dc-a10e-cc33ce459ee6",
+        "type": "message",
+        "text": "<@UQ47R82RW> meat は不可算名詞なので a meat は誤りらしい。\n\n同様に、chicken（素材としての鶏肉）は不可算だが chicken（鶏）は可算なので、\n\"I ate a chicken last night\" とか書くと、「昨晩チキンを食べた」ではなく\n「昨晩生きた鶏をかっさばいて食らった」みたいなニュアンスになるらしい。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617022156.065400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UKS1Q2KTQ",
+            "ts": "1617022180.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J2i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " meat は不可算名詞なので a meat は誤りらしい。\n\n同様に、chicken（素材としての鶏肉）は不可算だが chicken（鶏）は可算なので、\n\"I ate a chicken last night\" とか書くと、「昨晩チキンを食べた」ではなく\n「昨晩生きた鶏をかっさばいて食らった」みたいなニュアンスになるらしい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617007990.063500",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "UQ47R82RW",
+                    "U01EVRBP38C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C7AD7720-DC04-41C5-8DCC-C7CB9169345A",
+        "type": "message",
+        "text": "Return the meat as I will buy it on a day when meat are sold at reasonable price.",
+        "user": "U01EVRBP38C",
+        "ts": "1617066313.069000",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "opBBY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Return the meat as I will buy it on a day when meat are sold at reasonable price."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617005863.063000"
+    },
+    {
+        "client_msg_id": "B94B205E-92FE-4104-B9F3-569073EF4BA5",
+        "type": "message",
+        "text": "`Return the meat as I will buy it on a day when meat are sold at reasonable price.`\n・returnはダメなんだ、、、なるほど\n・英文は一番重要なことを先に書く習慣があるって聞いて、return the meatを先に持ってきたんですけど変ですか？\n・asを使ったのはOKなはず、、、\n・priceよりpricesの方が色々な肉の値段！って感じが出るため適切",
+        "user": "U01EVRBP38C",
+        "ts": "1617067507.077200",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OdAv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Return the meat as I will buy it on a day when meat are sold at reasonable price.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・returnはダメなんだ、、、なるほど\n・英文は一番重要なことを先に書く習慣があるって聞いて、return the meatを先に持ってきたんですけど変ですか？\n・asを使ったのはOKなはず、、、\n・priceよりpricesの方が色々な肉の値段！って感じが出るため適切"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617007990.063500",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "22146029-ae0e-43a1-8087-3e3a48758cfb",
+        "type": "message",
+        "text": "<@UQ47R82RW> <@U01EVRBP38C>\n• return は「自分に帰ってくる」というより「それが元あったところに帰る」というニュアンスじゃないかな。他動詞の意味もあるから、どちらも間違いではないと思う。return it to the original position とすれば「（元あった物理的場所に）戻す」というニュアンスが出ると思います。\n• 「結果 as 理由」も「理由, so 結果」も同じ意味だけど、後者の方がカジュアルらしい。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1617080312.077500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vvam",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQ47R82RW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EVRBP38C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "return は「自分に帰ってくる」というより「それが元あったところに帰る」というニュアンスじゃないかな。他動詞の意味もあるから、どちらも間違いではないと思う。return it to the original position とすれば「（元あった物理的場所に）戻す」というニュアンスが出ると思います。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "「結果 as 理由」も「理由, so 結果」も同じ意味だけど、後者の方がカジュアルらしい。"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617007990.063500",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U01EVRBP38C",
+                    "UQ47R82RW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D147088C-7321-4EE5-9967-84FB902B888D",
+        "type": "message",
+        "text": "カジュアルなんですね！個人的には後者の方が日本語っぽくてそっち使いそうです笑\nありがとうございます！",
+        "user": "U01EVRBP38C",
+        "ts": "1617084194.080400",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "1d491b4b6d33",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1513053597985_1d491b4b6d33b99610d3_72.png",
+            "first_name": "Masashi",
+            "real_name": "Masashi Sakurai",
+            "display_name": "sakurai",
+            "team": "TKS1Q2JUE",
+            "name": "s12701350406",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01EVRBP38C",
+            "ts": "1617084209.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3XfXX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カジュアルなんですね！個人的には後者の方が日本語っぽくてそっち使いそうです笑\nありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1617007990.063500",
+        "parent_user_id": "UKS1Q2KTQ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKS1Q2KTQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

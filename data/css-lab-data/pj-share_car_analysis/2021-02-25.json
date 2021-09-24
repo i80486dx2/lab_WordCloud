@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "68671fa4-c0fd-496f-8eeb-576aa05e064c",
+        "type": "message",
+        "text": "<@UPRE1RSJW> ちなみに、昨年の４月から１２月の範囲でどのユーザーがいつシェアカーを利用したかという利用状況をまとめたデータをいただけるんですが、それがあると解析助かったりしますか？",
+        "user": "UPSPAMY7M",
+        "ts": "1614302388.000500",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPRE1RSJW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ちなみに、昨年の４月から１２月の範囲でどのユーザーがいつシェアカーを利用したかという利用状況をまとめたデータをいただけるんですが、それがあると解析助かったりしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613364785.007400",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "dd48954c-2f98-4cf3-88dc-0dd9e34b1085",
+        "type": "message",
+        "text": "すごく有難いです。今まで自分で映像みて確認していたので。",
+        "user": "UPRE1RSJW",
+        "ts": "1614302615.000700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "0620fad631b1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/822570536406_0620fad631b132a16d69_72.png",
+            "first_name": "s1260220",
+            "real_name": "s1260220 Sukegawa",
+            "display_name": "sukegawa",
+            "team": "TKS1Q2JUE",
+            "name": "s1260220",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tckH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すごく有難いです。今まで自分で映像みて確認していたので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613364785.007400",
+        "parent_user_id": "UPRE1RSJW"
+    },
+    {
+        "client_msg_id": "7379d177-07e9-452a-a43d-a6f0b05304ee",
+        "type": "message",
+        "text": "了解です。ちょっと個人情報含むので共有方法は別途お知らせします。",
+        "user": "UPSPAMY7M",
+        "ts": "1614302657.000900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "b3edf66a5d2f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-05\/810115393635_b3edf66a5d2f9b4ceae4_72.jpg",
+            "first_name": "畠　圭佑",
+            "real_name": "畠　圭佑",
+            "display_name": "hata",
+            "team": "TKS1Q2JUE",
+            "name": "hata",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ai6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。ちょっと個人情報含むので共有方法は別途お知らせします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1613364785.007400",
+        "parent_user_id": "UPRE1RSJW"
+    }
+]

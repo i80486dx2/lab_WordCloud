@@ -1,0 +1,299 @@
+[
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "古い神がいなくなれば、もののけ達もただのケモノになろう。（エボシ\/もののけ姫）",
+        "user": "U01UMQH4W4B",
+        "ts": "1629473577.070300",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629473577.070300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1629585620.077900",
+        "reply_users": [
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629543705.074800"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1629585620.077900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1629598876.000000"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "反省会：古い神がいなくなれば、もののけ達もただのケモノになろう。",
+        "user": "U01UMQH4W4B",
+        "ts": "1629473578.070400",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629473578.070400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1629585944.078100",
+        "reply_users": [
+            "U01UMQH4W4B",
+            "UKS1Q2KTQ",
+            "UKH07E67M"
+        ],
+        "replies": [
+            {
+                "user": "U01UMQH4W4B",
+                "ts": "1629473578.070500"
+            },
+            {
+                "user": "UKS1Q2KTQ",
+                "ts": "1629543857.075000"
+            },
+            {
+                "user": "UKH07E67M",
+                "ts": "1629585944.078100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1629598876.000000"
+    },
+    {
+        "bot_id": "B01UEQV9HRU",
+        "type": "message",
+        "text": "If the old gods are no more, then even the Mononoke will become mere beasts.",
+        "user": "U01UMQH4W4B",
+        "ts": "1629473578.070500",
+        "team": "TKS1Q2JUE",
+        "bot_profile": {
+            "id": "B01UEQV9HRU",
+            "deleted": false,
+            "name": "GhibliEnglishBot",
+            "updated": 1618653300,
+            "app_id": "A01V06TU3FT",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2021-04-17\/1966892199638_102cb6e5caf2e70eed9d_72.png"
+            },
+            "team_id": "TKS1Q2JUE"
+        },
+        "thread_ts": "1629473578.070400",
+        "parent_user_id": "U01UMQH4W4B"
+    },
+    {
+        "client_msg_id": "25bc0b3f-f01e-41fb-ad32-08703cc20860",
+        "type": "message",
+        "text": "Ah, if only the all humanity was groveled at my feet.",
+        "user": "U01F42ZFA73",
+        "ts": "1629527489.070700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWL76",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, if only the all humanity was groveled at my feet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629023602.059100"
+    },
+    {
+        "client_msg_id": "aea5a2e9-d029-47c4-b5eb-29d470694898",
+        "type": "message",
+        "text": "`Ah, if only the all humanity was groveled at my feet.`\nDeepL: ああ、全人類が私の足元にひれ伏してくれればいいのだが。\n• grovelは自動詞なので、受動体で表現されない\n• if onlyは仮定法の使い方をするから過去形を使う ",
+        "user": "U01F42ZFA73",
+        "ts": "1629527810.070900",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQRF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, if only the all humanity was groveled at my feet.",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: ああ、全人類が私の足元にひれ伏してくれればいいのだが。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "grovelは自動詞なので、受動体で表現されない"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "if onlyは仮定法の使い方をするから過去形を使う "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629025661.059500",
+        "parent_user_id": "UKS1Q2KTQ"
+    },
+    {
+        "client_msg_id": "e911f311-9ced-4348-bfa3-b5670777e426",
+        "type": "message",
+        "text": "`\"This is an announcement for the customers. from result for king, Yamamoto Tetsuya in 6 grade represent the chief pilot. Please enjoy thrilling sky tour.\"`\nDeepL: \"お客様へのお知らせです。\" \"王様の結果から\" \"6等級の山本哲也が\" \"チーフパイロットを務めます。スリリングな空の旅をお楽しみください。\"\n• This is ~ speaking:こちら~ですはTOEICのリスニングでも出てくる表現。\n• as a result of ~:~の結果としての方が自然",
+        "user": "U01F42ZFA73",
+        "ts": "1629528744.071100",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "fff11f0294e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-14\/1507642753412_fff11f0294e9009f9878_72.png",
+            "first_name": "Hayashi",
+            "real_name": "Hayashi Ren",
+            "display_name": "ren",
+            "team": "TKS1Q2JUE",
+            "name": "s1270247",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pDEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"This is an announcement for the customers. from result for king, Yamamoto Tetsuya in 6 grade represent the chief pilot. Please enjoy thrilling sky tour.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDeepL: \"お客様へのお知らせです。\" \"王様の結果から\" \"6等級の山本哲也が\" \"チーフパイロットを務めます。スリリングな空の旅をお楽しみください。\"\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "This is ~ speaking:こちら~ですはTOEICのリスニングでも出てくる表現。"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "as a result of ~:~の結果としての方が自然"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1629186950.062900",
+        "parent_user_id": "UKH07E67M"
+    }
+]

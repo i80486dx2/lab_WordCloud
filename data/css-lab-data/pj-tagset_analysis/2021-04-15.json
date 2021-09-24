@@ -1,0 +1,221 @@
+[
+    {
+        "client_msg_id": "b07d1c07-8d6b-40b8-8b34-38875fb05638",
+        "type": "message",
+        "text": "昨日分のメモです（備忘録程度に）\n\n`・卒論テーマについて`\n`まさしくんは、データ分析メイン？`\n`千葉は、解析解やモデルメインで`\n`各自、目の前にあることを勧める`\n\n`！新規性のレートを導きたい`\n`・タグのリミットmを用いた関数表記ができればいい`\n`・Vが増えると、新規性のレートμが小さくなっていく（ざっくりとはわかっている）`\n`・ある時刻tでの新規レート（tで表せる関数）で、レートを関数化したい`\n`・m固定にしたときに、Vを増やしたときのμの動きを関数として表記できるか`\n\n`！population dynamics`\n`・実現しているのか、していないのかの区別をしっかり考える`\n`・前項と違い、可能性はあっても実現しているものをカウントするイメージ`\n`・あるタグに着目した時に、そのタグがどのように成長していくか（現段階で見えている第一ゴール？）`\n`→これを、実際のデータではどうなっているかをデータ分析してみる。`\n`・タグセットの種類の増え方を見てみたい（実現したもののみカウント）`\n`novelty rate`",
+        "user": "UKUKA65GU",
+        "ts": "1618537661.006700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "2ca49c115fb9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-08-18\/1300148995014_2ca49c115fb95a7e9654_72.png",
+            "first_name": "Sota",
+            "real_name": "Sota Chiba",
+            "display_name": "sota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260180",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日分のメモです（備忘録程度に）\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・卒論テーマについて",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "まさしくんは、データ分析メイン？",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "千葉は、解析解やモデルメインで",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "各自、目の前にあることを勧める",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！新規性のレートを導きたい",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・タグのリミットmを用いた関数表記ができればいい",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・Vが増えると、新規性のレートμが小さくなっていく（ざっくりとはわかっている）",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・ある時刻tでの新規レート（tで表せる関数）で、レートを関数化したい",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・m固定にしたときに、Vを増やしたときのμの動きを関数として表記できるか",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！population dynamics",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・実現しているのか、していないのかの区別をしっかり考える",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・前項と違い、可能性はあっても実現しているものをカウントするイメージ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・あるタグに着目した時に、そのタグがどのように成長していくか（現段階で見えている第一ゴール？）",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "→これを、実際のデータではどうなっているかをデータ分析してみる。",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・タグセットの種類の増え方を見てみたい（実現したもののみカウント）",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "novelty rate",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U01EVRBP38C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

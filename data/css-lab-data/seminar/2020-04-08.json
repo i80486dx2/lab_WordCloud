@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "ab72b151-c929-42d1-acf2-47f840203a34",
+        "type": "message",
+        "text": "担当箇所記述しときましたー。確認してください。",
+        "user": "UQ47R82RW",
+        "ts": "1586348952.018600",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "4caf2ceee850",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-08\/813786533666_4caf2ceee850b8dc5dad_72.png",
+            "first_name": "kota",
+            "real_name": "kota sanuki",
+            "display_name": "kota",
+            "team": "TKS1Q2JUE",
+            "name": "s1260073",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L4Qb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "担当箇所記述しときましたー。確認してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586328661.018000",
+        "parent_user_id": "UQ47R82RW",
+        "reactions": [
+            {
+                "name": "感謝",
+                "users": [
+                    "UPSPAP97D",
+                    "UKH07E67M"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

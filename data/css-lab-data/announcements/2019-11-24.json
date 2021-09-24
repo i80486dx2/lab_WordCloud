@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "24026fab-251c-4b0d-9b22-64b9fc5a2678",
+        "type": "message",
+        "text": "<@UPSPAMY7M> こちら、私もエントリーしたいです！水曜のMPMでお会いできればそのときに少し。",
+        "user": "UKS1Q2KTQ",
+        "ts": "1574650711.000700",
+        "team": "TKS1Q2JUE",
+        "user_team": "TKS1Q2JUE",
+        "source_team": "TKS1Q2JUE",
+        "user_profile": {
+            "avatar_hash": "g2cdaa6f0a3e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/72cdaa6f0a3e75d134cc6b97d821b078.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "Yasuhiro",
+            "real_name": "Yasuhiro Hashimoto",
+            "display_name": "hashimoto",
+            "team": "TKS1Q2JUE",
+            "name": "yasuhirohashimoto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3WP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UPSPAMY7M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こちら、私もエントリーしたいです！水曜のMPMでお会いできればそのときに少し。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1573193035.008500",
+        "parent_user_id": "UPSPAMY7M"
+    }
+]
